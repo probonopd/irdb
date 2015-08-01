@@ -20,6 +20,9 @@ provided that:
    to the irdb team, represented by Simon Peter, free of charge 
    (incuding shipping and handling) upon request.
 
+If you fail to comply with the terms of the license above, your permission to
+include or access this database is revoked.
+
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
