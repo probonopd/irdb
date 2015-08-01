@@ -17,7 +17,8 @@ provided that:
    For licensing details, see https://github.com/probonopd/irdb`
 
 3. You will make available up to three fully licensed copies/units of your product 
-   to Simon Peter free of charge (incuding shipping and handling) upon request.
+   to the irdb team, represented by Simon Peter, free of charge 
+   (incuding shipping and handling) upon request.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
