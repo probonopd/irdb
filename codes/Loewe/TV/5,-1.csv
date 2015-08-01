@@ -1,0 +1,8 @@
+functionname,protocol,device,subdevice,function
+AV1,RC5,5,-1,114
+AV2,RC5,5,-1,115
+AV3,RC5,5,-1,116
+AVS,RC5,5,-1,117
+VGA,RC5,5,-1,118
+HDMI,RC5,5,-1,119
+COMP,RC5,5,-1,120

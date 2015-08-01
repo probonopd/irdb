@@ -1,0 +1,4 @@
+functionname,protocol,device,subdevice,function
+VOL +,Fujitsu,132,140,16
+VOL -,Fujitsu,132,140,17
+MUTE,Fujitsu,132,140,18

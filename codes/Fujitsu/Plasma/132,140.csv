@@ -1,0 +1,9 @@
+functionname,protocol,device,subdevice,function
+VOLUME +,Fujitsu,132,140,16
+VOL +,Fujitsu,132,140,16
+VOLUME UP,Fujitsu,132,140,16
+VOLUME -,Fujitsu,132,140,17
+VOL --,Fujitsu,132,140,17
+VOL -,Fujitsu,132,140,17
+VOLUME DN,Fujitsu,132,140,17
+MUTE,Fujitsu,132,140,18

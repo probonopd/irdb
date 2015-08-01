@@ -1,0 +1,6 @@
+functionname,protocol,device,subdevice,function
+,NEC1,64,-1,16
+,NEC1,64,-1,26
+,NEC1,64,-1,30
+,NEC1,64,-1,126
+,NEC1,64,-1,127

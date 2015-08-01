@@ -1,0 +1,6 @@
+functionname,protocol,device,subdevice,function
+VIEW,Dish_Network,24,0,22
+VOLUME +,Dish_Network,24,0,25
+RECALL,Dish_Network,24,0,27
+VOLUME -,Dish_Network,24,0,29
+MUTE,Dish_Network,24,0,44

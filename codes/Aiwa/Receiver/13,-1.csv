@@ -1,0 +1,7 @@
+functionname,protocol,device,subdevice,function
+TUNER PRESET +,Sony12,13,-1,16
+TUNER PRESET -,Sony12,13,-1,17
+TUNER INDEX +,Sony12,13,-1,80
+TUNER INDEX -,Sony12,13,-1,81
+TUNER SELECT,Sony12,13,-1,82
+GEQ LINK,Sony12,13,-1,87

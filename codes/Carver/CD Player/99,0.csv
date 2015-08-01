@@ -1,0 +1,23 @@
+functionname,protocol,device,subdevice,function
+SHUFFLE,Aiwa,99,0,5
+OPEN/CLOSE,Aiwa,99,0,6
+INTRO,Aiwa,99,0,7
+SEARCH <<,Aiwa,99,0,8
+SEARCH >>,Aiwa,99,0,9
+9,Aiwa,99,0,11
+SKIP ,<<,Aiwa,99,0,12
+3,Aiwa,99,0,13
+0,Aiwa,99,0,14
+1,Aiwa,99,0,15
+7,Aiwa,99,0,16
+4,Aiwa,99,0,17
+8,Aiwa,99,0,19
+SKIP >>,,Aiwa,99,0,20
+2,Aiwa,99,0,22
+6,Aiwa,99,0,23
+5,Aiwa,99,0,24
+PROG,Aiwa,99,0,25
+DISPLAY,Aiwa,99,0,26
+REPEAT (1/ALL),Aiwa,99,0,27
+STOP/CLEAR [],Aiwa,99,0,28
+PLAY/PAUSE >/,,,Aiwa,99,0,29

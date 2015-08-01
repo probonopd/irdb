@@ -1,0 +1,37 @@
+functionname,protocol,device,subdevice,function
+STOP,Panasonic,176,0,0
+OPEN/CLOSE,Panasonic,176,0,1
+PAUSE,Panasonic,176,0,6
+SLOW MOTION -,Panasonic,176,0,7
+PLAY,Panasonic,176,0,10
+SLOW MOTION +,Panasonic,176,0,15
+1,Panasonic,176,0,16
+2,Panasonic,176,0,17
+3,Panasonic,176,0,18
+4,Panasonic,176,0,19
+5,Panasonic,176,0,20
+6,Panasonic,176,0,21
+7,Panasonic,176,0,22
+8,Panasonic,176,0,23
+9,Panasonic,176,0,24
+0,Panasonic,176,0,25
+AUDIO MODE,Panasonic,176,0,51
+POWER,Panasonic,176,0,61
+SIDE A/B,Panasonic,176,0,72
+SEARCH <<,Panasonic,176,0,73
+SKIP <<,Panasonic,176,0,73
+SEARCH >>,Panasonic,176,0,74
+SKIP >>,Panasonic,176,0,74
+MENU,Panasonic,176,0,128
+RETURN,Panasonic,176,0,129
+ENTER,Panasonic,176,0,130
+MENU UP,Panasonic,176,0,133
+MENU DOWN,Panasonic,176,0,134
+MENU LEFT,Panasonic,176,0,135
+MENU RIGHT,Panasonic,176,0,136
+REPEAT,Panasonic,176,0,140
+ANGLE,Panasonic,176,0,144
+SUBTITLE,Panasonic,176,0,145
+DISPLAY,Panasonic,176,0,146
+SET UP,Panasonic,176,0,148
+TITLE,Panasonic,176,0,155

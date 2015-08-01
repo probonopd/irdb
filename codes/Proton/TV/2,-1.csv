@@ -1,0 +1,9 @@
+functionname,protocol,device,subdevice,function
+,Proton,2,-1,0
+AV3 INPUT,Proton,2,-1,4
+ANT1 / RGB,Proton,2,-1,5
+,Proton,2,-1,8
+ANT2,Proton,2,-1,9
+TV TUNER,Proton,2,-1,10
+AV2 INPUT,Proton,2,-1,11
+AV1 INPUT,Proton,2,-1,15

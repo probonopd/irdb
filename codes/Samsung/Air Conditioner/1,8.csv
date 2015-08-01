@@ -1,0 +1,11 @@
+functionname,protocol,device,subdevice,function
+SLEEP,Samsung20,1,8,39
+AIR SWING,Samsung20,1,8,41
+TEMP -,Samsung20,1,8,49
+TEMP +,Samsung20,1,8,50
+FAN SPEED,Samsung20,1,8,52
+FAN,Samsung20,1,8,57
+COOL,Samsung20,1,8,60
+POWER,Samsung20,1,8,63
+POWER LONG,Samsung20,1,8,63
+POWER SUSTAIN,Samsung20,1,8,63

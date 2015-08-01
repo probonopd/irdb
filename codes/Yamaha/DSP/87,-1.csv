@@ -1,0 +1,15 @@
+functionname,protocol,device,subdevice,function
+1,Mitsubishi,87,-1,0
+9,Mitsubishi,87,-1,1
+2,Mitsubishi,87,-1,8
+0,Mitsubishi,87,-1,9
+CHANNEL +,Mitsubishi,87,-1,10
+3,Mitsubishi,87,-1,16
+CHANNEL -,Mitsubishi,87,-1,18
+4,Mitsubishi,87,-1,24
+5,Mitsubishi,87,-1,32
+>>,Mitsubishi,87,-1,36
+6,Mitsubishi,87,-1,40
+<<,Mitsubishi,87,-1,44
+7,Mitsubishi,87,-1,48
+8,Mitsubishi,87,-1,56

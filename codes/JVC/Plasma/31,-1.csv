@@ -1,0 +1,4 @@
+functionname,protocol,device,subdevice,function
+POWER OFF,JVC,31,-1,218
+POWER ON,JVC,31,-1,221
+COMPONENT,JVC,31,-1,225

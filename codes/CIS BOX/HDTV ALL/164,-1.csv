@@ -1,0 +1,12 @@
+functionname,protocol,device,subdevice,function
+CC,Sony15,164,-1,16
+AUDIO,Sony15,164,-1,31
+ZOOM CAPTION,Sony15,164,-1,50
+JUMP,Sony15,164,-1,59
+NORMAL FULL,Sony15,164,-1,59
+WIDE MODE,Sony15,164,-1,61
+WIDE ZOOM,Sony15,164,-1,66
+ACTIVE,Sony15,164,-1,99
+OFF,Sony15,164,-1,110
+MULTI,Sony15,164,-1,116
+HALF,Sony15,164,-1,119

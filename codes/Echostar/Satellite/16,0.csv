@@ -1,0 +1,3 @@
+functionname,protocol,device,subdevice,function
+MUTE,Dish_Network,16,0,21
+MUTE,Dish_Network,16,0,40

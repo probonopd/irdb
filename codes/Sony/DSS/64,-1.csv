@@ -1,0 +1,5 @@
+functionname,protocol,device,subdevice,function
+TV/VIDEO,NEC1,64,-1,15
+MUTE,NEC1,64,-1,16
+VOLUME +,NEC1,64,-1,26
+VOLUME -,NEC1,64,-1,30

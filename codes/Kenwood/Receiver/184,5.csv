@@ -1,0 +1,5 @@
+functionname,protocol,device,subdevice,function
+,NEC,184,5,79
+TUNER MEMORY,NEC,184,5,79
+,NEC1,184,5,79
+MPEG,NEC1,184,5,198

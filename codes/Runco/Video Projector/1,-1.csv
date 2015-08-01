@@ -1,0 +1,31 @@
+functionname,protocol,device,subdevice,function
+COMPOSITE,Sharp,1,-1,1
+COMPOSITE INPUT,Sharp,1,-1,1
+SVHS,Sharp,1,-1,2
+S-VIDEO,Sharp,1,-1,2
+S-VIDEO INPUT,Sharp,1,-1,2
+COMPONENT,Sharp,1,-1,3
+COMPONENT INPUT,Sharp,1,-1,3
+HDTV,Sharp,1,-1,4
+COMPUTER,Sharp,1,-1,5
+PASS-THRU,Sharp,1,-1,5
+PASS THROUGH,Sharp,1,-1,5
+ANAMORRPHIC,Sharp,1,-1,7
+ANAMORPHIC,Sharp,1,-1,7
+STANDARD,Sharp,1,-1,8
+4 X 3,Sharp,1,-1,8
+4:3,Sharp,1,-1,8
+LETTERBOX,Sharp,1,-1,9
+POWER ON,Sharp,1,-1,10
+POWER OFF,Sharp,1,-1,11
+CURSOR UP,Sharp,1,-1,17
+RATIO UP,Sharp,1,-1,17
+CURSOR DOWN,Sharp,1,-1,18
+RATIO DOWN,Sharp,1,-1,18
+CURSOR RIGHT,Sharp,1,-1,20
+INPUT DOWN,Sharp,1,-1,20
+CURSOR LEFT,Sharp,1,-1,21
+INPUT UP,Sharp,1,-1,21
+POWER,Sharp,1,-1,22
+MENU,Sharp,1,-1,23
+ENTER,Sharp,1,-1,47

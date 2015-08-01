@@ -1,0 +1,5 @@
+functionname,protocol,device,subdevice,function
+TV INPUT,NEC1,80,-1,9
+TV MUTE,NEC1,80,-1,11
+TV VOL +,NEC1,80,-1,18
+TV VOL -,NEC1,80,-1,21

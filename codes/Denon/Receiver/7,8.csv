@@ -1,0 +1,41 @@
+functionname,protocol,device,subdevice,function
+Z3 ON,Denon-K,7,8,6
+ZONE 3 ON,Denon-K,7,8,6
+Z3 OFF,Denon-K,7,8,7
+ZONE 3 OFF,Denon-K,7,8,7
+Z3 1,Denon-K,7,8,16
+Z3 2,Denon-K,7,8,17
+Z3 3,Denon-K,7,8,18
+Z3 4,Denon-K,7,8,19
+Z3 5,Denon-K,7,8,20
+Z3 6,Denon-K,7,8,21
+Z3 7,Denon-K,7,8,22
+Z3 8,Denon-K,7,8,23
+Z3 9,Denon-K,7,8,24
+Z3 0,Denon-K,7,8,25
+Z3 INPUT PHONO,Denon-K,7,8,48
+Z3 PHONO,Denon-K,7,8,48
+Z3 INPUT TUNER,Denon-K,7,8,49
+Z3 TUNER,Denon-K,7,8,49
+Z3 INPUT CD,Denon-K,7,8,50
+Z3 CD,Denon-K,7,8,50
+Z3 INPUT CD-R TAP,Denon-K,7,8,51
+Z3 CD-R/TAPE,Denon-K,7,8,51
+Z3 INPUT IPOD,Denon-K,7,8,59
+Z3 INPUT DVD,Denon-K,7,8,64
+Z3 DVD/VDP,Denon-K,7,8,64
+Z3 INPUT VCR,Denon-K,7,8,69
+Z3 VCR,Denon-K,7,8,69
+Z3 INPUT V.AUX,Denon-K,7,8,73
+Z3 V.AUX,Denon-K,7,8,73
+Z3 BAND,Denon-K,7,8,88
+Z3 SEARCH,Denon-K,7,8,120
+Z3 A MEM BLOCK,Denon-K,7,8,128
+Z3 B MEM BLOCK,Denon-K,7,8,129
+Z3 C MEM BLOCK,Denon-K,7,8,130
+Z3 D MEM BLOCK,Denon-K,7,8,131
+Z3 E MEM BLOCK,Denon-K,7,8,132
+Z3 F MEM BLOCK,Denon-K,7,8,133
+Z3 G MEM BLOCK,Denon-K,7,8,134
+Z3 VOLUME +,Denon-K,7,8,272
+Z3 VOLUME -,Denon-K,7,8,273

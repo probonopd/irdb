@@ -1,0 +1,37 @@
+functionname,protocol,device,subdevice,function
+1,CanalSat,27,1,2
+SCART-1,CanalSat,27,1,2
+2,CanalSat,27,1,5
+SCART-2,CanalSat,27,1,5
+3,CanalSat,27,1,6
+FBAS/SDI-1,CanalSat,27,1,6
+4,CanalSat,27,1,9
+FBAS/SDI-2,CanalSat,27,1,9
+5,CanalSat,27,1,10
+S-VIDEO-1,CanalSat,27,1,10
+6,CanalSat,27,1,13
+S-VIDEO-2,CanalSat,27,1,13
+7,CanalSat,27,1,14
+YUV-1,CanalSat,27,1,14
+8,CanalSat,27,1,17
+YUV-2,CanalSat,27,1,17
+9,CanalSat,27,1,18
+BYPASS RGB,CanalSat,27,1,18
+0,CanalSat,27,1,21
+BYPASS VGA,CanalSat,27,1,21
+POWER OFF,CanalSat,27,1,22
+ENTER,CanalSat,27,1,26
+CURSOR UP,CanalSat,27,1,30
+POWER ON,CanalSat,27,1,38
+LENSSHIFT UP,CanalSat,27,1,46
+RESOLUTION,CanalSat,27,1,49
+ASPECT RATIO,CanalSat,27,1,50
+LENSSHIFT DOWN,CanalSat,27,1,53
+OVERSCAN,CanalSat,27,1,54
+TV MODE,CanalSat,27,1,57
+EXIT,CanalSat,27,1,58
+CURSOR LEFT,CanalSat,27,1,62
+CURSOR RIGHT,CanalSat,27,1,65
+CURSOR DOWN,CanalSat,27,1,69
+OPTION A,CanalSat,27,1,70
+OPTION B,CanalSat,27,1,73

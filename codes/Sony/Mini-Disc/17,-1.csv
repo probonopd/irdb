@@ -1,0 +1,5 @@
+functionname,protocol,device,subdevice,function
+CD-SYNC STANDBY,Sony12,17,-1,50
+,Sony12,17,-1,50
+CD-SYNC STOP,Sony12,17,-1,56
+,Sony12,17,-1,57

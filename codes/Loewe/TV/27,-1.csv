@@ -1,0 +1,4 @@
+functionname,protocol,device,subdevice,function
+LOCAL KEYS +,RC5,27,-1,15
+LOCAL KEYS RADIO,RC5,27,-1,19
+LOCAL KEYS -,RC5,27,-1,45

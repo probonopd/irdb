@@ -1,0 +1,14 @@
+functionname,protocol,device,subdevice,function
+DIGITAL DBS/BS,Denon,12,-1,131
+DIGITAL VDP,Denon,12,-1,132
+DIGITAL CD,Denon,12,-1,133
+DIGITAL DAT,Denon,12,-1,134
+TUNER CH V,Denon,12,-1,213
+TUNER CH ^,Denon,12,-1,214
+TUNER BAND,Denon,12,-1,215
+TUNER AT/MANU,Denon,12,-1,216
+TUNER TUNE ^,Denon,12,-1,217
+TUNER TUNE V,Denon,12,-1,218
+TUNER RF,Denon,12,-1,219
+TUNER P.SCAN,Denon,12,-1,220
+TUNER POWER,Denon,12,-1,221

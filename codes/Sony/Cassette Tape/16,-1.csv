@@ -1,0 +1,9 @@
+functionname,protocol,device,subdevice,function
+> PLAY,Sony12,16,-1,50
+<< REWIND,Sony12,16,-1,51
+>> FAST FORWARD,Sony12,16,-1,52
+RECORD,Sony12,16,-1,54
+< PLAY,Sony12,16,-1,55
+STOP,Sony12,16,-1,56
+PAUSE,Sony12,16,-1,57
+REC MUTE,Sony12,16,-1,63

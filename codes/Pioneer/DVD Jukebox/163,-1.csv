@@ -1,0 +1,40 @@
+functionname,protocol,device,subdevice,function
+STOP,Pioneer,163,-1,152
+0,Pioneer,163,-1,153
+1,Pioneer,163,-1,153
+2,Pioneer,163,-1,153
+3,Pioneer,163,-1,153
+4,Pioneer,163,-1,153
+5,Pioneer,163,-1,153
+6,Pioneer,163,-1,153
+7,Pioneer,163,-1,153
+8,Pioneer,163,-1,153
+9,Pioneer,163,-1,153
++10,Pioneer,163,-1,153
+ANGLE,Pioneer,163,-1,153
+AUDIO,Pioneer,163,-1,153
+CLEAR,Pioneer,163,-1,153
+DISC LEFT,Pioneer,163,-1,153
+DISC RIGHT,Pioneer,163,-1,153
+DISPLAY,Pioneer,163,-1,153
+DOWN,Pioneer,163,-1,153
+ENTER,Pioneer,163,-1,153
+,Pioneer,163,-1,153
+LEFT,Pioneer,163,-1,153
+MENU,Pioneer,163,-1,153
+MULTI LEFT,Pioneer,163,-1,153
+MULTI RIGHT,Pioneer,163,-1,153
+POWER,Pioneer,163,-1,153
+RETURN,Pioneer,163,-1,153
+RIGHT,Pioneer,163,-1,153
+STEP LEFT,Pioneer,163,-1,153
+STEP RIGHT,Pioneer,163,-1,153
+SUBTITLE,Pioneer,163,-1,153
+TOP MENU,Pioneer,163,-1,153
+UP,Pioneer,163,-1,153
+FORWARD,Pioneer,163,-1,154
+REVERSE,Pioneer,163,-1,155
+NEXT,Pioneer,163,-1,156
+PREVIOUS,Pioneer,163,-1,157
+PLAY,Pioneer,163,-1,158
+PAUSE,Pioneer,163,-1,159

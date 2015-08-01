@@ -1,0 +1,4 @@
+functionname,protocol,device,subdevice,function
+VOLUME -,RCA-38,15,-1,46
+VOLUME +,RCA-38,15,-1,47
+MUTE,RCA-38,15,-1,63

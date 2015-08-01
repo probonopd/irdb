@@ -1,0 +1,4 @@
+functionname,protocol,device,subdevice,function
+UP,RECS80,0,-1,1
+DOWN,RECS80,0,-1,2
+STOP,RECS80,0,-1,3

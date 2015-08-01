@@ -1,0 +1,5 @@
+functionname,protocol,device,subdevice,function
+MAIN POWER ON B,NEC1,88,23,42
+MAIN POWER ON A,NEC1,88,23,84
+MAIN POWER OFF A,NEC1,88,23,85
+MAIN POWER OFF B,NEC1,88,23,170

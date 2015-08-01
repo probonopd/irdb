@@ -1,0 +1,24 @@
+functionname,protocol,device,subdevice,function
+POWER,Aiwa,110,0,0
+1,Aiwa,110,0,1
+2,Aiwa,110,0,2
+3,Aiwa,110,0,3
+4,Aiwa,110,0,4
+5,Aiwa,110,0,5
+6,Aiwa,110,0,6
+7,Aiwa,110,0,7
+8,Aiwa,110,0,8
+9,Aiwa,110,0,9
+0,Aiwa,110,0,11
+FUNCTION,Aiwa,110,0,30
+CHANNEL +,Aiwa,110,0,64
+PLAY,Aiwa,110,0,64
+CHANNEL -,Aiwa,110,0,65
+STOP,Aiwa,110,0,65
+FF,Aiwa,110,0,66
+REW,Aiwa,110,0,67
+PAUSE,Aiwa,110,0,68
+VOLUME +,Aiwa,110,0,77
+VOLUME -,Aiwa,110,0,78
+DISC 2,Aiwa,110,0,82
+DISC 3,Aiwa,110,0,83

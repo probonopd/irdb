@@ -1,0 +1,9 @@
+functionname,protocol,device,subdevice,function
+DSL,Sony12,12,-1,49
+SURROUND ON/OFF,Sony12,12,-1,63
+SURROUND MODE,Sony12,12,-1,70
+MODE,Sony12,12,-1,119
+CURSOR UP,Sony12,12,-1,120
+CURSOR DOWN,Sony12,12,-1,121
+CURSOR LEFT,Sony12,12,-1,122
+CURSOR RIGHT,Sony12,12,-1,123

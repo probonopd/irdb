@@ -1,0 +1,64 @@
+functionname,protocol,device,subdevice,function
+POWER ON,Denon-K,7,6,2
+ON,Denon-K,7,6,2
+POWER OFF,Denon-K,7,6,3
+OFF,Denon-K,7,6,3
+MAIN ON,Denon-K,7,6,6
+MAIN OFF,Denon-K,7,6,7
+1,Denon-K,7,6,16
+2,Denon-K,7,6,17
+3,Denon-K,7,6,18
+4,Denon-K,7,6,19
+5,Denon-K,7,6,20
+6,Denon-K,7,6,21
+7,Denon-K,7,6,22
+8,Denon-K,7,6,23
+9,Denon-K,7,6,24
+0,Denon-K,7,6,25
+CURSOR UP,Denon-K,7,6,27
+CURSOR DOWN,Denon-K,7,6,28
+CURSOR LEFT,Denon-K,7,6,29
+CURSOR RIGHT,Denon-K,7,6,30
+CURSOR ENTER,Denon-K,7,6,31
+INPUT PHONO,Denon-K,7,6,48
+PHONO,Denon-K,7,6,48
+INPUT TUNER,Denon-K,7,6,49
+INPUT CD,Denon-K,7,6,50
+CD,Denon-K,7,6,50
+INPUT CD-R,Denon-K,7,6,51
+INPUT IPOD,Denon-K,7,6,59
+IPOD,Denon-K,7,6,59
+INPUT DVD/VDP,Denon-K,7,6,64
+DVD/VDP,Denon-K,7,6,64
+INPUT VCR,Denon-K,7,6,69
+INPUT V.AUX,Denon-K,7,6,73
+TUNE +,Denon-K,7,6,80
+TUNING +,Denon-K,7,6,80
+TUNE -,Denon-K,7,6,81
+TUNING -,Denon-K,7,6,81
+CHAN +,Denon-K,7,6,82
+CHANNEL +,Denon-K,7,6,82
+CHAN -,Denon-K,7,6,83
+CHANNEL -,Denon-K,7,6,83
+TUNER SHIFT,Denon-K,7,6,84
+SHIFT,Denon-K,7,6,84
+TUNER FM/AM,Denon-K,7,6,87
+FM/AM,Denon-K,7,6,87
+BAND,Denon-K,7,6,88
+TUNER XM RADIO,Denon-K,7,6,91
+XM RADIO,Denon-K,7,6,91
+TUNER BAND,Denon-K,7,6,92
+TUNER MODE,Denon-K,7,6,92
+TUNE MEMORY,Denon-K,7,6,96
+TUNER MEMORY,Denon-K,7,6,96
+MENU,Denon-K,7,6,118
++10 SEARCH,Denon-K,7,6,120
++10,Denon-K,7,6,120
+PURE DIRECT,Denon-K,7,6,259
+VOLUME +,Denon-K,7,6,272
+VOLUME -,Denon-K,7,6,273
+VOLUME MUTE,Denon-K,7,6,274
+MUTE,Denon-K,7,6,274
+VIDEO SELECT,Denon-K,7,6,368
+STATUS,Denon-K,7,6,400
+DIMMER,Denon-K,7,6,416

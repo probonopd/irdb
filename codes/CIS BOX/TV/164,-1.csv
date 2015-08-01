@@ -1,0 +1,4 @@
+functionname,protocol,device,subdevice,function
+JUMP,Sony15,164,-1,59
+WIDE MODE,Sony15,164,-1,61
+WIDE ZOOM,Sony15,164,-1,66

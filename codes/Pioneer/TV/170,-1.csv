@@ -1,0 +1,78 @@
+functionname,protocol,device,subdevice,function
+0,Pioneer,170,-1,0
+1,Pioneer,170,-1,1
+2,Pioneer,170,-1,2
+3,Pioneer,170,-1,3
+4,Pioneer,170,-1,4
+5,Pioneer,170,-1,5
+6,Pioneer,170,-1,6
+7,Pioneer,170,-1,7
+8,Pioneer,170,-1,8
+9,Pioneer,170,-1,9
+VOLUME +,Pioneer,170,-1,10
+VOL +,Pioneer,170,-1,10
+VOLUME -,Pioneer,170,-1,11
+VOL -,Pioneer,170,-1,11
+,Pioneer,170,-1,12
+TV,Pioneer,170,-1,12
+TV INPUT SEL,Pioneer,170,-1,12
+,Pioneer,170,-1,13
+LD INPUT SEL,Pioneer,170,-1,13
+,Pioneer,170,-1,14
+INPUT 2,Pioneer,170,-1,14
+VIDEO2 INPUT SEL,Pioneer,170,-1,14
+,Pioneer,170,-1,15
+VIDEO 1,Pioneer,170,-1,15
+INPUT 1,Pioneer,170,-1,15
+VIDEO1 INPUT SEL,Pioneer,170,-1,15
+CHANNEL +,Pioneer,170,-1,16
+CH +,Pioneer,170,-1,16
+CHANNEL -,Pioneer,170,-1,17
+CH -,Pioneer,170,-1,17
+PIP ON/OFF,Pioneer,170,-1,20
+P IN P,Pioneer,170,-1,20
+CH SCAN,Pioneer,170,-1,21
+SHIFT,Pioneer,170,-1,23
+STILL,Pioneer,170,-1,24
+POWER,Pioneer,170,-1,28
+MTS,Pioneer,170,-1,30
+CH ENTER,Pioneer,170,-1,31
+ENTER,Pioneer,170,-1,31
+STD/AV MEM,Pioneer,170,-1,67
+SLEEP,Pioneer,170,-1,72
+MUTING,Pioneer,170,-1,73
+MUTE,Pioneer,170,-1,73
+DISPLAY,Pioneer,170,-1,74
+,Pioneer,170,-1,86
+VIDEO 3,Pioneer,170,-1,86
+INPUT 3,Pioneer,170,-1,86
+VIDEO3 INPUT SEL,Pioneer,170,-1,86
+INPUT,Pioneer,170,-1,87
+RETURN,Pioneer,170,-1,92
+CH RETURN,Pioneer,170,-1,92
+MENU SET,Pioneer,170,-1,138
+SET,Pioneer,170,-1,138
+MENU,Pioneer,170,-1,139
+CURSOR RIGHT,Pioneer,170,-1,148
+>,Pioneer,170,-1,148
+CURSOR LEFT,Pioneer,170,-1,149
+<,Pioneer,170,-1,149
+CURSOR UP,Pioneer,170,-1,150
+^,Pioneer,170,-1,150
+CURSOR DOWN,Pioneer,170,-1,151
+V,Pioneer,170,-1,151
+MODE,Pioneer,170,-1,211
+INPUT: ANTENNA,Pioneer,170,-1,211
+INPUT: DVD/LD,Pioneer,170,-1,211
+INPUT: VIDEO 1,Pioneer,170,-1,211
+INPUT: VIDEO 3,Pioneer,170,-1,211
+AUTO,Pioneer,170,-1,211
+PIP CH -,Pioneer,170,-1,211
+PIP CH +,Pioneer,170,-1,211
+CC MODE,Pioneer,170,-1,211
+CINEMA WIDE,Pioneer,170,-1,211
+STROBE,Pioneer,170,-1,214
+SWAP,Pioneer,170,-1,215
+MULTI,Pioneer,170,-1,217
+,Pioneer,170,-1,222
+INPUT 4,Pioneer,170,-1,222

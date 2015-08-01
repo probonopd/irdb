@@ -1,0 +1,4 @@
+functionname,protocol,device,subdevice,function
+UP,Akai,2,-1,33
+DOWN,Akai,2,-1,34
+STOP,Akai,2,-1,37

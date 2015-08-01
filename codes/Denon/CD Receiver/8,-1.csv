@@ -1,0 +1,36 @@
+functionname,protocol,device,subdevice,function
+1,Denon,8,-1,66
+2,Denon,8,-1,67
+3,Denon,8,-1,68
+4,Denon,8,-1,69
+5,Denon,8,-1,70
+6,Denon,8,-1,71
+7,Denon,8,-1,72
+8,Denon,8,-1,73
+9,Denon,8,-1,74
+10,Denon,8,-1,75
++10,Denon,8,-1,76
+PROGRAM/DIRECT,Denon,8,-1,77
+CLEAR/DELETE,Denon,8,-1,81
+CALL,Denon,8,-1,82
+REPEAT,Denon,8,-1,84
+CHANNEL +,Denon,8,-1,88
+SKIP FORWARD,Denon,8,-1,88
+CHANNEL -,Denon,8,-1,89
+SKIP BACK,Denon,8,-1,89
+FAST FORWARD,Denon,8,-1,90
+TUNER DOWN,Denon,8,-1,90
+TUNER UP,Denon,8,-1,90
+FAST REWIND,Denon,8,-1,91
+TUNER UP,Denon,8,-1,91
+TUNER DOWN,Denon,8,-1,91
+CD PLAY/PAUSE,Denon,8,-1,92
+BAND,Denon,8,-1,94
+CD STOP,Denon,8,-1,94
+RANDOM,Denon,8,-1,106
+FOLDER +,Denon,8,-1,107
+FOLDER -,Denon,8,-1,110
+EDIT,Denon,8,-1,112
+FOLDER MODE,Denon,8,-1,126
+MENU/SET,Denon,8,-1,145
+SDB/TONE,Denon,8,-1,234

@@ -1,0 +1,3 @@
+functionname,protocol,device,subdevice,function
+VOLUME -,Barco,28,-1,29
+VOLUME +,Barco,28,-1,30

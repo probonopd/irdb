@@ -1,0 +1,3 @@
+functionname,protocol,device,subdevice,function
+PAGE-,NEC2,72,80,5
+PAGE+,NEC2,72,80,6

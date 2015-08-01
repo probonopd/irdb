@@ -1,0 +1,39 @@
+functionname,protocol,device,subdevice,function
+RIGHT,Sejin-1-56,0,0,4
+RIGHT,Sejin-1-38,0,0,4
+ENTER,Sejin-1-56,0,0,11
+ENTER,Sejin-1-38,0,0,11
+LEFT,Sejin-1-56,0,0,13
+LEFT,Sejin-1-38,0,0,13
+NEXT PAGE,Sejin-1-56,0,0,28
+BOTTOM,Sejin-1-56,0,0,29
+ADVANCED,Sejin-1-56,0,0,65
+PAUSE,Sejin-1-56,0,0,66
+BACK,Sejin-1-56,0,0,67
+TRACK +,Sejin-1-56,0,0,68
+5,Sejin-1-56,0,0,69
+6,Sejin-1-56,0,0,70
+SONG -,Sejin-1-56,0,0,72
+DONE,Sejin-1-56,0,0,73
+TOP,Sejin-1-56,0,0,77
+STOP,Sejin-1-56,0,0,82
+PLAY,Sejin-1-56,0,0,83
+TRACK -,Sejin-1-56,0,0,84
+SONG +,Sejin-1-56,0,0,88
+CLEAR,Sejin-1-56,0,0,89
+UP,Sejin-1-56,0,0,92
+UP,Sejin-1-38,0,0,92
+PREV PAGE,Sejin-1-56,0,0,93
+1,Sejin-1-56,0,0,98
+2,Sejin-1-56,0,0,99
+3,Sejin-1-56,0,0,100
+4,Sejin-1-56,0,0,101
+7,Sejin-1-56,0,0,102
+8,Sejin-1-56,0,0,104
+9,Sejin-1-56,0,0,105
+0,Sejin-1-56,0,0,107
+DOWN,Sejin-1-56,0,0,108
+DOWN,Sejin-1-38,0,0,108
+SETUP,Sejin-1-56,0,0,120
+ABC'S,Sejin-1-56,0,0,121
+POWER,Sejin-1-56,0,0,123

@@ -1,0 +1,25 @@
+functionname,protocol,device,subdevice,function
+VDP POWER,Denon,6,-1,129
+VDP POWER (DISC SKIP,Denon,6,-1,129
+VDP STOP [],Denon,6,-1,131
+VDP PLAY >,Denon,6,-1,132
+VDP PAUSE ,,,Denon,6,-1,133
+VDP SKIP >>,,Denon,6,-1,134
+VDP ,>>,Denon,6,-1,134
+VDP SKIP ,<<,Denon,6,-1,135
+VDP ,<<,Denon,6,-1,135
+VDP SCAN >>,Denon,6,-1,136
+,Denon,6,-1,136
+VDP >>,Denon{2},6,-1,136
+VDP FFWD >>,Denon,6,-1,136
+VDP SCAN <<,Denon,6,-1,137
+VDP <<,Denon,6,-1,137
+VDP REW <<,Denon,6,-1,137
+POWER OFF,Denon,6,-1,192
+MD-STOP,Denon,6,-1,225
+MD-PLAY,Denon,6,-1,226
+MD-PAUSE,Denon,6,-1,227
+MD-FF,Denon,6,-1,233
+MD-RW,Denon,6,-1,234
+MD-SEARCH+,Denon,6,-1,235
+MD-SEARCH-,Denon,6,-1,236

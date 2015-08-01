@@ -1,0 +1,6 @@
+functionname,protocol,device,subdevice,function
+H SHIFT,Sony15,119,-1,16
+V SHIFT,Sony15,119,-1,17
+H SIZE,Sony15,119,-1,18
+V SIZE,Sony15,119,-1,19
+SET,Sony15,119,-1,126

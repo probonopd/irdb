@@ -1,0 +1,3 @@
+functionname,protocol,device,subdevice,function
+CODE3 POWER OFF,NECx1,6,6,15
+CODE3 POWER ON,NECx1,6,6,15

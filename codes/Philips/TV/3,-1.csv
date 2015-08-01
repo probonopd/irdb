@@ -1,0 +1,11 @@
+functionname,protocol,device,subdevice,function
+TV GUIDE + ON/OFF,RC5,3,-1,44
+,RC5,3,-1,44
+TV GUIDE + INFO,RC5,3,-1,45
+,RC5,3,-1,45
+TV GUIDE + RECORD,RC5,3,-1,60
+,RC5,3,-1,60
+ANALOG TV,RC5,3,-1,118
+,RC5,3,-1,118
+DTV,RC5,3,-1,119
+,RC5,3,-1,119

@@ -1,0 +1,12 @@
+functionname,protocol,device,subdevice,function
+2 CH,Sony15,176,-1,65
+AFD,Sony15,176,-1,66
+MOVIE,Sony15,176,-1,67
+MUSIC,Sony15,176,-1,73
+TEST TONE,Sony15,176,-1,74
+BASS BOOST,Sony15,176,-1,77
+BASS UP,Sony15,176,-1,80
+BASS DOWN,Sony15,176,-1,81
+TREB UP,Sony15,176,-1,86
+TREB DOWN,Sony15,176,-1,87
+SHIFT,Sony15,176,-1,113

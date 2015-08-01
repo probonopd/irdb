@@ -1,0 +1,26 @@
+functionname,protocol,device,subdevice,function
+1,Pioneer,161,-1,1
+D. SKIP,Pioneer,161,-1,1
+2,Pioneer,161,-1,2
+3,Pioneer,161,-1,3
+4,Pioneer,161,-1,4
+5,Pioneer,161,-1,5
+6,Pioneer,161,-1,6
+FF >>>,Pioneer,161,-1,16
+SCAN >>,Pioneer,161,-1,16
+REW <<<,Pioneer,161,-1,17
+SCAN <<,Pioneer,161,-1,17
+REC. MUTE,Pioneer,161,-1,18
+RECORD,Pioneer,161,-1,20
+PLAY <,Pioneer,161,-1,21
+STOP,Pioneer,161,-1,22
+PLAY,Pioneer,161,-1,23
+PLAY >,Pioneer,161,-1,23
+PAUSE,Pioneer,161,-1,24
+RETURN,Pioneer,161,-1,30
+ALL REWIND,Pioneer,161,-1,31
+RANDOM,Pioneer,161,-1,66
+SCAN,Pioneer,161,-1,68
+COUNTER MODE,Pioneer,161,-1,71
+COUNTER RESET,Pioneer,161,-1,72
+OPEN/CLOSE,Pioneer,161,-1,82

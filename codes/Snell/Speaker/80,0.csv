@@ -1,0 +1,12 @@
+functionname,protocol,device,subdevice,function
+BASS SHAPE - CINEMA,Aiwa,80,0,2
+BASS SHAPE - REF.,Aiwa,80,0,3
+BASS LEVEL +4,Aiwa,80,0,4
+BASS LEVEL +6,Aiwa,80,0,7
+BASS LEVEL -4,Aiwa,80,0,8
+BASS LEVEL -6,Aiwa,80,0,9
+BASS LEVEL +2,Aiwa,80,0,15
+BASS LEVEL -2,Aiwa,80,0,17
+BASS LEVEL 0,Aiwa,80,0,19
+TREBLE - CUT,Aiwa,80,0,30
+TREBLE - BOOST,Aiwa,80,0,31

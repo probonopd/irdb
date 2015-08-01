@@ -1,0 +1,23 @@
+functionname,protocol,device,subdevice,function
+POWER OFF,ScAtl-6,26,-1,6
+XM1,ScAtl-6,26,-1,8
+XM2,ScAtl-6,26,-1,9
+XM3,ScAtl-6,26,-1,10
+POWER ON,ScAtl-6,26,-1,14
+PRESET,ScAtl-6,26,-1,15
+1,ScAtl-6,26,-1,16
+2,ScAtl-6,26,-1,17
+3,ScAtl-6,26,-1,18
+4,ScAtl-6,26,-1,19
+5,ScAtl-6,26,-1,20
+6,ScAtl-6,26,-1,21
+7,ScAtl-6,26,-1,22
+8,ScAtl-6,26,-1,23
+9,ScAtl-6,26,-1,24
+0,ScAtl-6,26,-1,25
+CURSOR UP,ScAtl-6,26,-1,29
+CURSOR DOWN,ScAtl-6,26,-1,30
+CURSOR LEFT,ScAtl-6,26,-1,33
+CURSOR RIGHT,ScAtl-6,26,-1,34
+SELECT,ScAtl-6,26,-1,35
+DIR,ScAtl-6,26,-1,38

@@ -1,0 +1,5 @@
+functionname,protocol,device,subdevice,function
+TUNER + A,RC5,25,-1,32
+TUNER + B,RC5,25,-1,32
+TUNER - A,RC5,25,-1,33
+TUNER - B,RC5,25,-1,33

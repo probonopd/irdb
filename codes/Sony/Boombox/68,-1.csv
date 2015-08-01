@@ -1,0 +1,10 @@
+functionname,protocol,device,subdevice,function
+MODE,Sony15,68,-1,17
+VOLUME +,Sony15,68,-1,18
+VOLUME -,Sony15,68,-1,19
+POWER,Sony15,68,-1,21
+SOUND,Sony15,68,-1,48
+MEGA BASS,Sony15,68,-1,63
+FUNCTION,Sony15,68,-1,71
+SLEEP,Sony15,68,-1,96
+STANDBY,Sony15,68,-1,97

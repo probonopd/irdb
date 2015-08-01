@@ -1,0 +1,9 @@
+functionname,protocol,device,subdevice,function
+<> T-MODE,RC5,18,-1,47
+RECORDER 2,RC5,18,-1,63
+TAPE,RC5,18,-1,63
+TAPE 1,RC5,18,-1,63
+TAPE 2,RC5,18,-1,63
+TAPE (RECORDER 2),RC5,18,-1,63
+INPUT - TAPE,RC5,18,-1,63
+INPUT: TAPE,RC5,18,-1,63

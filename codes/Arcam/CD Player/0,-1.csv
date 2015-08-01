@@ -1,0 +1,3 @@
+functionname,protocol,device,subdevice,function
+REVERSE,RC5,0,-1,25
+PLAY,RC5,0,-1,30

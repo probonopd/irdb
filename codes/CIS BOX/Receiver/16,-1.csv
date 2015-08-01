@@ -1,0 +1,31 @@
+functionname,protocol,device,subdevice,function
+1,Sony12,16,-1,0
+2,Sony12,16,-1,1
+3,Sony12,16,-1,2
+4,Sony12,16,-1,3
+5,Sony12,16,-1,4
+6,Sony12,16,-1,5
+7,Sony12,16,-1,6
+8,Sony12,16,-1,7
+9,Sony12,16,-1,8
+0,Sony12,16,-1,9
+ENTER,Sony12,16,-1,12
+CH UP,Sony12,16,-1,16
+CH DN,Sony12,16,-1,17
+VOL UP,Sony12,16,-1,18
+VOL DN,Sony12,16,-1,19
+MUTE,Sony12,16,-1,20
+VID 2,Sony12,16,-1,30
+TUNER,Sony12,16,-1,33
+VID 1,Sony12,16,-1,34
+TAPE 1,Sony12,16,-1,35
+CD,Sony12,16,-1,37
+PWR ON,Sony12,16,-1,46
+PWR OFF,Sony12,16,-1,47
+VID5,Sony12,16,-1,65
+VID3,Sony12,16,-1,66
+VID4,Sony12,16,-1,67
+DISPLAY,Sony12,16,-1,75
+ON SCREEN,Sony12,16,-1,83
+TV/SAT,Sony12,16,-1,106
+DVD,Sony12,16,-1,125

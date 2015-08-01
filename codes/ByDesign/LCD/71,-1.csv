@@ -1,0 +1,8 @@
+functionname,protocol,device,subdevice,function
+POWER,JVC{2},71,-1,2
+ENTER,JVC{2},71,-1,4
+UP,JVC{2},71,-1,10
+DOWN,JVC{2},71,-1,18
+RIGHT,JVC{2},71,-1,34
+LEFT,JVC{2},71,-1,42
+INPUT,JVC{2},71,-1,58

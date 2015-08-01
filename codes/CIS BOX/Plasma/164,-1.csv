@@ -1,0 +1,4 @@
+functionname,protocol,device,subdevice,function
+ASPECT,Sony15,164,-1,61
+ZOOM,Sony15,164,-1,125
+DEGAUSS,Sony15,164,-1,126

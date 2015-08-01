@@ -1,0 +1,7 @@
+functionname,protocol,device,subdevice,function
+CD DISC +/A,RC5,20,-1,30
+CD DISC B/-,RC5,20,-1,31
+CD,RC5,20,-1,63
+CD INPUT,RC5,20,-1,63
+INPUT - CD,RC5,20,-1,63
+INPUT: CD,RC5,20,-1,63

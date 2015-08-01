@@ -1,0 +1,99 @@
+functionname,protocol,device,subdevice,function
+0,Pioneer,168,-1,0
+1,Pioneer,168,-1,1
+2,Pioneer,168,-1,2
+3,Pioneer,168,-1,3
+4,Pioneer,168,-1,4
+5,Pioneer,168,-1,5
+6,Pioneer,168,-1,6
+7,Pioneer,168,-1,7
+8,Pioneer,168,-1,8
+9,Pioneer,168,-1,9
+DIGITAL/ANALOG,Pioneer,168,-1,12
+DIGITAL/ANALOG/CX,Pioneer,168,-1,12
+DIGITAL,Pioneer,168,-1,12
+FILE,Pioneer,168,-1,13
+CX,Pioneer,168,-1,14
+FWD >>,Pioneer,168,-1,16
+FFWD>>,Pioneer,168,-1,16
+REV <<,Pioneer,168,-1,17
+REW<<,Pioneer,168,-1,17
+MENU,Pioneer,168,-1,19
+CHAPTER,Pioneer,168,-1,19
+STOP/OPEN [],Pioneer,168,-1,22
+STOP [],Pioneer,168,-1,22
+STOP/OPEN,Pioneer,168,-1,22
+PLAY >,Pioneer,168,-1,23
+PLAY>,Pioneer,168,-1,23
+PAUSE ,,,Pioneer,168,-1,24
+PAUSE,,,Pioneer,168,-1,24
+OPEN/CLOSE,Pioneer,168,-1,25
+LAST MEMORY,Pioneer,168,-1,25
+POWER,Pioneer,168,-1,28
+AUTO EDIT,Pioneer,168,-1,29
+AUDIO MONITOR,Pioneer,168,-1,30
+AUDIO D/A,Pioneer,168,-1,30
+AUDIO,Pioneer,168,-1,30
++10,Pioneer,168,-1,31
+JOG FWD,Pioneer,168,-1,32
+JOG FWD >>,Pioneer,168,-1,32
+JOG REV,Pioneer,168,-1,36
+JOG REV <<,Pioneer,168,-1,36
+SCAN X2 FWD,Pioneer,168,-1,40
+SCAN FWD,Pioneer,168,-1,40
+SCAN FWD(CLEAR SCAN),Pioneer,168,-1,40
+SCAN FWD(SLOW SP),Pioneer,168,-1,40
+,Pioneer,168,-1,41
+SCAN FWD(LOW SCAN),Pioneer,168,-1,41
+SCAN FWD(MED-SLOW),Pioneer,168,-1,41
+SCAN FWD(MED-HIGH),Pioneer,168,-1,42
+,Pioneer,168,-1,43
+SCAN FWD(HIGH SCAN),Pioneer,168,-1,43
+SHUTTLE FWD(F.S),Pioneer,168,-1,43
+SHUTTLE FWD >>,Pioneer,168,-1,43
+SCAN FWD(FULL SP),Pioneer,168,-1,43
+SCAN X2 REV,Pioneer,168,-1,44
+SCAN REV(CLEAR SCAN),Pioneer,168,-1,44
+SCAN REV(SLOW SP),Pioneer,168,-1,44
+,Pioneer,168,-1,45
+SCAN REV(LOW SCAN),Pioneer,168,-1,45
+SCAN REV(MED-SLOW),Pioneer,168,-1,45
+SCAN REV(MED-HIGH),Pioneer,168,-1,46
+SCAN REV(HIGH SCAN),Pioneer,168,-1,47
+SHUTTLE REV(F.S),Pioneer,168,-1,47
+SHUTTLE REW <<,Pioneer,168,-1,47
+SCAN REV(FULL SP),Pioneer,168,-1,47
+DIGITAL LEVEL,Pioneer,168,-1,55
+AUDIO COMPRESS,Pioneer,168,-1,55
+ENTER,Pioneer,168,-1,66
+DISPLAY,Pioneer,168,-1,67
+REPEAT B,Pioneer,168,-1,68
+REPEAT A,Pioneer,168,-1,68
+C (CANCEL),Pioneer,168,-1,69
+CANCEL,Pioneer,168,-1,69
+SEARCH -,Pioneer,168,-1,70
+SEARCH +,Pioneer,168,-1,71
+REPEAT A,Pioneer,168,-1,72
+REPEAT B,Pioneer,168,-1,72
+PROGRAM,Pioneer,168,-1,76
+SIDE A,Pioneer,168,-1,77
+DISC SIDE A,Pioneer,168,-1,77
+SIDE B,Pioneer,168,-1,78
+DISC SIDE B,Pioneer,168,-1,78
+FRAME <,,,Pioneer,168,-1,80
+STEP <,,,Pioneer,168,-1,80
+FS (FWD SRCH) >>,,Pioneer,168,-1,82
+FS >>,,Pioneer,168,-1,82
+SRCH FWD (FS)>>,,Pioneer,168,-1,82
+RS (REV SRCH) ,<<,Pioneer,168,-1,83
+RS ,<<,Pioneer,168,-1,83
+SRCH REV (RS),<<,Pioneer,168,-1,83
+FRAME ,,>,Pioneer,168,-1,84
+STEP ,,>,Pioneer,168,-1,84
+SEARCH <,Pioneer,168,-1,85
+SEARCH >,Pioneer,168,-1,88
+HILITE/INTRO SCAN,Pioneer,168,-1,90
+STROBE,Pioneer,168,-1,91
+STILL/W SOUND,Pioneer,168,-1,91
+ONE SHOT MEMORY,Pioneer,168,-1,93
+RANDOM,Pioneer,168,-1,94

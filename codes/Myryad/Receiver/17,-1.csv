@@ -1,0 +1,9 @@
+functionname,protocol,device,subdevice,function
+TUNE +,RC5,17,-1,30
+TUNE -,RC5,17,-1,31
+MANUAL,RC5,17,-1,36
+MONO,RC5,17,-1,37
+PRESET,RC5,17,-1,38
+SEARCH,RC5,17,-1,39
+STORE,RC5,17,-1,41
+TUNER,RC5,17,-1,63

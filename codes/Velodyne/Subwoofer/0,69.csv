@@ -1,0 +1,6 @@
+functionname,protocol,device,subdevice,function
+POWER,NEC1,0,69,128
+VOLUME +,NEC1,0,69,133
+RESET,NEC1,0,69,134
+VOLUME -,NEC1,0,69,135
+MUTE,NEC1,0,69,196

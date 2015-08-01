@@ -1,0 +1,12 @@
+functionname,protocol,device,subdevice,function
+EQ SLOPE,Sony12,18,-1,13
+EQ CHANNEL,Sony12,18,-1,15
+EQ BAND,Sony12,18,-1,32
+EQ,Sony12,18,-1,44
+EQ FLAT,Sony12,18,-1,63
+TEST TONE,Sony12,18,-1,74
+REAR VOL +,Sony12,18,-1,78
+REAR VOL -,Sony12,18,-1,79
+CENTER VOL +,Sony12,18,-1,84
+CENTER VOL -,Sony12,18,-1,85
+PRESET / USER,Sony12,18,-1,126

@@ -1,0 +1,26 @@
+functionname,protocol,device,subdevice,function
+POWER,Dish_Network,0,0,2
+1,Dish_Network,0,0,4
+2,Dish_Network,0,0,5
+3,Dish_Network,0,0,6
+4,Dish_Network,0,0,8
+5,Dish_Network,0,0,9
+6,Dish_Network,0,0,10
+7,Dish_Network,0,0,12
+8,Dish_Network,0,0,13
+9,Dish_Network,0,0,14
+CUR / SELECT,Dish_Network,0,0,16
+0,Dish_Network,0,0,17
+CANCEL,Dish_Network,0,0,18
+CANCEL - EXIT,Dish_Network,0,0,18
+GUIDE *,Dish_Network,0,0,20
+VIEW,Dish_Network,0,0,22
+CUR RIGHT,Dish_Network,0,0,24
+CUR UP,Dish_Network,0,0,26
+RECALL,Dish_Network,0,0,27
+CUR LEFT,Dish_Network,0,0,28
+CUR DOWN,Dish_Network,0,0,30
+RECORD,Dish_Network,0,0,31
+PAUSE,Dish_Network,0,0,32
+*,Dish_Network,0,0,37
+#,Dish_Network,0,0,38

@@ -1,0 +1,7 @@
+functionname,protocol,device,subdevice,function
+MUTE T0,RECS80,7,-1,0
+MUTE T1,RECS80,7,-1,0
+VOL+ T0,RECS80,7,-1,8
+VOL+ T1,RECS80,7,-1,8
+VOL- T0,RECS80,7,-1,9
+VOL- T1,RECS80,7,-1,9

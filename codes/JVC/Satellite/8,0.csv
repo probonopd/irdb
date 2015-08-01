@@ -1,0 +1,5 @@
+functionname,protocol,device,subdevice,function
+VIEW,Dish_Network,8,0,22
+VOLUME +,Dish_Network,8,0,25
+VOLUME -,Dish_Network,8,0,29
+VCR,Dish_Network,8,0,43

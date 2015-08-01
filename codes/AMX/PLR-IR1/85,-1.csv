@@ -1,0 +1,132 @@
+functionname,protocol,device,subdevice,function
+RECORD,Dgtec,85,-1,68
+RECORD,Dgtec,85,-1,69
+RECORD,Dgtec,85,-1,70
+RECORD,Dgtec,85,-1,71
+7,Dgtec,85,-1,72
+7,Dgtec,85,-1,73
+7,Dgtec,85,-1,74
+7,Dgtec,85,-1,75
+6,Dgtec,85,-1,76
+6,Dgtec,85,-1,77
+6,Dgtec,85,-1,78
+6,Dgtec,85,-1,79
+INFO,Dgtec,85,-1,80
+INFO,Dgtec,85,-1,81
+INFO,Dgtec,85,-1,82
+INFO,Dgtec,85,-1,83
+CURSOR RIGHT,Dgtec,85,-1,84
+CURSOR RIGHT,Dgtec,85,-1,85
+CURSOR RIGHT,Dgtec,85,-1,86
+CURSOR RIGHT,Dgtec,85,-1,87
+MUTE,Dgtec,85,-1,88
+MUTE,Dgtec,85,-1,89
+MUTE,Dgtec,85,-1,90
+MUTE,Dgtec,85,-1,91
+REW,Dgtec,85,-1,96
+REW,Dgtec,85,-1,97
+REW,Dgtec,85,-1,98
+REW,Dgtec,85,-1,99
+PAUSE,Dgtec,85,-1,100
+PAUSE,Dgtec,85,-1,101
+PAUSE,Dgtec,85,-1,102
+PAUSE,Dgtec,85,-1,103
+8,Dgtec,85,-1,104
+8,Dgtec,85,-1,105
+8,Dgtec,85,-1,106
+8,Dgtec,85,-1,107
+1,Dgtec,85,-1,108
+1,Dgtec,85,-1,109
+1,Dgtec,85,-1,110
+1,Dgtec,85,-1,111
+CANCEL,Dgtec,85,-1,112
+CANCEL,Dgtec,85,-1,113
+CANCEL,Dgtec,85,-1,114
+CANCEL,Dgtec,85,-1,115
+,Dgtec,85,-1,116
+CURSOR UP,Dgtec,85,-1,117
+CURSOR UP,Dgtec,85,-1,118
+CURSOR UP,Dgtec,85,-1,119
+MENU,Dgtec,85,-1,120
+MENU,Dgtec,85,-1,121
+MENU,Dgtec,85,-1,122
+MENU,Dgtec,85,-1,123
+PLAY,Dgtec,85,-1,128
+PLAY,Dgtec,85,-1,129
+PLAY,Dgtec,85,-1,130
+PLAY,Dgtec,85,-1,131
+ALL OFF,Dgtec,85,-1,132
+ALL OFF,Dgtec,85,-1,133
+ALL OFF,Dgtec,85,-1,134
+ALL OFF,Dgtec,85,-1,135
+9,Dgtec,85,-1,136
+9,Dgtec,85,-1,137
+9,Dgtec,85,-1,138
+9,Dgtec,85,-1,139
+2,Dgtec,85,-1,140
+2,Dgtec,85,-1,141
+2,Dgtec,85,-1,142
+2,Dgtec,85,-1,143
+CURSOR DOWN,Dgtec,85,-1,144
+CURSOR DOWN,Dgtec,85,-1,145
+CURSOR DOWN,Dgtec,85,-1,146
+CURSOR DOWN,Dgtec,85,-1,147
+VOLUME -,Dgtec,85,-1,148
+VOLUME -,Dgtec,85,-1,149
+VOLUME -,Dgtec,85,-1,150
+VOLUME -,Dgtec,85,-1,151
+FF,Dgtec,85,-1,160
+FF,Dgtec,85,-1,161
+FF,Dgtec,85,-1,162
+FF,Dgtec,85,-1,163
+0,Dgtec,85,-1,164
+0,Dgtec,85,-1,165
+0,Dgtec,85,-1,166
+0,Dgtec,85,-1,167
+4,Dgtec,85,-1,168
+4,Dgtec,85,-1,169
+4,Dgtec,85,-1,170
+4,Dgtec,85,-1,171
+3,Dgtec,85,-1,172
+3,Dgtec,85,-1,173
+3,Dgtec,85,-1,174
+3,Dgtec,85,-1,175
+CURSOR LEFT,Dgtec,85,-1,176
+CURSOR LEFT,Dgtec,85,-1,177
+CURSOR LEFT,Dgtec,85,-1,178
+CURSOR LEFT,Dgtec,85,-1,179
+GUIDE,Dgtec,85,-1,180
+GUIDE,Dgtec,85,-1,181
+GUIDE,Dgtec,85,-1,182
+GUIDE,Dgtec,85,-1,183
+PHAST,Dgtec,85,-1,184
+PHAST,Dgtec,85,-1,185
+PHAST,Dgtec,85,-1,186
+PHAST,Dgtec,85,-1,187
+STOP,Dgtec,85,-1,192
+STOP,Dgtec,85,-1,193
+STOP,Dgtec,85,-1,194
+STOP,Dgtec,85,-1,195
+RECALL,Dgtec,85,-1,196
+RECALL,Dgtec,85,-1,197
+RECALL,Dgtec,85,-1,198
+RECALL,Dgtec,85,-1,199
+,Dgtec,85,-1,200
+5,Dgtec,85,-1,201
+5,Dgtec,85,-1,202
+5,Dgtec,85,-1,203
+SOURCE,Dgtec,85,-1,204
+SOURCE,Dgtec,85,-1,205
+SOURCE,Dgtec,85,-1,206
+SOURCE,Dgtec,85,-1,207
+CURSOR OK,Dgtec,85,-1,208
+CURSOR OK,Dgtec,85,-1,209
+CURSOR OK,Dgtec,85,-1,210
+CURSOR OK,Dgtec,85,-1,211
+VOLUME +,Dgtec,85,-1,212
+VOLUME +,Dgtec,85,-1,213
+VOLUME +,Dgtec,85,-1,214
+VOLUME +,Dgtec,85,-1,215
+POWER,Dgtec,85,-1,216
+POWER,Dgtec,85,-1,217
+POWER,Dgtec,85,-1,219

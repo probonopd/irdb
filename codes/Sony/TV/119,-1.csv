@@ -1,0 +1,8 @@
+functionname,protocol,device,subdevice,function
+POWER SAVING,Sony15,119,-1,54
+DRC MODE,Sony15,119,-1,57
+FAVORITES,Sony15,119,-1,118
+FAVS,Sony15,119,-1,118
+ON (ID MODE),Sony15,119,-1,124
+OFF (ID MODE),Sony15,119,-1,125
+SET (ID MODE),Sony15,119,-1,126

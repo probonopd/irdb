@@ -1,0 +1,23 @@
+functionname,protocol,device,subdevice,function
+1,Sharp,1,-1,1
+2,Sharp,1,-1,2
+3,Sharp,1,-1,3
+4,Sharp,1,-1,4
+5,Sharp,1,-1,5
+6,Sharp,1,-1,6
+7,Sharp,1,-1,7
+8,Sharp,1,-1,8
+9,Sharp,1,-1,9
+0,Sharp,1,-1,10
+100,Sharp,1,-1,11
+CHANNEL ^,Sharp,1,-1,17
+CHANNEL V,Sharp,1,-1,18
+INPUT,Sharp,1,-1,19
+VOL +,Sharp,1,-1,20
+VOL -,Sharp,1,-1,21
+POWER,Sharp,1,-1,22
+MUTE,Sharp,1,-1,23
+DISPLAY,Sharp,1,-1,27
+PREVIEW,Sharp,1,-1,28
+MENU,Sharp,1,-1,32
+QV,Sharp,1,-1,47

@@ -1,0 +1,18 @@
+functionname,protocol,device,subdevice,function
+VDP POWER,Denon,6,-1,129
+VDP1 POWER,Denon,6,-1,129
+VDP STOP [],Denon,6,-1,131
+VDP1 STOP [],Denon,6,-1,131
+VDP PLAY >,Denon,6,-1,132
+VDP1 PLAY >,Denon,6,-1,132
+VDP PAUSE ,,,Denon,6,-1,133
+VDP1 PAUSE ,,,Denon,6,-1,133
+VDP SEARCH >>,,Denon,6,-1,134
+VDP1 SRCH >>,,Denon,6,-1,134
+VDP SEARCH ,<<,Denon,6,-1,135
+VDP1 SRCH ,<<,Denon,6,-1,135
+VDP FF >>,Denon,6,-1,136
+VDP1 FF >>,Denon,6,-1,136
+VDP REW <<,Denon,6,-1,137
+VDP1 REW <<,Denon,6,-1,137
+VDP1 DISPLAY,Denon,6,-1,147

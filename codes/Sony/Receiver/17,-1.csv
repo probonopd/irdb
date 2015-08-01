@@ -1,0 +1,6 @@
+functionname,protocol,device,subdevice,function
+,Sony12,17,-1,46
+CH/PRESET -,Sony12,17,-1,54
+CH/PRESET +,Sony12,17,-1,55
+DISC SKIP,Sony12,17,-1,62
+DISPLAY,Sony12,17,-1,86

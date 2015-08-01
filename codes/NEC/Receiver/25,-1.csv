@@ -1,0 +1,8 @@
+functionname,protocol,device,subdevice,function
+VCR STOP [],NEC1,25,-1,4
+VCR PLAY >,NEC1,25,-1,5
+VCR REC/PLAY,NEC1,25,-1,6
+VCR POWER,NEC1,25,-1,8
+VCR FF >>,NEC1,25,-1,12
+VCR REW <<,NEC1,25,-1,13
+VCR PAUSE ,,,NEC1,25,-1,14

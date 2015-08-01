@@ -1,0 +1,47 @@
+functionname,protocol,device,subdevice,function
+1,Denon-K,2,1,2
+2,Denon-K,2,1,3
+3,Denon-K,2,1,4
+4,Denon-K,2,1,5
+5,Denon-K,2,1,6
+6,Denon-K,2,1,7
+7,Denon-K,2,1,8
+8,Denon-K,2,1,9
+9,Denon-K,2,1,10
+SUBTITLE,Denon-K,2,1,13
+AUDIO,Denon-K,2,1,14
+ANGLE,Denon-K,2,1,15
+OPEN/CLOSE,Denon-K,2,1,16
+POP UP MENU,Denon-K,2,1,17
+RETURN,Denon-K,2,1,18
+REPEAT,Denon-K,2,1,19
+PAUSE,Denon-K,2,1,22
+STOP,Denon-K,2,1,23
+TRACK >>,Denon-K,2,1,24
+TRACK <<,Denon-K,2,1,25
+SCAN >>,Denon-K,2,1,26
+SCAN <<,Denon-K,2,1,27
+PLAY,Denon-K,2,1,28
+CLEAR,Denon-K,2,1,29
+DISPLAY,Denon-K,2,1,30
+RANDOM,Denon-K,2,1,31
+CURSOR UP,Denon-K,2,1,32
+CURSOR DOWN,Denon-K,2,1,33
+CURSOR RIGHT,Denon-K,2,1,34
+CURSOR LEFT,Denon-K,2,1,35
+POWER ON,Denon-K,2,1,40
+POWER OFF,Denon-K,2,1,41
+A-B REPEAT,Denon-K,2,1,42
+CURSOR ENTER,Denon-K,2,1,43
+SETUP,Denon-K,2,1,44
+TOP MENU,Denon-K,2,1,45
+SEARCH,Denon-K,2,1,47
+0,Denon-K,2,1,48
+ZOOM,Denon-K,2,1,48
+MODE,Denon-K,2,1,49
+RED,Denon-K,2,1,50
+GREEN,Denon-K,2,1,51
+BLUE,Denon-K,2,1,52
+YELLOW,Denon-K,2,1,53
+DIMMER,Denon-K,2,1,57
+PURE DIRECT,Denon-K,2,1,62

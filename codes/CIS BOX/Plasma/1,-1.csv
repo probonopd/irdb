@@ -1,0 +1,26 @@
+functionname,protocol,device,subdevice,function
+1,Sony12,1,-1,0
+2,Sony12,1,-1,1
+3,Sony12,1,-1,2
+4,Sony12,1,-1,3
+5,Sony12,1,-1,4
+6,Sony12,1,-1,5
+7,Sony12,1,-1,6
+8,Sony12,1,-1,7
+9,Sony12,1,-1,8
+0,Sony12,1,-1,15
+CH+,Sony12,1,-1,16
+CH-,Sony12,1,-1,17
+MUTE,Sony12,1,-1,20
+MTS,Sony12,1,-1,23
+PWR ON,Sony12,1,-1,46
+PWR OFF,Sony12,1,-1,47
+DISPLAY,Sony12,1,-1,58
+LINE,Sony12,1,-1,64
+RGB1,Sony12,1,-1,67
+RGB2,Sony12,1,-1,68
+Y/C,Sony12,1,-1,77
+MENU,Sony12,1,-1,96
+ENTER,Sony12,1,-1,101
+SELECT+,Sony12,1,-1,116
+SELECT-,Sony12,1,-1,117

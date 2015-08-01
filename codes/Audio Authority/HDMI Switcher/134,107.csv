@@ -1,0 +1,6 @@
+functionname,protocol,device,subdevice,function
+1,NEC1,134,107,1
+2,NEC1,134,107,2
+3,NEC1,134,107,3
+4,NEC1,134,107,4
+POWER,NEC1,134,107,18

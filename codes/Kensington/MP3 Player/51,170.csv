@@ -1,0 +1,6 @@
+functionname,protocol,device,subdevice,function
+VOLUME -,NEC1,51,170,0
+SKIP >>,NEC1,51,170,4
+PLAY/PAUSE,NEC1,51,170,8
+SKIP <<,NEC1,51,170,12
+VOLUME +,NEC1,51,170,23

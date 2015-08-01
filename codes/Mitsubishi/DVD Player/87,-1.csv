@@ -1,0 +1,30 @@
+functionname,protocol,device,subdevice,function
+VCR 1,Mitsubishi,87,-1,0
+VCR 9,Mitsubishi,87,-1,1
+VCR POWER,Mitsubishi,87,-1,2
+VCR PLAY>,Mitsubishi,87,-1,4
+VCR/TV,Mitsubishi,87,-1,5
+VCR 2,Mitsubishi,87,-1,8
+VCR 0,Mitsubishi,87,-1,9
+VCR CHANNEL ^,Mitsubishi,87,-1,10
+VCR CANCEL,Mitsubishi,87,-1,11
+VCR RECORD,Mitsubishi,87,-1,12
+VCR JOG/ADJ+(IND SRC,Mitsubishi,87,-1,14
+VCR 3,Mitsubishi,87,-1,16
+VCR CHANNEL V,Mitsubishi,87,-1,18
+VCR STOP[],Mitsubishi,87,-1,20
+VCR JOG/ADJ-(IND SRC,Mitsubishi,87,-1,22
+VCR 4,Mitsubishi,87,-1,24
+VCR PAUSE,,,Mitsubishi,87,-1,28
+VCR 5,Mitsubishi,87,-1,32
+VCR FFWD>>,Mitsubishi,87,-1,36
+VCR DISPLAY,Mitsubishi,87,-1,39
+VCR 6,Mitsubishi,87,-1,40
+VCR REW<<,Mitsubishi,87,-1,44
+VCR 7,Mitsubishi,87,-1,48
+QUICK PROGRAM,Mitsubishi,87,-1,51
+VCR ENTER,Mitsubishi,87,-1,53
+VCR 8,Mitsubishi,87,-1,56
+VCR INPUT,Mitsubishi,87,-1,58
+VCR AUDIO/VIDEO,Mitsubishi,87,-1,64
+VCR MENU,Mitsubishi,87,-1,82

@@ -1,0 +1,22 @@
+functionname,protocol,device,subdevice,function
+0,Nokia32,35,64,0
+1,Nokia32,35,64,1
+2,Nokia32,35,64,2
+3,Nokia32,35,64,3
+4,Nokia32,35,64,4
+5,Nokia32,35,64,5
+6,Nokia32,35,64,6
+8,Nokia32,35,64,8
+9,Nokia32,35,64,9
+LAST,Nokia32,35,64,10
+CHANNEL +,Nokia32,35,64,32
+CHANNEL -,Nokia32,35,64,33
+SEARCH >>,Nokia32,35,64,40
+SEARCH <<,Nokia32,35,64,41
+RECORDED TV,Nokia32,35,64,68
+MENU,Nokia32,35,64,84
+EXIT TO TV,Nokia32,35,64,85
+CURSOR UP,Nokia32,35,64,88
+CURSOR DOWN,Nokia32,35,64,89
+CURSOR LEFT,Nokia32,35,64,90
+C,Nokia32,35,64,134

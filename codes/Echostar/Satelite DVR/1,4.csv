@@ -1,0 +1,10 @@
+functionname,protocol,device,subdevice,function
+PLAY,Dish_Network,1,4,3
+PAGE DOWN,Dish_Network,1,4,7
+PAGE UP,Dish_Network,1,4,15
+BACK <<,Dish_Network,1,4,49
+FWD >>,Dish_Network,1,4,50
+DISH,Dish_Network,1,4,52
+ARROW REVERSE,Dish_Network,1,4,54
+ARROW FORWARD,Dish_Network,1,4,55
+PVR,Dish_Network,1,4,57

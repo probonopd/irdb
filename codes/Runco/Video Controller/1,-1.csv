@@ -1,0 +1,17 @@
+functionname,protocol,device,subdevice,function
+COMPOSITE,Sharp,1,-1,1
+S-VIDEO,Sharp,1,-1,2
+COMPONENT,Sharp,1,-1,3
+PASS-THRU,Sharp,1,-1,5
+ANAMORPHIC,Sharp,1,-1,7
+4 X 3,Sharp,1,-1,8
+LETTERBOX,Sharp,1,-1,9
+POWER ON,Sharp,1,-1,10
+POWER OFF,Sharp,1,-1,11
+CURSOR UP,Sharp,1,-1,17
+CURSOR DOWN,Sharp,1,-1,18
+CURSOR RIGHT,Sharp,1,-1,20
+CURSOR LEFT,Sharp,1,-1,21
+POWER,Sharp,1,-1,22
+MENU,Sharp,1,-1,23
+ENTER,Sharp,1,-1,47

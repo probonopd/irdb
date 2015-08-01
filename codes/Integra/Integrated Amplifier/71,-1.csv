@@ -1,0 +1,14 @@
+functionname,protocol,device,subdevice,function
+1,Mitsubishi,71,-1,0
+9,Mitsubishi,71,-1,1
+2,Mitsubishi,71,-1,8
+10,Mitsubishi,71,-1,9
+12,Mitsubishi,71,-1,15
+3,Mitsubishi,71,-1,16
+4,Mitsubishi,71,-1,24
+5,Mitsubishi,71,-1,32
+6,Mitsubishi,71,-1,40
+7,Mitsubishi,71,-1,48
+10+,Mitsubishi,71,-1,50
+11,Mitsubishi,71,-1,53
+8,Mitsubishi,71,-1,56

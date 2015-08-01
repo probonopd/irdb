@@ -1,0 +1,10 @@
+functionname,protocol,device,subdevice,function
+TRACK +,RC5,20,-1,32
+TRACK -,RC5,20,-1,33
+PAUSE,RC5,20,-1,48
+PLAY,RC5,20,-1,53
+STOP,RC5,20,-1,54
+CD1,RC5,20,-1,55
+CD2,RC5,20,-1,56
+CD3,RC5,20,-1,57
+CD,RC5,20,-1,63

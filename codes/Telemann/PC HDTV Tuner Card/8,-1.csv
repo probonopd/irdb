@@ -1,0 +1,8 @@
+functionname,protocol,device,subdevice,function
+CHANNEL +,NEC1,8,-1,10
+CHANNEL -,NEC1,8,-1,11
+VOLUME +,NEC1,8,-1,12
+VOLUME -,NEC1,8,-1,13
+INPUT,NEC1,8,-1,16
+TV,NEC1,8,-1,21
+MUTE,NEC1,8,-1,30

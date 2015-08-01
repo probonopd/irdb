@@ -1,0 +1,17 @@
+functionname,protocol,device,subdevice,function
+STANDBY/ON,Fujitsu,134,-1,0
+VIDEO,Fujitsu,134,-1,5
+VIDEO 1,Fujitsu,134,-1,5
+RGB,Fujitsu,134,-1,8
+FOCUS +,Fujitsu,134,-1,21
+FOCUS -,Fujitsu,134,-1,22
+ZOOM +,Fujitsu,134,-1,23
+ZOOM -,Fujitsu,134,-1,24
+MENU,Fujitsu,134,-1,33
+BLANK,Fujitsu,134,-1,42
+VOLUME +,Fujitsu,134,-1,48
+VOLUME -,Fujitsu,134,-1,49
+MUTE,Fujitsu,134,-1,50
+MAGNIFY,Fujitsu,134,-1,63
+TIMER,Fujitsu,134,-1,86
+FREEZE,Fujitsu,134,-1,99

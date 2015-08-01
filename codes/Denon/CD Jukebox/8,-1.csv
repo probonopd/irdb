@@ -1,0 +1,58 @@
+functionname,protocol,device,subdevice,function
+DOWN,Denon,8,-1,64
+0,Denon,8,-1,65
+1,Denon,8,-1,66
+2,Denon,8,-1,67
+3,Denon,8,-1,68
+4,Denon,8,-1,69
+5,Denon,8,-1,70
+6,Denon,8,-1,71
+7,Denon,8,-1,72
+8,Denon,8,-1,73
+9,Denon,8,-1,74
+10,Denon,8,-1,75
++10,Denon,8,-1,76
+PROG/DIRECT,Denon,8,-1,77
+PROGRAM,Denon,8,-1,77
+VOLUME+,Denon,8,-1,78
+VOLUME-,Denon,8,-1,79
+OPEN/CLOSE,Denon,8,-1,80
+CLEAR,Denon,8,-1,81
+CALL,Denon,8,-1,82
+CHECK,Denon,8,-1,82
+TIME,Denon,8,-1,83
+TIME/TEXT,Denon,8,-1,83
+REPEAT,Denon,8,-1,84
+REPEAT ALL,Denon,8,-1,84
+CONTINUE,Denon,8,-1,87
+>>I,Denon,8,-1,88
+SKIP >>,Denon,8,-1,88
+I<<,Denon,8,-1,89
+SKIP <<,Denon,8,-1,89
+>>,Denon,8,-1,90
+SEARCH >>,Denon,8,-1,90
+<<,Denon,8,-1,91
+SEARCH <<,Denon,8,-1,91
+PLAY,Denon,8,-1,92
+PAUSE,Denon,8,-1,93
+STOP,Denon,8,-1,94
+DISC SELECT,Denon,8,-1,98
+RANDOM,Denon,8,-1,106
+DISC SKIP+,Denon,8,-1,107
+DISC SKIP UP,Denon,8,-1,107
+DISC +,Denon,8,-1,107
+DISC SKIP-,Denon,8,-1,110
+DISC SKIP DN,Denon,8,-1,110
+DISC -,Denon,8,-1,110
+POWER ON,Denon,8,-1,115
+ENTER,Denon,8,-1,122
+GROUP,Denon,8,-1,126
+UP,Denon,8,-1,127
+POWER OFF,Denon,8,-1,248
+SINGLE,Denon,8,-1,249
+MULTI,Denon,8,-1,250
+ZONE 1,Denon,8,-1,251
+ZONE 2,Denon,8,-1,252
+LEFT,Denon,8,-1,253
+RIGHT,Denon,8,-1,254
+TRACK/CAPS,Denon,8,-1,255

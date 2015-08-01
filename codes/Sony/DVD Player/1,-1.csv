@@ -1,0 +1,5 @@
+functionname,protocol,device,subdevice,function
+VOL UP,Sony12,1,-1,18
+VOL DOWN,Sony12,1,-1,19
+TV ON/OFF,Sony12,1,-1,21
+TV/VIDEO,Sony12,1,-1,37

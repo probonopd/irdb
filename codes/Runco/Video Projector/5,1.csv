@@ -1,0 +1,23 @@
+functionname,protocol,device,subdevice,function
+ARROW LEFT,Zenith,5,1,6
+CURSOR LEFT,Zenith,5,1,6
+SOURCE,Zenith,5,1,13
+POWER,Zenith,5,1,14
+ARROW RIGHT,Zenith,5,1,15
+CURSOR RIGHT,Zenith,5,1,15
+0,Zenith,5,1,16
+1,Zenith,5,1,17
+2,Zenith,5,1,18
+3,Zenith,5,1,19
+4,Zenith,5,1,20
+5,Zenith,5,1,21
+6,Zenith,5,1,22
+7,Zenith,5,1,23
+8,Zenith,5,1,24
+9,Zenith,5,1,25
+ENTER,Zenith,5,1,28
+ARROW DOWN,Zenith,5,1,29
+CURSOR DOWN,Zenith,5,1,29
+ARROW UP,Zenith,5,1,30
+CURSOR UP,Zenith,5,1,30
+MENU,Zenith,5,1,31

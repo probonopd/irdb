@@ -1,0 +1,4 @@
+functionname,protocol,device,subdevice,function
+PRESET UP,Panasonic,160,4,52
+PRESET DOWN,Panasonic,160,4,53
+TUNER,Panasonic,160,4,164

@@ -1,0 +1,5 @@
+functionname,protocol,device,subdevice,function
+MENU,NEC1,135,78,2
+POWER,NEC1,135,78,13
+COMPUTER,NEC1,135,78,25
+VIDEO,NEC1,135,78,26

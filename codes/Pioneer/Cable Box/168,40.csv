@@ -1,0 +1,3 @@
+functionname,protocol,device,subdevice,function
+,NEC2,168,40,6
+,NEC2,168,40,10

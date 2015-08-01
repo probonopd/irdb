@@ -1,0 +1,12 @@
+functionname,protocol,device,subdevice,function
+TV,Sony12,12,-1,24
+LD,Sony12,12,-1,25
+DYNAMICS,Sony12,12,-1,51
+SURROUND,Sony12,12,-1,63
+SUB,Sony12,12,-1,90
+PARAMETER SUB,Sony12,12,-1,116
+PARAMETER MAIN,Sony12,12,-1,118
+DPC LEFT >,Sony12,12,-1,120
+DPC LEFT <,Sony12,12,-1,121
+DPC RIGHT <,Sony12,12,-1,122
+DPC RIGHT >,Sony12,12,-1,123

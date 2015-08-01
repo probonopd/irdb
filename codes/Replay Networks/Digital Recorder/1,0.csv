@@ -1,0 +1,61 @@
+functionname,protocol,device,subdevice,function
+0,Replay,1,0,0
+1,Replay,1,0,1
+2,Replay,1,0,2
+3,Replay,1,0,3
+4,Replay,1,0,4
+5,Replay,1,0,5
+6,Replay,1,0,6
+7,Replay,1,0,7
+8,Replay,1,0,8
+9,Replay,1,0,9
+ENTER,Replay,1,0,10
+JUMP,Replay,1,0,11
+CHANNEL - PREVIOUS,Replay,1,0,11
+POWER,Replay,1,0,12
+POWER ON,Replay,1,0,13
+POWER OFF,Replay,1,0,14
+CHANNEL +,Replay,1,0,15
+CHANNEL - UP,Replay,1,0,15
+CHANNEL -,Replay,1,0,16
+CHANNEL - DOWN,Replay,1,0,16
+CURSOR UP,Replay,1,0,18
+CURSOR - UP,Replay,1,0,18
+CURSOR RIGHT,Replay,1,0,20
+CURSOR - RIGHT,Replay,1,0,20
+CURSOR DOWN,Replay,1,0,22
+CURSOR - DOWN,Replay,1,0,22
+CURSOR LEFT,Replay,1,0,24
+CURSOR - LEFT,Replay,1,0,24
+MENU,Replay,1,0,26
+SELECT,Replay,1,0,27
+CURSOR - ENTER,Replay,1,0,27
+EXIT,Replay,1,0,28
+DISPLAY,Replay,1,0,29
+CHANNEL GUIDE,Replay,1,0,30
+GUIDE - CHANNEL,Replay,1,0,30
+RECORD,Replay,1,0,31
+Z - RECORD,Replay,1,0,31
+PLAY,Replay,1,0,32
+Z - PLAY,Replay,1,0,32
+PAUSE,Replay,1,0,33
+Z - PAUSE,Replay,1,0,33
+FAST FOWARD,Replay,1,0,34
+Z - FAST FORWARD,Replay,1,0,34
+REWIND,Replay,1,0,35
+Z - FAST REWIND,Replay,1,0,35
+STOP,Replay,1,0,36
+Z - STOP,Replay,1,0,36
+RETURN TO LIVE,Replay,1,0,37
+Z - RETURN TO LIVE,Replay,1,0,37
+QUICK SKIP,Replay,1,0,38
+Z - QUICK SKIP,Replay,1,0,38
+INSTANT REPLAY,Replay,1,0,39
+Z - INSTANT REPLAY,Replay,1,0,39
+REPLAY GUIDE,Replay,1,0,40
+GUIDE - REPLAY,Replay,1,0,40
+INPUT,Replay,1,0,41
+REPLAY ZONES,Replay,1,0,42
+GUIDE - ZONE,Replay,1,0,42
+EXP,Replay,1,0,43
+TV / VCR,Replay,1,0,51

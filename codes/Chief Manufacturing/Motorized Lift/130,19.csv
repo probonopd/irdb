@@ -1,0 +1,8 @@
+functionname,protocol,device,subdevice,function
+2,NEC1,130,19,29
+DOWN (RT TOP),NEC1,130,19,29
+1,NEC1,130,19,64
+UP (LT TOP),NEC1,130,19,64
+4,NEC1,130,19,65
+DOTTON RT,NEC1,130,19,65
+3,NEC1,130,19,67

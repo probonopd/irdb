@@ -1,0 +1,5 @@
+functionname,protocol,device,subdevice,function
+CHANNEL -,NEC1,184,1,6
+CHANNEL +,NEC1,184,1,7
+-,NEC1,184,1,84
++,NEC2,184,1,85

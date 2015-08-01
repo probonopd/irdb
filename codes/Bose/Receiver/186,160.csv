@@ -1,0 +1,5 @@
+functionname,protocol,device,subdevice,function
+MUTE,Pioneer,186,160,1
+VOLUME -,Pioneer,186,160,2
+VOLUME +,Pioneer,186,160,3
+POWER,Pioneer,186,160,76

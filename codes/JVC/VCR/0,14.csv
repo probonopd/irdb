@@ -1,0 +1,24 @@
+functionname,protocol,device,subdevice,function
+INFO,Dish_Network,0,14,0
+POWER,Dish_Network,0,14,2
+1,Dish_Network,0,14,4
+3,Dish_Network,0,14,6
+4,Dish_Network,0,14,8
+5,Dish_Network,0,14,9
+6,Dish_Network,0,14,10
+MENU,Dish_Network,0,14,11
+7,Dish_Network,0,14,12
+8,Dish_Network,0,14,13
+9,Dish_Network,0,14,14
+0,Dish_Network,0,14,17
+CANCEL,Dish_Network,0,14,18
+GUIDE,Dish_Network,0,14,20
+VIEW,Dish_Network,0,14,22
+TV/VIDEO,Dish_Network,0,14,23
+CURSOR RIGHT,Dish_Network,0,14,24
+CHANNEL +,Dish_Network,0,14,26
+CURSOR UP,Dish_Network,0,14,26
+RECALL,Dish_Network,0,14,27
+CURSOR LEFT,Dish_Network,0,14,28
+CHANNEL -,Dish_Network,0,14,30
+CURSOR DOWN,Dish_Network,0,14,30

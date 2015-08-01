@@ -1,0 +1,10 @@
+functionname,protocol,device,subdevice,function
+MONO,RC5,17,-1,28
+TUNE DN,RC5,17,-1,34
+TUNE UP,RC5,17,-1,40
+BAND,RC5,17,-1,46
+STORE,RC5,17,-1,55
+PRESET,RC5,17,-1,56
+SIGNAL,RC5,17,-1,57
+TUNE,RC5,17,-1,58
+SCAN,RC5,17,-1,59

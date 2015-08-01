@@ -1,0 +1,24 @@
+functionname,protocol,device,subdevice,function
+CHANNEL +,Fujitsu,132,141,11
+CHANNEL -,Fujitsu,132,141,12
+CH RETURN,Fujitsu,132,141,14
+CHANNEL RETURN,Fujitsu,132,141,14
+MTS/STEREO,Fujitsu,132,141,18
+ANTENNA,Fujitsu,132,141,48
+CABLE,Fujitsu,132,141,49
+1,Fujitsu,132,141,64
+2,Fujitsu,132,141,65
+3,Fujitsu,132,141,66
+4,Fujitsu,132,141,67
+5,Fujitsu,132,141,68
+6,Fujitsu,132,141,69
+7,Fujitsu,132,141,70
+8,Fujitsu,132,141,71
+9,Fujitsu,132,141,72
+0,Fujitsu,132,141,74
+.,Fujitsu,132,141,88
+".",Fujitsu,132,141,88
+FAVORITE,Fujitsu,132,141,90
+INFO,Fujitsu,132,141,91
+GUIDE,Fujitsu,132,141,92
+CC,Fujitsu,132,141,93

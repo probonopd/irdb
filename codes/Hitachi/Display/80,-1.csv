@@ -1,0 +1,9 @@
+functionname,protocol,device,subdevice,function
+INPUT,NEC1,80,-1,9
+LAST CH,NEC1,80,-1,10
+MUTE,NEC1,80,-1,11
+VOLUME +,NEC1,80,-1,18
+VOLUME -,NEC1,80,-1,21
+POWER,NEC1,80,-1,23
+CHANNEL -,NEC1,80,-1,24
+CHANNEL +,NEC1,80,-1,25

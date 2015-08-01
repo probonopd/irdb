@@ -1,0 +1,12 @@
+functionname,protocol,device,subdevice,function
+PROGRAM,Panasonic,144,1,1
+,Panasonic,144,1,1
+UP ARROW,Panasonic,144,1,2
+DOWN ARROW,Panasonic,144,1,3
+,Panasonic,144,1,3
+SET,Panasonic,144,1,4
+CLEAR,Panasonic,144,1,5
+SPEED,Panasonic,144,1,10
+MENU,Panasonic,144,1,86
+VCR PLUS,Panasonic,144,1,93
+,Panasonic,144,1,93

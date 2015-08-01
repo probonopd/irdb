@@ -1,0 +1,9 @@
+functionname,protocol,device,subdevice,function
+CD - SKIP +,NEC1,134,97,0
+DISC +,NEC1,134,97,2
+CD - SKIP -,NEC1,134,97,4
+CD - PAUSE,NEC1,134,97,5
+CD - PLAY,NEC1,134,97,8
+CD - STOP,NEC1,134,97,9
+CD - FF,NEC1,134,97,12
+CD - RW,NEC1,134,97,13

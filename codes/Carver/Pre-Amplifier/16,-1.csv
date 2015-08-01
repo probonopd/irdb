@@ -1,0 +1,7 @@
+functionname,protocol,device,subdevice,function
+POWER,RC5,16,-1,12
+DISPLAY,RC5,16,-1,15
+VOLUME +,RC5,16,-1,16
+VOLUME -,RC5,16,-1,17
+OUTPUT,RC5,16,-1,35
+MODE,RC5,16,-1,37

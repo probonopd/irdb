@@ -1,0 +1,15 @@
+functionname,protocol,device,subdevice,function
+QUIT,Zenith,6,0,1
+- VERTICAL,Zenith,6,0,3
+SET-UP,Zenith,6,0,9
+LIN T-B / L-R,Zenith,6,0,11
+SIZE,Zenith,6,0,15
+RED,Zenith,6,0,17
++ VERTICAL,Zenith,6,0,19
+POWER,Zenith,6,0,29
+SKEW,Zenith,6,0,35
+PIN,Zenith,6,0,43
+S-ING / W-M,Zenith,6,0,45
+T/L KEY,Zenith,6,0,47
+T/L PIN,Zenith,6,0,49
+T/L S,Zenith,6,0,51

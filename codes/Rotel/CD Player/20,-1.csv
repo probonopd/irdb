@@ -1,0 +1,6 @@
+functionname,protocol,device,subdevice,function
+FF,RC5,20,-1,32
+REW,RC5,20,-1,33
+PAUSE,RC5,20,-1,48
+PLAY,RC5,20,-1,53
+STOP,RC5,20,-1,54

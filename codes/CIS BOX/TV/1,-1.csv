@@ -1,0 +1,16 @@
+functionname,protocol,device,subdevice,function
+GUIDE,Sony12,1,-1,14
+VOL UP,Sony12,1,-1,18
+VOL DN,Sony12,1,-1,19
+ANT,Sony12,1,-1,42
+PWR ON,Sony12,1,-1,46
+PWR OFF,Sony12,1,-1,47
+DISPLAY,Sony12,1,-1,58
+IN1,Sony12,1,-1,64
+IN2,Sony12,1,-1,65
+IN3,Sony12,1,-1,66
+IN4,Sony12,1,-1,71
+IN5,Sony12,1,-1,72
+PIP ON OFF,Sony12,1,-1,91
+PIC MODE,Sony12,1,-1,94
+EXIT,Sony12,1,-1,99

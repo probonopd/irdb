@@ -1,0 +1,27 @@
+functionname,protocol,device,subdevice,function
+PROGRAM,Pioneer,162,-1,13
+PGM,Pioneer,162,-1,13
+SCAN >>,Pioneer,162,-1,14
+FF,Pioneer,162,-1,14
+SCAN <<,Pioneer,162,-1,15
+REW,Pioneer,162,-1,15
+SKIP I<<,Pioneer,162,-1,16
+NEXT,Pioneer,162,-1,16
+SKIP >>I,Pioneer,162,-1,17
+PREV,Pioneer,162,-1,17
+STOP,Pioneer,162,-1,22
+PLAY,Pioneer,162,-1,23
+PAUSE,Pioneer,162,-1,24
+POWER,Pioneer,162,-1,28
+DISC 1,Pioneer,162,-1,30
+DISC 2,Pioneer,162,-1,31
+CLEAR,Pioneer,162,-1,69
+CHECK,Pioneer,162,-1,73
+RANDOM,Pioneer,162,-1,74
+DISC 3,Pioneer,162,-1,80
+DISC 4,Pioneer,162,-1,80
+DISC 4,Pioneer,162,-1,83
+DISC 5,Pioneer,162,-1,87
+DISC 6,Pioneer,162,-1,91
+DELETE,Pioneer,162,-1,93
+HI-LITE SCAN,Pioneer,162,-1,94

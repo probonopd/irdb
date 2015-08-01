@@ -1,0 +1,4 @@
+functionname,protocol,device,subdevice,function
+VOLUME +,Zenith,5,1,2
+VOLUME -,Zenith,5,1,10
+MUTE,Zenith,5,1,11

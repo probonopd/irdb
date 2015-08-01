@@ -1,0 +1,21 @@
+functionname,protocol,device,subdevice,function
+VCR STOP [],Panasonic,144,0,0
+VCR <<,Panasonic,144,0,2
+VCR >>,Panasonic,144,0,3
+VCR PAUSE ,,,Panasonic,144,0,6
+VCR REC,Panasonic,144,0,8
+VCR PLAY >,Panasonic,144,0,10
+VCR 1,Panasonic,144,0,16
+VCR 2,Panasonic,144,0,17
+VCR 3,Panasonic,144,0,18
+VCR 4,Panasonic,144,0,19
+VCR 5,Panasonic,144,0,20
+VCR 6,Panasonic,144,0,21
+VCR 7,Panasonic,144,0,22
+VCR 8,Panasonic,144,0,23
+VCR 9,Panasonic,144,0,24
+VCR 0,Panasonic,144,0,25
+VCR CH ^,Panasonic,144,0,52
+VCR CH V,Panasonic,144,0,53
+TV/VCR,Panasonic,144,0,54
+VCR POWER,Panasonic,144,0,61

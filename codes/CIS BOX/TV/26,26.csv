@@ -1,0 +1,13 @@
+functionname,protocol,device,subdevice,function
+1,Sony20,26,26,0
+2,Sony20,26,26,1
+3,Sony20,26,26,2
+4,Sony20,26,26,3
+5,Sony20,26,26,4
+6,Sony20,26,26,5
+7,Sony20,26,26,6
+8,Sony20,26,26,7
+9,Sony20,26,26,8
+0,Sony20,26,26,15
+CHANNEL +,Sony20,26,26,16
+CHANNEL -,Sony20,26,26,17

@@ -1,0 +1,21 @@
+functionname,protocol,device,subdevice,function
+PLAY,Panasonic,160,28,10
+1,Panasonic,160,28,16
+2,Panasonic,160,28,17
+3,Panasonic,160,28,18
+4,Panasonic,160,28,19
+5,Panasonic,160,28,20
+6,Panasonic,160,28,21
+7,Panasonic,160,28,22
+8,Panasonic,160,28,23
+9,Panasonic,160,28,24
+0,Panasonic,160,28,25
+POWER,Panasonic,160,28,61
+SKIP <<,Panasonic,160,28,73
+SKIP ,<<,Panasonic,160,28,73
+SKIP >>,Panasonic,160,28,74
+SKIP >>,,Panasonic,160,28,74
+>10/-/--,Panasonic,160,28,132
+TIMER,Panasonic,160,28,150
+FL DISPLAY,Panasonic,160,28,151
+A/V EFFECT,Panasonic,160,28,224

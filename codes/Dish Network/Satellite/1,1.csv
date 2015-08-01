@@ -1,0 +1,5 @@
+functionname,protocol,device,subdevice,function
+PAGE DOWN,Dish_Network,1,1,7
+PAGE DN,Dish_Network,1,1,7
+PAGE UP,Dish_Network,1,1,15
+DISH HOME,Dish_Network,1,1,52

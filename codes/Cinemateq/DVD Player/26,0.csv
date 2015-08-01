@@ -1,0 +1,40 @@
+functionname,protocol,device,subdevice,function
+1,CanalSat,26,0,2
+2,CanalSat,26,0,5
+3,CanalSat,26,0,6
+4,CanalSat,26,0,9
+5,CanalSat,26,0,10
+6,CanalSat,26,0,13
+7,CanalSat,26,0,14
+8,CanalSat,26,0,17
+9,CanalSat,26,0,18
+0,CanalSat,26,0,21
+EJECT,CanalSat,26,0,22
+UP,CanalSat,26,0,25
+DOWN,CanalSat,26,0,26
+LEFT,CanalSat,26,0,29
+OK,CanalSat,26,0,30
+RIGHT,CanalSat,26,0,33
+ANGEL,CanalSat,26,0,34
+TITEL + KAPITEL,CanalSat,26,0,37
+SETUP,CanalSat,26,0,38
+AUDIO MODE,CanalSat,26,0,41
+CK,CanalSat,26,0,42
+SUB TITLE,CanalSat,26,0,45
+KAPITEL <,CanalSat,26,0,46
+,CanalSat,26,0,49
+KAPITEL >,CanalSat,26,0,50
+ZEITLUPE <,CanalSat,26,0,53
+ZEITLUPE >,CanalSat,26,0,57
+A-B,CanalSat,26,0,58
+REPEAT,CanalSat,26,0,61
+ZOOM,CanalSat,26,0,62
+OPTION,CanalSat,26,0,65
+ZUFALLSWIEDERGABE,CanalSat,26,0,66
+STOP,CanalSat,26,0,69
+PAUSE,CanalSat,26,0,70
+PLAY,CanalSat,26,0,73
+SUCHLAUF <<,CanalSat,26,0,74
+SUCHLAUF >>,CanalSat,26,0,77
+POWER ON,CanalSat,26,0,78
+POWER OFF,CanalSat,26,0,81

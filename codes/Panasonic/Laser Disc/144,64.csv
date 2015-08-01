@@ -1,0 +1,39 @@
+functionname,protocol,device,subdevice,function
+STOP,Panasonic,144,64,0
+OPEN/CLOSE,Panasonic,144,64,1
+SCAN <<,Panasonic,144,64,4
+SCAN >>,Panasonic,144,64,5
+PAUSE,Panasonic,144,64,6
+PLAY,Panasonic,144,64,10
+STILL/STEP >,Panasonic,144,64,12
+STILL/STEP <,Panasonic,144,64,13
+1,Panasonic,144,64,16
+2,Panasonic,144,64,17
+3,Panasonic,144,64,18
+4,Panasonic,144,64,19
+5,Panasonic,144,64,20
+6,Panasonic,144,64,21
+7,Panasonic,144,64,22
+8,Panasonic,144,64,23
+9,Panasonic,144,64,24
+0,Panasonic,144,64,25
+AUDIO SELECT,Panasonic,144,64,51
+POWER,Panasonic,144,64,61
+INTRO SCAN,Panasonic,144,64,70
+REPEAT,Panasonic,144,64,71
+A-B REPEAT,Panasonic,144,64,72
+SKIP <<,Panasonic,144,64,73
+SKIP >>,Panasonic,144,64,74
+RANDOM,Panasonic,144,64,77
+TIME MODE,Panasonic,144,64,85
+FP DISPLAY,Panasonic,144,64,145
+CLEAR,Panasonic,144,64,160
+RECALL,Panasonic,144,64,161
++10,Panasonic,144,64,164
+PROGRAM,Panasonic,144,64,170
+EDIT,Panasonic,144,64,173
+MODE,Panasonic,144,64,192
+SIDE A,Panasonic,144,64,195
+SIDE B,Panasonic,144,64,196
+D/A CX,Panasonic,144,64,208
+DISPLAY,Panasonic,144,64,210

@@ -1,0 +1,19 @@
+functionname,protocol,device,subdevice,function
+FM,Akai,0,-1,65
+AM,Akai,0,-1,66
+TUNING UP,Akai,0,-1,68
+TUNING DOWN,Akai,0,-1,69
+MEMO,Akai,0,-1,70
+1/9,Akai,0,-1,71
+2/10,Akai,0,-1,72
+3/11,Akai,0,-1,73
+4/12,Akai,0,-1,74
+5/13,Akai,0,-1,75
+6/14,Akai,0,-1,76
+7/15,Akai,0,-1,77
+8/16,Akai,0,-1,78
+POWER,Akai,0,-1,81
+SEEK,Akai,0,-1,82
+SHIFT,Akai,0,-1,83
+MUTE,Akai,0,-1,84
+MONO,Akai,0,-1,85

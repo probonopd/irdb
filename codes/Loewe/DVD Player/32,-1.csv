@@ -1,0 +1,66 @@
+functionname,protocol,device,subdevice,function
+DVD 0,Konka,32,-1,0
+,Konka,32,-1,0
+FM 0,Konka,32,-1,0
+DVD 1,Konka,32,-1,1
+FM 1,Konka,32,-1,1
+,Konka,32,-1,1
+DVD 2,Konka,32,-1,2
+,Konka,32,-1,2
+DVD 3,Konka,32,-1,3
+DVD 4,Konka,32,-1,4
+FM 4,Konka,32,-1,4
+DVD 5,Konka,32,-1,5
+,Konka,32,-1,5
+FM 5,Konka,32,-1,5
+DVD 6,Konka,32,-1,6
+FM 6,Konka,32,-1,6
+,Konka,32,-1,6
+DVD 7,Konka,32,-1,7
+,Konka,32,-1,7
+FM 7,Konka,32,-1,7
+DVD 8,Konka,32,-1,8
+FM 8,Konka,32,-1,8
+,Konka,32,-1,8
+DVD 9,Konka,32,-1,9
+FM 9,Konka,32,-1,9
+,Konka,32,-1,9
+POWER,Konka,32,-1,12
+RC1 MUTE,Konka,32,-1,13
+FM ON,Konka,32,-1,28
+CERTOS ON PLAY,Konka,32,-1,33
+AUX 3 DIGITAL,Konka,32,-1,34
+FM 11,Konka,32,-1,41
+,Konka,32,-1,41
+,Konka,32,-1,42
+FM SEARCH FF,Konka,32,-1,50
+FM SEARCH REV,Konka,32,-1,51
+DVD CURSOR UPP,Konka,32,-1,88
+FM SKIP FF,Konka,32,-1,88
+DVD CURSOR NER,Konka,32,-1,89
+FM SKIP REV,Konka,32,-1,89
+NSTER,Konka,32,-1,90
+VOLYM -.,Konka,32,-1,90
+,Konka,32,-1,90
+GER,Konka,32,-1,91
+VOLYM +,Konka,32,-1,91
+DVD CURSOR ENTER,Konka,32,-1,92
+DVD DISC MENY,Konka,32,-1,142
+,Konka,32,-1,142
+DVD ZOOM,Konka,32,-1,144
+DVD KAPITEL,Konka,32,-1,145
+CD REPEAT,Konka,32,-1,150
+DVD REPEAT,Konka,32,-1,153
+CD TIME,Konka,32,-1,157
+CD TEXT,Konka,32,-1,159
+CD MIX,Konka,32,-1,161
+DVD PAUSE,Konka,32,-1,192
+DVD SETUP,Konka,32,-1,193
+DVD EXIT,Konka,32,-1,194
+,Konka,32,-1,194
+DVD SKIP REV,Konka,32,-1,196
+DVD STOP,Konka,32,-1,197
+,Konka,32,-1,197
+DVD PLAY,Konka,32,-1,198
+,Konka,32,-1,198
+DVD SKIP FF,Konka,32,-1,199

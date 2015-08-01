@@ -1,0 +1,181 @@
+functionname,protocol,device,subdevice,function
+1,Mitsubishi,71,-1,0
+TV 1,Mitsubishi,71,-1,0
+9,Mitsubishi,71,-1,1
+TV 9,Mitsubishi,71,-1,1
+POWER,Mitsubishi,71,-1,2
+TV POWER,Mitsubishi,71,-1,2
+ST/SAP/MONO,Mitsubishi,71,-1,3
+COLOR +,Mitsubishi,71,-1,4
+EXTERNAL 1,Mitsubishi,71,-1,5
+CANCEL,Mitsubishi,71,-1,7
+TV CANCEL,Mitsubishi,71,-1,7
+TV,Mitsubishi,71,-1,7
+2,Mitsubishi,71,-1,8
+TV 2,Mitsubishi,71,-1,8
+0,Mitsubishi,71,-1,9
+TV 0,Mitsubishi,71,-1,9
+CHANNEL +,Mitsubishi,71,-1,10
+CHANNEL UP,Mitsubishi,71,-1,10
+SCAN ^ (CH ^),Mitsubishi,71,-1,10
+TV CHANNEL ^,Mitsubishi,71,-1,10
+SCAN ^(CH ^),Mitsubishi,71,-1,10
+CHANNEL ^,Mitsubishi,71,-1,10
+RESET,Mitsubishi,71,-1,11
+COLOR -,Mitsubishi,71,-1,12
+EXTERNAL 2,Mitsubishi,71,-1,13
+QUICK VIEW,Mitsubishi,71,-1,15
+Q/V,Mitsubishi,71,-1,15
+QV,Mitsubishi,71,-1,15
+TV QV,Mitsubishi,71,-1,15
+Q.V.,Mitsubishi,71,-1,15
+Q / V,Mitsubishi,71,-1,15
+RCL,Mitsubishi,71,-1,15
+3,Mitsubishi,71,-1,16
+TV 3,Mitsubishi,71,-1,16
+CHANNEL -,Mitsubishi,71,-1,18
+CHANNEL DOWN,Mitsubishi,71,-1,18
+SCAN V (CH V),Mitsubishi,71,-1,18
+TV CHANNEL V,Mitsubishi,71,-1,18
+SCAN V(CH V),Mitsubishi,71,-1,18
+CHANNEL V,Mitsubishi,71,-1,18
+EXP,Mitsubishi,71,-1,19
+AUDIO EXPANSION,Mitsubishi,71,-1,19
+OFF-T,Mitsubishi,71,-1,23
+TIMER,Mitsubishi,71,-1,23
+OFF-T/OTR,Mitsubishi,71,-1,23
+TV SLEEP,Mitsubishi,71,-1,23
+SLEEP,Mitsubishi,71,-1,23
+4,Mitsubishi,71,-1,24
+TV 4,Mitsubishi,71,-1,24
+INPUT -,Mitsubishi,71,-1,26
+ANT A/B,Mitsubishi,71,-1,26
+INPUT V,Mitsubishi,71,-1,26
+ANTENNA,Mitsubishi,71,-1,26
+DISPLAY,Mitsubishi,71,-1,27
+DISP,Mitsubishi,71,-1,27
+TV INFO,Mitsubishi,71,-1,27
+INFO,Mitsubishi,71,-1,27
+DISPLAY RECALL,Mitsubishi,71,-1,27
+CHANNEL LOCK,Mitsubishi,71,-1,31
+5,Mitsubishi,71,-1,32
+TV 5,Mitsubishi,71,-1,32
+VOLUME +,Mitsubishi,71,-1,34
+VOLUME UP,Mitsubishi,71,-1,34
+VOL ^,Mitsubishi,71,-1,34
+VOLUME ^,Mitsubishi,71,-1,34
+CONTRAST +,Mitsubishi,71,-1,35
+6,Mitsubishi,71,-1,40
+TV 6,Mitsubishi,71,-1,40
+VOLUME -,Mitsubishi,71,-1,42
+VOLUME DOWN,Mitsubishi,71,-1,42
+VOL V,Mitsubishi,71,-1,42
+VOLUME V,Mitsubishi,71,-1,42
+CONTRAST -,Mitsubishi,71,-1,43
+MONO,Mitsubishi,71,-1,47
+7,Mitsubishi,71,-1,48
+TV 7,Mitsubishi,71,-1,48
+INPUT; VGA,Mitsubishi,71,-1,49
+MUTE,Mitsubishi,71,-1,50
+MUTING,Mitsubishi,71,-1,50
+AV MEMORY,Mitsubishi,71,-1,51
+TINT +,Mitsubishi,71,-1,51
+ENTER,Mitsubishi,71,-1,53
+ENTER/EXCH,Mitsubishi,71,-1,53
+TV ENTER,Mitsubishi,71,-1,53
+EXCH,Mitsubishi,71,-1,53
+SUB,Mitsubishi,71,-1,54
+SAP,Mitsubishi,71,-1,55
+8,Mitsubishi,71,-1,56
+TV 8,Mitsubishi,71,-1,56
+ANT A/B,Mitsubishi,71,-1,57
+INPUT +,Mitsubishi,71,-1,58
+TV/EXT1/2,Mitsubishi,71,-1,58
+INPUT ^,Mitsubishi,71,-1,58
+TV INPUT,Mitsubishi,71,-1,58
+INPUT,Mitsubishi,71,-1,58
+DEVICE,Mitsubishi,71,-1,58
+INPUT SOURCE,Mitsubishi,71,-1,58
+TINT -,Mitsubishi,71,-1,59
+FORMAT,Mitsubishi,71,-1,62
+STEREO,Mitsubishi,71,-1,63
+VIDEO ^,Mitsubishi,71,-1,64
+VIDEO,Mitsubishi,71,-1,64
+TV VIDEO,Mitsubishi,71,-1,64
+CURSOR UP,Mitsubishi,71,-1,65
+ADJUST ^,Mitsubishi,71,-1,65
+UP,Mitsubishi,71,-1,65
+TV ADJUST ^,Mitsubishi,71,-1,65
+ADJUST,Mitsubishi,71,-1,65
+ARROW UP,Mitsubishi,71,-1,65
+ON,Mitsubishi,71,-1,66
+POWER ON,Mitsubishi,71,-1,66
+FUNCTION,Mitsubishi,71,-1,67
+FUNCTION <,Mitsubishi,71,-1,69
+VIDEO V,Mitsubishi,71,-1,72
+CURSOR DOWN,Mitsubishi,71,-1,73
+ADJUST V,Mitsubishi,71,-1,73
+DOWN,Mitsubishi,71,-1,73
+TV EXCH V,Mitsubishi,71,-1,73
+TV ADJUST V,Mitsubishi,71,-1,73
+ARROW DOWN,Mitsubishi,71,-1,73
+OFF,Mitsubishi,71,-1,74
+POWER OFF,Mitsubishi,71,-1,74
+ANT B,Mitsubishi,71,-1,76
+INPUT: ANTENNA B,Mitsubishi,71,-1,76
+SQV,Mitsubishi,71,-1,78
+TV SQV,Mitsubishi,71,-1,78
+AUDIO ^,Mitsubishi,71,-1,80
+AUDIO,Mitsubishi,71,-1,80
+TV AUDIO,Mitsubishi,71,-1,80
+MENU,Mitsubishi,71,-1,82
+TV MENU,Mitsubishi,71,-1,82
+MUNU,Mitsubishi,71,-1,82
+UNKNOWN #2,Mitsubishi,71,-1,84
+AUDIO V,Mitsubishi,71,-1,88
+INPUT; VIDEO 5,Mitsubishi,71,-1,89
+ANT A,Mitsubishi,71,-1,90
+INPUT: ANTENNA A,Mitsubishi,71,-1,90
+FUNCTION >,Mitsubishi,71,-1,92
+UNKNOWN #1,Mitsubishi,71,-1,92
+PIP SOURCE,Mitsubishi,71,-1,95
+TV SOURCE,Mitsubishi,71,-1,95
+SOURCE,Mitsubishi,71,-1,95
+PIP INPUT,Mitsubishi,71,-1,95
+INPUT; COMP 2,Mitsubishi,71,-1,97
+INPUT 1,Mitsubishi,71,-1,98
+INPUT: VIDEO 1,Mitsubishi,71,-1,98
+TV GUIDE,Mitsubishi,71,-1,99
+GUIDE,Mitsubishi,71,-1,99
+CURSOR LEFT,Mitsubishi,71,-1,101
+LEFT,Mitsubishi,71,-1,101
+TV <,Mitsubishi,71,-1,101
+TV ADJUST <,Mitsubishi,71,-1,101
+ARROW LEFT,Mitsubishi,71,-1,101
+FREEZE (PAUSE),Mitsubishi,71,-1,103
+INPUT; COMP 1,Mitsubishi,71,-1,105
+INPUT 2,Mitsubishi,71,-1,106
+INPUT: VIDEO 2,Mitsubishi,71,-1,106
+CURSOR RIGHT,Mitsubishi,71,-1,109
+RIGHT,Mitsubishi,71,-1,109
+TV >,Mitsubishi,71,-1,109
+TV ADJUST >,Mitsubishi,71,-1,109
+ARROW RIGHT,Mitsubishi,71,-1,109
+POSITION,Mitsubishi,71,-1,110
+PIP AUDIO,Mitsubishi,71,-1,111
+INPUT: DTV ANT,Mitsubishi,71,-1,113
+INPUT 3,Mitsubishi,71,-1,114
+INPUT: VIDEO 3,Mitsubishi,71,-1,114
+PIP CHAN +,Mitsubishi,71,-1,118
+PIP CHANNEL +,Mitsubishi,71,-1,118
+PIP,Mitsubishi,71,-1,119
+PIP ON/OFF,Mitsubishi,71,-1,119
+TV PIP,Mitsubishi,71,-1,119
+PIP/POP,Mitsubishi,71,-1,119
+INPUT: DTV,Mitsubishi,71,-1,121
+INPUT; VIDEO 4,Mitsubishi,71,-1,122
+HOME,Mitsubishi,71,-1,125
+TV HOME,Mitsubishi,71,-1,125
+PIP CHAN -,Mitsubishi,71,-1,126
+PIP CHANNEL -,Mitsubishi,71,-1,126
+EXCH,Mitsubishi,71,-1,127

@@ -1,0 +1,8 @@
+functionname,protocol,device,subdevice,function
+VTR STOP [],Akai,1,-1,3
+VTR FF >>,Akai,1,-1,6
+VTR REW <<,Akai,1,-1,7
+VTR PLAY >,Akai,1,-1,12
+VTR PAUSE/STILL ,,,Akai,1,-1,13
+VTR CHANNEL -,Akai,1,-1,24
+VTR CHANNEL +,Akai,1,-1,25

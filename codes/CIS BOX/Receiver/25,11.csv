@@ -1,0 +1,5 @@
+functionname,protocol,device,subdevice,function
+TUNER,Sony20,25,11,33
+CD,Sony20,25,11,37
+VID 3,Sony20,25,11,66
+TV SAT,Sony20,25,11,106

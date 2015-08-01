@@ -1,0 +1,4 @@
+functionname,protocol,device,subdevice,function
+POWER,NEC1,0,17,0
+EXIT,NEC1,0,17,24
+D,NEC1,0,17,28

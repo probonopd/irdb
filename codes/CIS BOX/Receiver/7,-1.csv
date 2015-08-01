@@ -1,0 +1,3 @@
+functionname,protocol,device,subdevice,function
+PRESET UP,Sony12,7,-1,16
+PRESET DOWN,Sony12,7,-1,17

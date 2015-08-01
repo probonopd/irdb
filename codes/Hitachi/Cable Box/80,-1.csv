@@ -1,0 +1,7 @@
+functionname,protocol,device,subdevice,function
+AVX,NEC1,80,-1,9
+LST-CH,NEC1,80,-1,10
+MUTE,NEC1,80,-1,11
+RECALL,NEC1,80,-1,16
+VOLUME ^,NEC1,80,-1,18
+VOLUME V,NEC1,80,-1,21

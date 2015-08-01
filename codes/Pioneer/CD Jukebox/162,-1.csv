@@ -1,0 +1,88 @@
+functionname,protocol,device,subdevice,function
+10,Pioneer,162,-1,0
+0,Pioneer,162,-1,0
+1,Pioneer,162,-1,1
+2,Pioneer,162,-1,2
+3,Pioneer,162,-1,3
+4,Pioneer,162,-1,4
+5,Pioneer,162,-1,5
+6,Pioneer,162,-1,6
+7,Pioneer,162,-1,7
+8,Pioneer,162,-1,8
+9,Pioneer,162,-1,9
+OUTPUT +,Pioneer,162,-1,10
+OUTPUT,Pioneer,162,-1,11
+REPEAT,Pioneer,162,-1,12
+PROGRAM,Pioneer,162,-1,13
+PROGRAM PLAY,Pioneer,162,-1,13
+PGM,Pioneer,162,-1,13
+SEARCH >>,Pioneer,162,-1,14
+FF,Pioneer,162,-1,14
+SEARCH <<,Pioneer,162,-1,15
+REW,Pioneer,162,-1,15
+SKIP >>,Pioneer,162,-1,16
+SONG UP,Pioneer,162,-1,16
+TRACK >>,,Pioneer,162,-1,16
+TRACK UP,Pioneer,162,-1,16
+SKIP <<,Pioneer,162,-1,17
+SONG DOWN,Pioneer,162,-1,17
+TRACK ,<<,Pioneer,162,-1,17
+TRACK DOWN,Pioneer,162,-1,17
+STOP,Pioneer,162,-1,22
+PLAY,Pioneer,162,-1,23
+PAUSE,Pioneer,162,-1,24
+POWER,Pioneer,162,-1,28
+STBY,Pioneer,162,-1,28
+DISC +,Pioneer,162,-1,29
+DISC UP,Pioneer,162,-1,29
+DISC 1,Pioneer,162,-1,30
+D1,Pioneer,162,-1,30
+DISC 2,Pioneer,162,-1,31
+D2,Pioneer,162,-1,31
+TRACK SET,Pioneer,162,-1,64
+DISC SET,Pioneer,162,-1,65
+TIME,Pioneer,162,-1,67
+TIME/CHAR,Pioneer,162,-1,67
+CLEAR,Pioneer,162,-1,69
+CHECK,Pioneer,162,-1,73
+RANDOM PLAY,Pioneer,162,-1,74
+RANDOM,Pioneer,162,-1,74
+DISC 3,Pioneer,162,-1,80
+D3,Pioneer,162,-1,80
+DISC 4,Pioneer,162,-1,83
+D4,Pioneer,162,-1,83
+DISC 5,Pioneer,162,-1,87
+D5,Pioneer,162,-1,87
+DISC 6,Pioneer,162,-1,91
+D6,Pioneer,162,-1,91
+DELAY,Pioneer,162,-1,93
+HI LITE SCAN,Pioneer,162,-1,94
+HI-LITLE,Pioneer,162,-1,94
+HI-LITE,Pioneer,162,-1,94
+,Pioneer,162,-1,129
+,Pioneer,162,-1,130
+,Pioneer,162,-1,131
+,Pioneer,162,-1,146
+,Pioneer,162,-1,147
+,Pioneer,162,-1,148
+,Pioneer,162,-1,149
+,Pioneer,162,-1,155
+,Pioneer,162,-1,156
+ADLC,Pioneer,162,-1,192
+FADER,Pioneer,162,-1,192
+,Pioneer,162,-1,192
+M1,Pioneer,162,-1,193
+M2,Pioneer,162,-1,193
+M3,Pioneer,162,-1,193
+,Pioneer,162,-1,193
+DISC -,Pioneer,162,-1,193
+MODE,Pioneer,162,-1,193
+DISC DOWN,Pioneer,162,-1,193
+TITLE INPUT,Pioneer,162,-1,193
+BEST,Pioneer,162,-1,194
+,Pioneer,162,-1,194
+TITLE DISPLAY,Pioneer,162,-1,194
+TITTLE SEARCH,Pioneer,162,-1,194
+PREVIOUS,Pioneer,162,-1,198
+<CURSOR,Pioneer,162,-1,198
+CURSOR>,Pioneer,162,-1,198

@@ -1,0 +1,3 @@
+functionname,protocol,device,subdevice,function
+CHANNEL +,Akai,6,-1,108
+CHANNEL -,Akai,6,-1,109

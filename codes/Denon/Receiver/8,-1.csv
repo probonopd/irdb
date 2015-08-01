@@ -1,0 +1,106 @@
+functionname,protocol,device,subdevice,function
+CD REPEAT,Denon,8,-1,84
+REPEAT,Denon,8,-1,84
+CD SKIP >>,,Denon,8,-1,88
+SKIP +,Denon,8,-1,88
+CD ,>>,Denon,8,-1,88
+CD-FF,Denon,8,-1,88
+CD SEARCH >>, (>>),Denon,8,-1,88
+CD SKIP ,<<,Denon,8,-1,89
+SKIP -,Denon,8,-1,89
+CD ,<<,Denon,8,-1,89
+CD-RW,Denon,8,-1,89
+CD SEARCH ,<< (<<),Denon,8,-1,89
+CD SCAN >>,Denon,8,-1,90
+>>,Denon,8,-1,90
+FORWARD,Denon,8,-1,90
+CD >>,Denon,8,-1,90
+CD-SEARCH+,Denon,8,-1,90
+CD SCAN FWD >>,Denon,8,-1,90
+CD SCAN <<,Denon,8,-1,91
+<<,Denon,8,-1,91
+REV,Denon,8,-1,91
+CD <<,Denon,8,-1,91
+CD-SEACH-,Denon,8,-1,91
+CD SCAN REV <<,Denon,8,-1,91
+CD PLAY >,Denon,8,-1,92
+PLAY,Denon,8,-1,92
+CD-PLAY,Denon,8,-1,92
+CD PAUSE ,,,Denon,8,-1,93
+A/B,Denon,8,-1,93
+PAUSE,Denon,8,-1,93
+PAUSE A/B,Denon,8,-1,93
+CD-PAUSE,Denon,8,-1,93
+CD PAUSE ,, (A/B),Denon,8,-1,93
+CD STOP [],Denon,8,-1,94
+STOP,Denon,8,-1,94
+CD-STOP,Denon,8,-1,94
+DISC 1,Denon,8,-1,100
+DISC 2,Denon,8,-1,101
+DISC 3,Denon,8,-1,102
+DISC 4,Denon,8,-1,103
+DISC 5,Denon,8,-1,104
+DISC 6,Denon,8,-1,105
+CD RANDOM,Denon,8,-1,106
+RANDOM,Denon,8,-1,106
+CD DISC SKIP,Denon,8,-1,107
+SKIP -,Denon,8,-1,107
+SKIP + REV,Denon,8,-1,107
+CD DISC SKIP +,Denon,8,-1,107
+CD DISC SKIP + (POW),Denon,8,-1,107
+CD-SKIP DISC+,Denon,8,-1,107
+CD DISC SKIP (<),Denon,8,-1,107
+0,Denon,8,-1,129
+1,Denon,8,-1,130
+2,Denon,8,-1,131
+3,Denon,8,-1,132
+4,Denon,8,-1,133
+5,Denon,8,-1,134
+6,Denon,8,-1,135
+7,Denon,8,-1,136
+8,Denon,8,-1,137
+9,Denon,8,-1,138
++10,Denon,8,-1,140
+SUBTITLE,Denon,8,-1,141
+OPEN/CLOSE,Denon,8,-1,144
+MENU,Denon,8,-1,145
+DVD-MENU,Denon,8,-1,145
+RETURN,Denon,8,-1,146
+DVD-RETURN,Denon,8,-1,146
+SKIP >>,Denon,8,-1,152
+DVD-FF,Denon,8,-1,152
+SKIP <<,Denon,8,-1,153
+DVD-RW,Denon,8,-1,153
+SEARCH >>,Denon,8,-1,154
+DVD-SEARCH+,Denon,8,-1,154
+SEARCH <<,Denon,8,-1,155
+DVD-SEARCH-,Denon,8,-1,155
+PAUSE,Denon,8,-1,157
+DVD-PAUSE,Denon,8,-1,157
+PLAY,Denon,8,-1,160
+DVD-PLAY,Denon,8,-1,160
+STOP,Denon,8,-1,161
+DVD-STOP,Denon,8,-1,161
+DISC 1,Denon,8,-1,164
+DISC 2,Denon,8,-1,165
+DISC 3,Denon,8,-1,166
+DISPLAY,Denon,8,-1,167
+DVD-DISPLAY,Denon,8,-1,167
+DISC 4,Denon,8,-1,168
+DISC 5,Denon,8,-1,169
+DISC SKIP,Denon,8,-1,171
+DVD-DISC SKIP+,Denon,8,-1,171
+UP,Denon,8,-1,172
+DVD-CURSOR UP,Denon,8,-1,172
+DOWN,Denon,8,-1,173
+DVD-CURSOR DOWN,Denon,8,-1,173
+RIGHT,Denon,8,-1,174
+DVD-CURSOR RIGHT,Denon,8,-1,174
+LEFT,Denon,8,-1,175
+DVD-CURSOR LEFT,Denon,8,-1,175
+POWER ON,Denon,8,-1,177
+DVD-POWER,Denon,8,-1,177
+ENTER,Denon,8,-1,187
+DVD-SELECT,Denon,8,-1,187
+DVD-DVD SETUP,Denon,8,-1,188
+DVD-TITLE,Denon,8,-1,189

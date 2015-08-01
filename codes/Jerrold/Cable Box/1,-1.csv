@@ -1,0 +1,5 @@
+functionname,protocol,device,subdevice,function
+VOL ^,Sony12,1,-1,18
+VOL V,Sony12,1,-1,19
+MUTE,Sony12,1,-1,20
+TV POWER,Sony12,1,-1,21

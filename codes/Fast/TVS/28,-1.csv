@@ -1,0 +1,11 @@
+functionname,protocol,device,subdevice,function
+MUTE,RC5,28,-1,13
+T_MUTE,RC5,28,-1,13
+T_PROG+,RC5,28,-1,32
+PROG+,RC5,28,-1,32
+PROG-,RC5,28,-1,33
+T_PROG-,RC5,28,-1,33
+T_VOL-,RC5,28,-1,65
+VOL-,RC5,28,-1,65
+T_VOL+,RC5,28,-1,66
+VOL+,RC5,28,-1,66

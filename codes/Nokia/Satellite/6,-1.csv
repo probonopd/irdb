@@ -1,0 +1,5 @@
+functionname,protocol,device,subdevice,function
+8,Barco,6,-1,23
+9,Barco,6,-1,24
+TV-SAT,Barco,6,-1,25
+P+,Barco,6,-1,46

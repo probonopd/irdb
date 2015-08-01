@@ -1,0 +1,13 @@
+functionname,protocol,device,subdevice,function
+INFO,Dish_Network,24,0,0
+MENU,Dish_Network,24,0,11
+CANCEL,Dish_Network,24,0,18
+GUIDE,Dish_Network,24,0,20
+MUTE,Dish_Network,24,0,21
+BROWSE,Dish_Network,24,0,24
+RECALL,Dish_Network,24,0,27
+RECORD,Dish_Network,24,0,31
+PAGE +,Dish_Network,24,0,34
+PAGE -,Dish_Network,24,0,35
+AUX,Dish_Network,24,0,44
+DISH,Dish_Network,24,0,52

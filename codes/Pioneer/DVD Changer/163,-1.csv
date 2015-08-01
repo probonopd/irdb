@@ -1,0 +1,50 @@
+functionname,protocol,device,subdevice,function
+STOP,Pioneer,163,-1,152
+0,Pioneer,163,-1,153
+1,Pioneer,163,-1,153
+2,Pioneer,163,-1,153
+3,Pioneer,163,-1,153
+4,Pioneer,163,-1,153
+5,Pioneer,163,-1,153
+6,Pioneer,163,-1,153
+7,Pioneer,163,-1,153
+8,Pioneer,163,-1,153
+9,Pioneer,163,-1,153
++10,Pioneer,163,-1,153
+A-B,Pioneer,163,-1,153
+ANGLE,Pioneer,163,-1,153
+AUDIO,Pioneer,163,-1,153
+C. MEM,Pioneer,163,-1,153
+CLEAR,Pioneer,163,-1,153
+CURSOR DOWN,Pioneer,163,-1,153
+CURSOR LEFT,Pioneer,163,-1,153
+CURSOR RIGHT,Pioneer,163,-1,153
+CURSOR UP,Pioneer,163,-1,153
+DISC 1,Pioneer,163,-1,153
+DISC 2,Pioneer,163,-1,153
+DISC 3,Pioneer,163,-1,153
+DISC 4,Pioneer,163,-1,153
+DISC 5,Pioneer,163,-1,153
+DISPLAY,Pioneer,163,-1,153
+L. MEM,Pioneer,163,-1,153
+MENU,Pioneer,163,-1,153
+MODE,Pioneer,163,-1,153
+OK,Pioneer,163,-1,153
+OPEN,Pioneer,163,-1,153
+POWER,Pioneer,163,-1,153
+PROGRAM,Pioneer,163,-1,153
+RANDOM,Pioneer,163,-1,153
+REPEAT,Pioneer,163,-1,153
+RETURN,Pioneer,163,-1,153
+SEARCH,Pioneer,163,-1,153
+SET UP,Pioneer,163,-1,153
+STEP/SLOW <<,Pioneer,163,-1,153
+STEP/SLOW >>,Pioneer,163,-1,153
+SUBTITLE,Pioneer,163,-1,153
+TOP M,Pioneer,163,-1,153
+SCAN >>,Pioneer,163,-1,154
+SCAN <<,Pioneer,163,-1,155
+NEXT TRACK,Pioneer,163,-1,156
+PREV. TRACK,Pioneer,163,-1,157
+PLAY,Pioneer,163,-1,158
+PAUSE,Pioneer,163,-1,159

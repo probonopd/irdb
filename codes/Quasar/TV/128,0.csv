@@ -1,0 +1,21 @@
+functionname,protocol,device,subdevice,function
+SLEEP,Panasonic,128,0,15
+1,Panasonic,128,0,16
+2,Panasonic,128,0,17
+3,Panasonic,128,0,18
+4,Panasonic,128,0,19
+5,Panasonic,128,0,20
+6,Panasonic,128,0,21
+7,Panasonic,128,0,22
+8,Panasonic,128,0,23
+9,Panasonic,128,0,24
+0,Panasonic,128,0,25
+VOLUME +,Panasonic,128,0,32
+VOLUME -,Panasonic,128,0,33
+MUTE,Panasonic,128,0,50
+CHANNEL +,Panasonic,128,0,52
+CHANNEL -,Panasonic,128,0,53
+RTUNE,Panasonic,128,0,55
+RECALL,Panasonic,128,0,57
+POWER,Panasonic,128,0,61
+ACTION,Panasonic,128,0,82

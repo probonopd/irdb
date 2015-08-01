@@ -1,0 +1,19 @@
+functionname,protocol,device,subdevice,function
+STANDBY,Aiwa,82,0,0
+AUTO TUNING,Aiwa,82,0,2
+BAND,Aiwa,82,0,3
+1,Aiwa,82,0,15
+2,Aiwa,82,0,16
+3,Aiwa,82,0,17
+4,Aiwa,82,0,18
+5,Aiwa,82,0,19
+6,Aiwa,82,0,20
+7,Aiwa,82,0,21
++10,Aiwa,82,0,22
+8,Aiwa,82,0,23
+9,Aiwa,82,0,24
+10,Aiwa,82,0,25
+TUNING -,Aiwa,82,0,26
+TUNE-,Aiwa,82,0,26
+TUNING +,Aiwa,82,0,27
+TUNE+,Aiwa,82,0,27

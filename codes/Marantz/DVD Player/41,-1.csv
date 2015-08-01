@@ -1,0 +1,4 @@
+functionname,protocol,device,subdevice,function
+POWER OFF -DISCRETE1,RC6,41,-1,201
+POWER ON -DISCRETE2,RC6,41,-1,201
+POWER OFF -DISCRETE2,RC6,41,-1,202

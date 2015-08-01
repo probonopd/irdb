@@ -1,0 +1,7 @@
+functionname,protocol,device,subdevice,function
+CD PLAY >,NEC1,121,-1,2
+CD CHAPTER ,<<,NEC1,121,-1,4
+CD SEARCH <<,NEC1,121,-1,5
+CD SEARCH >>,NEC1,121,-1,6
+CD CHAPTER >>,,NEC1,121,-1,7
+CD STOP [],NEC1,121,-1,86

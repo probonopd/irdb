@@ -1,0 +1,9 @@
+functionname,protocol,device,subdevice,function
+SKIP <<,Aiwa,32,1,2
+SKIP >>,Aiwa,32,1,3
+DISPLAY,Aiwa,32,1,4
+STOP,Aiwa,32,1,5
+PLAY/PAUSE,Aiwa,32,1,6
+REPEAT,Aiwa,32,1,7
+MEMORY,Aiwa,32,1,8
+OPEN/CLOSE,Aiwa,32,1,12

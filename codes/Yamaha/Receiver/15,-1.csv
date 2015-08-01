@@ -1,0 +1,3 @@
+functionname,protocol,device,subdevice,function
+VOLUME DOWN (RCA-38,Old),15,-1,46
+VOLUME UP (RCA-38,Old),15,-1,47

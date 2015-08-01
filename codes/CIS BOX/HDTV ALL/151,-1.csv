@@ -1,0 +1,7 @@
+functionname,protocol,device,subdevice,function
+DTV ANT,Sony15,151,-1,42
+MEM STICK,Sony15,151,-1,49
+VIDEO6,Sony15,151,-1,66
+VIDEO7,Sony15,151,-1,66
+ZOOM -,Sony15,151,-1,77
+ZOOM +,Sony15,151,-1,78

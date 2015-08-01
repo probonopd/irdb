@@ -1,0 +1,4 @@
+functionname,protocol,device,subdevice,function
+COMP 1,Sharp,13,-1,26
+POWER ON,Sharp,13,-1,86
+POWER OFF,Sharp,13,-1,150

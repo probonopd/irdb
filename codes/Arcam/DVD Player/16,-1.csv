@@ -1,0 +1,5 @@
+functionname,protocol,device,subdevice,function
++,RC5,16,-1,16
++A,RC5,16,-1,16
+-,RC5,16,-1,17
+-A,RC5,16,-1,17

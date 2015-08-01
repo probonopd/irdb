@@ -1,0 +1,31 @@
+functionname,protocol,device,subdevice,function
+,Pioneer,165,-1,4
+,Pioneer,165,-1,7
+,Pioneer,165,-1,8
+VOLUME +,Pioneer,165,-1,10
+VOLUME -,Pioneer,165,-1,11
+SAT,Pioneer,165,-1,13
+VCR2,Pioneer,165,-1,14
+VCR1,Pioneer,165,-1,15
+POWER,Pioneer,165,-1,28
+DSP,Pioneer,165,-1,64
+CH. LEVEL -,Pioneer,165,-1,65
+CH. LEVEL +,Pioneer,165,-1,66
+TUNER,Pioneer,165,-1,71
+CD,Pioneer,165,-1,76
+TAPE 1,Pioneer,165,-1,78
+CH SELECT,Pioneer,165,-1,86
+ATT,Pioneer,165,-1,94
+,Pioneer,165,-1,94
+DOLBY,Pioneer,165,-1,94
+MUTE,Pioneer,165,-1,94
+RIGHT CURSOR,Pioneer,165,-1,130
+LEFT CURSOR,Pioneer,165,-1,131
+ENTER,Pioneer,165,-1,132
+DVD,Pioneer,165,-1,133
+SETUP,Pioneer,165,-1,155
+STEREO,Pioneer,165,-1,159
+THX,Pioneer,165,-1,159
+,Pioneer,165,-1,192
+,Pioneer,165,-1,209
+,Pioneer,165,-1,214

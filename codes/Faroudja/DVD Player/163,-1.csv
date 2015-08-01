@@ -1,0 +1,45 @@
+functionname,protocol,device,subdevice,function
+STOP,Pioneer,163,-1,152
+0,Pioneer,163,-1,153
+,Pioneer,163,-1,153
+1,Pioneer,163,-1,153
+2,Pioneer,163,-1,153
+3,Pioneer,163,-1,153
+4,Pioneer,163,-1,153
+5,Pioneer,163,-1,153
+6,Pioneer,163,-1,153
+7,Pioneer,163,-1,153
+8,Pioneer,163,-1,153
+9,Pioneer,163,-1,153
++10,Pioneer,163,-1,153
+ANGLE,Pioneer,163,-1,153
+AUDIO,Pioneer,163,-1,153
+CLEAR,Pioneer,163,-1,153
+CONDITION MEMORY,Pioneer,163,-1,153
+CURSOR DOWN,Pioneer,163,-1,153
+CURSOR ENTER,Pioneer,163,-1,153
+CURSOR LEFT,Pioneer,163,-1,153
+CURSOR RIGHT,Pioneer,163,-1,153
+CURSOR UP,Pioneer,163,-1,153
+DISPLAY,Pioneer,163,-1,153
+LAST MEMORY,Pioneer,163,-1,153
+MENU,Pioneer,163,-1,153
+OPEN/CLOSE,Pioneer,163,-1,153
+POWER,Pioneer,163,-1,153
+PROGRAM,Pioneer,163,-1,153
+RANDOM,Pioneer,163,-1,153
+REPEAT,Pioneer,163,-1,153
+REPEAT A-B,Pioneer,163,-1,153
+RETURN,Pioneer,163,-1,153
+SEARCH MODE,Pioneer,163,-1,153
+SETUP,Pioneer,163,-1,153
+STEP/SLOW <<,Pioneer,163,-1,153
+STEP/SLOW >>,Pioneer,163,-1,153
+SUBTITLE,Pioneer,163,-1,153
+TOP MENU,Pioneer,163,-1,153
+SCAN >>,Pioneer,163,-1,154
+SCAN <<,Pioneer,163,-1,155
+SKIP >>,Pioneer,163,-1,156
+SKIP <<,Pioneer,163,-1,157
+PLAY,Pioneer,163,-1,158
+PAUSE,Pioneer,163,-1,159

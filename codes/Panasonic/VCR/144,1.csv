@@ -1,0 +1,9 @@
+functionname,protocol,device,subdevice,function
+PROGRAM,Panasonic,144,1,1
+PROG/VCR+,Panasonic,144,1,1
+SELECT,Panasonic,144,1,4
+SPEED,Panasonic,144,1,10
+ADD/DELETE,Panasonic,144,1,49
+ADD/DEL,Panasonic,144,1,49
+ACTION,Panasonic,144,1,86
+MENU,Panasonic,144,1,86

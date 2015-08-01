@@ -1,0 +1,9 @@
+functionname,protocol,device,subdevice,function
+VCR 5,RC5,5,-1,5
+VCR 6,RC5,5,-1,6
+VCR 7,RC5,5,-1,7
+VCR 8,RC5,5,-1,8
+VCR 9,RC5,5,-1,9
+VCR STANDBY,RC5,5,-1,12
+VCR CH V (PRESET),RC5,5,-1,33
+VCR STOP [],RC5,5,-1,54

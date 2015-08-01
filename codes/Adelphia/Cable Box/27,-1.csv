@@ -1,0 +1,42 @@
+functionname,protocol,device,subdevice,function
+CURSER UP,Panasonic_Old,27,-1,2
+CURSER LEFT,Panasonic_Old,27,-1,3
+CURSER RIGHT,Panasonic_Old,27,-1,4
+PAUSE,Panasonic_Old,27,-1,5
+GUIDE,Panasonic_Old,27,-1,6
+POWER,Panasonic_Old,27,-1,7
+INFO,Panasonic_Old,27,-1,8
+CURSER DOWN,Panasonic_Old,27,-1,11
+CURSER SELECT,Panasonic_Old,27,-1,12
+LAST,Panasonic_Old,27,-1,14
+1,Panasonic_Old,27,-1,16
+2,Panasonic_Old,27,-1,17
+3,Panasonic_Old,27,-1,18
+4,Panasonic_Old,27,-1,19
+5,Panasonic_Old,27,-1,20
+6,Panasonic_Old,27,-1,21
+7,Panasonic_Old,27,-1,22
+8,Panasonic_Old,27,-1,23
+9,Panasonic_Old,27,-1,24
+LIVE TV,Panasonic_Old,27,-1,26
+CHANNEL +,Panasonic_Old,27,-1,29
+CHANNEL -,Panasonic_Old,27,-1,30
+FAV,Panasonic_Old,27,-1,31
+LIST,Panasonic_Old,27,-1,38
+REPLAY,Panasonic_Old,27,-1,39
+FWD,Panasonic_Old,27,-1,40
+RWD,Panasonic_Old,27,-1,41
+EXIT,Panasonic_Old,27,-1,44
+A,Panasonic_Old,27,-1,47
+B,Panasonic_Old,27,-1,48
+C,Panasonic_Old,27,-1,49
+PLAY,Panasonic_Old,27,-1,51
+STOP,Panasonic_Old,27,-1,52
+RECORD,Panasonic_Old,27,-1,53
+PAGE +,Panasonic_Old,27,-1,54
+PAGE -,Panasonic_Old,27,-1,55
+SETTINGS,Panasonic_Old,27,-1,57
+ASPECT,Panasonic_Old,27,-1,58
+0,Panasonic_Old,27,-1,62
+MENU,Panasonic_Old,27,-1,62
+VOD,Panasonic_Old,27,-1,62

@@ -1,0 +1,5 @@
+functionname,protocol,device,subdevice,function
+PHOTO,Sony15,185,-1,21
+START/STOP,Sony15,185,-1,25
+SEARCH MODE,Sony15,185,-1,45
+DATA CODE,Sony15,185,-1,76

@@ -1,0 +1,5 @@
+functionname,protocol,device,subdevice,function
+VOLUME +,NEC2,170,-1,10
+VOLUME -,NEC2,170,-1,11
+POWER,NEC2,170,-1,28
+MUTE,NEC2,170,-1,73

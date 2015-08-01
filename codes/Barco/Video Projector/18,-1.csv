@@ -1,0 +1,43 @@
+functionname,protocol,device,subdevice,function
+UP,Barco,18,-1,4
+CURSOR UP,Barco,18,-1,4
+DOWN,Barco,18,-1,5
+CURSOR DOWN,Barco,18,-1,5
+>,Barco,18,-1,6
+CURSOR RIGHT,Barco,18,-1,6
+<,Barco,18,-1,7
+CURSOR LEFT,Barco,18,-1,7
+EXIT,Barco,18,-1,8
+ADJ,Barco,18,-1,9
+ADJUST,Barco,18,-1,9
+ENTER,Barco,18,-1,10
+OK,Barco,18,-1,10
+TEXT,Barco,18,-1,13
+POWER,Barco,18,-1,14
+STANDBY,Barco,18,-1,14
+PAUSE,Barco,18,-1,15
+1,Barco,18,-1,16
+,Barco,18,-1,16
+2,Barco,18,-1,17
+3,Barco,18,-1,18
+4,Barco,18,-1,19
+5,Barco,18,-1,20
+,Barco,18,-1,20
+6,Barco,18,-1,21
+7,Barco,18,-1,22
+,Barco,18,-1,22
+8,Barco,18,-1,23
+9,Barco,18,-1,24
+,Barco,18,-1,24
+0,Barco,18,-1,25
+ADDRESS,Barco,18,-1,32
+CONTRAST +,Barco,18,-1,40
+CONTRAST -,Barco,18,-1,41
+BRIGHTNESS +,Barco,18,-1,42
+BRIGHTNESS -,Barco,18,-1,43
+COLOR +,Barco,18,-1,44
+COLOR -,Barco,18,-1,45
+TINT +,Barco,18,-1,46
+TINT -,Barco,18,-1,47
+SHARPNESS +,Barco,18,-1,54
+SHARPNESS -,Barco,18,-1,55

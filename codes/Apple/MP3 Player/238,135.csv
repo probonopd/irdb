@@ -1,0 +1,11 @@
+functionname,protocol,device,subdevice,function
+MENU,Apple,238,135,1
+PLAY/PAUSE,Apple,238,135,2
+>> NEXT,Apple,238,135,3
+TRACK FWD,Apple,238,135,3
+<< PREVIOUS,Apple,238,135,4
+TRACK RWD,Apple,238,135,4
++,Apple,238,135,5
+VOLUME +,Apple,238,135,5
+-,Apple,238,135,6
+VOLUME -,Apple,238,135,6

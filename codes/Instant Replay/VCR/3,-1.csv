@@ -1,0 +1,4 @@
+functionname,protocol,device,subdevice,function
+ADD/DLT,Panasonic_Old,3,-1,29
+ADD/DELETE,Panasonic_Old,3,-1,29
+PROG,Panasonic_Old,3,-1,44

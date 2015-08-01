@@ -1,0 +1,17 @@
+functionname,protocol,device,subdevice,function
+POWER,Barco,0,-1,1
+MIXED,Barco,0,-1,13
+1,Barco,0,-1,16
+2,Barco,0,-1,17
+3,Barco,0,-1,18
+4,Barco,0,-1,19
+5,Barco,0,-1,20
+6,Barco,0,-1,21
+7,Barco,0,-1,22
+8,Barco,0,-1,23
+9,Barco,0,-1,24
+0,Barco,0,-1,25
+TEXT,Barco,0,-1,32
+TIME,Barco,0,-1,33
+1-,Barco,0,-1,34
+2-,Barco,0,-1,35

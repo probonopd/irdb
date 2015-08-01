@@ -1,0 +1,27 @@
+functionname,protocol,device,subdevice,function
+TUNING <,Aiwa,81,0,2
+TUNING >,Aiwa,81,0,3
+1,Aiwa,81,0,4
+2,Aiwa,81,0,5
+3,Aiwa,81,0,6
+4,Aiwa,81,0,7
+5,Aiwa,81,0,8
+6,Aiwa,81,0,9
+7,Aiwa,81,0,10
+8,Aiwa,81,0,11
+AUX,Aiwa,81,0,12
+CD,Aiwa,81,0,13
+DAT/TAPE2,Aiwa,81,0,14
+TAPE1,Aiwa,81,0,16
+TUNER,Aiwa,81,0,17
+PLAY >,Aiwa,81,0,18
+PAUSE ,,,Aiwa,81,0,19
+ALL ON,Aiwa,81,0,20
+ALL OFF,Aiwa,81,0,21
+STOP [],Aiwa,81,0,23
+ROOM ON/OFF,Aiwa,81,0,24
+FM/AM,Aiwa,81,0,25
+TRACK ,<<,Aiwa,81,0,26
+TRACK >>,,Aiwa,81,0,27
+VOLUME <,Aiwa,81,0,30
+VOLUME >,Aiwa,81,0,31

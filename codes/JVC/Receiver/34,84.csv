@@ -1,0 +1,3 @@
+functionname,protocol,device,subdevice,function
+SURR:EX/ES/PLII,JVC-48,34,84,16
+DIMMER,JVC-48,34,84,145

@@ -1,0 +1,5 @@
+functionname,protocol,device,subdevice,function
+CURSOR RIGHT,Sony15,84,-1,51
+CURSOR LEFT,Sony15,84,-1,52
+CURSOR UP,Sony15,84,-1,53
+CURSOR DOWN,Sony15,84,-1,54

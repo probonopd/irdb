@@ -1,0 +1,40 @@
+functionname,protocol,device,subdevice,function
+*  0,Velleman,5,-1,0
+*  1,Velleman,5,-1,1
+*  2,Velleman,5,-1,2
+*  3,Velleman,5,-1,3
+*  4,Velleman,5,-1,4
+*  5,Velleman,5,-1,5
+*  6,Velleman,5,-1,6
+*  7,Velleman,5,-1,7
+*  8,Velleman,5,-1,8
+*  9,Velleman,5,-1,9
+TUNER- INPUT1,RECS80,5,-1,32
+,RECS80,5,-1,32
+SRC 1 (TUNER),Velleman,5,-1,32
+CD INPUT2,RECS80,5,-1,33
+,RECS80,5,-1,33
+SRC 2 (CD),Velleman,5,-1,33
+TAPE- INPUT3,RECS80,5,-1,34
+,RECS80,5,-1,34
+SRC 3 (TAPE 1),Velleman,5,-1,34
+VCR- INPUT4,RECS80,5,-1,35
+,RECS80,5,-1,35
+SRC 4 (VCR 1),Velleman,5,-1,35
+LASER - INPUT5,RECS80,5,-1,36
+SRC 5 (LASER DISC),Velleman,5,-1,36
+CABLE,Velleman,5,-1,38
+TV,Velleman,5,-1,39
+AUX 1- INPUT6,RECS80,5,-1,40
+,RECS80,5,-1,40
+SRC 6 (AUX 1),Velleman,5,-1,40
+AUX 2-INPUT7,RECS80,5,-1,41
+SRC 7 (AUX 2),Velleman,5,-1,41
+AUX 3-INPUT8,RECS80,5,-1,42
+SRC 8 (AUX 3),Velleman,5,-1,42
+AUX4-INPUT9,RECS80,5,-1,43
+,RECS80,5,-1,43
+SRC 9 (AUX 4),Velleman,5,-1,43
+AUX5-INPUT10,RECS80,5,-1,44
+SRC 10 (AUX 5),Velleman,5,-1,44
+DBS,Velleman,5,-1,46

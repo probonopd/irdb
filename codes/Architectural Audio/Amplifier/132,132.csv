@@ -1,0 +1,5 @@
+functionname,protocol,device,subdevice,function
+VOLUME -,NECx1,132,132,5
+VOLUME +,NECx1,132,132,13
+POWER ON,NECx1,132,132,28
+POWER OFF,NECx1,132,132,30

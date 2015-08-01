@@ -1,0 +1,5 @@
+functionname,protocol,device,subdevice,function
+TV POWER,Mitsubishi,71,-1,2
+TV VOL +,Mitsubishi,71,-1,34
+TV VOL -,Mitsubishi,71,-1,42
+TV INPUT,Mitsubishi,71,-1,58

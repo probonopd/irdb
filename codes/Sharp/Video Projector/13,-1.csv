@@ -1,0 +1,11 @@
+functionname,protocol,device,subdevice,function
+INPUT SELECT,Sharp,13,-1,19
+VOLUME +,Sharp,13,-1,20
+VOLUME -,Sharp,13,-1,21
+POWER,Sharp,13,-1,22
+MUTE,Sharp,13,-1,23
+STATUS,Sharp,13,-1,57
+ENTER,Sharp,13,-1,87
+ADJUSTMENT +,Sharp,13,-1,156
+ADJUSTMENT -,Sharp,13,-1,157
+MENU,Sharp,13,-1,196

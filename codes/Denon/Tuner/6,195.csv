@@ -1,0 +1,4 @@
+functionname,protocol,device,subdevice,function
+SETUP,??Kaseikyo-84.50,6,195,0
+RDS,??Kaseikyo-84.50,6,195,1
+SHIFT F,??Kaseikyo-84.50,6,195,2

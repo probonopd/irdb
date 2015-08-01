@@ -1,0 +1,4 @@
+functionname,protocol,device,subdevice,function
+DSS VOL V,NEC1,184,0,154
+DSS VOL ^,NEC1,184,0,155
+DSS2 MUTE,NEC1,184,0,156

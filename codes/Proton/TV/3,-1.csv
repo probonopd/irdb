@@ -1,0 +1,26 @@
+functionname,protocol,device,subdevice,function
+POWER,Proton,3,-1,0
+TV/AV,Proton,3,-1,4
+RECALL,Proton,3,-1,5
+CHANNEL -,Proton,3,-1,6
+CHANNEL +,Proton,3,-1,7
+RGB1/2,Proton,3,-1,9
+VOLUME -,Proton,3,-1,10
+VOLUME +,Proton,3,-1,11
+SLEEP,Proton,3,-1,12
+MUTE,Proton,3,-1,15
+CURSOR,Proton,3,-1,16
+SELECT,Proton,3,-1,17
+LEVEL-,Proton,3,-1,18
+LEVEL+,Proton,3,-1,19
+1,Proton,3,-1,20
+2,Proton,3,-1,21
+3,Proton,3,-1,22
+RESET,Proton,3,-1,23
+4,Proton,3,-1,24
+5,Proton,3,-1,25
+6,Proton,3,-1,26
+7,Proton,3,-1,28
+8,Proton,3,-1,29
+9,Proton,3,-1,30
+0,Proton,3,-1,31

@@ -1,0 +1,63 @@
+functionname,protocol,device,subdevice,function
+A,Denon,24,-1,1
+B,Denon,24,-1,2
+C,Denon,24,-1,3
+D,Denon,24,-1,4
+E,Denon,24,-1,5
+ESC,Denon,24,-1,5
+F,Denon,24,-1,6
+1,Denon,24,-1,6
+G,Denon,24,-1,7
+2,Denon,24,-1,7
+H,Denon,24,-1,8
+3,Denon,24,-1,8
+I,Denon,24,-1,9
+J,Denon,24,-1,10
+4,Denon,24,-1,10
+K,Denon,24,-1,11
+5,Denon,24,-1,11
+L,Denon,24,-1,12
+6,Denon,24,-1,12
+M,Denon,24,-1,13
+N,Denon,24,-1,14
+7,Denon,24,-1,14
+O,Denon,24,-1,15
+8,Denon,24,-1,15
+P,Denon,24,-1,16
+9,Denon,24,-1,16
+Q,Denon,24,-1,17
+ENTER,Denon,24,-1,17
+R,Denon,24,-1,18
+S,Denon,24,-1,19
+0,Denon,24,-1,19
+T,Denon,24,-1,20
+U,Denon,24,-1,25
+V,Denon,24,-1,26
+PLAY >,Denon,24,-1,26
+W,Denon,24,-1,27
+X,Denon,24,-1,28
+STOP [],Denon,24,-1,28
+Y,Denon,24,-1,29
+1,Denon,24,-1,30
+PAUSE ,,,Denon,24,-1,30
+2,Denon,24,-1,31
+3,Denon,24,-1,32
+NEXT,Denon,24,-1,32
+Z,Denon,24,-1,33
+HOME,Denon,24,-1,33
+4,Denon,24,-1,34
+5,Denon,24,-1,35
+^ (UP),Denon,24,-1,35
+6,Denon,24,-1,36
+F1,Denon,24,-1,37
+7,Denon,24,-1,38
+< (LEFT),Denon,24,-1,38
+8,Denon,24,-1,39
+9,Denon,24,-1,40
+> (RIGHT),Denon,24,-1,40
+F2,Denon,24,-1,41
+END,Denon,24,-1,41
+F3,Denon,24,-1,42
+0,Denon,24,-1,43
+V (DOWN),Denon,24,-1,43
+F4,Denon,24,-1,44

@@ -1,0 +1,23 @@
+functionname,protocol,device,subdevice,function
+CHANNEL - PREVIOUS,ScAtl-6,38,-1,14
+PRESET,ScAtl-6,38,-1,15
+1,ScAtl-6,38,-1,16
+2,ScAtl-6,38,-1,17
+3,ScAtl-6,38,-1,18
+4,ScAtl-6,38,-1,19
+5,ScAtl-6,38,-1,20
+6,ScAtl-6,38,-1,21
+7,ScAtl-6,38,-1,22
+8,ScAtl-6,38,-1,23
+9,ScAtl-6,38,-1,24
+0,ScAtl-6,38,-1,25
+STORE,ScAtl-6,38,-1,26
+POWER,ScAtl-6,38,-1,28
+CHANNEL - UP,ScAtl-6,38,-1,29
+CHANNEL - DOWN,ScAtl-6,38,-1,30
+SCAN,ScAtl-6,38,-1,31
+VOLUME - MUTE,ScAtl-6,38,-1,32
+VOLUME - DOWN,ScAtl-6,38,-1,33
+VOLUME - UP,ScAtl-6,38,-1,34
+FORMAT,ScAtl-6,38,-1,36
+BUY,ScAtl-6,38,-1,37

@@ -1,0 +1,6 @@
+functionname,protocol,device,subdevice,function
+TEXT,JVC,35,-1,19
+D,JVC,35,-1,60
+3D SOUND / GREEN,JVC,35,-1,61
+PIP SOUND / YELLOW,JVC,35,-1,62
+PIP / BLUE,JVC,35,-1,63

@@ -1,0 +1,4 @@
+functionname,protocol,device,subdevice,function
+MUTE,RC5,0,-1,13
+VOLUME -,RC5,0,-1,20
+VOLUME +,RC5,0,-1,21

@@ -1,0 +1,10 @@
+functionname,protocol,device,subdevice,function
+SUPERIMPOSE,Sony12,9,-1,13
+STOP,Sony12,9,-1,24
+PAUSE,Sony12,9,-1,25
+PLAY,Sony12,9,-1,26
+REW,Sony12,9,-1,27
+FF,Sony12,9,-1,28
+REC,Sony12,9,-1,30
+SEARCH >>,Sony12,9,-1,38
+SEARCH <<,Sony12,9,-1,39

@@ -1,0 +1,8 @@
+functionname,protocol,device,subdevice,function
+NEXT,RC5,20,-1,32
+BACK,RC5,20,-1,33
+PAUSE,RC5,20,-1,48
+SEARCH <<,RC5,20,-1,50
+SEARCH >>,RC5,20,-1,52
+PLAY,RC5,20,-1,53
+STOP,RC5,20,-1,54

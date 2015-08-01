@@ -1,0 +1,47 @@
+functionname,protocol,device,subdevice,function
+SOURCE POWER,Velleman,4,-1,0
+SKIP >>,Velleman,4,-1,2
+SKIP <<,Velleman,4,-1,3
+PLAY,Velleman,4,-1,4
+STOP,Velleman,4,-1,5
+CHANNEL +,Velleman,4,-1,8
+CHANNEL -,Velleman,4,-1,9
+RECORD,Velleman,4,-1,10
+TV/VCR,Velleman,4,-1,11
+PAUSE,Velleman,4,-1,12
+REWIND,Velleman,4,-1,13
+FAST FWD,Velleman,4,-1,15
+RECALL,Velleman,4,-1,16
+ENTER,Velleman,4,-1,17
+A,Velleman,4,-1,18
+ACCOUSTIC,Velleman,4,-1,18
+B,Velleman,4,-1,19
+C,Velleman,4,-1,20
+D,Velleman,4,-1,21
+E,Velleman,4,-1,22
+F,Velleman,4,-1,23
+G,Velleman,4,-1,24
+H,Velleman,4,-1,25
+I,Velleman,4,-1,26
+J,Velleman,4,-1,27
+0,Velleman,4,-1,28
+1,Velleman,4,-1,29
+2,Velleman,4,-1,30
+3,Velleman,4,-1,31
+4,Velleman,4,-1,32
+5,Velleman,4,-1,33
+6,Velleman,4,-1,34
+7,Velleman,4,-1,35
+8,Velleman,4,-1,36
+9,Velleman,4,-1,37
+*  MUTE,Velleman,4,-1,38
+*  SKIP +,Velleman,4,-1,39
+*  SKIP -,Velleman,4,-1,40
+*  PLAY,Velleman,4,-1,41
+*  STOP,Velleman,4,-1,42
+*  CHAN +,Velleman,4,-1,45
+*  CHAN -,Velleman,4,-1,46
+*  RECALL,Velleman,4,-1,47
+*  ENTER,Velleman,4,-1,48
+*  TV,Velleman,4,-1,49
+*  ELAN,Velleman,4,-1,63

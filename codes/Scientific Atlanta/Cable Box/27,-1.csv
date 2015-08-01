@@ -1,0 +1,36 @@
+functionname,protocol,device,subdevice,function
+CURSOR UP,Panasonic_Old,27,-1,2
+CURSOR LEFT,Panasonic_Old,27,-1,3
+CURSOR RIGHT,Panasonic_Old,27,-1,4
+GUIDE,Panasonic_Old,27,-1,6
+POWER,Panasonic_Old,27,-1,7
+INFO,Panasonic_Old,27,-1,8
+DISPLAY,Panasonic_Old,27,-1,8
+END,Panasonic_Old,27,-1,10
+CURSOR DOWN,Panasonic_Old,27,-1,11
+SELECT,Panasonic_Old,27,-1,12
+BYPASS,Panasonic_Old,27,-1,13
+LAST,Panasonic_Old,27,-1,14
+1,Panasonic_Old,27,-1,16
+2,Panasonic_Old,27,-1,17
+3,Panasonic_Old,27,-1,18
+4,Panasonic_Old,27,-1,19
+5,Panasonic_Old,27,-1,20
+6,Panasonic_Old,27,-1,21
+7,Panasonic_Old,27,-1,22
+8,Panasonic_Old,27,-1,23
+9,Panasonic_Old,27,-1,24
+0,Panasonic_Old,27,-1,25
+PRG,Panasonic_Old,27,-1,26
+AU,Panasonic_Old,27,-1,27
+OFF,Panasonic_Old,27,-1,28
+CHANNEL +,Panasonic_Old,27,-1,29
+CHANNEL -,Panasonic_Old,27,-1,30
+FAVORITE,Panasonic_Old,27,-1,31
+RCL,Panasonic_Old,27,-1,31
+A,Panasonic_Old,27,-1,47
+B,Panasonic_Old,27,-1,48
+C,Panasonic_Old,27,-1,49
+PAGE +,Panasonic_Old,27,-1,54
+PAGE -,Panasonic_Old,27,-1,55
+SETTINGS,Panasonic_Old,27,-1,57

@@ -1,0 +1,44 @@
+functionname,protocol,device,subdevice,function
+0,Proton,21,-1,0
+1,Proton,21,-1,1
+2,Proton,21,-1,2
+3,Proton,21,-1,3
+4,Proton,21,-1,4
+5,Proton,21,-1,5
+6,Proton,21,-1,6
+7,Proton,21,-1,7
+8,Proton,21,-1,8
+9,Proton,21,-1,9
+100,Proton,21,-1,10
+SETUP,Proton,21,-1,11
+OUTPUT,Proton,21,-1,12
+STOP,Proton,21,-1,13
+PAUSE,Proton,21,-1,14
+PLAY,Proton,21,-1,14
+MENU,Proton,21,-1,17
+REC,Proton,21,-1,18
+SEARCH >>,Proton,21,-1,19
+SKIP >>,Proton,21,-1,19
+SEARCH <<,Proton,21,-1,20
+SKIP <<,Proton,21,-1,20
+POWER,Proton,21,-1,21
+TV/VCR,Proton,21,-1,22
+CURSER UP,Proton,21,-1,23
+CURSER DOWN,Proton,21,-1,24
+CURSER RIGHT,Proton,21,-1,25
+CURSER LEFT,Proton,21,-1,26
+ANGLE/DIGEST SPEED,Proton,21,-1,27
+SEARCH,Proton,21,-1,29
+OPEN/CLOSE,Proton,21,-1,30
+DISPLAY,Proton,21,-1,31
+TITLE/PB,Proton,21,-1,32
+ZOOM,Proton,21,-1,33
+ENTER,Proton,21,-1,35
+SUBTITLE,Proton,21,-1,37
+VCR,Proton,21,-1,38
+DVD,Proton,21,-1,39
+REPEAT,Proton,21,-1,41
+PROGRAM,Proton,21,-1,44
+AUDIO MODE,Proton,21,-1,55
+A-B,Proton,21,-1,60
+SIDE A/B,Proton,21,-1,60

@@ -1,0 +1,24 @@
+functionname,protocol,device,subdevice,function
+POWER,Panasonic_Old,27,-1,7
+DISPLAY,Panasonic_Old,27,-1,8
+SLEEP,Panasonic_Old,27,-1,9
+MENU,Panasonic_Old,27,-1,10
+--->,Panasonic_Old,27,-1,11
+SELECT,Panasonic_Old,27,-1,12
+LAST,Panasonic_Old,27,-1,14
+BUY,Panasonic_Old,27,-1,15
+1,Panasonic_Old,27,-1,16
+2,Panasonic_Old,27,-1,17
+3,Panasonic_Old,27,-1,18
+4,Panasonic_Old,27,-1,19
+5,Panasonic_Old,27,-1,20
+6,Panasonic_Old,27,-1,21
+7,Panasonic_Old,27,-1,22
+8,Panasonic_Old,27,-1,23
+9,Panasonic_Old,27,-1,24
+0,Panasonic_Old,27,-1,25
+CHANNEL +,Panasonic_Old,27,-1,29
+CHANNEL -,Panasonic_Old,27,-1,30
+VOLUME +,Panasonic_Old,27,-1,32
+VOLUME -,Panasonic_Old,27,-1,33
+MUTE,Panasonic_Old,27,-1,34

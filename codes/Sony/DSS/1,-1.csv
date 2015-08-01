@@ -1,0 +1,9 @@
+functionname,protocol,device,subdevice,function
+VOLUME +,Sony12,1,-1,18
+VOL+,Sony12,1,-1,18
+VOLUME -,Sony12,1,-1,19
+VOL-,Sony12,1,-1,19
+TV/VIDEO,Sony12,1,-1,37
+SLEEP,Sony12,1,-1,54
+MENU,Sony12,1,-1,96
+PIC MODE,Sony12,1,-1,100

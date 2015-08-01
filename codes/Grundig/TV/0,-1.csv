@@ -1,0 +1,35 @@
+functionname,protocol,device,subdevice,function
+OK,Blaupunkt,0,-1,0
+MUTE,Blaupunkt,0,-1,1
+POWER,Blaupunkt,0,-1,2
+TV-G,Blaupunkt,0,-1,4
+? / ,<,Blaupunkt,0,-1,5
+Z / DISC MENU,Blaupunkt,0,-1,7
+VOL+ / RIGHT,Blaupunkt,0,-1,8
+VOLUME +,Blaupunkt,0,-1,8
+VOL- / LEFT,Blaupunkt,0,-1,9
+VOLUME -,Blaupunkt,0,-1,9
+0,Blaupunkt,0,-1,16
+1,Blaupunkt,0,-1,17
+0,Blaupunkt,0,-1,17
+2,Blaupunkt,0,-1,18
+3,Blaupunkt,0,-1,19
+4,Blaupunkt,0,-1,20
+5,Blaupunkt,0,-1,21
+6,Blaupunkt,0,-1,22
+7,Blaupunkt,0,-1,23
+8,Blaupunkt,0,-1,24
+9,Blaupunkt,0,-1,25
+ASPECT / >,,Blaupunkt,0,-1,26
+PIP / AUDIO,Blaupunkt,0,-1,41
+P+ / UP,Blaupunkt,0,-1,42
+CHANNEL +,Blaupunkt,0,-1,42
+P- / DOWN,Blaupunkt,0,-1,43
+CHANNEL -,Blaupunkt,0,-1,43
+I (MENU) / OSD,Blaupunkt,0,-1,45
+INFORMATION,Blaupunkt,0,-1,45
+BLUE / AUDIO,Blaupunkt,0,-1,46
+TEXT,Blaupunkt,0,-1,48
+RED / DISPLAY,Blaupunkt,0,-1,58
+YELLOW / PAUSE,Blaupunkt,0,-1,59
+GREEN / SLEEP,Blaupunkt,0,-1,62

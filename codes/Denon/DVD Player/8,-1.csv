@@ -1,0 +1,180 @@
+functionname,protocol,device,subdevice,function
+SACD SETUP,Denon,8,-1,126
+SASC SETUP,Denon,8,-1,126
+SUPER AUDIO CD,Denon,8,-1,126
+SUPER AUDIO CD SETUP,Denon,8,-1,126
+SUPER AUDIO CD SET,Denon,8,-1,126
+0,Denon,8,-1,129
+6,Denon,8,-1,129
+1,Denon,8,-1,130
+2,Denon,8,-1,131
+3,Denon,8,-1,132
+4,Denon,8,-1,133
+,Denon,8,-1,133
+,Denon{2},8,-1,133
+5,Denon,8,-1,134
+6,Denon,8,-1,135
+7,Denon,8,-1,136
+8,Denon,8,-1,137
+9,Denon,8,-1,138
++10,Denon,8,-1,140
+10,Denon,8,-1,140
+>= 10,Denon,8,-1,140
+>10,Denon,8,-1,140
+SUBTITLE,Denon,8,-1,141
+,Denon,8,-1,141
+,Denon{2},8,-1,141
+AUDIO MODE,Denon,8,-1,142
+AUDIO,Denon,8,-1,142
+ANGLE,Denon,8,-1,143
+OPEN/CLOSE,Denon,8,-1,144
+MENU,Denon,8,-1,145
+RETURN,Denon,8,-1,146
+EXIT,Denon,8,-1,146
+REAPEAT,Denon,8,-1,148
+REPEAT,Denon,8,-1,148
+SKIP +,Denon,8,-1,152
+SKIP FORWARD,Denon,8,-1,152
+SKIP>>,Denon,8,-1,152
+SKIP >>,Denon,8,-1,152
+NEXT TRACK,Denon,8,-1,152
+SKIP >>I,Denon,8,-1,152
+FRAME >>,Denon,8,-1,152
+SKIP>>I,Denon,8,-1,152
+TRACK >>,Denon,8,-1,152
+SKIP -,Denon,8,-1,153
+SKIP REVERSE,Denon,8,-1,153
+SKIP<<,Denon,8,-1,153
+NEXT,Denon,8,-1,153
+SKIP <<,Denon,8,-1,153
+PREVIOUS TRACK,Denon,8,-1,153
+SKIP I<<,Denon,8,-1,153
+FRAME <<,Denon,8,-1,153
+I<<SKIP,Denon,8,-1,153
+<<SKIP,Denon,8,-1,153
+,Denon,8,-1,153
+TRACK <<,Denon,8,-1,153
+FAST FORWARD,Denon,8,-1,154
+SLOW/FAST FORWARD,Denon,8,-1,154
+SLOW>,Denon,8,-1,154
+PREVIOUS,Denon,8,-1,154
+SHUTTLE FORWARD,Denon,8,-1,154
+SEARCH >>,Denon,8,-1,154
+SEARCH >> SLOW,Denon,8,-1,154
+,Denon,8,-1,154
+SLOW MOTION +,Denon{2},8,-1,154
+>>,Denon,8,-1,154
+SCAN >>,Denon,8,-1,154
+FRAME >>,Denon,8,-1,154
+FF,Denon,8,-1,154
+SLOW>>,Denon,8,-1,154
+>>>,Denon,8,-1,154
+FWD,Denon,8,-1,154
+SKIP >>,Denon,8,-1,154
+REWIND,Denon,8,-1,155
+SLOW/FAST REVERSE,Denon,8,-1,155
+SLOW<,Denon,8,-1,155
+SHUTTLE REVERSE,Denon,8,-1,155
+SLOW/FAST FORWARD,Denon,8,-1,155
+SEARCH <<,Denon,8,-1,155
+SEARCH << SLOW,Denon,8,-1,155
+SLOW MOTION -,Denon,8,-1,155
+<<,Denon,8,-1,155
+SCAN <<,Denon,8,-1,155
+FRAME <<,Denon,8,-1,155
+REW,Denon,8,-1,155
+<<SLOW,Denon,8,-1,155
+<<<,Denon,8,-1,155
+REV,Denon,8,-1,155
+SKIP <<,Denon,8,-1,155
+MODE,Denon,8,-1,156
+SLOW/FAST REVERSE,Denon,8,-1,156
+PAUSE,Denon,8,-1,157
+PAUSE/STILL,Denon,8,-1,157
+STILL/PAUSE,Denon,8,-1,157
+PAUSE,Denon,8,-1,158
+PLAY,Denon,8,-1,160
+PLAY >,Denon,8,-1,160
+STOP,Denon,8,-1,161
+PROGRAM/DIRECT,Denon,8,-1,162
+PROG/DIR.,Denon,8,-1,162
+PROG/DIRECT,Denon,8,-1,162
+PROG/DIR,Denon,8,-1,162
+PROGRAM/DIR,Denon,8,-1,162
+PROG./DIRECT,Denon,8,-1,162
+CLEAR,Denon,8,-1,163
+DISC 1,Denon,8,-1,164
+DISC 2,Denon,8,-1,165
+DISC 3,Denon,8,-1,166
+DISPLAY,Denon,8,-1,167
+,Denon,8,-1,167
+INFO,Denon,8,-1,167
+DISC 4,Denon,8,-1,168
+DISC 5,Denon,8,-1,169
+,Denon,8,-1,169
+RANDOM,Denon,8,-1,170
+DISC SKIP,Denon,8,-1,171
+CURSOR UP,Denon,8,-1,172
+UP,Denon,8,-1,172
+C-UP,Denon,8,-1,172
+MENU UP,Denon,8,-1,172
+CURSER UP,Denon,8,-1,172
+C UP,Denon,8,-1,172
+UP ARROW,Denon,8,-1,172
+CURSOR DOWN,Denon,8,-1,173
+DOWN,Denon,8,-1,173
+CURSOR DN,Denon,8,-1,173
+C-DOWN,Denon,8,-1,173
+MENU DOWN,Denon,8,-1,173
+CURSER DN,Denon,8,-1,173
+C DN,Denon,8,-1,173
+DN,Denon,8,-1,173
+,Denon,8,-1,173
+DOWN ARROW,Denon,8,-1,173
+CURSOR RIGHT,Denon,8,-1,174
+RIGHT,Denon,8,-1,174
+CURSOR RT,Denon,8,-1,174
+C-RT,Denon,8,-1,174
+MENU RIGHT,Denon,8,-1,174
+CURSER RT,Denon,8,-1,174
+C RT,Denon,8,-1,174
+RIGHT ARROW,Denon,8,-1,174
+CURSOR LEFT,Denon,8,-1,175
+LEFT,Denon,8,-1,175
+CURSOR LF,Denon,8,-1,175
+C-LF,Denon,8,-1,175
+MENU LEFT,Denon,8,-1,175
+CURSER LEFT,Denon,8,-1,175
+C LF,Denon,8,-1,175
+LEFT ARROW,Denon,8,-1,175
+POWER ON,Denon,8,-1,177
+ON,Denon,8,-1,177
+POWER,Denon,8,-1,177
+DVD ON,Denon,8,-1,177
+SRS.TS,Denon,8,-1,182
+V.S.S.,Denon,8,-1,182
+SRS TS,Denon,8,-1,182
+VIRTUAL,Denon,8,-1,182
+V.S.S,Denon,8,-1,182
+NTSC/PAL,Denon,8,-1,183
+MARKER,Denon,8,-1,185
+A-B REPEAT,Denon,8,-1,186
+A-B,Denon,8,-1,186
+REPEAT A-B,Denon,8,-1,186
+SIDE A/B,Denon,8,-1,186
+CURSOR ENTER,Denon,8,-1,187
+ENTER,Denon,8,-1,187
+SELECT,Denon,8,-1,187
+CURSOR SELECT,Denon,8,-1,187
+SETUP,Denon,8,-1,188
+SET UP,Denon,8,-1,188
+,Denon,8,-1,188
+,Denon{2},8,-1,188
+TOP MENU,Denon,8,-1,189
+TITLE,Denon,8,-1,189
+TOP MENNU,Denon,8,-1,189
+TEST RETURN,Denon,8,-1,189
+MODE,Denon,8,-1,189
+MENU,Denon,8,-1,189
+CALL,Denon,8,-1,190
+FL DISPLAY,Denon,8,-1,191

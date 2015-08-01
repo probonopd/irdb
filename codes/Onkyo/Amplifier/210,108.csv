@@ -1,0 +1,4 @@
+functionname,protocol,device,subdevice,function
+MULTI CHANEL INPUT,NEC1,210,108,4
+DVD,NEC1,210,108,140
+,NEC1,210,108,140

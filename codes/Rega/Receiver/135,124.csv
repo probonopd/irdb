@@ -1,0 +1,5 @@
+functionname,protocol,device,subdevice,function
+FM,NEC1,135,124,129
+AM,NEC1,135,124,130
+PRESET -,NEC1,135,124,209
+PRESET +,NEC1,135,124,210

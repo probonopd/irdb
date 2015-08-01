@@ -1,0 +1,11 @@
+functionname,protocol,device,subdevice,function
+AUDIO/VIDEO,Sharp,1,-1,19
+ARROW RIGHT,Sharp,1,-1,20
+VOLUME UP,Sharp,1,-1,20
+ARROW DOWN,Sharp,1,-1,21
+ARROW LEFT,Sharp,1,-1,21
+VOLUME DOWN,Sharp,1,-1,21
+POWER,Sharp,1,-1,22
+MUTE,Sharp,1,-1,23
+ARROW UP,Sharp,1,-1,87
+MENU,Sharp,1,-1,196

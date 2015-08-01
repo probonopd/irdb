@@ -1,0 +1,9 @@
+functionname,protocol,device,subdevice,function
+OFF,RC5,30,-1,0
+ON,RC5,30,-1,1
+SCENE 1,RC5,30,-1,2
+SCENE 2,RC5,30,-1,3
+SCENE 3,RC5,30,-1,4
+SCENE 4,RC5,30,-1,5
+RAISE,RC5,30,-1,33
+LOWER,RC5,30,-1,34

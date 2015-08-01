@@ -1,0 +1,48 @@
+functionname,protocol,device,subdevice,function
+INFO,Dish_Network,0,4,0
+POWER ON,Dish_Network,0,4,1
+POWER,Dish_Network,0,4,2
+1,Dish_Network,0,4,4
+2,Dish_Network,0,4,5
+2 - ABC,Dish_Network,0,4,5
+3,Dish_Network,0,4,6
+3 - DEF,Dish_Network,0,4,6
+4,Dish_Network,0,4,8
+4 - GHI,Dish_Network,0,4,8
+5,Dish_Network,0,4,9
+5 - JKL,Dish_Network,0,4,9
+6,Dish_Network,0,4,10
+6 - MNO,Dish_Network,0,4,10
+MENU,Dish_Network,0,4,11
+7,Dish_Network,0,4,12
+7 - PQRS,Dish_Network,0,4,12
+8,Dish_Network,0,4,13
+8 - TUV,Dish_Network,0,4,13
+9,Dish_Network,0,4,14
+9 - WXYZ,Dish_Network,0,4,14
+CURSOR ENTER,Dish_Network,0,4,16
+ENTER,Dish_Network,0,4,16
+SELECT,Dish_Network,0,4,16
+0,Dish_Network,0,4,17
+CANCEL,Dish_Network,0,4,18
+GUIDE,Dish_Network,0,4,20
+VIEW,Dish_Network,0,4,22
+TV/VIDEO,Dish_Network,0,4,23
+CURSOR RIGHT,Dish_Network,0,4,24
+CURSOR RIGHT(BROWSE),Dish_Network,0,4,24
+CHANNEL -,Dish_Network,0,4,26
+CURSOR UP,Dish_Network,0,4,26
+RECALL,Dish_Network,0,4,27
+CURSOR LEFT,Dish_Network,0,4,28
+CURSOR LEFT (THEME),Dish_Network,0,4,28
+CHANNEL +,Dish_Network,0,4,30
+CURSOR DOWN,Dish_Network,0,4,30
+RECORD,Dish_Network,0,4,31
+PAUSE,Dish_Network,0,4,32
+PAUSE ,,Dish_Network,0,4,32
+STOP,Dish_Network,0,4,33
+* FORMAT,Dish_Network,0,4,37
+*,Dish_Network,0,4,37
+# SEARCH,Dish_Network,0,4,38
+# - SEARCH,Dish_Network,0,4,38
+POWER OFF,Dish_Network,0,4,39

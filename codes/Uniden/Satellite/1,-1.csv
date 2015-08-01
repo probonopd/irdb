@@ -1,0 +1,41 @@
+functionname,protocol,device,subdevice,function
+SKEW,Denon,1,-1,9
+VIDEO,Denon,1,-1,10
+AUDIO,Denon,1,-1,11
+MUTE,Denon,1,-1,12
+3-F,Denon,1,-1,13
+2-T,Denon,1,-1,14
+1-G,Denon,1,-1,15
+POLARITY,Denon,1,-1,16
+SET UP,Denon,1,-1,17
+TEXT,Denon,1,-1,18
+CANCEL,Denon,1,-1,19
+VOLUME -,Denon,1,-1,20
+WEST,Denon,1,-1,21
+CHANNEL -,Denon,1,-1,22
+EAST,Denon,1,-1,23
+HELP,Denon,1,-1,24
+NEXT,Denon,1,-1,26
+VOLUME +,Denon,1,-1,28
+CHANNEL +,Denon,1,-1,30
+MESSAGE,Denon,1,-1,32
+MENU,Denon,1,-1,37
+0-B,Denon,1,-1,38
+CALL,Denon,1,-1,39
+POWER,Denon,1,-1,40
+FREEZE,Denon,1,-1,41
+SCAN,Denon,1,-1,42
+PIP,Denon,1,-1,43
+VIEW,Denon,1,-1,44
+9-K,Denon,1,-1,45
+8-R,Denon,1,-1,46
+7-S,Denon,1,-1,47
+REVIEW,Denon,1,-1,48
+TI/BW,Denon,1,-1,49
+C/KU,Denon,1,-1,50
+AUX,Denon,1,-1,51
+ENTER,Denon,1,-1,52
+6-C,Denon,1,-1,53
+5-W,Denon,1,-1,54
+4-D,Denon,1,-1,55
+SAT/TV,Denon,1,-1,56

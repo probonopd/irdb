@@ -1,0 +1,26 @@
+functionname,protocol,device,subdevice,function
+1 ,<-->,,Akai,2,-1,33
+OPEN,Akai,2,-1,33
+OPEN 1,Akai,2,-1,33
+,<- ->, (OPEN),Akai,2,-1,33
+1 -><-,Akai,2,-1,34
+CLOSE,Akai,2,-1,34
+CLOSE 1,Akai,2,-1,34
+-><- (CLOSE),Akai,2,-1,34
+2 ,<-->,,Akai,2,-1,35
+OPEN 2,Akai,2,-1,35
+2 -><-,Akai,2,-1,36
+CLOSE 2,Akai,2,-1,36
+STOP,Akai,2,-1,37
+STOP CLOSE,Akai,2,-1,37
+STOP OPEN,Akai,2,-1,37
+3 ,<-->,,Akai,2,-1,38
+OPEN 3,Akai,2,-1,38
+3 -><-,Akai,2,-1,40
+CLOSE 3,Akai,2,-1,40
+4 ,<-->,,Akai,2,-1,41
+4 -><-,Akai,2,-1,42
+5 ,<-->,,Akai,2,-1,44
+5 -><-,Akai,2,-1,48
+6 ,<-->,,Akai,2,-1,49
+6 -><-,Akai,2,-1,50

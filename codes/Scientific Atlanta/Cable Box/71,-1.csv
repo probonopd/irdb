@@ -1,0 +1,4 @@
+functionname,protocol,device,subdevice,function
+VOLUME +,Mitsubishi,71,-1,34
+VOLUME -,Mitsubishi,71,-1,42
+MUTE,Mitsubishi,71,-1,50

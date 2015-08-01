@@ -1,0 +1,4 @@
+functionname,protocol,device,subdevice,function
+SAT VOL ^,Sony12,1,-1,18
+SAT VOL V,Sony12,1,-1,19
+SAT MUTE,Sony12,1,-1,20

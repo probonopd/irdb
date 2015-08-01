@@ -1,0 +1,12 @@
+functionname,protocol,device,subdevice,function
+VOLUME +,Sony12,16,-1,18
+VOLUME -,Sony12,16,-1,19
+MUTE,Sony12,16,-1,20
+POWER,Sony12,16,-1,21
+VIDEO 2,Sony12,16,-1,30
+PHONO,Sony12,16,-1,32
+TUNER,Sony12,16,-1,33
+VIDEO 1,Sony12,16,-1,34
+TAPE,Sony12,16,-1,35
+CD,Sony12,16,-1,37
+DAT,Sony12,16,-1,70

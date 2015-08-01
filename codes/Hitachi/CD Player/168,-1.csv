@@ -1,0 +1,36 @@
+functionname,protocol,device,subdevice,function
+0,Pioneer,168,-1,0
+1,Pioneer,168,-1,1
+2,Pioneer,168,-1,2
+3,Pioneer,168,-1,3
+4,Pioneer,168,-1,4
+5,Pioneer,168,-1,5
+6,Pioneer,168,-1,6
+7,Pioneer,168,-1,7
+8,Pioneer,168,-1,8
+9,Pioneer,168,-1,9
+AUTO DIG/ANALOG,Pioneer,168,-1,12
+CX,Pioneer,168,-1,14
+SEARCH >>,Pioneer,168,-1,16
+SEARCH <<,Pioneer,168,-1,17
+CHAP/FRAME-TIME,Pioneer,168,-1,19
+STOP/OPEN [],Pioneer,168,-1,22
+PLAY >,Pioneer,168,-1,23
+PAUSE ,,,Pioneer,168,-1,24
+POWER,Pioneer,168,-1,28
+AUDIO MONITOR,Pioneer,168,-1,30
++10,Pioneer,168,-1,31
+SEARCH/MEMORY,Pioneer,168,-1,66
+DISPLAY,Pioneer,168,-1,67
+REPEAT B,Pioneer,168,-1,68
+CLEAR,Pioneer,168,-1,69
+MULTI SPEED -,Pioneer,168,-1,70
+MULTI SPEED +,Pioneer,168,-1,71
+REPEAT A,Pioneer,168,-1,72
+PROGRAM,Pioneer,168,-1,76
+STILL/STEP <,,,Pioneer,168,-1,80
+CHAPTER/TRACK >>,,Pioneer,168,-1,82
+CHAPTER/TRACK ,<<,Pioneer,168,-1,83
+STILL/STEP ,,>,Pioneer,168,-1,84
+MULTI SPEED <,Pioneer,168,-1,85
+MULTI SPEED >,Pioneer,168,-1,88

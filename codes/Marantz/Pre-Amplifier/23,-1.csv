@@ -1,0 +1,4 @@
+functionname,protocol,device,subdevice,function
+DAT/TAPE2 < >,RC5,23,-1,47
+DAT/TAPE2 PAUSE ,,,RC5,23,-1,48
+DAT/TAPE2 REC,RC5,23,-1,55

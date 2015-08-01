@@ -1,0 +1,14 @@
+functionname,protocol,device,subdevice,function
+CLOCK,Sony12,3,-1,43
+AUDIO/RED,Sony12,3,-1,76
+AUDIO MENU,Sony12,3,-1,76
+RED,Sony12,3,-1,76
+PICTURE/GREEN,Sony12,3,-1,77
+GREEN,Sony12,3,-1,77
+VIDEO MENU,Sony12,3,-1,77
+MULTISELECT/YELLOW,Sony12,3,-1,78
+MULTI-PIP,Sony12,3,-1,78
+YELLOW,Sony12,3,-1,78
+16/9/BLUE,Sony12,3,-1,79
+BLUE,Sony12,3,-1,79
+ZOOM,Sony12,3,-1,79

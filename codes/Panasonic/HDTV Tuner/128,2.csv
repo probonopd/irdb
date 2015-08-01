@@ -1,0 +1,25 @@
+functionname,protocol,device,subdevice,function
+1,Panasonic,128,2,160
+2,Panasonic,128,2,161
+3,Panasonic,128,2,162
+4,Panasonic,128,2,163
+5,Panasonic,128,2,164
+6,Panasonic,128,2,165
+7,Panasonic,128,2,166
+8,Panasonic,128,2,167
+9,Panasonic,128,2,168
+0,Panasonic,128,2,169
+PAGE DOWN,Panasonic,128,2,182
+PAGE UP,Panasonic,128,2,183
+INFO,Panasonic,128,2,185
+POWER,Panasonic,128,2,189
+ENTER,Panasonic,128,2,195
+GUIDE,Panasonic,128,2,197
+EXIT,Panasonic,128,2,198
+CHANNEL +,Panasonic,128,2,202
+CURSOR UP,Panasonic,128,2,202
+CHANNEL -,Panasonic,128,2,203
+CURSOR DOWN,Panasonic,128,2,203
+CURSOR LEFT,Panasonic,128,2,205
+CURSOR RIGHT,Panasonic,128,2,206
+LAST,Panasonic,128,2,209

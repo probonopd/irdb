@@ -1,0 +1,10 @@
+functionname,protocol,device,subdevice,function
+VISUAL I/O,Sony12,11,-1,21
+,Sony12,11,-1,46
+,Sony12,11,-1,47
+ARROW UP,Sony12,11,-1,66
+ARROW DOWN,Sony12,11,-1,67
+MENU,Sony12,11,-1,77
+ENTER/OK,Sony12,11,-1,81
+ARROW RIGHT,Sony12,11,-1,97
+ARROW LEFT,Sony12,11,-1,98

@@ -1,0 +1,7 @@
+functionname,protocol,device,subdevice,function
+FF >>,NEC1,136,-1,1
+REW <<,NEC1,136,-1,2
+STOP [],NEC1,136,-1,3
+RECORD,NEC1,136,-1,5
+PLAY >,NEC1,136,-1,6
+PAUSE ,,,NEC1,136,-1,15

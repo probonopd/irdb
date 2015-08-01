@@ -1,0 +1,59 @@
+functionname,protocol,device,subdevice,function
+TUNER,Panasonic,128,0,0
+VIDEO 1,Panasonic,128,0,1
+VIDEO 2,Panasonic,128,0,2
+VIDEO 3,Panasonic,128,0,3
+VIDEO 4,Panasonic,128,0,4
+COMPONENT 1,Panasonic,128,0,4
+TV/VIDEO,Panasonic,128,0,5
+INPUT SOURCE,Panasonic,128,0,5
+AV-ADJ.,Panasonic,128,0,6
+NORMAL,Panasonic,128,0,12
+1,Panasonic,128,0,16
+2,Panasonic,128,0,17
+3,Panasonic,128,0,18
+4,Panasonic,128,0,19
+5,Panasonic,128,0,20
+6,Panasonic,128,0,21
+7,Panasonic,128,0,22
+8,Panasonic,128,0,23
+9,Panasonic,128,0,24
+0,Panasonic,128,0,25
+VOLUME +,Panasonic,128,0,32
+VOLUME +/RIGHT,Panasonic,128,0,32
+CURSOR RIGHT,Panasonic,128,0,32
+VOLUME -,Panasonic,128,0,33
+VOLUME -/LEFT,Panasonic,128,0,33
+CURSOR LEFT,Panasonic,128,0,33
+MUTE,Panasonic,128,0,50
+CHANNEL +,Panasonic,128,0,52
+CHANNEL +/UP,Panasonic,128,0,52
+CURSOR UP,Panasonic,128,0,52
+CHANNEL -/DOWN,Panasonic,128,0,53
+CHANNEL -,Panasonic,128,0,53
+CURSOR DOWN,Panasonic,128,0,53
+R-TUNE,Panasonic,128,0,55
+RAPID TUNE,Panasonic,128,0,55
+LAST,Panasonic,128,0,55
+SEARCH,Panasonic,128,0,56
+RECALL,Panasonic,128,0,57
+INFO/RECALL,Panasonic,128,0,57
+RH-SPLIT,Panasonic,128,0,57
+POWER,Panasonic,128,0,61
+POWER ON,Panasonic,128,0,62
+POWER OFF,Panasonic,128,0,63
+ACTION,Panasonic,128,0,73
+ACTION,Panasonic,128,0,82
+MENU,Panasonic,128,0,82
+ENTER,Panasonic,128,0,82
+FREEZE,Panasonic,128,0,92
+PIP FREEZE,Panasonic,128,0,92
+PIP ON/OFF,Panasonic,128,0,93
+SWAP,Panasonic,128,0,94
+PIP SWAP,Panasonic,128,0,94
+FREEZE,Panasonic,128,0,99
+PIP CH+,Panasonic,128,0,100
+PIP CHAN -,Panasonic,128,0,101
+GAME,Panasonic,128,0,187
+EXIT,Panasonic,128,0,212
+SPLIT,Panasonic,128,0,230

@@ -1,0 +1,4 @@
+functionname,protocol,device,subdevice,function
+VOLUME +,RC5,16,-1,16
+VOLUME -,RC5,16,-1,17
+,RC5,16,-1,17

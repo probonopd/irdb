@@ -1,0 +1,4 @@
+functionname,protocol,device,subdevice,function
+PROGRAMCHANNEL -,RC5,5,-1,32
+PROGRAM CHANNEL +,RC5,5,-1,33
+SPEED,RC5,5,-1,58

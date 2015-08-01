@@ -1,0 +1,5 @@
+functionname,protocol,device,subdevice,function
+ON,Velleman,0,-1,32
+OFF,Velleman,0,-1,33
+UP,Velleman,0,-1,34
+DOWN,Velleman,0,-1,35

@@ -1,0 +1,23 @@
+functionname,protocol,device,subdevice,function
+SET +,Emerson,41,-1,6
+SET -,Emerson,41,-1,7
+CHANNEL -,Emerson,41,-1,8
+SLEEP,Emerson,41,-1,11
+DISPLAY,Emerson,41,-1,15
+CHANNEL +,Emerson,41,-1,16
+1,Emerson,41,-1,31
+POWER,Emerson,41,-1,32
+2,Emerson,41,-1,33
+3,Emerson,41,-1,34
+4,Emerson,41,-1,35
+5,Emerson,41,-1,36
+6,Emerson,41,-1,37
+7,Emerson,41,-1,38
+8,Emerson,41,-1,39
+9,Emerson,41,-1,40
+0,Emerson,41,-1,41
+SELECT,Emerson,41,-1,46
+MENU,Emerson,41,-1,47
+VOLUME +,Emerson,41,-1,48
+VOLUME -,Emerson,41,-1,49
+MUTE,Emerson,41,-1,51

@@ -1,0 +1,24 @@
+functionname,protocol,device,subdevice,function
+3,Akai,3,-1,1
+4,Akai,3,-1,2
+5,Akai,3,-1,3
+6,Akai,3,-1,4
+7,Akai,3,-1,5
+8,Akai,3,-1,6
+9,Akai,3,-1,7
+10,Akai,3,-1,8
+11,Akai,3,-1,9
+12,Akai,3,-1,10
+13,Akai,3,-1,11
+U1,Akai,3,-1,12
+U2,Akai,3,-1,13
+U3,Akai,3,-1,14
+U4,Akai,3,-1,15
+2,Akai,3,-1,16
+POWER,Akai,3,-1,19
+STOP [],Akai,3,-1,24
+PLAY >,Akai,3,-1,25
+REC,Akai,3,-1,26
+PAUSE ,,,Akai,3,-1,27
+FF/SEARCH >>,Akai,3,-1,28
+REW/SEARCH <<,Akai,3,-1,29

@@ -1,0 +1,6 @@
+functionname,protocol,device,subdevice,function
+INPUT 1 (A),NEC1,49,235,131
+INPUT 2 (A),NEC1,49,235,132
+INPUT 3 (A),NEC1,49,235,133
+INPUT 4 (A),NEC1,49,235,134
+INPUT 5 (A),NEC1,49,235,135

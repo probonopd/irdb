@@ -1,0 +1,7 @@
+functionname,protocol,device,subdevice,function
+CASSETTE FF >>,Pioneer,161,-1,16
+CASSETTE REW <<,Pioneer,161,-1,17
+CASSETTE POWER,Pioneer,161,-1,18
+CASSETTE STOP [],Pioneer,161,-1,22
+CASSETTE PLAY >,Pioneer,161,-1,23
+CASSETTE PAUSE ,,,Pioneer,161,-1,24

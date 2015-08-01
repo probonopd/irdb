@@ -1,0 +1,7 @@
+functionname,protocol,device,subdevice,function
+CHANNEL +,G.I. Cable,0,-1,11
+CHANNEL -,G.I. Cable,0,-1,12
+CURSER UP,G.I. Cable,0,-1,52
+CURSER DOWN,G.I. Cable,0,-1,53
+CURSER LEFT,G.I. Cable,0,-1,54
+CURSER RIGHT,G.I. Cable,0,-1,55

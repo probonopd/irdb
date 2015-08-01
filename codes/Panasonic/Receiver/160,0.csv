@@ -1,0 +1,8 @@
+functionname,protocol,device,subdevice,function
+VOLUME +,Panasonic,160,0,32
+VOLUME -,Panasonic,160,0,33
+MUTE,Panasonic,160,0,50
+DVD,Panasonic,160,0,148
+AUX,Panasonic,160,0,154
+TV,Panasonic,160,0,156
+VCR,Panasonic,160,0,158

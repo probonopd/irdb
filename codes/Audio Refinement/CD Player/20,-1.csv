@@ -1,0 +1,10 @@
+functionname,protocol,device,subdevice,function
+POWER,RC5,20,-1,13
+SEARCH +,RC5,20,-1,16
+SEACH -,RC5,20,-1,17
+CD,RC5,20,-1,45
+PAUSE,RC5,20,-1,48
+PLAY,RC5,20,-1,53
+STOP,RC5,20,-1,54
+TRACK -,RC5,20,-1,60
+TRACK +,RC5,20,-1,63

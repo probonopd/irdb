@@ -1,0 +1,27 @@
+functionname,protocol,device,subdevice,function
+STOP,Pioneer,163,-1,152
+0,Pioneer,163,-1,153
+1,Pioneer,163,-1,153
+2,Pioneer,163,-1,153
+3,Pioneer,163,-1,153
+4,Pioneer,163,-1,153
+5,Pioneer,163,-1,153
+6,Pioneer,163,-1,153
+7,Pioneer,163,-1,153
+8,Pioneer,163,-1,153
+9,Pioneer,163,-1,153
+AUDIO MODE,Pioneer,163,-1,153
+ENTER,Pioneer,163,-1,153
+FRAME <<,Pioneer,163,-1,153
+FRAME >>,Pioneer,163,-1,153
+OPEN/CLOSE,Pioneer,163,-1,153
+POWER,Pioneer,163,-1,153
+SIDE A/B,Pioneer,163,-1,153
+SCAN >>,Pioneer,163,-1,154
+SCAN <<,Pioneer,163,-1,155
+SEARCH >>,Pioneer,163,-1,156
+SKIP >>,Pioneer,163,-1,156
+SEARCH <<,Pioneer,163,-1,157
+SKIP <<,Pioneer,163,-1,157
+PLAY,Pioneer,163,-1,158
+PAUSE,Pioneer,163,-1,159

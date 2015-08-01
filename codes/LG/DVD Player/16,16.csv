@@ -1,0 +1,3 @@
+functionname,protocol,device,subdevice,function
+POWER ON,NECx1,16,16,248
+POWER OFF,NECx1,16,16,249

@@ -1,0 +1,8 @@
+functionname,protocol,device,subdevice,function
+REPEAT OFF,Denon,4,-1,192
+MODE OFF,Denon,4,-1,250
+CROSS FADE,Denon,4,-1,251
+ALL DISCS,Denon,4,-1,252
+1 DISC,Denon,4,-1,253
+REPEAT 1,Denon,4,-1,254
+BEST HIT,Denon,4,-1,255

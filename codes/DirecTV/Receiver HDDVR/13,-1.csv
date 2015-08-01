@@ -1,0 +1,43 @@
+functionname,protocol,device,subdevice,function
+1,DirecTV,13,-1,1
+2,DirecTV,13,-1,2
+3,DirecTV,13,-1,3
+4,DirecTV,13,-1,4
+5,DirecTV,13,-1,5
+6,DirecTV,13,-1,6
+7,DirecTV,13,-1,7
+8,DirecTV,13,-1,8
+9,DirecTV,13,-1,9
+CH/PAGE UP,DirecTV,13,-1,13
+CH/PAGE DOWN,DirecTV,13,-1,14
+PREV,DirecTV,13,-1,15
+POWER,DirecTV,13,-1,16
+0,DirecTV,13,-1,17
+-/DASH,DirecTV,13,-1,18
+ENTER,DirecTV,13,-1,19
+MENU,DirecTV,13,-1,32
+CURSOR UP,DirecTV,13,-1,33
+CURSOR DOWN,DirecTV,13,-1,34
+CURSOR LEFT,DirecTV,13,-1,35
+CURSOR RIGHT,DirecTV,13,-1,36
+SELECT,DirecTV,13,-1,37
+EXIT,DirecTV,13,-1,38
+BACK,DirecTV,13,-1,39
+GUIDE,DirecTV,13,-1,40
+ACTIVE,DirecTV,13,-1,41
+LIST,DirecTV,13,-1,42
+INFO,DirecTV,13,-1,46
+PLAY,DirecTV,13,-1,48
+STOP,DirecTV,13,-1,49
+PAUSE,DirecTV,13,-1,50
+<<,DirecTV,13,-1,51
+>>,DirecTV,13,-1,52
+RECORD,DirecTV,13,-1,53
+REPLAY,DirecTV,13,-1,54
+SKIP >>,DirecTV,13,-1,55
+RED,DirecTV,13,-1,65
+YELLOW,DirecTV,13,-1,66
+GREEN,DirecTV,13,-1,67
+BLUE,DirecTV,13,-1,68
+OFF,DirecTV,13,-1,91
+FORMAT,DirecTV,13,-1,115

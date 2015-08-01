@@ -1,0 +1,42 @@
+functionname,protocol,device,subdevice,function
+1,Sony15,81,-1,0
+2,Sony15,81,-1,1
+3,Sony15,81,-1,2
+4,Sony15,81,-1,3
+5,Sony15,81,-1,4
+6,Sony15,81,-1,5
+7,Sony15,81,-1,6
+8,Sony15,81,-1,7
+9,Sony15,81,-1,8
+ENTER,Sony15,81,-1,11
+CHECK,Sony15,81,-1,13
+CLEAR,Sony15,81,-1,15
+POWER,Sony15,81,-1,21
+CONTINUE,Sony15,81,-1,29
+PROGRAM,Sony15,81,-1,31
+0,Sony15,81,-1,32
+10/0,Sony15,81,-1,32
+>10,Sony15,81,-1,39
+TIME/TEXT,Sony15,81,-1,40
+REPEAT,Sony15,81,-1,44
+POWER ON (CD-3),Sony15,81,-1,46
+POWER OFF (CD-3),Sony15,81,-1,47
+<< SKIP,Sony15,81,-1,48
+SKIP <<,Sony15,81,-1,48
+>> SKIP,Sony15,81,-1,49
+SKIP >>,Sony15,81,-1,49
+PLAY,Sony15,81,-1,50
+<< SEARCH,Sony15,81,-1,51
+SEARCH <<,Sony15,81,-1,51
+>> SEARCH,Sony15,81,-1,52
+SEARCH >>,Sony15,81,-1,52
+SHUFFLE,Sony15,81,-1,53
+STOP,Sony15,81,-1,56
+PAUSE,Sony15,81,-1,57
+DISC -,Sony15,81,-1,61
+DISK SKIP -,Sony15,81,-1,61
+DISC +,Sony15,81,-1,62
+DISK SKIP +,Sony15,81,-1,62
+DISC,Sony15,81,-1,74
+TRACK,Sony15,81,-1,75
+BLOCK,Sony15,81,-1,76

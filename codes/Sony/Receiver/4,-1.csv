@@ -1,0 +1,5 @@
+functionname,protocol,device,subdevice,function
+POWER OFF,Sony15,4,-1,55
+SYSTEM OFF,Sony15,4,-1,55
+SYSTEM STANDBY,Sony15,4,-1,55
+STANDBY,Sony15,4,-1,55

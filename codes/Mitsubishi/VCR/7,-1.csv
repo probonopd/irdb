@@ -1,0 +1,12 @@
+functionname,protocol,device,subdevice,function
+2,Akai,7,-1,10
+4,Akai,7,-1,10
+,Akai,7,-1,10
+7,Akai,7,-1,10
+COUNTER ZERO STOP,Akai,7,-1,42
+VIDEO / TV,Akai,7,-1,42
+-,Akai,7,-1,74
++,Akai,7,-1,74
+,Akai,7,-1,74
+CANCEL,Akai,7,-1,106
+CURSOR UP,Akai,7,-1,106

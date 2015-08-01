@@ -1,0 +1,78 @@
+functionname,protocol,device,subdevice,function
+1,Sony12,15,-1,0
+1 (F),Sony12,15,-1,0
+2,Sony12,15,-1,1
+2 (G),Sony12,15,-1,1
+3,Sony12,15,-1,2
+3 (H),Sony12,15,-1,2
+4,Sony12,15,-1,3
+4 (I),Sony12,15,-1,3
+5,Sony12,15,-1,4
+5 (J),Sony12,15,-1,4
+6,Sony12,15,-1,5
+6 (K),Sony12,15,-1,5
+7,Sony12,15,-1,6
+7 (L),Sony12,15,-1,6
+8,Sony12,15,-1,7
+8 (M),Sony12,15,-1,7
+9,Sony12,15,-1,8
+9 (N),Sony12,15,-1,8
+0,Sony12,15,-1,9
+10 (O),Sony12,15,-1,9
+>10,Sony12,15,-1,10
+>25 (/),Sony12,15,-1,10
+CLEAR,Sony12,15,-1,15
+POWER,Sony12,15,-1,21
+EJECT,Sony12,15,-1,22
+PLAY MODE,Sony12,15,-1,23
+DISPLAY,Sony12,15,-1,24
+SCROLL,Sony12,15,-1,25
+(E),Sony12,15,-1,26
+(D),Sony12,15,-1,27
+CONTINUE (A),Sony12,15,-1,29
+SHUFFLE (B),Sony12,15,-1,30
+PROGRAM (C),Sony12,15,-1,31
+<TRACK,Sony12,15,-1,32
+STEP <<,Sony12,15,-1,32
+TRACK>,Sony12,15,-1,33
+STEP >>,Sony12,15,-1,33
+REPEAT,Sony12,15,-1,38
+REPEAT (?),Sony12,15,-1,38
+A-B,Sony12,15,-1,39
+A--B (!),Sony12,15,-1,39
+STOP,Sony12,15,-1,40
+,Sony12,15,-1,40
+PAUSE,Sony12,15,-1,41
+PLAY,Sony12,15,-1,42
+CD-SYNC START,Sony12,15,-1,42
+<<REWIND,Sony12,15,-1,43
+SEARCH <<,Sony12,15,-1,43
+FAST FORWARD >>,Sony12,15,-1,44
+SEARCH >>,Sony12,15,-1,44
+RECORD,Sony12,15,-1,45
+POWER ON,Sony12,15,-1,46
+POWER OFF,Sony12,15,-1,47
+T. REC,Sony12,15,-1,48
+A. SPACE ((),Sony12,15,-1,51
+M. SCAN ()),Sony12,15,-1,52
+WRITE CHAR,Sony12,15,-1,54
+WRITE NUM,Sony12,15,-1,55
+WRITE NAME,Sony12,15,-1,60
+,Sony12,15,-1,62
+MUSIC SYNC,Sony12,15,-1,63
+11 (P),Sony12,15,-1,64
+12 (Q),Sony12,15,-1,65
+13 (R),Sony12,15,-1,66
+14 (S),Sony12,15,-1,67
+15 (T),Sony12,15,-1,68
+16 (U),Sony12,15,-1,69
+17 (V),Sony12,15,-1,70
+18 (W),Sony12,15,-1,71
+19 (X),Sony12,15,-1,72
+20 (Y),Sony12,15,-1,73
+21 (Z),Sony12,15,-1,74
+22 (-),Sony12,15,-1,75
+23 ( ),Sony12,15,-1,76
+24 (.),Sony12,15,-1,77
+25 ( ),Sony12,15,-1,78
+FADER,Sony12,15,-1,105

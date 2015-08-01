@@ -1,0 +1,15 @@
+functionname,protocol,device,subdevice,function
+X 2,Sony12,7,-1,20
+STOP,Sony12,7,-1,24
+PAUSE,Sony12,7,-1,25
+PLAY,Sony12,7,-1,26
+REW <<,Sony12,7,-1,27
+FF >>,Sony12,7,-1,28
+RECORD DV IN,Sony12,7,-1,29
+SLOW >,Sony12,7,-1,35
+<,Sony12,7,-1,48
+ZERO SET MEMORY,Sony12,7,-1,71
+SEARCH MODE >>,Sony12,7,-1,86
+SEARCH MODE <<,Sony12,7,-1,87
+DISPLAY,Sony12,7,-1,90
+AUDIO DUB,Sony12,7,-1,104

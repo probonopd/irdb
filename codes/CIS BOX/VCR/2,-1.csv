@@ -1,0 +1,21 @@
+functionname,protocol,device,subdevice,function
+CH UP,Sony12,2,-1,16
+CH DN,Sony12,2,-1,17
+EJECT,Sony12,2,-1,22
+STOP,Sony12,2,-1,24
+PAUSE,Sony12,2,-1,25
+PLAY,Sony12,2,-1,26
+REWIND <<,Sony12,2,-1,27
+FF,Sony12,2,-1,28
+RECORD,Sony12,2,-1,29
+AUTO TRACKING,Sony12,2,-1,39
+ANT VCR,Sony12,2,-1,45
+PWR ON,Sony12,2,-1,46
+PWR OFF,Sony12,2,-1,47
+FORWARD,Sony12,2,-1,49
+SLOW MOTION -,Sony12,2,-1,62
+CURSER UP,Sony12,2,-1,66
+CURSER DN,Sony12,2,-1,67
+TRACKING,Sony12,2,-1,69
+COUNTER RESET,Sony12,2,-1,70
+MENU,Sony12,2,-1,81

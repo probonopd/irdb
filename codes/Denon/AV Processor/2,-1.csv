@@ -1,0 +1,28 @@
+functionname,protocol,device,subdevice,function
+SURR PUREDIRECT,Denon,2,-1,106
+ZONE 2,Denon,2,-1,121
+POWER ON ZN 2,Denon,2,-1,123
+POWER OFF ZN 2,Denon,2,-1,124
+PHONO,Denon,2,-1,195
+CD,Denon,2,-1,196
+IPOD,Denon,2,-1,196
+TUNER,Denon,2,-1,197
+DBS,Denon,2,-1,200
+CABLE TV,Denon,2,-1,201
+TV,Denon,2,-1,201
+VDP,Denon,2,-1,202
+MUSIC SERVER,Denon,2,-1,204
+VIDEO AUX,Denon,2,-1,204
+VCR 1,Denon,2,-1,205
+VCR 2,Denon,2,-1,206
+TAPE 1,Denon,2,-1,210
+RIGHT ARROW,Denon,2,-1,221
+ON SCREEN,Denon,2,-1,223
+SELECT/ENTER,Denon,2,-1,224
+POWER ON MAIN,Denon,2,-1,225
+POWER OFF MAIN,Denon,2,-1,226
+DVD,Denon,2,-1,227
+SURR STANDARD,Denon,2,-1,228
+MUTE,Denon,2,-1,240
+VOLUME + MAIN,Denon,2,-1,241
+VOLUME - MAIN,Denon,2,-1,242

@@ -1,0 +1,7 @@
+functionname,protocol,device,subdevice,function
+TRACK -,Sony20,26,73,48
+TRACK +,Sony20,26,73,49
+PLAY,Sony20,26,73,50
+SCAN -,Sony20,26,73,51
+SCAN +,Sony20,26,73,52
+STOP,Sony20,26,73,56

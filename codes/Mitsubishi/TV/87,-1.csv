@@ -1,0 +1,13 @@
+functionname,protocol,device,subdevice,function
+VCR/TV,Mitsubishi,87,-1,5
+V/TV,Mitsubishi,87,-1,5
+VCRA TV/VCR,Mitsubishi,87,-1,5
+TV PIP VCR CH ^,Mitsubishi,87,-1,10
+TV PIP VCR CH V,Mitsubishi,87,-1,18
+VCRA INPUT V,Mitsubishi,87,-1,26
+QUICK PROGRAM,Mitsubishi,87,-1,51
+VCRA INPUT ^,Mitsubishi,87,-1,58
+INPUT,Mitsubishi,87,-1,58
+VCRB TV/VCR,Mitsubishi,87,-1,133
+VCRB INPUT V,Mitsubishi,87,-1,154
+VCRB INPUT ^,Mitsubishi,87,-1,186

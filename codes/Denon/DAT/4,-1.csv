@@ -1,0 +1,33 @@
+functionname,protocol,device,subdevice,function
+0,Denon,4,-1,193
+1,Denon,4,-1,194
+2,Denon,4,-1,195
+3,Denon,4,-1,196
+4,Denon,4,-1,197
+5,Denon,4,-1,198
+6,Denon,4,-1,199
+7,Denon,4,-1,200
+8,Denon,4,-1,201
+9,Denon,4,-1,202
+OPEN/CLOSE,Denon,4,-1,208
+REPEAT,Denon,4,-1,212
+SRCH >>,,Denon,4,-1,216
+SRCH ,<<,Denon,4,-1,217
+FF >>,Denon,4,-1,218
+REW <<,Denon,4,-1,219
+PLAY >,Denon,4,-1,220
+PAUSE ,,,Denon,4,-1,221
+STOP [],Denon,4,-1,222
+REC/MUTE,Denon,4,-1,223
+MODE COUNTER,Denon,4,-1,225
+RESET COUNTER,Denon,4,-1,226
+RENUMBER,Denon,4,-1,231
+END,Denon,4,-1,234
+ID MODE,Denon,4,-1,235
+WRITE,Denon,4,-1,236
+ERASE,Denon,4,-1,237
+DIGITAL FADE IN,Denon,4,-1,241
+DIGITAL FADE OUT,Denon,4,-1,242
+FINE CUE <,Denon,4,-1,243
+FINE CUE >,Denon,4,-1,244
+DISPLAY,Denon,4,-1,245

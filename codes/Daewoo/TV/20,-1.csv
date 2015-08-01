@@ -1,0 +1,10 @@
+functionname,protocol,device,subdevice,function
+CODE1 VID 4,Proton,20,-1,12
+CODE1 VID 3,Proton,20,-1,14
+CODE1 POWER OFF,Proton,20,-1,21
+CODE1 POWER ON,Proton,20,-1,21
+CODE4 POWER OFF,Proton,20,-1,21
+CODE4 POWER ON,Proton,20,-1,21
+CODE1 VIDE 2,Proton,20,-1,35
+CODE1 VID 5,Proton,20,-1,44
+CODE1 VID 1,Proton,20,-1,45

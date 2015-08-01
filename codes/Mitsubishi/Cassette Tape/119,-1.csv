@@ -1,0 +1,45 @@
+functionname,protocol,device,subdevice,function
+AUDIO POWER,Mitsubishi,119,-1,2
+VOLUME ^,Mitsubishi,119,-1,34
+VOLUME V,Mitsubishi,119,-1,42
+FM/AM,Mitsubishi,119,-1,76
+TAPE 1/2 INPUT,Mitsubishi,119,-1,77
+TAPE1 1,Mitsubishi,119,-1,128
+TAPE1 9,Mitsubishi,119,-1,129
+TAPE1 MENU,Mitsubishi,119,-1,130
+TAPE1 PLAY >,Mitsubishi,119,-1,132
+TAPE2 PLAY >,Mitsubishi,119,-1,133
+TAPE1 FS/+,Mitsubishi,119,-1,134
+TAPE2 FS/+,Mitsubishi,119,-1,135
+TAPE1 2,Mitsubishi,119,-1,136
+TAPE1 0,Mitsubishi,119,-1,137
+TAPE1 ENTER,Mitsubishi,119,-1,138
+TAPE1 REC,Mitsubishi,119,-1,140
+TAPE1 RS/-,Mitsubishi,119,-1,142
+TAPE2 RS/-,Mitsubishi,119,-1,143
+TAPE1 3,Mitsubishi,119,-1,144
+TAPE1 CANCEL,Mitsubishi,119,-1,146
+TAPE1 STOP [],Mitsubishi,119,-1,148
+TAPE2 STOP [],Mitsubishi,119,-1,149
+TAPE1 REPEAT,Mitsubishi,119,-1,151
+TAPE1 4,Mitsubishi,119,-1,152
+TAPE1 PAUSE ,,,Mitsubishi,119,-1,156
+TAPE2 PAUSE ,,,Mitsubishi,119,-1,157
+TAPE1 5,Mitsubishi,119,-1,160
+TAPE1 AUDIO ^,Mitsubishi,119,-1,162
+TAPE1 FF >>,Mitsubishi,119,-1,164
+TAPE2 FF >>,Mitsubishi,119,-1,165
+TAPE1 DISPLAY,Mitsubishi,119,-1,167
+TAPE1 6,Mitsubishi,119,-1,168
+TAPE1 AUDIO V,Mitsubishi,119,-1,170
+TAPE1 REW <<,Mitsubishi,119,-1,172
+TAPE2 REW <<,Mitsubishi,119,-1,173
+TAPE1 INTRO,Mitsubishi,119,-1,174
+TAPE2 INTRO,Mitsubishi,119,-1,175
+TAPE1 7,Mitsubishi,119,-1,176
+TAPE1 ADJUST ^,Mitsubishi,119,-1,178
+TAPE1 PLAY R. <,Mitsubishi,119,-1,180
+TAPE2 PLAY R. <,Mitsubishi,119,-1,181
+TAPE1 8,Mitsubishi,119,-1,184
+TAPE1 ADJUST V,Mitsubishi,119,-1,186
+TAPE1 B,Mitsubishi,119,-1,191

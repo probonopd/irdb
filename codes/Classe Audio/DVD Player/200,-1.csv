@@ -1,0 +1,9 @@
+functionname,protocol,device,subdevice,function
+MUTE,RC6,200,-1,13
+VOLUME +,RC6,200,-1,13
+VOLUME +,RC6,200,-1,16
+VOLUME -,RC6,200,-1,17
+F1,RC6,200,-1,56
+F2,RC6,200,-1,57
+F3,RC6,200,-1,134
+F4,RC6,200,-1,135

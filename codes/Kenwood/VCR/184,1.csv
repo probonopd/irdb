@@ -1,0 +1,6 @@
+functionname,protocol,device,subdevice,function
+N.B.,NEC1,184,1,75
+MULTI LVL CTRL V,NEC1,184,1,84
+MULTI LVL CTRL ^,NEC1,184,1,85
+LEVEL MODE,NEC1,184,1,87
+INPUT,NEC1,184,1,204

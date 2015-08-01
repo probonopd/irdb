@@ -1,0 +1,55 @@
+functionname,protocol,device,subdevice,function
+STOP,Panasonic,144,0,0
+STOP/DOWN ARROW,Panasonic,144,0,0
+EJECT,Panasonic,144,0,1
+REWIND <<,Panasonic,144,0,2
+REW/LEFT ARROW,Panasonic,144,0,2
+FAST FORWARD >>,Panasonic,144,0,3
+FF >>/RIGHT ARROW,Panasonic,144,0,3
+FF/RIGHT ARROW,Panasonic,144,0,3
+PAUSE,Panasonic,144,0,6
+PAUSE/SLOW,Panasonic,144,0,6
+RECORD/TIME,Panasonic,144,0,8
+RECORD,Panasonic,144,0,8
+PLAY,Panasonic,144,0,10
+PLAY/UP ARROW,Panasonic,144,0,10
+STILL ADV,Panasonic,144,0,12
+SEARCH,Panasonic,144,0,15
+SLOW,Panasonic,144,0,15
+SLOW MOTION +,Panasonic,144,0,15
+1,Panasonic,144,0,16
+2,Panasonic,144,0,17
+3,Panasonic,144,0,18
+4,Panasonic,144,0,19
+5,Panasonic,144,0,20
+6,Panasonic,144,0,21
+7,Panasonic,144,0,22
+8,Panasonic,144,0,23
+9,Panasonic,144,0,24
+0,Panasonic,144,0,25
+SPATIALIZER,Panasonic,144,0,49
+AUDIO OUT,Panasonic,144,0,51
+CHANNEL/TRACKING +,Panasonic,144,0,52
+CHANNEL UP,Panasonic,144,0,52
+CHANNEL +/TRACKING +,Panasonic,144,0,52
+CHANNEL/TRACKING -,Panasonic,144,0,53
+CHANNEL DOWN,Panasonic,144,0,53
+CHANNEL -/TRACKING -,Panasonic,144,0,53
+VCR/TV,Panasonic,144,0,54
+DISPLAY,Panasonic,144,0,57
+POWER,Panasonic,144,0,61
+POWER ON,Panasonic,144,0,62
+POWER OFF,Panasonic,144,0,63
+INDEX/M/A SKIP,Panasonic,144,0,64
+SEARCH/M/A SKIP/ENT,Panasonic,144,0,64
+INDEX <<,Panasonic,144,0,73
+INDEX >>,Panasonic,144,0,74
+COUNTER RESET,Panasonic,144,0,84
+FRAME >>,Panasonic,144,0,142
+FRAME <<,Panasonic,144,0,143
+INPUT SELECT,Panasonic,144,0,192
+INPUT,Panasonic,144,0,192
+100,Panasonic,144,0,229
+SAP/HI-FI,Panasonic,144,0,230
+ZERO/C/A SKIP,Panasonic,144,0,245
+C/A SKIP,Panasonic,144,0,248

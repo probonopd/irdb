@@ -1,0 +1,14 @@
+functionname,protocol,device,subdevice,function
+,NECx2,2,2,130
+,NECx2,2,2,131
+,NECx2,2,2,132
+,NECx2,2,2,133
+FORWARD 1,NECx2,2,2,134
+,NECx2,2,2,135
+FORWARD 3,NECx2,2,2,136
+REVERSE 3,NECx2,2,2,137
+,NECx2,2,2,137
+,NECx2,2,2,142
+,NECx2,2,2,143
+,NEC2,2,2,144
+,NEC2,2,2,208

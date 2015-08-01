@@ -1,0 +1,29 @@
+functionname,protocol,device,subdevice,function
+TV/VCR,Emerson,40,-1,0
+FAST FORWARD >>,Emerson,40,-1,4
+SELECT,Emerson,40,-1,6
+INDEX,Emerson,40,-1,7
+PLAY,Emerson,40,-1,10
+PAUSE,Emerson,40,-1,11
+REWIND <<,Emerson,40,-1,12
+SLOW,Emerson,40,-1,13
+TIME,Emerson,40,-1,14
+ADD/DELETE,Emerson,40,-1,15
+MEMORY,Emerson,40,-1,20
+TAPE COUNTER,Emerson,40,-1,20
+MENU,Emerson,40,-1,21
+RECORD,Emerson,40,-1,26
+STOP,Emerson,40,-1,28
+1,Emerson,40,-1,31
+POWER/TIMER RECORD,Emerson,40,-1,32
+2,Emerson,40,-1,33
+3,Emerson,40,-1,34
+4,Emerson,40,-1,35
+5,Emerson,40,-1,36
+6,Emerson,40,-1,37
+7,Emerson,40,-1,38
+8,Emerson,40,-1,39
+9,Emerson,40,-1,40
+0,Emerson,40,-1,41
+BLANK,Emerson,40,-1,57
+EJECT,Emerson,40,-1,61

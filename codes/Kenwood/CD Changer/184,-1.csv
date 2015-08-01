@@ -1,0 +1,9 @@
+functionname,protocol,device,subdevice,function
+SCAN <<,NEC1,184,-1,6
+SCAN >>,NEC1,184,-1,7
+DISC SKIP,NEC1,184,-1,8
+STOP,NEC1,184,-1,201
+PAUSE,NEC1,184,-1,203
+PLAY,NEC1,184,-1,203
+REW,NEC1,184,-1,206
+FFWD,NEC1,184,-1,207

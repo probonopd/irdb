@@ -1,0 +1,25 @@
+functionname,protocol,device,subdevice,function
+TV 1,Mitsubishi,71,-1,0
+TV 9,Mitsubishi,71,-1,1
+TV POWER,Mitsubishi,71,-1,2
+TV CANCEL,Mitsubishi,71,-1,7
+TV 2,Mitsubishi,71,-1,8
+TV 0,Mitsubishi,71,-1,9
+TV CHANNEL ^,Mitsubishi,71,-1,10
+TV 3,Mitsubishi,71,-1,16
+TV CHANNEL V,Mitsubishi,71,-1,18
+TV 4,Mitsubishi,71,-1,24
+TV DISPLAY,Mitsubishi,71,-1,27
+TV 5,Mitsubishi,71,-1,32
+VOLUME ^,Mitsubishi,71,-1,34
+TV 6,Mitsubishi,71,-1,40
+VOLUME V,Mitsubishi,71,-1,42
+TV 7,Mitsubishi,71,-1,48
+MUTE,Mitsubishi,71,-1,50
+TV ENTER,Mitsubishi,71,-1,53
+TV 8,Mitsubishi,71,-1,56
+TV INPUT,Mitsubishi,71,-1,58
+TV AUDIO VIDEO,Mitsubishi,71,-1,64
+TV JOG/ADJ+(IN SRCH),Mitsubishi,71,-1,65
+TV JOG/ADJ-(IN SRCH),Mitsubishi,71,-1,73
+TV MENU,Mitsubishi,71,-1,82

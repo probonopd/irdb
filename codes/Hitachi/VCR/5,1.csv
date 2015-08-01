@@ -1,0 +1,20 @@
+functionname,protocol,device,subdevice,function
+TV CH V,Zenith,5,1,1
+VOL V,Zenith,5,1,2
+TV CH ^,Zenith,5,1,9
+VOL ^,Zenith,5,1,10
+TV MUTE,Zenith,5,1,11
+VCR MUTE,Zenith,5,1,11
+TV POWER,Zenith,5,1,14
+TV 0,Zenith,5,1,16
+TV 1,Zenith,5,1,17
+TV 2,Zenith,5,1,18
+TV 3,Zenith,5,1,19
+TV 4,Zenith,5,1,20
+TV 5,Zenith,5,1,21
+TV 6,Zenith,5,1,22
+TV 7,Zenith,5,1,23
+TV 8,Zenith,5,1,24
+TV 9,Zenith,5,1,25
+LAST CH,Zenith,5,1,27
+TV 100/ENT (DISPLAY),Zenith,5,1,28
