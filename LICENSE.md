@@ -3,7 +3,7 @@
 irdb
 Copyright (c) 2013-15 Simon Peter
 
-You may include this database with your software (e.g., app) and/or 
+You may include this database and derivative works with your software (e.g., app) and/or 
 access this database over network from your commercial or non-commercial
 software (e.g., app) or embedded hardware (subsequently called "your product")
 provided that:
