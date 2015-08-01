@@ -1,7 +1,7 @@
 # License
 
 irdb
-Copyright (c) 2013-15 Simon Peter
+Copyright (c) 2013-15 Simon Peter and contributors
 
 You may include this database and derivative works with your software (e.g., app) and/or 
 access this database over network from your commercial or non-commercial
