@@ -24,6 +24,12 @@ you should access the file over [RawGit](https://rawgit.com)
 http://cdn.rawgit.com/probonopd/irdb/master/codes/Samsung/TV/7,7.csv
 ```
 
+## Examples
+
+In this section, projects and products will be listed which include or access irdb.
+* [irdb.tk](http://irdb.tk) website that allows you to search the database and render codes in various formats
+* [IrScrutinizer](https://github.com/bengtmartensson/harctoolboxbundle) software that can import infrared remote signals from irdb, scrutinize them, and send them using various sending devices
+
 ## License
 
 You may include or access this database from your product (e.g., app) provided that you follow the terms of the [irdb License](https://github.com/probonopd/irdb/blob/master/LICENSE.md).
