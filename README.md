@@ -26,7 +26,7 @@ http://cdn.rawgit.com/probonopd/irdb/master/codes/Samsung/TV/7,7.csv
 1. Check whether the code you want to contribute is already in the database
 2. If it is not, click the "edit" button to change/edit a file
 3. Follow the naming conventions for files, `<manufacturer>/<devicetype>/<device>,<subdevice>.csv`
-4. Make sure the file contains the codes in ascending order of commands
+4. Make sure the file contains the codes in ascending order of the `function` column
 5. Create a pull request and state the device you have used to create the file in the comment
 
 ## Examples
