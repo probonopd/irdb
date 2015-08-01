@@ -14,7 +14,8 @@ provided that:
 
 2. The following notice shall be included in your product:
    `Contains/accesses irdb by Simon Peter, used under permission.
-   For licensing details, see https://github.com/probonopd/irdb`
+   For licensing details and to contribute to the database, see 
+   https://github.com/probonopd/irdb`
 
 3. You will make available up to three fully licensed copies/units of your product 
    to the irdb team, represented by Simon Peter, free of charge 
