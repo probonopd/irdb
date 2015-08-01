@@ -14,13 +14,10 @@ If you would like to access this database from your product (e.g., app) it is su
 
 To access the database with any amount of traffic, it is recommended to use the [RawGit](https://rawgit.com) content delivery network (CDN).
 
-For example, instead of accessing 
-```
-https://raw.githubusercontent.com/probonopd/irdb/master/codes/Samsung/TV/7,7.csv
-```
-you should access the file over [RawGit](https://rawgit.com)
+For example, instead of accessing files from GitHub locally, you should access them over [RawGit](https://rawgit.com) like this:
 
 ```
+http://cdn.rawgit.com/probonopd/irdb/master/codes/index
 http://cdn.rawgit.com/probonopd/irdb/master/codes/Samsung/TV/7,7.csv
 ```
 
