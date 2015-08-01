@@ -1,3 +1,5 @@
+# License
+
 irdb
 Copyright (c) 2013-15 Simon Peter
 
