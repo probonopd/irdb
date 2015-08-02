@@ -1,0 +1,13 @@
+functionname,protocol,device,subdevice,function
+2,RC5,0,-1,2
+4,RC5,0,-1,4
+5,RC5,0,-1,5
+6,RC5,0,-1,6
+8,RC5,0,-1,8
+9,RC5,0,-1,9
+OFF,RC5,0,-1,12
+MUTE,RC5,0,-1,13
+S.MODE-II,RC5,0,-1,35
+VIDEO,RC5,0,-1,56
+TTX/MIX,RC5,0,-1,60
+CH/P+,RC5,0,-1,81

@@ -1,0 +1,5 @@
+functionname,protocol,device,subdevice,function
+KEY_PLAYPAUSE,Aiwa,64,0,0
+KEY_NEXT,Aiwa,64,0,1
+KEY_PREVIOUS,Aiwa,64,0,2
+KEY_STOP,Aiwa,64,0,3

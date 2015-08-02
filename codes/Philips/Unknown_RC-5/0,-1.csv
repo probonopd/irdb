@@ -1,0 +1,7 @@
+functionname,protocol,device,subdevice,function
+TV_STANDBY,RC5,0,-1,12
+TV_MUTE,RC5,0,-1,13
+TV_VOL_UP,RC5,0,-1,16
+TV_VOL_DOWN,RC5,0,-1,17
+TV_PRG_UP,RC5,0,-1,32
+TV_PRG_DOWN,RC5,0,-1,33

@@ -1,0 +1,11 @@
+functionname,protocol,device,subdevice,function
+tuner+,NEC,122,-1,16
+tuner-,NEC,122,-1,17
+tuner-toggle,NEC,122,-1,18
+KEY_CD,NEC,122,-1,21
+KEY_TUNER,NEC,122,-1,22
+KEY_TAPE,NEC,122,-1,24
+KEY_VIDEO,NEC,122,-1,25
+KEY_VOLUMEUP,NEC,122,-1,26
+KEY_VOLUMEDOWN,NEC,122,-1,27
+KEY_POWER,NEC,122,-1,31

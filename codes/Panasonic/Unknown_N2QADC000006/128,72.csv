@@ -1,0 +1,17 @@
+functionname,protocol,device,subdevice,function
+digitalzoom+,Panasonic2,128,72,4
+digitalzoom-,Panasonic2,128,72,5
+KEY_F,Panasonic2,128,72,9
+KEY_VOLUMEUP,Panasonic2,128,72,32
+KEY_VOLUMEDOWN,Panasonic2,128,72,33
+KEY_POWER,Panasonic2,128,72,61
+KEY_UP,Panasonic2,128,72,90
+KEY_DOWN,Panasonic2,128,72,91
+KEY_LEFT,Panasonic2,128,72,92
+KEY_RIGHT,Panasonic2,128,72,93
+norm,Panasonic2,128,72,97
+input,Panasonic2,128,72,109
+KEY_ENTER,Panasonic2,128,72,114
+KEY_MUTE,Panasonic2,128,72,121
+KEY_MENU,Panasonic2,128,72,122
+aspect,Panasonic2,128,72,222

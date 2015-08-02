@@ -1,0 +1,9 @@
+functionname,protocol,device,subdevice,function
+KEY_LEFT,NEC,64,175,1
+spiral,NEC,64,175,2
+KEY_RIGHT,NEC,64,175,3
+KEY_BACK,NEC,64,175,5
+KEY_STOP,NEC,64,175,6
+auto,NEC,64,175,14
+vac,NEC,64,175,18
+KEY_FORWARD,NEC,64,175,25

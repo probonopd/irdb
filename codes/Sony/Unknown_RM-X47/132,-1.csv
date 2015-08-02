@@ -1,0 +1,13 @@
+functionname,protocol,device,subdevice,function
+off,Sony15,132,-1,13
+sound,Sony15,132,-1,17
+sound+,Sony15,132,-1,18
+sound-,Sony15,132,-1,19
+att,Sony15,132,-1,20
+seek-,Sony15,132,-1,27
+seek+,Sony15,132,-1,28
+dspl,Sony15,132,-1,40
+KEY_FASTFORWARD,Sony15,132,-1,48
+KEY_REWIND,Sony15,132,-1,49
+KEY_CYCLEWINDOWS,Sony15,132,-1,70
+KEY_MODE,Sony15,132,-1,71

@@ -1,0 +1,4 @@
+functionname,protocol,device,subdevice,function
+KEY_NEXT,F12,3,1,16
+KEY_PREVIOUS,F12,3,1,32
+Program,F12,3,1,64

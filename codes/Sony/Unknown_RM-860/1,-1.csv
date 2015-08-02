@@ -1,0 +1,13 @@
+functionname,protocol,device,subdevice,function
+PorgramUp,Sony12,1,-1,16
+KEY_CHANNELDOWN,Sony12,1,-1,17
+KEY_VOLUMEUP,Sony12,1,-1,18
+KEY_VOLUMEDOWN,Sony12,1,-1,19
+KEY_MUTE,Sony12,1,-1,20
+Off,Sony12,1,-1,21
+KEY_CYCLEWINDOWS,Sony12,1,-1,37
+KEY_UP,Sony12,1,-1,49
+KEY_DOWN,Sony12,1,-1,50
+Display,Sony12,1,-1,63
+KEY_MENU,Sony12,1,-1,96
+KEY_OK,Sony12,1,-1,101

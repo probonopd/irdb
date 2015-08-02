@@ -1,0 +1,15 @@
+functionname,protocol,device,subdevice,function
+wallright,NEC,0,-1,0
+wallleft,NEC,0,-1,1
+KEY_3,NEC,0,-1,4
+KEY_2,NEC,0,-1,5
+KEY_1,NEC,0,-1,6
+maze,NEC,0,-1,8
+KEY_BACK,NEC,0,-1,9
+awaylight,NEC,0,-1,10
+turnright,NEC,0,-1,12
+KEY_STOP,NEC,0,-1,13
+turnleft,NEC,0,-1,14
+seeklight,NEC,0,-1,20
+foreward,NEC,0,-1,21
+forewardright,NEC,0,-1,22

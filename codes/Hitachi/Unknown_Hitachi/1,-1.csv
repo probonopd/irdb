@@ -1,0 +1,11 @@
+functionname,protocol,device,subdevice,function
+KEY_STOP,Akai,1,-1,3
+F.FWD,Akai,1,-1,6
+KEY_REWIND,Akai,1,-1,7
+KEY_PLAY,Akai,1,-1,12
+KEY_PAUSE,Akai,1,-1,13
+KEY_SEARCH,Akai,1,-1,14
+VISUAL,Akai,1,-1,15
+F.ADV,Akai,1,-1,22
+KEY_CHANNELUP,Akai,1,-1,25
+KEY_CHANNELDOWN,Akai,1,-1,26

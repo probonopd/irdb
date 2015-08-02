@@ -1,0 +1,8 @@
+functionname,protocol,device,subdevice,function
+KEY_POWER,NEC,129,102,129
+energy_saver,NEC,129,102,130
+temp_up,NEC,129,102,133
+temp_down,NEC,129,102,138
+fan_speed,NEC,129,102,153
+KEY_MODE,NEC,129,102,155
+timer,NEC,129,102,159

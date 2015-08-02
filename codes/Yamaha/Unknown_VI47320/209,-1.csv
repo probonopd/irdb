@@ -1,0 +1,10 @@
+functionname,protocol,device,subdevice,function
+A/B/C/D/E,NEC,209,-1,13
+KEY_1,NEC,209,-1,14
+KEY_2,NEC,209,-1,15
+KEY_3,NEC,209,-1,16
+KEY_4,NEC,209,-1,17
+KEY_5,NEC,209,-1,18
+KEY_6,NEC,209,-1,19
+KEY_7,NEC,209,-1,20
+KEY_8,NEC,209,-1,21

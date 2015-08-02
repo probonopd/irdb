@@ -1,0 +1,4 @@
+functionname,protocol,device,subdevice,function
+BAND,Sony12,13,-1,15
+PRESET+,Sony12,13,-1,16
+PRESET-,Sony12,13,-1,17

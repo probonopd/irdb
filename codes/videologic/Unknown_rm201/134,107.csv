@@ -1,0 +1,14 @@
+functionname,protocol,device,subdevice,function
+speaker_mode,NEC,134,107,1
+balance,NEC,134,107,2
+KEY_VOLUMEUP,NEC,134,107,3
+bass,NEC,134,107,4
+delay,NEC,134,107,5
+KEY_VOLUMEDOWN,NEC,134,107,6
+input,NEC,134,107,8
+surround,NEC,134,107,9
+pro_logic_auto_on,NEC,134,107,10
+KEY_POWER,NEC,134,107,18
+test,NEC,134,107,26
+KEY_MUTE,NEC,134,107,30
+reset,NEC,134,107,31

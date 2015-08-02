@@ -1,0 +1,12 @@
+functionname,protocol,device,subdevice,function
+KEY_OK,Panasonic_Old,27,-1,12
+KEY_1,Panasonic_Old,27,-1,16
+KEY_2,Panasonic_Old,27,-1,17
+KEY_3,Panasonic_Old,27,-1,18
+KEY_4,Panasonic_Old,27,-1,19
+KEY_5,Panasonic_Old,27,-1,20
+KEY_6,Panasonic_Old,27,-1,21
+KEY_7,Panasonic_Old,27,-1,22
+KEY_8,Panasonic_Old,27,-1,23
+KEY_9,Panasonic_Old,27,-1,24
+KEY_0,Panasonic_Old,27,-1,25

@@ -1,0 +1,13 @@
+functionname,protocol,device,subdevice,function
+TIMER,Samsung20,1,8,37
+KEY_SLEEP,Samsung20,1,8,39
+SWING,Samsung20,1,8,41
+TEMP-,Samsung20,1,8,49
+TEMP+,Samsung20,1,8,50
+FAN_LOW,Samsung20,1,8,53
+FAN_MED,Samsung20,1,8,54
+FAN_HIGH,Samsung20,1,8,55
+FAN,Samsung20,1,8,57
+HEAT,Samsung20,1,8,58
+COOL,Samsung20,1,8,60
+KEY_POWER,Samsung20,1,8,63

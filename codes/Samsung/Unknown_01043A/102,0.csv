@@ -1,0 +1,13 @@
+functionname,protocol,device,subdevice,function
+display,Aiwa,102,0,143
+KEY_POWER,Aiwa,102,0,145
+KEY_MENU,Aiwa,102,0,148
+KEY_UP,Aiwa,102,0,151
+KEY_DOWN,Aiwa,102,0,152
+KEY_RIGHT,Aiwa,102,0,153
+KEY_LEFT,Aiwa,102,0,154
+KEY_ENTER,Aiwa,102,0,155
+skip_back,Aiwa,102,0,159
+KEY_PLAY,Aiwa,102,0,160
+skip_forward,Aiwa,102,0,161
+KEY_STOP,Aiwa,102,0,162

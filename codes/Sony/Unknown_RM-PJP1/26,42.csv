@@ -1,0 +1,4 @@
+functionname,protocol,device,subdevice,function
+KEY_RIGHT,Sony20,26,42,123
+KEY_LEFT,Sony20,26,42,124
+KEY_B,Sony20,26,42,125

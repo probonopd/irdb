@@ -1,0 +1,15 @@
+functionname,protocol,device,subdevice,function
+KEY_0,Aiwa,19,1,2
+KEY_9,Aiwa,19,1,5
+KEY_8,Aiwa,19,1,6
+KEY_7,Aiwa,19,1,7
+KEY_6,Aiwa,19,1,9
+KEY_5,Aiwa,19,1,10
+KEY_4,Aiwa,19,1,11
+KEY_3,Aiwa,19,1,13
+KEY_2,Aiwa,19,1,14
+KEY_1,Aiwa,19,1,15
+KEY_CHANNELDOWN,Aiwa,19,1,20
+KEY_CHANNELUP,Aiwa,19,1,24
+off,Aiwa,19,1,28
+chan_search,Aiwa,19,1,29

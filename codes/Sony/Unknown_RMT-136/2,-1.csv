@@ -1,0 +1,11 @@
+functionname,protocol,device,subdevice,function
+KEY_CHANNELUP,Sony12,2,-1,16
+KEY_CHANNELDOWN,Sony12,2,-1,17
+KEY_POWER,Sony12,2,-1,21
+KEY_STOP,Sony12,2,-1,24
+KEY_PAUSE,Sony12,2,-1,25
+KEY_PLAY,Sony12,2,-1,26
+KEY_REWIND,Sony12,2,-1,27
+KEY_FASTFORWARD,Sony12,2,-1,28
+KEY_RECORD,Sony12,2,-1,29
+TV/VTR,Sony12,2,-1,42

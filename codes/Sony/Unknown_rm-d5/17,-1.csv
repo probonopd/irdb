@@ -1,0 +1,15 @@
+functionname,protocol,device,subdevice,function
+KEY_TIME,Sony12,17,-1,40
+KEY_AGAIN,Sony12,17,-1,44
+fback,Sony12,17,-1,48
+ffor,Sony12,17,-1,49
+KEY_PLAY,Sony12,17,-1,50
+KEY_STOP,Sony12,17,-1,56
+KEY_PAUSE,Sony12,17,-1,57
+KEY_BACK,Sony12,17,-1,58
+for,Sony12,17,-1,59
+KEY_1,Sony12,17,-1,64
+KEY_2,Sony12,17,-1,65
+KEY_3,Sony12,17,-1,66
+KEY_4,Sony12,17,-1,67
+KEY_5,Sony12,17,-1,68

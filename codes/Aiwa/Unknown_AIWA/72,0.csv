@@ -1,0 +1,17 @@
+functionname,protocol,device,subdevice,function
+KEY_RADIO,Aiwa,72,0,0
+am,Aiwa,72,0,1
+t_up,Aiwa,72,0,3
+KEY_POWER,Aiwa,72,0,4
+t_down,Aiwa,72,0,5
+v_up,Aiwa,72,0,7
+v_down,Aiwa,72,0,8
+muting,Aiwa,72,0,9
+cdp_program,Aiwa,72,0,10
+cdp_play,Aiwa,72,0,11
+cdp_memory,Aiwa,72,0,12
+cdp_stop,Aiwa,72,0,13
+cdp_fskip,Aiwa,72,0,14
+cdp_bskip,Aiwa,72,0,15
+phono,Aiwa,72,0,17
+KEY_TAPE,Aiwa,72,0,18

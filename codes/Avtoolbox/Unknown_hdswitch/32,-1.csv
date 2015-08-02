@@ -1,0 +1,10 @@
+functionname,protocol,device,subdevice,function
+KEY_1,NEC,32,-1,4
+KEY_2,NEC,32,-1,5
+KEY_3,NEC,32,-1,6
+KEY_4,NEC,32,-1,13
+KEY_1,NEC,32,-1,15
+KEY_2,NEC,32,-1,16
+KEY_3,NEC,32,-1,18
+KEY_4,NEC,32,-1,19
+KEY_POWER,NEC,32,-1,28

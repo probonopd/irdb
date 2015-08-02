@@ -1,0 +1,13 @@
+functionname,protocol,device,subdevice,function
+pgm,Sony12,17,-1,31
+KEY_TIME,Sony12,17,-1,40
+KEY_AGAIN,Sony12,17,-1,44
+ams-,Sony12,17,-1,48
+ams+,Sony12,17,-1,49
+KEY_PLAY,Sony12,17,-1,50
+KEY_REWIND,Sony12,17,-1,51
+KEY_FASTFORWARD,Sony12,17,-1,52
+shuffle,Sony12,17,-1,53
+KEY_STOP,Sony12,17,-1,56
+KEY_PAUSE,Sony12,17,-1,57
+fader,Sony12,17,-1,95

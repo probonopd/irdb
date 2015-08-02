@@ -1,0 +1,12 @@
+functionname,protocol,device,subdevice,function
+KEY_STOP,Panasonic,144,0,0
+KEY_REWIND,Panasonic,144,0,2
+KEY_FASTFORWARD,Panasonic,144,0,3
+KEY_PAUSE,Panasonic,144,0,6
+KEY_RECORD,Panasonic,144,0,8
+KEY_PLAY,Panasonic,144,0,10
+STILL,Panasonic,144,0,12
+VTR/TV,Panasonic,144,0,54
+KEY_POWER,Panasonic,144,0,61
+TRACKING_PLUS,Panasonic,144,0,177
+TRACKING_MINUS,Panasonic,144,0,178

@@ -1,0 +1,10 @@
+functionname,protocol,device,subdevice,function
+KEY_VOLUMEUP,JVC,143,-1,132
+KEY_VOLUMEDOWN,JVC,143,-1,133
+KEY_CYCLEWINDOWS,JVC,143,-1,136
+Sound,JVC,143,-1,141
+Att,JVC,143,-1,142
+Track+,JVC,143,-1,146
+Track-,JVC,143,-1,147
+Disc+,JVC,143,-1,148
+Disc-,JVC,143,-1,149

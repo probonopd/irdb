@@ -1,0 +1,15 @@
+functionname,protocol,device,subdevice,function
+pause-step,NEC,69,-1,0
+KEY_POWER,NEC,69,-1,18
+KEY_FORWARD,NEC,69,-1,19
+KEY_PLAY,NEC,69,-1,21
+rev,NEC,69,-1,25
+KEY_ENTER,NEC,69,-1,34
+skip-left,NEC,69,-1,35
+skip-right,NEC,69,-1,36
+KEY_AUDIO,NEC,69,-1,39
+KEY_SUBTITLE,NEC,69,-1,40
+KEY_ANGLE,NEC,69,-1,41
+KEY_ANGLE,NEC,69,-1,41
+KEY_CLEAR,NEC,69,-1,239
+KEY_OPEN,NEC,69,-1,245

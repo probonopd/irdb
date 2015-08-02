@@ -1,0 +1,16 @@
+functionname,protocol,device,subdevice,function
+KEY_SLEEP,RC5,5,-1,12
+timer,RC5,5,-1,29
+KEY_KPPLUS,RC5,5,-1,32
+KEY_KPMINUS,RC5,5,-1,33
+KEY_PAUSE,RC5,5,-1,41
+x_right,RC5,5,-1,42
+scan_left,RC5,5,-1,44
+scan_right,RC5,5,-1,46
+KEY_LEFT,RC5,5,-1,47
+reset,RC5,5,-1,49
+KEY_REWIND,RC5,5,-1,50
+KEY_FORWARD,RC5,5,-1,52
+KEY_RIGHT,RC5,5,-1,53
+KEY_STOP,RC5,5,-1,54
+KEY_RECORD,RC5,5,-1,55

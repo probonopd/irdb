@@ -1,0 +1,16 @@
+functionname,protocol,device,subdevice,function
+KEY_POWER,Teac-K,0,4,0
+band,Teac-K,0,4,2
+KEY_STOP,Teac-K,0,4,5
+program,Teac-K,0,4,18
+KEY_RADIO,Teac-K,0,4,19
+KEY_VOLUMEUP,Teac-K,0,4,32
+KEY_PLAY,Teac-K,0,4,33
+tuning_right,Teac-K,0,4,34
+KEY_CD,Teac-K,0,4,37
+KEY_VOLUMEDOWN,Teac-K,0,4,48
+preset,Teac-K,0,4,49
+tuning_left,Teac-K,0,4,50
+sound,Teac-K,0,4,82
+eq,Teac-K,0,4,83
+KEY_SLEEP,Teac-K,0,4,103

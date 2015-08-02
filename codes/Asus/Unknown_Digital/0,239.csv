@@ -1,0 +1,12 @@
+functionname,protocol,device,subdevice,function
+KEY_PREVIOUS,NEC,0,239,0
+KEY_VOLUMEDOWN,NEC,0,239,1
+KEY_F11,NEC,0,239,2
+ez_wifi,NEC,0,239,8
+KEY_NEXT,NEC,0,239,9
+ap_launch,NEC,0,239,10
+KEY_POWER,NEC,0,239,11
+noise_off,NEC,0,239,12
+KEY_PLAYPAUSE,NEC,0,239,13
+KEY_VOLUMEUP,NEC,0,239,14
+quick_power,NEC,0,239,15

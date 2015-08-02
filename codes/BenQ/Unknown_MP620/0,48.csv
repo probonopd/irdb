@@ -1,0 +1,17 @@
+functionname,protocol,device,subdevice,function
+KEY_POWER,NEC,0,48,2
+KEY_PLAYPAUSE,NEC,0,48,3
+KEY_CYCLEWINDOWS,NEC,0,48,4
+KEY_PAGEUP,NEC,0,48,5
+KEY_PAGEDOWN,NEC,0,48,6
+blank,NEC,0,48,7
+auto,NEC,0,48,8
+keystone-larger,NEC,0,48,9
+keystone-smaller,NEC,0,48,10
+KEY_UP,NEC,0,48,11
+KEY_DOWN,NEC,0,48,12
+KEY_LEFT,NEC,0,48,13
+KEY_RIGHT,NEC,0,48,14
+KEY_MENU,NEC,0,48,15
+preset,NEC,0,48,16
+keystone-auto,NEC,0,48,17
