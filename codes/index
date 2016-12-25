@@ -130,6 +130,8 @@ Epson/Unknown_ELPST12/131,85.csv
 Epson/Unknown_12807990/131,85.csv
 Epson/Video Projector/131,85.csv
 Epson/Projector/131,85.csv
+L+S/Unknown_30755/5,-1.csv
+L+S/Unknown_LS/164,164.csv
 Fortec/Unknown_Lifetime/32,-1.csv
 Fortec/Unknown_Mercury2/1,253.csv
 Melectronic/Unknown_PP3600/2,-1.csv
@@ -241,7 +243,6 @@ General Instrument/Cable Box/15,-1.csv
 General Instrument/Cable Box/0,-1.csv
 General Instrument/Cable Box/64,-1.csv
 Panasonic/Unknown_EUR7617010/176,0.csv
-Panasonic/Unknown_RC4346/01B/0,-1.csv
 Panasonic/Unknown_VEQ1309/144,0.csv
 Panasonic/Receiver/160,4.csv
 Panasonic/Receiver/160,28.csv
@@ -274,6 +275,7 @@ Panasonic/Unknown_VEQ1697/112,8.csv
 Panasonic/Unknown_CARC60EX/129,106.csv
 Panasonic/Unknown_AMP/2,32.csv
 Panasonic/Unknown_N2QADC000006/128,72.csv
+Panasonic/Unknown_RC4346-01B/0,-1.csv
 Panasonic/VCR/144,1.csv
 Panasonic/VCR/144,0.csv
 Panasonic/VCR/144,5.csv
@@ -791,7 +793,6 @@ Generic/Unknown_NEC/None,None.csv
 Generic/Unknown_RC-6/None,None.csv
 Generic/Unknown_RCMM-32/None,None.csv
 Generic/Unknown_RECS80/None,None.csv
-e:max/DVD Player/0,223.csv
 Traxis/Unknown_3500/4,-1.csv
 GAMEFACTORY/Unknown_PS2DVD/0,246.csv
 Sigma Designs/DVD Player/128,-1.csv
@@ -1343,6 +1344,111 @@ Homecast/Unknown_DVB-S/32,32.csv
 Belkin/Unknown_F5X019/27,-1.csv
 Irradio/Unknown_IrradioHIFI1300V/162,162.csv
 Hip Interactive/Unknown_GE1002/0,246.csv
+BnK Components/Receiver/27,78.csv
+BnK Components/Receiver/203,67.csv
+BnK Components/Receiver/139,71.csv
+BnK Components/Matrix Switcher/199,131.csv
+BnK Components/Matrix Switcher/192,243.csv
+BnK Components/Matrix Switcher/119,-1.csv
+BnK Components/Matrix Switcher/15,15.csv
+BnK Components/Matrix Switcher/219,66.csv
+BnK Components/Matrix Switcher/204,-1.csv
+BnK Components/Matrix Switcher/143,7.csv
+BnK Components/Matrix Switcher/239,1.csv
+BnK Components/Matrix Switcher/95,10.csv
+BnK Components/Matrix Switcher/7,143.csv
+BnK Components/Matrix Switcher/71,139.csv
+BnK Components/Matrix Switcher/255,-1.csv
+BnK Components/Matrix Switcher/183,132.csv
+BnK Components/Matrix Switcher/123,72.csv
+BnK Components/Matrix Switcher/59,76.csv
+BnK Components/Matrix Switcher/23,142.csv
+BnK Components/Matrix Switcher/243,192.csv
+BnK Components/Matrix Switcher/39,141.csv
+BnK Components/Matrix Switcher/103,137.csv
+BnK Components/Matrix Switcher/187,-1.csv
+BnK Components/Matrix Switcher/76,59.csv
+BnK Components/Matrix Switcher/44,61.csv
+BnK Components/Matrix Switcher/108,57.csv
+BnK Components/Matrix Switcher/167,133.csv
+BnK Components/Matrix Switcher/135,135.csv
+BnK Components/Matrix Switcher/64,251.csv
+BnK Components/Matrix Switcher/128,247.csv
+BnK Components/Matrix Switcher/247,128.csv
+BnK Components/Matrix Switcher/0,-1.csv
+BnK Components/Matrix Switcher/55,140.csv
+BnK Components/Matrix Switcher/223,2.csv
+BnK Components/Matrix Switcher/242,208.csv
+BnK Components/Matrix Switcher/91,74.csv
+BnK Components/Matrix Switcher/159,6.csv
+BnK Components/Matrix Switcher/63,12.csv
+BnK Components/Matrix Switcher/31,14.csv
+BnK Components/Matrix Switcher/251,64.csv
+BnK Components/Matrix Switcher/79,11.csv
+BnK Components/Matrix Switcher/111,9.csv
+BnK Components/Matrix Switcher/172,53.csv
+BnK Components/Matrix Switcher/127,8.csv
+BnK Components/Theater-Zone 2/75,75.csv
+BnK Components/Theater-Zone 2/43,77.csv
+BnK Components/Theater-Zone 2/11,79.csv
+BnK Components/Surround Processor/27,78.csv
+BnK Components/Surround Processor/11,79.csv
+BnK Components/Multi-Zone Receiver/199,131.csv
+BnK Components/Multi-Zone Receiver/119,-1.csv
+BnK Components/Multi-Zone Receiver/15,15.csv
+BnK Components/Multi-Zone Receiver/219,66.csv
+BnK Components/Multi-Zone Receiver/143,7.csv
+BnK Components/Multi-Zone Receiver/7,143.csv
+BnK Components/Multi-Zone Receiver/71,139.csv
+BnK Components/Multi-Zone Receiver/183,132.csv
+BnK Components/Multi-Zone Receiver/123,72.csv
+BnK Components/Multi-Zone Receiver/59,76.csv
+BnK Components/Multi-Zone Receiver/23,142.csv
+BnK Components/Multi-Zone Receiver/243,192.csv
+BnK Components/Multi-Zone Receiver/39,141.csv
+BnK Components/Multi-Zone Receiver/103,137.csv
+BnK Components/Multi-Zone Receiver/187,-1.csv
+BnK Components/Multi-Zone Receiver/167,133.csv
+BnK Components/Multi-Zone Receiver/135,135.csv
+BnK Components/Multi-Zone Receiver/231,129.csv
+BnK Components/Multi-Zone Receiver/87,138.csv
+BnK Components/Multi-Zone Receiver/247,128.csv
+BnK Components/Multi-Zone Receiver/215,130.csv
+BnK Components/Multi-Zone Receiver/55,140.csv
+BnK Components/Multi-Zone Receiver/242,208.csv
+BnK Components/Multi-Zone Receiver/91,74.csv
+BnK Components/Multi-Zone Receiver/31,14.csv
+BnK Components/Multi-Zone Receiver/251,64.csv
+BnK Components/Multi-Zone Receiver/79,11.csv
+BnK Components/Multi-Zone Receiver/151,134.csv
+BnK Components/Theater Preamplifier/27,78.csv
+BnK Components/Theater Preamplifier/203,67.csv
+BnK Components/Theater Preamplifier/139,71.csv
+BnK Components/6 Zone Receiver/219,66.csv
+BnK Components/6 Zone Receiver/27,78.csv
+BnK Components/6 Zone Receiver/75,75.csv
+BnK Components/6 Zone Receiver/123,72.csv
+BnK Components/6 Zone Receiver/59,76.csv
+BnK Components/6 Zone Receiver/243,192.csv
+BnK Components/6 Zone Receiver/187,-1.csv
+BnK Components/6 Zone Receiver/43,77.csv
+BnK Components/6 Zone Receiver/203,67.csv
+BnK Components/6 Zone Receiver/139,71.csv
+BnK Components/6 Zone Receiver/242,208.csv
+BnK Components/6 Zone Receiver/91,74.csv
+BnK Components/6 Zone Receiver/251,64.csv
+BnK Components/6 Zone Receiver/11,79.csv
+BnK Components/2-Channel Preamp/11,-1.csv
+BnK Components/2-Channel Preamp/11,79.csv
+BnK Components/Tuner_preamp/11,-1.csv
+BnK Components/Tuner_preamp/11,79.csv
+BnK Components/Pre-Amplifier/27,78.csv
+BnK Components/Pre-Amplifier/5,1.csv
+BnK Components/Pre-Amplifier/11,-1.csv
+BnK Components/Pre-Amplifier/6,1.csv
+BnK Components/Pre-Amplifier/203,67.csv
+BnK Components/Pre-Amplifier/139,71.csv
+BnK Components/Pre-Amplifier/11,79.csv
 mivar/Unknown_mivar/7,-1.csv
 Skymaster/Unknown_2421/2,-1.csv
 Skymaster/Unknown_skymaster/19,1.csv
@@ -1420,11 +1526,12 @@ Draper/Dropdown Screen/0,-1.csv
 Draper/Screen/2,-1.csv
 Draper/Screen/0,-1.csv
 Hermstedt/Unknown_Hifidelio/16,-1.csv
+E Max/DVD Player/0,223.csv
 HP/Unknown_RC1762302-00/4,17.csv
-HP/Unknown_RC2234302/01B/4,15.csv
 HP/Unknown_DV6331/4,17.csv
 HP/Unknown_Pavilion/4,15.csv
 HP/Unknown_RC1762307-01/4,15.csv
+HP/Unknown_RC2234302-01B/4,15.csv
 HP/Unknown_465539-002/4,15.csv
 HP/Unknown_DV4-1125NR/4,15.csv
 HP/Unknown_RC172308-01B/4,15.csv
@@ -2034,111 +2141,6 @@ Crestron/IR Receiver/0,-1.csv
 Crestron/Music Server/14,-1.csv
 Knoll/Video Projector/24,233.csv
 Hampton Bay/Unknown_Bay/129,102.csv
-B&K Components/Receiver/27,78.csv
-B&K Components/Receiver/203,67.csv
-B&K Components/Receiver/139,71.csv
-B&K Components/Matrix Switcher/199,131.csv
-B&K Components/Matrix Switcher/192,243.csv
-B&K Components/Matrix Switcher/119,-1.csv
-B&K Components/Matrix Switcher/15,15.csv
-B&K Components/Matrix Switcher/219,66.csv
-B&K Components/Matrix Switcher/204,-1.csv
-B&K Components/Matrix Switcher/143,7.csv
-B&K Components/Matrix Switcher/239,1.csv
-B&K Components/Matrix Switcher/95,10.csv
-B&K Components/Matrix Switcher/7,143.csv
-B&K Components/Matrix Switcher/71,139.csv
-B&K Components/Matrix Switcher/255,-1.csv
-B&K Components/Matrix Switcher/183,132.csv
-B&K Components/Matrix Switcher/123,72.csv
-B&K Components/Matrix Switcher/59,76.csv
-B&K Components/Matrix Switcher/23,142.csv
-B&K Components/Matrix Switcher/243,192.csv
-B&K Components/Matrix Switcher/39,141.csv
-B&K Components/Matrix Switcher/103,137.csv
-B&K Components/Matrix Switcher/187,-1.csv
-B&K Components/Matrix Switcher/76,59.csv
-B&K Components/Matrix Switcher/44,61.csv
-B&K Components/Matrix Switcher/108,57.csv
-B&K Components/Matrix Switcher/167,133.csv
-B&K Components/Matrix Switcher/135,135.csv
-B&K Components/Matrix Switcher/64,251.csv
-B&K Components/Matrix Switcher/128,247.csv
-B&K Components/Matrix Switcher/247,128.csv
-B&K Components/Matrix Switcher/0,-1.csv
-B&K Components/Matrix Switcher/55,140.csv
-B&K Components/Matrix Switcher/223,2.csv
-B&K Components/Matrix Switcher/242,208.csv
-B&K Components/Matrix Switcher/91,74.csv
-B&K Components/Matrix Switcher/159,6.csv
-B&K Components/Matrix Switcher/63,12.csv
-B&K Components/Matrix Switcher/31,14.csv
-B&K Components/Matrix Switcher/251,64.csv
-B&K Components/Matrix Switcher/79,11.csv
-B&K Components/Matrix Switcher/111,9.csv
-B&K Components/Matrix Switcher/172,53.csv
-B&K Components/Matrix Switcher/127,8.csv
-B&K Components/Theater-Zone 2/75,75.csv
-B&K Components/Theater-Zone 2/43,77.csv
-B&K Components/Theater-Zone 2/11,79.csv
-B&K Components/Surround Processor/27,78.csv
-B&K Components/Surround Processor/11,79.csv
-B&K Components/Multi-Zone Receiver/199,131.csv
-B&K Components/Multi-Zone Receiver/119,-1.csv
-B&K Components/Multi-Zone Receiver/15,15.csv
-B&K Components/Multi-Zone Receiver/219,66.csv
-B&K Components/Multi-Zone Receiver/143,7.csv
-B&K Components/Multi-Zone Receiver/7,143.csv
-B&K Components/Multi-Zone Receiver/71,139.csv
-B&K Components/Multi-Zone Receiver/183,132.csv
-B&K Components/Multi-Zone Receiver/123,72.csv
-B&K Components/Multi-Zone Receiver/59,76.csv
-B&K Components/Multi-Zone Receiver/23,142.csv
-B&K Components/Multi-Zone Receiver/243,192.csv
-B&K Components/Multi-Zone Receiver/39,141.csv
-B&K Components/Multi-Zone Receiver/103,137.csv
-B&K Components/Multi-Zone Receiver/187,-1.csv
-B&K Components/Multi-Zone Receiver/167,133.csv
-B&K Components/Multi-Zone Receiver/135,135.csv
-B&K Components/Multi-Zone Receiver/231,129.csv
-B&K Components/Multi-Zone Receiver/87,138.csv
-B&K Components/Multi-Zone Receiver/247,128.csv
-B&K Components/Multi-Zone Receiver/215,130.csv
-B&K Components/Multi-Zone Receiver/55,140.csv
-B&K Components/Multi-Zone Receiver/242,208.csv
-B&K Components/Multi-Zone Receiver/91,74.csv
-B&K Components/Multi-Zone Receiver/31,14.csv
-B&K Components/Multi-Zone Receiver/251,64.csv
-B&K Components/Multi-Zone Receiver/79,11.csv
-B&K Components/Multi-Zone Receiver/151,134.csv
-B&K Components/Theater Preamplifier/27,78.csv
-B&K Components/Theater Preamplifier/203,67.csv
-B&K Components/Theater Preamplifier/139,71.csv
-B&K Components/6 Zone Receiver/219,66.csv
-B&K Components/6 Zone Receiver/27,78.csv
-B&K Components/6 Zone Receiver/75,75.csv
-B&K Components/6 Zone Receiver/123,72.csv
-B&K Components/6 Zone Receiver/59,76.csv
-B&K Components/6 Zone Receiver/243,192.csv
-B&K Components/6 Zone Receiver/187,-1.csv
-B&K Components/6 Zone Receiver/43,77.csv
-B&K Components/6 Zone Receiver/203,67.csv
-B&K Components/6 Zone Receiver/139,71.csv
-B&K Components/6 Zone Receiver/242,208.csv
-B&K Components/6 Zone Receiver/91,74.csv
-B&K Components/6 Zone Receiver/251,64.csv
-B&K Components/6 Zone Receiver/11,79.csv
-B&K Components/2-Channel Preamp/11,-1.csv
-B&K Components/2-Channel Preamp/11,79.csv
-B&K Components/Tuner_preamp/11,-1.csv
-B&K Components/Tuner_preamp/11,79.csv
-B&K Components/Pre-Amplifier/27,78.csv
-B&K Components/Pre-Amplifier/5,1.csv
-B&K Components/Pre-Amplifier/11,-1.csv
-B&K Components/Pre-Amplifier/6,1.csv
-B&K Components/Pre-Amplifier/203,67.csv
-B&K Components/Pre-Amplifier/139,71.csv
-B&K Components/Pre-Amplifier/11,79.csv
 Friedrich/Air Conditioner/16,-1.csv
 Friedrich/Air Conditioner/1,-1.csv
 Toshiba/Unknown_CT-90326/64,-1.csv
@@ -2178,14 +2180,12 @@ Toshiba/Unknown_VT-75F/68,-1.csv
 Toshiba/Unknown_CT-859/64,-1.csv
 Toshiba/Unknown_SE-R0049/69,-1.csv
 Allsat/Unknown_sat/8,-1.csv
-L+s/Unknown_30755/5,-1.csv
-L+s/Unknown_LS/164,164.csv
 QUADRAL/Unknown_RC-804/19,1.csv
 Expressvu/Unknown_3100/0,0.csv
 Zalman/Unknown_HD160XT/115,154.csv
 Aesthetix/Pre-Amplifier/16,-1.csv
 Visionetics/Unknown_Cable/134,107.csv
-B.A.TPre-Amplifier/16,-1.csv
+B.A.T./Pre-Amplifier/16,-1.csv
 Canalsat/Satellite/10,-1.csv
 Canalsat/Unknown_CanalSat/10,-1.csv
 Canalsat/Unknown_CanalSatHD/10,-1.csv
@@ -2573,6 +2573,7 @@ InFocus/Unknown_InFocus-SP8600/49,-1.csv
 rubin/Unknown_rubin/0,-1.csv
 Peekton/Unknown_IR6005/0,-1.csv
 Bluesky/Unknown_DV900/5,-1.csv
+Bang Olufsen/CD Player/26,73.csv
 Guillemot/Unknown_RemoteWizard-GN-263/134,107.csv
 McIntosh/Receiver/202,85.csv
 McIntosh/DVD Player/128,80.csv
@@ -2863,16 +2864,16 @@ Philips/Unknown_01/0,-1.csv
 Philips/Unknown_DVD-724/4,-1.csv
 Philips/VCR/5,-1.csv
 Philips/Unknown_RC-7843/0,-1.csv
-Philips/Unknown_RC19335003/01P/0,-1.csv
 Philips/Unknown_VR175/5,-1.csv
+Philips/Unknown_SBC-RU-520/5,-1.csv
 Philips/Unknown_RT150/5,-1.csv
 Philips/Unknown_RC19237006/4,-1.csv
 Philips/Unknown_rd5860.conf/20,-1.csv
 Philips/Unknown_SF172/39,-1.csv
 Philips/Unknown_SRU/0,-1.csv
 Philips/Unknown_RCLE011/0,-1.csv
+Philips/Unknown_RC19335003-01P/0,-1.csv
 Philips/Unknown_32PFL5403D/0,-1.csv
-Philips/Unknown_PHILIPS/SBC-RU-520/5,-1.csv
 Philips/Unknown_PHILIPS/0,-1.csv
 Philips/Unknown_PHILIPS/34,-1.csv
 Philips/Unknown_TIVO34/133,48.csv
@@ -3100,7 +3101,6 @@ Akai/Unknown_rc-c37/141,-1.csv
 Akai/Unknown_RC-W212F/137,119.csv
 Akai/Unknown_Akai-RC-61A/11,11.csv
 Akai/Unknown_RC-X121E/137,119.csv
-Bang & Olufsen/CD Player/26,73.csv
 Slim Devices/Unknown_Devices/110,-1.csv
 Topseed/Unknown_Topseed/4,15.csv
 Velodyne/Subwoofer/0,69.csv
