@@ -47,16 +47,20 @@ Color Button - Blue,Panasonic,128,0,115
 Discrete Input - PC,Panasonic,128,0,122
 Discrete Input - Component 1,Panasonic,128,4,124
 Discrete Input - Component 2,Panasonic,128,4,125
+Apps,Panasonic,128,9,143
 Viera Cast,Panasonic,128,9,147
+Home,Panasonic,128,9,149
 Sub Menu,Panasonic,128,9,167
-SDHC Reader,Panasonic,128,9,171
+Media Player,Panasonic,128,9,171
 Favorite Channel,Panasonic,128,9,174
 Discrete Input - HDMI 1,Panasonic,128,4,176
 Discrete Input - HDMI 2,Panasonic,128,4,177
 Viera Link,Panasonic,128,9,177
 Discrete Input - HDMI 3,Panasonic,128,4,178
+3D,Panasonic,128,9,183
 PROG- - Sub-Channel Dash,Panasonic,128,0,208
 Exit,Panasonic,128,0,211
 Return,Panasonic,128,0,212
 Aspect Ratio Change,Panasonic,128,4,222
 Viera Tools,Panasonic,128,0,239
+Netflix,Panasonic,128,9,242
