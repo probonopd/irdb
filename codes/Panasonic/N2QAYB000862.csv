@@ -23,9 +23,9 @@ SAP,Panasonic,128,0,51
 CH+,Panasonic,128,0,52
 CH-,Panasonic,128,0,53
 R-TUNE - Last Channel,Panasonic,128,0,55
-Recall - Info - Display,Panasonic,128,0,57
+Info,Panasonic,128,0,57
 Power,Panasonic,128,0,61
-Discrete Input - Power On,Panasonic,128,0,62
+Discrete Power On,Panasonic,128,0,62
 Discrete Power Off,Panasonic,128,0,63
 Contrast Up,Panasonic,128,0,66
 Contrast Dn,Panasonic,128,0,67
