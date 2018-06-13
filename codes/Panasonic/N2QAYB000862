@@ -1,0 +1,62 @@
+functionname,protocol,device,subdevice,function
+Return,Panasonic,128,0,212
+Menu,Panasonic,128,0,82 
+Sleep,Panasonic,128,0,15 
+Power,Panasonic,128,0,61 
+VOL+,Panasonic,128,0,32 
+VOL-,Panasonic,128,0,33 
+Mute,Panasonic,128,0,50 
+Up,Panasonic,128,0,74 
+Down,Panasonic,128,0,75 
+Left,Panasonic,128,0,78 
+Right,Panasonic,128,0,79 
+TV/VIDEO,Panasonic,128,0,5 
+1,Panasonic,128,0,16 
+2,Panasonic,128,0,17 
+3,Panasonic,128,0,18 
+4,Panasonic,128,0,19 
+5,Panasonic,128,0,20 
+6,Panasonic,128,0,21 
+7,Panasonic,128,0,22 
+8,Panasonic,128,0,23 
+9,Panasonic,128,0,24 
+0,Panasonic,128,0,25 
+Aspect Ratio Change,Panasonic,128,4,222
+Discrete Input - Composite 1,Panasonic,128,0,1 
+Discrete Input - Composite 2,Panasonic,128,0,2 
+Discrete Input - Composite 3,Panasonic,128,0,3 
+Discrete Input - PC,Panasonic,128,0,122 
+Discrete Input - HDMI 1,Panasonic,128,4,176 
+Discrete Input - HDMI 2,Panasonic,128,4,177 
+Discrete Input - HDMI 3,Panasonic,128,4,178 
+Discrete Input - Component 1,Panasonic,128,4,124 
+Discrete Input - Component 2,Panasonic,128,4,125 
+Discrete Input - Power On,Panasonic,128,0,62 
+CH+,Panasonic,128,0,52 
+CH-,Panasonic,128,0,53 
+Discrete Power Off,Panasonic,128,0,63 
+Recall - Info - Display,Panasonic,128,0,57
+Color Button - Red,Panasonic,128,0,112 
+Color Button - Green,Panasonic,128,0,113 
+Color Button - Yellow,Panasonic,128,0,114 
+Color Button - Blue,Panasonic,128,0,115 
+Exit,Panasonic,128,0,211 
+SDHC Reader,Panasonic,128,9,171 
+Select,Panasonic,128,0,73 
+SAP,Panasonic,128,0,51 
+Viera Link,Panasonic,128,9,177 
+Viera Cast,Panasonic,128,9,147 
+Viera Tools,Panasonic,128,0,239 
+Sub Menu,Panasonic,128,9,167 
+Favorite Channel,Panasonic,128,9,174
+PROG- - Sub-Channel Dash,Panasonic,128,0,208
+R-TUNE - Last Channel,Panasonic,128,0,55
+Picture Menu,Panasonic,128,0,6 
+Sound Menu,Panasonic,128,0,81 
+Sound Select,Panasonic,128,0,7 
+Brightness Up,Panasonic,128,0,68 
+Brightness Down,Panasonic,128,0,69 
+Contrast Up,Panasonic,128,0,66 
+Contrast Dn,Panasonic,128,0,67 
+Picture Select,Panasonic,128,0,80 
+Tuning,Panasonic,128,0,108
