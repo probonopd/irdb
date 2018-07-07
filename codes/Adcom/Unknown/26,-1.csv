@@ -1,6 +1,6 @@
 functionname,protocol,device,subdevice,function
-TRACK >>,,NEC1,26,-1,0
-TRACK ,<<,NEC1,26,-1,1
+TRACK >>,NEC1,26,-1,0
+TRACK <<,NEC1,26,-1,1
 STOP,NEC1,26,-1,4
 PLAY,NEC1,26,-1,5
 MEMORY,NEC1,26,-1,11
