@@ -281,7 +281,7 @@ INPUT - TUNER,Denon,2,-1,197
 4,Denon,2,-1,197
 FM,Denon,2,-1,197
 MAIN TUNER,Denon,2,-1,197
-TUNER (,,),Denon,2,-1,197
+TUNER (2),Denon,2,-1,197
 TUNER (4),Denon,2,-1,197
 TUNER 3,Denon,2,-1,197
 1] TUNER,Denon,2,-1,197
@@ -303,13 +303,13 @@ LEVEL FL DOWN,Denon,2,-1,199
 INPUT: DBS/SAT,Denon,2,-1,200
 Z1 SRC DBS,Denon,2,-1,200
 AMP DBS/BS,Denon,2,-1,200
-+10,Denon,2,-1,200
+10,Denon,2,-1,200
 DBS,Denon,2,-1,200
 MAIN DBS,Denon,2,-1,200
 0,Denon,2,-1,200
 INPUT DBS,Denon,2,-1,200
 INPUT SAT,Denon,2,-1,200
-DBS/BS (>>,),Denon,2,-1,200
+DBS/BS,Denon,2,-1,200
 MZ DBS,Denon,2,-1,200
 INPUT - DBS,Denon,2,-1,200
 DBS MAIN,Denon,2,-1,200
@@ -326,7 +326,7 @@ INPUT SAT/CBL,Denon,2,-1,201
 5/TV_DBS,Denon,2,-1,201
 INPUT TV/DBS,Denon,2,-1,201
 5 TV/DBS,Denon,2,-1,201
-+10,Denon,2,-1,201
+10,Denon,2,-1,201
 5/TV/DBS,Denon,2,-1,201
 INPT TV/DBS,Denon,2,-1,201
 1,Denon,2,-1,201
@@ -361,7 +361,7 @@ DVD,Denon,2,-1,202
 MAIN VDP,Denon,2,-1,202
 5,Denon,2,-1,202
 INPUT VDP,Denon,2,-1,202
-VDP (,<<),Denon,2,-1,202
+VDP,Denon,2,-1,202
 DVD (5),Denon,2,-1,202
 VDP [2],Denon,2,-1,202
 5] VDP,Denon,2,-1,202
@@ -496,7 +496,7 @@ INPT CD-R/TAPE,Denon,2,-1,210
 INPUT - DAT/TAPE,Denon,2,-1,210
 TAPE,Denon,2,-1,210
 MAIN CDR/TAPE,Denon,2,-1,210
-+10,Denon,2,-1,210
+10,Denon,2,-1,210
 INPUT CDR/TAPE,Denon,2,-1,210
 DAT/TAPE1,Denon,2,-1,210
 7,Denon,2,-1,210
