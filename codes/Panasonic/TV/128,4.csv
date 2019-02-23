@@ -1,2 +1,14 @@
 functionname,protocol,device,subdevice,function
-ASPECT,Panasonic,128,4,222
+INPUT COMPONENT 1,Panasonic,128,4,124
+INPUT COMPONENT 2,Panasonic,128,4,125
+INPUT HDMI 1,Panasonic,128,4,176
+INPUT HDMI 2,Panasonic,128,4,177
+INPUT HDMI 3,Panasonic,128,4,178
+INPUT HDMI 4,Panasonic,128,4,179
+ASPECT NORMAL,Panasonic,128,4,199
+ASPECT ZOOM,Panasonic,128,4,201
+ASPECT JUST,Panasonic,128,4,203
+ASPECT AUTO,Panasonic,128,4,204
+ASPECT FULL,Panasonic,128,4,209
+ASPECT SELECT/SCROLL,Panasonic,128,4,222
+PIP POSITION,Panasonic,128,4,229

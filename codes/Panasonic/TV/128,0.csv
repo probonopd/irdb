@@ -1,59 +1,93 @@
 functionname,protocol,device,subdevice,function
-TUNER,Panasonic,128,0,0
-VIDEO 1,Panasonic,128,0,1
-VIDEO 2,Panasonic,128,0,2
-VIDEO 3,Panasonic,128,0,3
-VIDEO 4,Panasonic,128,0,4
-COMPONENT 1,Panasonic,128,0,4
-TV/VIDEO,Panasonic,128,0,5
-INPUT SOURCE,Panasonic,128,0,5
-AV-ADJ.,Panasonic,128,0,6
-NORMAL,Panasonic,128,0,12
-1,Panasonic,128,0,16
-2,Panasonic,128,0,17
-3,Panasonic,128,0,18
-4,Panasonic,128,0,19
-5,Panasonic,128,0,20
-6,Panasonic,128,0,21
-7,Panasonic,128,0,22
-8,Panasonic,128,0,23
-9,Panasonic,128,0,24
-0,Panasonic,128,0,25
-VOLUME +,Panasonic,128,0,32
-VOLUME +/RIGHT,Panasonic,128,0,32
-CURSOR RIGHT,Panasonic,128,0,32
-VOLUME -,Panasonic,128,0,33
-VOLUME -/LEFT,Panasonic,128,0,33
-CURSOR LEFT,Panasonic,128,0,33
-MUTE,Panasonic,128,0,50
-CHANNEL +,Panasonic,128,0,52
-CHANNEL +/UP,Panasonic,128,0,52
-CURSOR UP,Panasonic,128,0,52
-CHANNEL -/DOWN,Panasonic,128,0,53
-CHANNEL -,Panasonic,128,0,53
-CURSOR DOWN,Panasonic,128,0,53
-R-TUNE,Panasonic,128,0,55
-RAPID TUNE,Panasonic,128,0,55
-LAST,Panasonic,128,0,55
+INPUT TUNER,Panasonic,128,0,0
+INPUT VIDEO 1,Panasonic,128,0,1
+INPUT VIDEO 2,Panasonic,128,0,2
+INPUT VIDEO 3,Panasonic,128,0,3
+INPUT VIDEO 4,Panasonic,128,0,4
+INPUT SELECT/SCROLL,Panasonic,128,0,5
+PICTURE MENU,Panasonic,128,0,6
+SOUND SELECT,Panasonic,128,0,7
+P-NR,Panasonic,128,0,10
+NORMALIZE,Panasonic,128,0,12
+SLEEP,Panasonic,128,0,15
+DIGIT 1,Panasonic,128,0,16
+DIGIT 2,Panasonic,128,0,17
+DIGIT 3,Panasonic,128,0,18
+DIGIT 4,Panasonic,128,0,19
+DIGIT 5,Panasonic,128,0,20
+DIGIT 6,Panasonic,128,0,21
+DIGIT 7,Panasonic,128,0,22
+DIGIT 8,Panasonic,128,0,23
+DIGIT 9,Panasonic,128,0,24
+DIGIT 0/10,Panasonic,128,0,25
+DIGIT 11,Panasonic,128,0,26
+DIGIT 12,Panasonic,128,0,27
+DIGIT 13,Panasonic,128,0,28
+DIGIT 14,Panasonic,128,0,29
+DIGIT 15,Panasonic,128,0,30
+DIGIT 16,Panasonic,128,0,31
+VOLUME UP,Panasonic,128,0,32
+VOLUME DOWN,Panasonic,128,0,33
+VOLUME MUTE TOGGLE,Panasonic,128,0,50
+SAP,Panasonic,128,0,51
+CHANNEL UP,Panasonic,128,0,52
+CHANNEL DOWN,Panasonic,128,0,53
+CHANNEL PREVIOUS,Panasonic,128,0,55
 SEARCH,Panasonic,128,0,56
-RECALL,Panasonic,128,0,57
-INFO/RECALL,Panasonic,128,0,57
-RH-SPLIT,Panasonic,128,0,57
-POWER,Panasonic,128,0,61
+INFO / RECALL,Panasonic,128,0,57
+POWER TOGGLE,Panasonic,128,0,61
 POWER ON,Panasonic,128,0,62
 POWER OFF,Panasonic,128,0,63
-ACTION,Panasonic,128,0,73
-ACTION,Panasonic,128,0,82
+CONTRAST UP,Panasonic,128,0,66
+CONTRAST DOWN,Panasonic,128,0,67
+BRIGHTNESS UP,Panasonic,128,0,68
+BRIGHTNESS DOWN,Panasonic,128,0,69
+CURSOR ENTER/SELECT,Panasonic,128,0,73
+CURSOR UP,Panasonic,128,0,74
+CURSOR DOWN,Panasonic,128,0,75
+CURSOR LEFT,Panasonic,128,0,78
+CURSOR RIGHT,Panasonic,128,0,79
+PICTURE SELECT,Panasonic,128,0,80
+SOUND MENU,Panasonic,128,0,81
 MENU,Panasonic,128,0,82
-ENTER,Panasonic,128,0,82
-FREEZE,Panasonic,128,0,92
+PIP VOLUME UP,Panasonic,128,0,83
+PIP VOLUME DOWN,Panasonic,128,0,84
+PIP INPUT SCROLL,Panasonic,128,0,86
+PIP POSITION UP,Panasonic,128,0,87
+PIP POSITION DOWN,Panasonic,128,0,88
+PIP POSITION LEFT,Panasonic,128,0,89
+PIP POSITION RIGHT,Panasonic,128,0,90
+PIP SIZE,Panasonic,128,0,91
 PIP FREEZE,Panasonic,128,0,92
-PIP ON/OFF,Panasonic,128,0,93
-SWAP,Panasonic,128,0,94
+PIP TOGGLE,Panasonic,128,0,93
 PIP SWAP,Panasonic,128,0,94
+PIP FRAME ADVANCE,Panasonic,128,0,95
 FREEZE,Panasonic,128,0,99
-PIP CH+,Panasonic,128,0,100
-PIP CHAN -,Panasonic,128,0,101
-GAME,Panasonic,128,0,187
-EXIT,Panasonic,128,0,212
-SPLIT,Panasonic,128,0,230
+PIP CHANNEL UP,Panasonic,128,0,100
+PIP CHANNEL DOWN,Panasonic,128,0,101
+PIP MODE,Panasonic,128,0,102
+PIP POSITION SWITCH,Panasonic,128,0,103
+PIP AUDIO SWITCH,Panasonic,128,0,104
+PIP REPLAY,Panasonic,128,0,105
+TUNING,Panasonic,128,0,108
+COLOR BUTTON RED,Panasonic,128,0,112
+COLOR BUTTON GREEN,Panasonic,128,0,113
+COLOR BUTTON YELLOW,Panasonic,128,0,114
+COLOR BUTTON BLUE,Panasonic,128,0,115
+INPUT PC/VGA,Panasonic,128,0,122
+BBE,Panasonic,128,0,126
+CLOSED CAPTION,Panasonic,128,0,157
+CHANNEL SKIP,Panasonic,128,0,158
+LANGUAGE,Panasonic,128,0,160
+AUTO SEARCH,Panasonic,128,0,166
+HELP,Panasonic,128,0,172
+GAME / ZOOM,Panasonic,128,0,187
+PROG / DASH,Panasonic,128,0,208
+EXIT,Panasonic,128,0,211
+RETURN,Panasonic,128,0,212
+STORE,Panasonic,128,0,213
+PIP RECORD,Panasonic,128,0,224
+PIP,Panasonic,128,0,226
+PIP MULTI WINDOW,Panasonic,128,0,230
+PIP MOVE/ZOOM,Panasonic,128,0,231
+VIERA TOOLS,Panasonic,128,0,239

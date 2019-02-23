@@ -1,0 +1,25 @@
+functionname,protocol,device,subdevice,function
+GUIDE,Panasonic,128,9,135
+LIST,Panasonic,128,9,136
+APPS,Panasonic,128,9,143
+VIERA CAST / INTERNET,Panasonic,128,9,147
+MENU HOME,Panasonic,128,9,149
+MENU SUB / OPTION,Panasonic,128,9,167
+SD CARD / USB / MEDIA PLAYER,Panasonic,128,9,171
+FAVORITE CHANNEL,Panasonic,128,9,174
+VIERA LINK,Panasonic,128,9,177
+IPOD,Panasonic,128,9,180
+3D,Panasonic,128,9,183
+USB,Panasonic,128,9,184
+PAUSE,Panasonic,128,9,193
+PLAY,Panasonic,128,9,192
+STOP,Panasonic,128,9,194
+FAST FORWARD,Panasonic,128,9,195
+REWIND,Panasonic,128,9,196
+RECORD,Panasonic,128,9,197
+INPUT ANTENNA A,Panasonic,128,9,205
+INPUT ANTENNA B,Panasonic,128,9,206
+SD RECORD,Panasonic,128,9,213
+PREVIOUS,Panasonic,128,9,220
+NEXT,Panasonic,128,9,221
+NETFLIX,Panasonic,128,9,242
