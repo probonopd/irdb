@@ -1,5 +1,0 @@
-functionname,protocol,device,subdevice,function
-S-VIDEO/COMPOSITE,Panasonic,128,0,1
-POWER ON,Panasonic,128,0,62
-POWER OFF,Panasonic,128,0,63
-PC/VGA,Panasonic,128,0,122

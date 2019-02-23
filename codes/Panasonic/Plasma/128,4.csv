@@ -1,7 +1,0 @@
-functionname,protocol,device,subdevice,function
-COMPONENT,Panasonic,128,4,124
-SCREEN FORMAT NORMAL,Panasonic,128,4,199
-SCREEN FORMAT ZOOM,Panasonic,128,4,201
-SCREEN FORMAT JUST,Panasonic,128,4,203
-SCREEN FORMAT AUTO,Panasonic,128,4,204
-SCREEN FORMAT FULL,Panasonic,128,4,209
