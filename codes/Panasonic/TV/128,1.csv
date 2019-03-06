@@ -1,0 +1,13 @@
+functionname,protocol,device,subdevice,function
+TELETEXT SELECT,Panasonic,128,1,0
+TELETEXT MIX,Panasonic,128,1,1
+TELETEXT TIME TEXT,Panasonic,128,1,3
+TELETEXT CANCEL,Panasonic,128,1,4
+SUBTITLE,Panasonic,128,1,5
+TELETEXT INDEX / TIMER,Panasonic,128,1,8
+TELETEXT HOLD,Panasonic,128,1,9
+TELETEXT STORE LIST,Panasonic,128,1,10
+TELETEXT SIZE,Panasonic,128,1,12
+TELETEXT REVEAL,Panasonic,128,1,28
+TELETEXT LIST,Panasonic,128,1,29
+TELETEXT RESET,Panasonic,128,1,30
