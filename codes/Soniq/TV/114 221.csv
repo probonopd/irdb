@@ -1,4 +1,4 @@
-Alphabetical,Protocol,D,S,F,Description
+Alphabetical,Protocol,Device,SubDevice,Function,FunctionName
 34,NEC1-rnc,114,221,0,PAUSE
 35,NEC1-rnc,114,221,0,PLAY
 31,NEC1,114,221,3,MENU MAIN
