@@ -1,9 +1,9 @@
 functionname,protocol,device,subdevice,function
 ON,Dish_Network,0,0,1
-POWER ON,Dish_Network,0,0,1
+POWER_ON,Dish_Network,0,0,1
 POWER,Dish_Network,0,0,2
-POWER ON,Dish_Network,0,0,2
-SAT POWER,Dish_Network,0,0,2
+POWER_ON,Dish_Network,0,0,2
+SAT_POWER,Dish_Network,0,0,2
 1,Dish_Network,0,0,4
 2,Dish_Network,0,0,5
 ABC,Dish_Network,0,0,5
@@ -26,87 +26,87 @@ SELECT,Dish_Network,0,0,16
 ENTER/SELECT,Dish_Network,0,0,16
 OK,Dish_Network,0,0,16
 ENTER,Dish_Network,0,0,16
-CUR / SELECT,Dish_Network,0,0,16
-CURSOR SELECT,Dish_Network,0,0,16
-CURSOR ENTER,Dish_Network,0,0,16
-C SELECT,Dish_Network,0,0,16
+/SELECT,Dish_Network,0,0,16
+SELECT,Dish_Network,0,0,16
+ENTER,Dish_Network,0,0,16
+SELECT,Dish_Network,0,0,16
 0,Dish_Network,0,0,17
->,Dish_Network,0,0,17
+RIGHT,Dish_Network,0,0,17
 CANCEL,Dish_Network,0,0,18
-CANCEL - EXIT,Dish_Network,0,0,18
+CANCEL-EXIT,Dish_Network,0,0,18
 LIVE,Dish_Network,0,0,18
 RED,Dish_Network,0,0,19
 GUIDE,Dish_Network,0,0,20
-GUIDE *,Dish_Network,0,0,20
+GUIDE_*,Dish_Network,0,0,20
 LISTINGS,Dish_Network,0,0,20
 VIEW,Dish_Network,0,0,22
-VIEW TV,Dish_Network,0,0,22
-LIVE TV,Dish_Network,0,0,22
+VIEW_TV,Dish_Network,0,0,22
+LIVE_TV,Dish_Network,0,0,22
 LIVETV,Dish_Network,0,0,22
-VIEW/LIVE TV,Dish_Network,0,0,22
+VIEW/LIVE_TV,Dish_Network,0,0,22
 TV/VIDEO,Dish_Network,0,0,23
 HD,Dish_Network,0,0,23
 SD,Dish_Network,0,0,23
-TV / VIDEO,Dish_Network,0,0,23
-INPUT,Dish_Network,0,0,23
+TV/VIDEO,Dish_Network,0,0,23
+INPUT:,Dish_Network,0,0,23
 RIGHT,Dish_Network,0,0,24
-CURSOR RIGHT,Dish_Network,0,0,24
-ARROW RIGHT,Dish_Network,0,0,24
-CUR RIGHT,Dish_Network,0,0,24
-CURSOR RIGHT(BROWSE),Dish_Network,0,0,24
-C RIGHT,Dish_Network,0,0,24
+RIGHT,Dish_Network,0,0,24
+RIGHT,Dish_Network,0,0,24
+RIGHT,Dish_Network,0,0,24
+RIGHT(BROWSE),Dish_Network,0,0,24
+RIGHT,Dish_Network,0,0,24
 BROWSE,Dish_Network,0,0,24
 UP,Dish_Network,0,0,26
-CHANNEL +,Dish_Network,0,0,26
-CURSOR UP,Dish_Network,0,0,26
-ARROW UP,Dish_Network,0,0,26
-CUR UP,Dish_Network,0,0,26
-CHAN UP,Dish_Network,0,0,26
-C UP,Dish_Network,0,0,26
-RECALL,Dish_Network,0,0,27
+CHANNEL+,Dish_Network,0,0,26
+UP,Dish_Network,0,0,26
+UP,Dish_Network,0,0,26
+UP,Dish_Network,0,0,26
+CHAN_UP,Dish_Network,0,0,26
+UP,Dish_Network,0,0,26
+RECORDALL,Dish_Network,0,0,27
 LCV,Dish_Network,0,0,27
 LEFT,Dish_Network,0,0,28
-CURSOR LEFT,Dish_Network,0,0,28
-ARROW LEFT,Dish_Network,0,0,28
-CUR LEFT,Dish_Network,0,0,28
-CURSOR LEFT (THEMES),Dish_Network,0,0,28
+LEFT,Dish_Network,0,0,28
+LEFT,Dish_Network,0,0,28
+LEFT,Dish_Network,0,0,28
+LEFT(THEMES),Dish_Network,0,0,28
 THEMES,Dish_Network,0,0,28
-C LEFT,Dish_Network,0,0,28
+LEFT,Dish_Network,0,0,28
 DOWN,Dish_Network,0,0,30
-CHANNEL -,Dish_Network,0,0,30
-CURSOR DOWN,Dish_Network,0,0,30
-ARROW DOWN,Dish_Network,0,0,30
-CUR DOWN,Dish_Network,0,0,30
-CHAN DN,Dish_Network,0,0,30
+CHANNEL-,Dish_Network,0,0,30
+DOWN,Dish_Network,0,0,30
+DOWN,Dish_Network,0,0,30
+DOWN,Dish_Network,0,0,30
+CHAN_DN,Dish_Network,0,0,30
 DN,Dish_Network,0,0,30
-C DOWN,Dish_Network,0,0,30
-ARROW DN,Dish_Network,0,0,30
+DOWN,Dish_Network,0,0,30
+DOWN,Dish_Network,0,0,30
 RECORD,Dish_Network,0,0,31
-REC,Dish_Network,0,0,31
+RECORD,Dish_Network,0,0,31
 PAUSE,Dish_Network,0,0,32
 STOP,Dish_Network,0,0,33
 YELLOW,Dish_Network,0,0,34
 BLUE,Dish_Network,0,0,35
-SYS INFO,Dish_Network,0,0,36
+SYS_INFO,Dish_Network,0,0,36
 *,Dish_Network,0,0,37
-<,Dish_Network,0,0,37
+LEFT,Dish_Network,0,0,37
 ASPECT,Dish_Network,0,0,37
 FORMAT/*,Dish_Network,0,0,37
 *-FORMAT,Dish_Network,0,0,37
 FORMAT,Dish_Network,0,0,37
-SAT FORMAT,Dish_Network,0,0,37
-< / FORMAT,Dish_Network,0,0,37
+SAT_FORMAT,Dish_Network,0,0,37
+</FORMAT,Dish_Network,0,0,37
 #,Dish_Network,0,0,38
 SEARCH,Dish_Network,0,0,38
 SEARCH/#,Dish_Network,0,0,38
 #-SEARCH,Dish_Network,0,0,38
-SEARCH #,Dish_Network,0,0,38
+SEARCH_#,Dish_Network,0,0,38
 OFF,Dish_Network,0,0,39
-POWER OFF,Dish_Network,0,0,39
+POWER_OFF,Dish_Network,0,0,39
 SAT,Dish_Network,0,0,41
 SEARCH,Dish_Network,0,0,45
 ,Dish_Network,0,0,46
-GREEN R,Dish_Network,0,0,47
-RECOVER,Dish_Network,0,0,47
+GREEN_R,Dish_Network,0,0,47
+RECORDOVER,Dish_Network,0,0,47
 GREEN,Dish_Network,0,0,53
 0,Dish_Network,0,0,56

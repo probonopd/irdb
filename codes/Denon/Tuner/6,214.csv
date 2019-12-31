@@ -1,4 +1,4 @@
 functionname,protocol,device,subdevice,function
 RETURN,??Kaseikyo-84.50,6,214,0
 PTY,??Kaseikyo-84.50,6,214,1
-SHIFT G,??Kaseikyo-84.50,6,214,2
+SHIFT_G,??Kaseikyo-84.50,6,214,2

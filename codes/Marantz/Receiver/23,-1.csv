@@ -1,5 +1,5 @@
 functionname,protocol,device,subdevice,function
 MD,RC5,23,-1,63
-TAPE 2,RC5,23,-1,63
+TAPE2,RC5,23,-1,63
 DCC,RC5,23,-1,63
-INPUT - MD,RC5,23,-1,63
+INPUT-MD,RC5,23,-1,63

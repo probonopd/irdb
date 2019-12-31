@@ -1,12 +1,12 @@
 functionname,protocol,device,subdevice,function
 STOP,Panasonic_Old,2,-1,0
-REWIND <<,Panasonic_Old,2,-1,2
-FAST FORWARD >>,Panasonic_Old,2,-1,3
+REWIND,Panasonic_Old,2,-1,2
+FAST_FORWARD,Panasonic_Old,2,-1,3
 PAUSE,Panasonic_Old,2,-1,6
 RECORD,Panasonic_Old,2,-1,8
 PLAY,Panasonic_Old,2,-1,10
-STILL ADVANCE,Panasonic_Old,2,-1,12
+STILL_ADVANCE,Panasonic_Old,2,-1,12
 SLOW,Panasonic_Old,2,-1,15
 POWER,Panasonic_Old,2,-1,32
-SLOW +,Panasonic_Old,2,-1,46
-SLOW -,Panasonic_Old,2,-1,47
+SLOW+,Panasonic_Old,2,-1,46
+SLOW-,Panasonic_Old,2,-1,47

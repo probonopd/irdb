@@ -1,7 +1,7 @@
 functionname,protocol,device,subdevice,function
 TV/AV,Panasonic,128,0,5
-TV VOL +,Panasonic,128,0,32
-TV VOL -,Panasonic,128,0,33
-TV CH +,Panasonic,128,0,52
-TV CH -,Panasonic,128,0,53
-TV POWER,Panasonic,128,0,61
+TV_VOL+,Panasonic,128,0,32
+TV_VOL-,Panasonic,128,0,33
+TV_CHANNEL+,Panasonic,128,0,52
+TV_CHANNEL-,Panasonic,128,0,53
+TV_POWER,Panasonic,128,0,61

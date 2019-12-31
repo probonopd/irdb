@@ -1,31 +1,31 @@
 functionname,protocol,device,subdevice,function
-TV 1,Mitsubishi,71,-1,0
-TV 9,Mitsubishi,71,-1,1
-TV POWER,Mitsubishi,71,-1,2
-TV CANCEL,Mitsubishi,71,-1,7
-TV 2,Mitsubishi,71,-1,8
-TV 0,Mitsubishi,71,-1,9
-TV CH ^ (SCAN ^),Mitsubishi,71,-1,10
-TV SCAN ^,Mitsubishi,71,-1,10
-TV QV,Mitsubishi,71,-1,15
-TV 3,Mitsubishi,71,-1,16
-TV CH V (SCAN V),Mitsubishi,71,-1,18
-TV SCAN V,Mitsubishi,71,-1,18
-TV OTR,Mitsubishi,71,-1,23
-TV 4,Mitsubishi,71,-1,24
-TV INPUT V,Mitsubishi,71,-1,26
-TV DISPLAY,Mitsubishi,71,-1,27
-TV 5,Mitsubishi,71,-1,32
-TV 6,Mitsubishi,71,-1,40
-TV 7,Mitsubishi,71,-1,48
-TV ENTER,Mitsubishi,71,-1,53
-TV 8,Mitsubishi,71,-1,56
-TV A,Mitsubishi,71,-1,57
-TV INPUT ^,Mitsubishi,71,-1,58
-TV VIDEO ^,Mitsubishi,71,-1,64
-TV ADJUST ^,Mitsubishi,71,-1,65
-TV VIDEO V,Mitsubishi,71,-1,72
-TV ADJUST V,Mitsubishi,71,-1,73
-TV AUDIO ^,Mitsubishi,71,-1,80
-TV MENU,Mitsubishi,71,-1,82
-TV AUDIO V,Mitsubishi,71,-1,88
+TV1,Mitsubishi,71,-1,0
+TV9,Mitsubishi,71,-1,1
+TV_POWER,Mitsubishi,71,-1,2
+TV_CANCEL,Mitsubishi,71,-1,7
+TV2,Mitsubishi,71,-1,8
+TV0,Mitsubishi,71,-1,9
+TV_CHANNEL^(SCAN^),Mitsubishi,71,-1,10
+TV_SCAN_^,Mitsubishi,71,-1,10
+TV_QV,Mitsubishi,71,-1,15
+TV3,Mitsubishi,71,-1,16
+TV_CHANNELV(SCANV),Mitsubishi,71,-1,18
+TV_SCAN_V,Mitsubishi,71,-1,18
+TV_OTR,Mitsubishi,71,-1,23
+TV4,Mitsubishi,71,-1,24
+TV_INPUT_V,Mitsubishi,71,-1,26
+TV_DISPLAY,Mitsubishi,71,-1,27
+TV5,Mitsubishi,71,-1,32
+TV6,Mitsubishi,71,-1,40
+TV7,Mitsubishi,71,-1,48
+TV_ENTER,Mitsubishi,71,-1,53
+TV8,Mitsubishi,71,-1,56
+TV_A,Mitsubishi,71,-1,57
+TV_INPUT_^,Mitsubishi,71,-1,58
+TV_VIDEO_^,Mitsubishi,71,-1,64
+TV_ADJUST_^,Mitsubishi,71,-1,65
+TV_VIDEO_V,Mitsubishi,71,-1,72
+TV_ADJUST_V,Mitsubishi,71,-1,73
+TV_AUDIO_^,Mitsubishi,71,-1,80
+TV_MENU,Mitsubishi,71,-1,82
+TV_AUDIO_V,Mitsubishi,71,-1,88

@@ -9,5 +9,5 @@ functionname,protocol,device,subdevice,function
 8,Sony20,26,26,7
 9,Sony20,26,26,8
 0,Sony20,26,26,15
-CHANNEL +,Sony20,26,26,16
-CHANNEL -,Sony20,26,26,17
+CHANNEL+,Sony20,26,26,16
+CHANNEL-,Sony20,26,26,17

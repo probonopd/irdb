@@ -1,17 +1,17 @@
 functionname,protocol,device,subdevice,function
-STOP [],Panasonic_Old,2,-1,0
+STOP,Panasonic_Old,2,-1,0
 EJECT,Panasonic_Old,2,-1,1
-REW/SEARCH <<,Panasonic_Old,2,-1,2
-FF/SEARCH >>,Panasonic_Old,2,-1,3
-PAUSE/STILL ,,,Panasonic_Old,2,-1,6
-REC,Panasonic_Old,2,-1,8
+REWIND/SEARCH,Panasonic_Old,2,-1,2
+FASTFORWARD/SEARCH,Panasonic_Old,2,-1,3
+PAUSE/STILL,,,Panasonic_Old,2,-1,6
 RECORD,Panasonic_Old,2,-1,8
-PLAY >,Panasonic_Old,2,-1,10
-SLOW ,>,Panasonic_Old,2,-1,15
-1 (AM),Panasonic_Old,2,-1,16
-1 AM,Panasonic_Old,2,-1,16
-2 (PM),Panasonic_Old,2,-1,17
-2 PM,Panasonic_Old,2,-1,17
+RECORD,Panasonic_Old,2,-1,8
+PLAY,Panasonic_Old,2,-1,10
+SLOW,>,Panasonic_Old,2,-1,15
+1_(AM),Panasonic_Old,2,-1,16
+1_AM,Panasonic_Old,2,-1,16
+2_(PM),Panasonic_Old,2,-1,17
+2_PM,Panasonic_Old,2,-1,17
 3,Panasonic_Old,2,-1,18
 4,Panasonic_Old,2,-1,19
 5,Panasonic_Old,2,-1,20
@@ -21,16 +21,16 @@ SLOW ,>,Panasonic_Old,2,-1,15
 9,Panasonic_Old,2,-1,24
 0,Panasonic_Old,2,-1,25
 POWER,Panasonic_Old,2,-1,32
-CH SCAN ^,Panasonic_Old,2,-1,34
-CH SCAN V,Panasonic_Old,2,-1,35
+CHANNELSCAN+,Panasonic_Old,2,-1,34
+CHANNELSCAN-,Panasonic_Old,2,-1,35
 SPEED,Panasonic_Old,2,-1,37
 VCR/TV,Panasonic_Old,2,-1,42
-COUNTER MEMORY,Panasonic_Old,2,-1,50
+COUNTER_MEMORY,Panasonic_Old,2,-1,50
 RESET,Panasonic_Old,2,-1,51
-CLEAR RESET,Panasonic_Old,2,-1,51
-TRACKING ^,Panasonic_Old,2,-1,56
-V-LOCK TRACKING ^,Panasonic_Old,2,-1,56
-TRACKING V,Panasonic_Old,2,-1,57
-V-LOCK TRACKING V,Panasonic_Old,2,-1,57
+CLEAR_RESET,Panasonic_Old,2,-1,51
+TRACKING+,Panasonic_Old,2,-1,56
+V-LOCK_TRACKING_^,Panasonic_Old,2,-1,56
+TRACKING-,Panasonic_Old,2,-1,57
+V-LOCK_TRACKING_V,Panasonic_Old,2,-1,57
 STANDBY,Panasonic_Old,2,-1,62
 OTR,Panasonic_Old,2,-1,63

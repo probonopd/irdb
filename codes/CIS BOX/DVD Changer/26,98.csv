@@ -1,3 +1,3 @@
 functionname,protocol,device,subdevice,function
-DISK SKIP DOWN,Sony20,26,98,61
-DISK SKIP UP,Sony20,26,98,62
+DISK_SKIP_DOWN,Sony20,26,98,61
+DISK_SKIP_UP,Sony20,26,98,62

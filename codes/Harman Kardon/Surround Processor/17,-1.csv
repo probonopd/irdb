@@ -1,5 +1,5 @@
 functionname,protocol,device,subdevice,function
->>/,RC5,17,-1,32
+FASTFORWARD/,RC5,17,-1,32
 \<<,RC5,17,-1,33
 ENTER,RC5,17,-1,43
 TUNER,RC5,17,-1,63

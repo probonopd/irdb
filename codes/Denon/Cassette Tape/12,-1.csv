@@ -1,7 +1,7 @@
 functionname,protocol,device,subdevice,function
 MUTING,Denon,12,-1,75
-VOLUME V,Denon,12,-1,76
-VOLUME ^,Denon,12,-1,77
+VOLUME-,Denon,12,-1,76
+VOLUME+,Denon,12,-1,77
 POWER,Denon,12,-1,80
 VDP,Denon,12,-1,84
 PHONO,Denon,12,-1,88
@@ -9,9 +9,9 @@ TUNER,Denon,12,-1,89
 CD,Denon,12,-1,90
 TAPE-1,Denon,12,-1,93
 TAPE-2/VCR,Denon,12,-1,94
-VIDEO SELECT,Denon,12,-1,98
-REC SELECT,Denon,12,-1,117
+VIDEO_SELECT,Denon,12,-1,98
+RECORDSELECT,Denon,12,-1,117
 PANEL,Denon,12,-1,126
-PRESET V,Denon,12,-1,213
-PRESET ^,Denon,12,-1,214
+PRESET-,Denon,12,-1,213
+PRESET+,Denon,12,-1,214
 P.SCAN,Denon,12,-1,220

@@ -1,10 +1,10 @@
 functionname,protocol,device,subdevice,function
 STOP,Panasonic,144,0,0
 ,Panasonic,144,0,0
-REWIND <<,Panasonic,144,0,2
-FAST FORWARD >>,Panasonic,144,0,3
+REWIND,Panasonic,144,0,2
+FAST_FORWARD,Panasonic,144,0,3
 PAUSE,Panasonic,144,0,6
-REC/TIME,Panasonic,144,0,8
+RECORD/TIME,Panasonic,144,0,8
 PLAY,Panasonic,144,0,10
 SLOW,Panasonic,144,0,15
 1,Panasonic,144,0,16
@@ -13,16 +13,16 @@ SLOW,Panasonic,144,0,15
 4,Panasonic,144,0,19
 5,Panasonic,144,0,20
 6,Panasonic,144,0,21
-TRACKING -,Panasonic,144,0,21
+TRACKING-,Panasonic,144,0,21
 ,Panasonic,144,0,21
 7,Panasonic,144,0,22
 8,Panasonic,144,0,23
 9,Panasonic,144,0,24
 0,Panasonic,144,0,25
-TRACKING +,Panasonic,144,0,52
+TRACKING+,Panasonic,144,0,52
 ,Panasonic,144,0,52
 VCR/TV,Panasonic,144,0,54
 DISPLAY,Panasonic,144,0,57
 POWER,Panasonic,144,0,61
-COUNTER RESET,Panasonic,144,0,84
+COUNTER_RESET,Panasonic,144,0,84
 100,Panasonic,144,0,229

@@ -1,12 +1,12 @@
 functionname,protocol,device,subdevice,function
 MUTE,Velleman,0,-1,2
 DND,Velleman,0,-1,3
-VOLUME UP,RECS80,0,-1,4
-VOLUME +,Velleman,0,-1,4
+VOLUME+,RECS80,0,-1,4
+VOLUME+,Velleman,0,-1,4
 BASS+,Velleman,0,-1,6
-BRIGHTNESS -,Velleman,0,-1,6
+BRIGHTNESS-,Velleman,0,-1,6
 TREBLE+,Velleman,0,-1,8
-VOLUME DOWN,RECS80,0,-1,36
-VOLUME -,Velleman,0,-1,36
+VOLUME-,RECS80,0,-1,36
+VOLUME-,Velleman,0,-1,36
 BASS-,Velleman,0,-1,38
-TREBLE -,Velleman,0,-1,39
+TREBLE-,Velleman,0,-1,39

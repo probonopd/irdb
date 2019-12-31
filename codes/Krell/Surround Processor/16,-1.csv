@@ -1,4 +1,4 @@
 functionname,protocol,device,subdevice,function
-POWER OFF,RC5,16,-1,40
+POWER_OFF,RC5,16,-1,40
 AMP,RC5,16,-1,40
 METER,RC5,16,-1,41

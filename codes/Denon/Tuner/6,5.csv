@@ -1,4 +1,4 @@
 functionname,protocol,device,subdevice,function
 1,??Kaseikyo-84.50,6,5,1
-CHANNEL +,??Kaseikyo-84.50,6,5,2
-CURSOR UP,??Kaseikyo-84.50,6,5,3
+CHANNEL+,??Kaseikyo-84.50,6,5,2
+UP,??Kaseikyo-84.50,6,5,3

@@ -16,9 +16,9 @@ U3,Akai,3,-1,14
 U4,Akai,3,-1,15
 2,Akai,3,-1,16
 POWER,Akai,3,-1,19
-STOP [],Akai,3,-1,24
-PLAY >,Akai,3,-1,25
-REC,Akai,3,-1,26
-PAUSE ,,,Akai,3,-1,27
-FF/SEARCH >>,Akai,3,-1,28
-REW/SEARCH <<,Akai,3,-1,29
+STOP,Akai,3,-1,24
+PLAY,Akai,3,-1,25
+RECORD,Akai,3,-1,26
+PAUSE,,,Akai,3,-1,27
+FASTFORWARD/SEARCH,Akai,3,-1,28
+REWIND/SEARCH,Akai,3,-1,29

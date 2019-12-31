@@ -1,8 +1,8 @@
 functionname,protocol,device,subdevice,function
 SKIP_LEFT,Sony12,17,-1,48
 SKIP_RIGHT,Sony12,17,-1,49
-KEY_PLAY,Sony12,17,-1,50
-KEY_STOP,Sony12,17,-1,56
-KEY_PAUSE,Sony12,17,-1,57
+PLAY,Sony12,17,-1,50
+STOP,Sony12,17,-1,56
+PAUSE,Sony12,17,-1,57
 SCAN_LEFT,Sony12,17,-1,58
 SCAN_RIGHT,Sony12,17,-1,59

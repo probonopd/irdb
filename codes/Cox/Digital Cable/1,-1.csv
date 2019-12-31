@@ -1,4 +1,4 @@
 functionname,protocol,device,subdevice,function
-VOLUME +,Sony12,1,-1,18
-VOLUME -,Sony12,1,-1,19
+VOLUME+,Sony12,1,-1,18
+VOLUME-,Sony12,1,-1,19
 MUTE,Sony12,1,-1,20

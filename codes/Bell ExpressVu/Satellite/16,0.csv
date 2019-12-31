@@ -1,3 +1,3 @@
 functionname,protocol,device,subdevice,function
-VOLUME +,Dish_Network,16,0,25
-VOLUME -,Dish_Network,16,0,29
+VOLUME+,Dish_Network,16,0,25
+VOLUME-,Dish_Network,16,0,29

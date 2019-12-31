@@ -3,27 +3,27 @@ functionname,protocol,device,subdevice,function
 10,Mitsubishi,87,-1,1
 POWER,Mitsubishi,87,-1,2
 PLAY,Mitsubishi,87,-1,4
-VIDEO/TV,Mitsubishi,87,-1,5
-SLOW PLAY,Mitsubishi,87,-1,6
+VIDEO/T-,Mitsubishi,87,-1,5
+SLOW_PLAY,Mitsubishi,87,-1,6
 3,Mitsubishi,87,-1,8
 11,Mitsubishi,87,-1,9
 RECORD,Mitsubishi,87,-1,12
-SLOW MOTION +,Mitsubishi,87,-1,14
+SLOW_MOTION+,Mitsubishi,87,-1,14
 4,Mitsubishi,87,-1,16
 12,Mitsubishi,87,-1,17
 STOP,Mitsubishi,87,-1,20
-SLOW MOTION -,Mitsubishi,87,-1,22
+SLOW_MOTION-,Mitsubishi,87,-1,22
 5,Mitsubishi,87,-1,24
 13,Mitsubishi,87,-1,25
 PAUSE,Mitsubishi,87,-1,28
 6,Mitsubishi,87,-1,32
 U1,Mitsubishi,87,-1,33
-FAST FORWARD >>,Mitsubishi,87,-1,36
+FAST_FORWARD,Mitsubishi,87,-1,36
 7,Mitsubishi,87,-1,40
 U2,Mitsubishi,87,-1,41
-REWIND <<,Mitsubishi,87,-1,44
+REWIND,Mitsubishi,87,-1,44
 8,Mitsubishi,87,-1,48
 U3,Mitsubishi,87,-1,49
-FF ADVANCE,Mitsubishi,87,-1,52
+FASTFORWARDADVANCE,Mitsubishi,87,-1,52
 9,Mitsubishi,87,-1,56
 U4,Mitsubishi,87,-1,57

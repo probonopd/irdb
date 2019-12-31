@@ -1,26 +1,26 @@
 functionname,protocol,device,subdevice,function
 POWER,Fujitsu,134,-1,0
-VIDEO 1,Fujitsu,134,-1,5
-VIDEO 2,Fujitsu,134,-1,6
+VIDEO1,Fujitsu,134,-1,5
+VIDEO2,Fujitsu,134,-1,6
 RGB1,Fujitsu,134,-1,8
 O.S.D.,Fujitsu,134,-1,10
-SVIDEO 1,Fujitsu,134,-1,13
-SVIDEO 2,Fujitsu,134,-1,14
-INPUT MODE STATUS,Fujitsu,134,-1,16
-FOCUS ^,Fujitsu,134,-1,21
-FOCUS V,Fujitsu,134,-1,22
-ZOOM ^,Fujitsu,134,-1,23
-ZOOM V,Fujitsu,134,-1,24
-ADJUST MODE PICTURE,Fujitsu,134,-1,32
-INPUT MODE,Fujitsu,134,-1,33
-ADJUST MODE STAND,Fujitsu,134,-1,36
-ADJUST MODE FUNCTION,Fujitsu,134,-1,48
-VOLUME V,Fujitsu,134,-1,49
+SVIDEO1,Fujitsu,134,-1,13
+SVIDEO2,Fujitsu,134,-1,14
+INPUT:MODESTATUS,Fujitsu,134,-1,16
+FOCUS_^,Fujitsu,134,-1,21
+FOCUS_V,Fujitsu,134,-1,22
+ZOOM+,Fujitsu,134,-1,23
+ZOOM-,Fujitsu,134,-1,24
+ADJUST_MODE_PICTURE,Fujitsu,134,-1,32
+INPUT:MODE,Fujitsu,134,-1,33
+ADJUST_MODE_STAND,Fujitsu,134,-1,36
+ADJUST_MODE_FUNCTION,Fujitsu,134,-1,48
+VOLUME-,Fujitsu,134,-1,49
 MUTE,Fujitsu,134,-1,50
 MENU,Fujitsu,134,-1,64
-ADJUST MODE <,Fujitsu,134,-1,65
->,Fujitsu,134,-1,65
-ADJUST MODE >,Fujitsu,134,-1,66
-<,Fujitsu,134,-1,66
-VOLUME ^,Fujitsu,134,-1,81
+ADJUST_MODE_<,Fujitsu,134,-1,65
+RIGHT,Fujitsu,134,-1,65
+ADJUST_MODE,Fujitsu,134,-1,66
+LEFT,Fujitsu,134,-1,66
+VOLUME+,Fujitsu,134,-1,81
 SET,Fujitsu,134,-1,91

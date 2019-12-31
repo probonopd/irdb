@@ -17,13 +17,13 @@ CANCL,Dish_Network,0,2,18
 EXIT,Dish_Network,0,2,18
 GUIDE,Dish_Network,0,2,20
 VIEW,Dish_Network,0,2,22
-MENU RT.,Dish_Network,0,2,24
+MENU_RT.,Dish_Network,0,2,24
 CH+,Dish_Network,0,2,26
-MENU UP,Dish_Network,0,2,26
-RECAL,Dish_Network,0,2,27
-MENU LEFT,Dish_Network,0,2,28
+MENU_UP,Dish_Network,0,2,26
+RECORDAL,Dish_Network,0,2,27
+MENU_LEFT,Dish_Network,0,2,28
 CH-,Dish_Network,0,2,30
-MENU DWN.,Dish_Network,0,2,30
-RECRD,Dish_Network,0,2,31
+MENU_DWN.,Dish_Network,0,2,30
+RECORDRD,Dish_Network,0,2,31
 PAUSE,Dish_Network,0,2,33
 STOP,Dish_Network,0,2,33

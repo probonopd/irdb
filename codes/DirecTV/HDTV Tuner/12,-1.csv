@@ -8,18 +8,18 @@ functionname,protocol,device,subdevice,function
 7,DirecTV,12,-1,7
 8,DirecTV,12,-1,8
 9,DirecTV,12,-1,9
-CHANNEL +,DirecTV,12,-1,13
-CHANNEL -,DirecTV,12,-1,14
-PREV. CH.,DirecTV,12,-1,15
+CHANNEL+,DirecTV,12,-1,13
+CHANNEL-,DirecTV,12,-1,14
+PREV._CH.,DirecTV,12,-1,15
 POWER,DirecTV,12,-1,16
 0,DirecTV,12,-1,17
 -,DirecTV,12,-1,18
 ENTER,DirecTV,12,-1,19
 MENU,DirecTV,12,-1,32
-CURSOR UP,DirecTV,12,-1,33
-CURSOR DOWN,DirecTV,12,-1,34
-CURSOR LEFT,DirecTV,12,-1,35
-CURSOR RIGHT,DirecTV,12,-1,36
+UP,DirecTV,12,-1,33
+DOWN,DirecTV,12,-1,34
+LEFT,DirecTV,12,-1,35
+RIGHT,DirecTV,12,-1,36
 SELECT,DirecTV,12,-1,37
 EXIT,DirecTV,12,-1,38
 BACK,DirecTV,12,-1,39
@@ -32,6 +32,6 @@ YELLOW,DirecTV,12,-1,66
 GREEN,DirecTV,12,-1,67
 BLUE,DirecTV,12,-1,68
 MUTE,DirecTV,12,-1,91
-VOLUME -,DirecTV,12,-1,91
-VOLUME +,DirecTV,12,-1,91
+VOLUME-,DirecTV,12,-1,91
+VOLUME+,DirecTV,12,-1,91
 FORMAT,DirecTV,12,-1,115

@@ -1,2 +1,2 @@
 functionname,protocol,device,subdevice,function
-VIDEO AUX,RC5,0,-1,63
+VIDEO_AUX,RC5,0,-1,63

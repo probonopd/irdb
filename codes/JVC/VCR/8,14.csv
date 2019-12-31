@@ -1,16 +1,16 @@
 functionname,protocol,device,subdevice,function
 PLAY,Dish_Network,8,14,3
-INDEX LEFT,Dish_Network,8,14,4
-INDEX RIGHT,Dish_Network,8,14,6
+INDEX_LEFT,Dish_Network,8,14,4
+INDEX_RIGHT,Dish_Network,8,14,6
 REWIND,Dish_Network,8,14,7
-SKIP LEFT,Dish_Network,8,14,8
+SKIP_LEFT,Dish_Network,8,14,8
 AUTOTRACK,Dish_Network,8,14,9
-SKIP RIGHT,Dish_Network,8,14,10
-REW/BROWSE,Dish_Network,8,14,12
-FF/BROWSE,Dish_Network,8,14,14
+SKIP_RIGHT,Dish_Network,8,14,10
+REWIND/BROWSE,Dish_Network,8,14,12
+FASTFORWARD/BROWSE,Dish_Network,8,14,14
 FORWARD,Dish_Network,8,14,15
 SELECT,Dish_Network,8,14,16
-COUNTER RESET,Dish_Network,8,14,27
+COUNTER_RESET,Dish_Network,8,14,27
 RECORD,Dish_Network,8,14,31
 PAUSE,Dish_Network,8,14,32
 STOP,Dish_Network,8,14,33

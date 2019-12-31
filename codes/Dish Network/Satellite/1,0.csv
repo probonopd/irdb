@@ -1,51 +1,51 @@
 functionname,protocol,device,subdevice,function
 PLAY,Dish_Network,1,0,3
-PAGE DOWN,Dish_Network,1,0,7
-PAGE -,Dish_Network,1,0,7
-PAGE --,Dish_Network,1,0,7
-PAGE DN,Dish_Network,1,0,7
+PAGE-,Dish_Network,1,0,7
+PAGE-,Dish_Network,1,0,7
+PAGE--,Dish_Network,1,0,7
+PAGE-,Dish_Network,1,0,7
 ,Dish_Network,1,0,7
 PAGE-,Dish_Network,1,0,7
-PAGE UP,Dish_Network,1,0,15
-PAGE +,Dish_Network,1,0,15
+PAGE+,Dish_Network,1,0,15
+PAGE+,Dish_Network,1,0,15
 ,Dish_Network,1,0,15
 PAGE+,Dish_Network,1,0,15
 BACK,Dish_Network,1,0,49
 REVERSE,Dish_Network,1,0,49
-FF,Dish_Network,1,0,49
+FASTFORWARD,Dish_Network,1,0,49
 RR,Dish_Network,1,0,49
 REWIND,Dish_Network,1,0,49
-BACK / REW,Dish_Network,1,0,49
-REW,Dish_Network,1,0,49
+BACK/REW,Dish_Network,1,0,49
+REWIND,Dish_Network,1,0,49
 FORWARD,Dish_Network,1,0,50
-REW,Dish_Network,1,0,50
-FF,Dish_Network,1,0,50
-FAST FORWARD,Dish_Network,1,0,50
-FWD,Dish_Network,1,0,50
-FFWD,Dish_Network,1,0,50
-SKIP FWD,Dish_Network,1,0,50
-FWD / FFWD,Dish_Network,1,0,50
+REWIND,Dish_Network,1,0,50
+FASTFORWARD,Dish_Network,1,0,50
+FAST_FORWARD,Dish_Network,1,0,50
+FORWARD,Dish_Network,1,0,50
+FASTFORWARD,Dish_Network,1,0,50
+SKIP_FWD,Dish_Network,1,0,50
+FWD/FFORWARD,Dish_Network,1,0,50
 DISH,Dish_Network,1,0,52
-DISH HOME,Dish_Network,1,0,52
-DISH BUTTON,Dish_Network,1,0,52
-DISH BUTON,Dish_Network,1,0,52
+DISH_HOME,Dish_Network,1,0,52
+DISH_BUTTON,Dish_Network,1,0,52
+DISH_BUTON,Dish_Network,1,0,52
 REPLAY,Dish_Network,1,0,54
-SKIP BACK,Dish_Network,1,0,54
+SKIP_BACK,Dish_Network,1,0,54
 BACKUP,Dish_Network,1,0,54
-TRACK -,Dish_Network,1,0,54
-SKIP FORWARD,Dish_Network,1,0,55
+TRACK-,Dish_Network,1,0,54
+SKIP_FORWARD,Dish_Network,1,0,55
 SKIP,Dish_Network,1,0,55
-TRACK +,Dish_Network,1,0,55
-SKIP FWD,Dish_Network,1,0,55
+TRACK+,Dish_Network,1,0,55
+SKIP_FWD,Dish_Network,1,0,55
 PVR,Dish_Network,1,0,57
-RECORDED EVENTS,Dish_Network,1,0,57
+RECORDEDEVENTS,Dish_Network,1,0,57
 DVR,Dish_Network,1,0,57
 GO,Dish_Network,1,0,57
-DISH ON DEMAND,Dish_Network,1,0,57
-DVR / DISH ON DEA,Dish_Network,1,0,57
+DISH_ON_DEMAND,Dish_Network,1,0,57
+DVR/DISH_ON_DEA,Dish_Network,1,0,57
 PIP,Dish_Network,1,0,58
-PIP ON/SIZE,Dish_Network,1,0,58
+PIP_ON/SIZE,Dish_Network,1,0,58
 POSITION,Dish_Network,1,0,59
-PIP POSITION,Dish_Network,1,0,59
+PIP_POSITION,Dish_Network,1,0,59
 SWAP,Dish_Network,1,0,61
-PIP SWAP,Dish_Network,1,0,61
+PIP_SWAP,Dish_Network,1,0,61

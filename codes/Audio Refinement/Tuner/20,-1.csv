@@ -1,7 +1,7 @@
 functionname,protocol,device,subdevice,function
-SEARCH +,RC5,20,-1,16
-SEARCH -,RC5,20,-1,17
+SEARCH+,RC5,20,-1,16
+SEARCH-,RC5,20,-1,17
 FM/AM,RC5,20,-1,28
 TUNER,RC5,20,-1,43
-PRESET -,RC5,20,-1,60
-PRESET +,RC5,20,-1,63
+PRESET-,RC5,20,-1,60
+PRESET+,RC5,20,-1,63

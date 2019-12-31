@@ -1,4 +1,4 @@
 functionname,protocol,device,subdevice,function
-CH +,Panasonic,160,4,52
-CH -,Panasonic,160,4,53
+CHANNEL+,Panasonic,160,4,52
+CHANNEL-,Panasonic,160,4,53
 TUNER/BAND,Panasonic,160,4,164

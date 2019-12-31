@@ -2,8 +2,8 @@ functionname,protocol,device,subdevice,function
 INFO,Zenith,7,0,25
 PICTURE,Zenith,7,0,28
 CLEAR,Zenith,7,0,50
-INPUT - DBS,Zenith,7,0,74
-VCR PLUS +,Zenith,7,0,105
+INPUT-DBS,Zenith,7,0,74
+VCR_PLUS+,Zenith,7,0,105
 RECORD,Zenith,7,0,120
 GUIDE,Zenith,7,0,125
 QUIT,Zenith,7,0,126

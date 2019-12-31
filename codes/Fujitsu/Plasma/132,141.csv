@@ -1,8 +1,8 @@
 functionname,protocol,device,subdevice,function
-CHANNEL +,Fujitsu,132,141,11
-CHANNEL -,Fujitsu,132,141,12
-CH RETURN,Fujitsu,132,141,14
-CHANNEL RETURN,Fujitsu,132,141,14
+CHANNEL+,Fujitsu,132,141,11
+CHANNEL-,Fujitsu,132,141,12
+CHANNELRETURN,Fujitsu,132,141,14
+CHANNEL_RETURN,Fujitsu,132,141,14
 MTS/STEREO,Fujitsu,132,141,18
 ANTENNA,Fujitsu,132,141,48
 CABLE,Fujitsu,132,141,49

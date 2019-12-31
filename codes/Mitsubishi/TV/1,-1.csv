@@ -10,11 +10,11 @@ functionname,protocol,device,subdevice,function
 9,Sharp,1,-1,9
 0,Sharp,1,-1,10
 100,Sharp,1,-1,11
-CHANNEL +,Sharp,1,-1,17
-CHANNEL -,Sharp,1,-1,18
-INPUT SOURCE,Sharp,1,-1,19
-VOLUME +,Sharp,1,-1,20
-VOLUME -,Sharp,1,-1,21
+CHANNEL+,Sharp,1,-1,17
+CHANNEL-,Sharp,1,-1,18
+INPUT:SOURCE,Sharp,1,-1,19
+VOLUME+,Sharp,1,-1,20
+VOLUME-,Sharp,1,-1,21
 POWER,Sharp,1,-1,22
 MUTE,Sharp,1,-1,23
 DISPLAY,Sharp,1,-1,27

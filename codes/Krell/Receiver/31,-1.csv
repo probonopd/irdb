@@ -1,2 +1,2 @@
 functionname,protocol,device,subdevice,function
-SYSTEM 1 2 3,RC5,31,-1,63
+SYSTEM123,RC5,31,-1,63

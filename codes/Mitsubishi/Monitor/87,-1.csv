@@ -1,174 +1,174 @@
 functionname,protocol,device,subdevice,function
-VCR 1 (SUN),Mitsubishi,87,-1,0
-VCR 1,Mitsubishi,87,-1,0
-VCRA 1,Mitsubishi,87,-1,0
-VCR 9,Mitsubishi,87,-1,1
-VCRA 9,Mitsubishi,87,-1,1
-VCR POWER,Mitsubishi,87,-1,2
-VCRA POWER,Mitsubishi,87,-1,2
-VCR PLAY >,Mitsubishi,87,-1,4
-VCR PLAY,Mitsubishi,87,-1,4
-VCRA PLAY >,Mitsubishi,87,-1,4
-VIDEO/TV,Mitsubishi,87,-1,5
+VCR1_(SUN),Mitsubishi,87,-1,0
+VCR1,Mitsubishi,87,-1,0
+VCRA1,Mitsubishi,87,-1,0
+VCR9,Mitsubishi,87,-1,1
+VCRA9,Mitsubishi,87,-1,1
+VCR_POWER,Mitsubishi,87,-1,2
+VCRA_POWER,Mitsubishi,87,-1,2
+VCR_PLAY,Mitsubishi,87,-1,4
+VCR_PLAY,Mitsubishi,87,-1,4
+VCRA_PLAY,Mitsubishi,87,-1,4
+VIDEO/T-,Mitsubishi,87,-1,5
 VCR/TV,Mitsubishi,87,-1,5
 TV/VCR,Mitsubishi,87,-1,5
-VCRA TV/VCR,Mitsubishi,87,-1,5
-VCRA VCR/TV,Mitsubishi,87,-1,5
-VCR 2 (MON),Mitsubishi,87,-1,8
-VCR 2,Mitsubishi,87,-1,8
-VCRA 2,Mitsubishi,87,-1,8
-VCR 0,Mitsubishi,87,-1,9
-VCRA 0,Mitsubishi,87,-1,9
-VCR CH ^,Mitsubishi,87,-1,10
-VCR CHANNEL ^,Mitsubishi,87,-1,10
-VCR CANCEL,Mitsubishi,87,-1,11
-VCRA CANCEL,Mitsubishi,87,-1,11
-VCR REC,Mitsubishi,87,-1,12
-VCRA REC,Mitsubishi,87,-1,12
-INDEX +,Mitsubishi,87,-1,14
-VCRA >,Mitsubishi,87,-1,14
-VCR 3 (TUE),Mitsubishi,87,-1,16
-VCR 3,Mitsubishi,87,-1,16
-VCRA 3,Mitsubishi,87,-1,16
-VCR CH V,Mitsubishi,87,-1,18
-VCR CHANNEL V,Mitsubishi,87,-1,18
-VCR STOP [],Mitsubishi,87,-1,20
-VCR STOP,Mitsubishi,87,-1,20
-VCRA STOP [],Mitsubishi,87,-1,20
-INDEX -,Mitsubishi,87,-1,22
-VCRA <,Mitsubishi,87,-1,22
-VCR 4 (WED),Mitsubishi,87,-1,24
-VCR 4,Mitsubishi,87,-1,24
-VCRA 4,Mitsubishi,87,-1,24
-VCR INPUT V,Mitsubishi,87,-1,26
-VCR INPUT ^,Mitsubishi,87,-1,26
-VCR PAUSE ,,,Mitsubishi,87,-1,28
-VCRA PAUSE ,,,Mitsubishi,87,-1,28
-VCR 5 (THU),Mitsubishi,87,-1,32
-VCR 5,Mitsubishi,87,-1,32
-VCRA 5,Mitsubishi,87,-1,32
-VCR FF/SRCH >>,Mitsubishi,87,-1,36
-VCR FF/SEARCH >>,Mitsubishi,87,-1,36
-VCRA FF/FWD >>,Mitsubishi,87,-1,36
-VCR Q.V.,Mitsubishi,87,-1,37
-VCR QV,Mitsubishi,87,-1,37
+VCRA_TV/VCR,Mitsubishi,87,-1,5
+VCRA_VCR/TV,Mitsubishi,87,-1,5
+VCR2_(MON),Mitsubishi,87,-1,8
+VCR2,Mitsubishi,87,-1,8
+VCRA2,Mitsubishi,87,-1,8
+VCR0,Mitsubishi,87,-1,9
+VCRA0,Mitsubishi,87,-1,9
+VCR_CHANNEL+,Mitsubishi,87,-1,10
+VCR_CHANNELANNEL+,Mitsubishi,87,-1,10
+VCR_CANCEL,Mitsubishi,87,-1,11
+VCRA_CANCEL,Mitsubishi,87,-1,11
+VCR_REC,Mitsubishi,87,-1,12
+VCRA_REC,Mitsubishi,87,-1,12
+INDEX+,Mitsubishi,87,-1,14
+VCRA,Mitsubishi,87,-1,14
+VCR3_(TUE),Mitsubishi,87,-1,16
+VCR3,Mitsubishi,87,-1,16
+VCRA3,Mitsubishi,87,-1,16
+VCR_CHANNEL-,Mitsubishi,87,-1,18
+VCR_CHANNELANNEL-,Mitsubishi,87,-1,18
+VCR_STOP,Mitsubishi,87,-1,20
+VCR_STOP,Mitsubishi,87,-1,20
+VCRA_STOP,Mitsubishi,87,-1,20
+INDEX-,Mitsubishi,87,-1,22
+VCRA_<,Mitsubishi,87,-1,22
+VCR4_(WED),Mitsubishi,87,-1,24
+VCR4,Mitsubishi,87,-1,24
+VCRA4,Mitsubishi,87,-1,24
+VCR_INPUT_V,Mitsubishi,87,-1,26
+VCR_INPUT_^,Mitsubishi,87,-1,26
+VCR_PAUSE,,,Mitsubishi,87,-1,28
+VCRA_PAUSE,,,Mitsubishi,87,-1,28
+VCR5_(THU),Mitsubishi,87,-1,32
+VCR5,Mitsubishi,87,-1,32
+VCRA5,Mitsubishi,87,-1,32
+VCR_FF/SRCH,Mitsubishi,87,-1,36
+VCR_FF/SEARCH,Mitsubishi,87,-1,36
+VCRA_FF/FWD,Mitsubishi,87,-1,36
+VCR_Q.V.,Mitsubishi,87,-1,37
+VCR_QV,Mitsubishi,87,-1,37
 QV,Mitsubishi,87,-1,37
-VCRA SQV/QV,Mitsubishi,87,-1,37
-VCR DISP,Mitsubishi,87,-1,39
-VCRA INFO,Mitsubishi,87,-1,39
-VCR 6 (FRI),Mitsubishi,87,-1,40
-VCR 6,Mitsubishi,87,-1,40
-VCRA 6,Mitsubishi,87,-1,40
-VCR REW/SRCH <<,Mitsubishi,87,-1,44
-VCR REW/SEARCH <<,Mitsubishi,87,-1,44
-VCRA REW/REV <<,Mitsubishi,87,-1,44
-VCR OFF-T OTR,Mitsubishi,87,-1,47
-VCR OFF-T/OTR,Mitsubishi,87,-1,47
+VCRA_SQV/QV,Mitsubishi,87,-1,37
+VCR_DISP,Mitsubishi,87,-1,39
+VCRA_INFO,Mitsubishi,87,-1,39
+VCR6_(FRI),Mitsubishi,87,-1,40
+VCR6,Mitsubishi,87,-1,40
+VCRA6,Mitsubishi,87,-1,40
+VCR_REWIND/SRCH,Mitsubishi,87,-1,44
+VCR_REWIND/SEARCH,Mitsubishi,87,-1,44
+VCRA_REW/REV_<<,Mitsubishi,87,-1,44
+VCR_OFF-T_OTR,Mitsubishi,87,-1,47
+VCR_OFF-T/OTR,Mitsubishi,87,-1,47
 OFF-T,Mitsubishi,87,-1,47
-VCRA SLEEP,Mitsubishi,87,-1,47
-VCR 7 (SAT),Mitsubishi,87,-1,48
-VCR 7,Mitsubishi,87,-1,48
-VCRA 7,Mitsubishi,87,-1,48
-QUICK PROGRAM,Mitsubishi,87,-1,51
-VCR ENTER,Mitsubishi,87,-1,53
+VCRA_SLEEP,Mitsubishi,87,-1,47
+VCR7_(SAT),Mitsubishi,87,-1,48
+VCR7,Mitsubishi,87,-1,48
+VCRA7,Mitsubishi,87,-1,48
+QUICK_PROGRAM,Mitsubishi,87,-1,51
+VCR_ENTER,Mitsubishi,87,-1,53
 ENTER,Mitsubishi,87,-1,53
-VCRA ENTER,Mitsubishi,87,-1,53
-VCR 8 (M-F),Mitsubishi,87,-1,56
-VCR 8,Mitsubishi,87,-1,56
-VCRA 8,Mitsubishi,87,-1,56
-VCR INPUT,Mitsubishi,87,-1,58
-VCR INPUT ^,Mitsubishi,87,-1,58
-VCR INPUT V,Mitsubishi,87,-1,58
-VCRA INPUT,Mitsubishi,87,-1,58
-VCR VIDEO,Mitsubishi,87,-1,64
-VCR VIDEO ^,Mitsubishi,87,-1,64
-VCRA VIDEO,Mitsubishi,87,-1,64
-VCR ADJ >,Mitsubishi,87,-1,65
-VCR ADJUST ^,Mitsubishi,87,-1,65
-^,Mitsubishi,87,-1,65
-VCRA ADJUST ^,Mitsubishi,87,-1,65
-VCR VIDEO V,Mitsubishi,87,-1,72
-VCR ADJ <,Mitsubishi,87,-1,73
-VCR ADJUST V,Mitsubishi,87,-1,73
+VCRA_ENTER,Mitsubishi,87,-1,53
+VCR8_(M-F),Mitsubishi,87,-1,56
+VCR8,Mitsubishi,87,-1,56
+VCRA8,Mitsubishi,87,-1,56
+VCR_INPUT,Mitsubishi,87,-1,58
+VCR_INPUT_^,Mitsubishi,87,-1,58
+VCR_INPUT_V,Mitsubishi,87,-1,58
+VCRA_INPUT,Mitsubishi,87,-1,58
+VCR_VIDEO,Mitsubishi,87,-1,64
+VCR_VIDEO_^,Mitsubishi,87,-1,64
+VCRA_VIDEO,Mitsubishi,87,-1,64
+VCR_ADJ,Mitsubishi,87,-1,65
+VCR_ADJUST_^,Mitsubishi,87,-1,65
+UP,Mitsubishi,87,-1,65
+VCRA_ADJUST_^,Mitsubishi,87,-1,65
+VCR_VIDEO_V,Mitsubishi,87,-1,72
+VCR_ADJ_<,Mitsubishi,87,-1,73
+VCR_ADJUST_V,Mitsubishi,87,-1,73
 V,Mitsubishi,87,-1,73
-VCRA EXCH V,Mitsubishi,87,-1,73
-VCR AUDIO,Mitsubishi,87,-1,80
-VCR AUDIO ^,Mitsubishi,87,-1,80
-VCRA AUDIO,Mitsubishi,87,-1,80
-VCR MODE,Mitsubishi,87,-1,82
-VCR MENU,Mitsubishi,87,-1,82
-VCRA MENU,Mitsubishi,87,-1,82
-VCR AUDIO V,Mitsubishi,87,-1,88
+VCRA_EXCH_V,Mitsubishi,87,-1,73
+VCR_AUDIO,Mitsubishi,87,-1,80
+VCR_AUDIO_^,Mitsubishi,87,-1,80
+VCRA_AUDIO,Mitsubishi,87,-1,80
+VCR_MODE,Mitsubishi,87,-1,82
+VCR_MENU,Mitsubishi,87,-1,82
+VCRA_MENU,Mitsubishi,87,-1,82
+VCR_AUDIO_V,Mitsubishi,87,-1,88
 1,Mitsubishi,87,-1,128
-VCRB 1,Mitsubishi,87,-1,128
+VCRB1,Mitsubishi,87,-1,128
 9,Mitsubishi,87,-1,129
-VCRB 9,Mitsubishi,87,-1,129
+VCRB9,Mitsubishi,87,-1,129
 POWER,Mitsubishi,87,-1,130
-VCRB POWER,Mitsubishi,87,-1,130
-PLAY >,Mitsubishi,87,-1,132
-VCRB PLAY >,Mitsubishi,87,-1,132
-VCRB TV/VCR,Mitsubishi,87,-1,133
-VCRB VCR/TV,Mitsubishi,87,-1,133
+VCRB_POWER,Mitsubishi,87,-1,130
+PLAY,Mitsubishi,87,-1,132
+VCRB_PLAY,Mitsubishi,87,-1,132
+VCRB_TV/VCR,Mitsubishi,87,-1,133
+VCRB_VCR/TV,Mitsubishi,87,-1,133
 VCR/TV,Mitsubishi,87,-1,133
 2,Mitsubishi,87,-1,136
-VCRB 2,Mitsubishi,87,-1,136
+VCRB2,Mitsubishi,87,-1,136
 0,Mitsubishi,87,-1,137
-VCRB 0,Mitsubishi,87,-1,137
-CH ^ (SCAN ^),Mitsubishi,87,-1,138
-VCRB CHANNEL ^,Mitsubishi,87,-1,138
+VCRB0,Mitsubishi,87,-1,137
+CHANNEL^(SCAN^),Mitsubishi,87,-1,138
+VCRB_CHANNEL_^,Mitsubishi,87,-1,138
 CANCEL,Mitsubishi,87,-1,139
-VCRB CANCEL,Mitsubishi,87,-1,139
-REC,Mitsubishi,87,-1,140
-VCRB REC,Mitsubishi,87,-1,140
-ZERO STOP,Mitsubishi,87,-1,141
-SLOW +,Mitsubishi,87,-1,142
-INDEX SRCH +,Mitsubishi,87,-1,142
-VCRB >,Mitsubishi,87,-1,142
+VCRB_CANCEL,Mitsubishi,87,-1,139
+RECORD,Mitsubishi,87,-1,140
+VCRB_REC,Mitsubishi,87,-1,140
+ZERO_STOP,Mitsubishi,87,-1,141
+SLOW+,Mitsubishi,87,-1,142
+INDEX_SRCH+,Mitsubishi,87,-1,142
+VCRB,Mitsubishi,87,-1,142
 3,Mitsubishi,87,-1,144
-VCRB 3,Mitsubishi,87,-1,144
-CH V (SCAN V),Mitsubishi,87,-1,146
-VCRB CHANNEL V,Mitsubishi,87,-1,146
-STOP [],Mitsubishi,87,-1,148
-VCRB STOP [],Mitsubishi,87,-1,148
-SLOW -,Mitsubishi,87,-1,150
-INDEX SRCH -,Mitsubishi,87,-1,150
-VCRB <,Mitsubishi,87,-1,150
+VCRB3,Mitsubishi,87,-1,144
+CHANNELV(SCANV),Mitsubishi,87,-1,146
+VCRB_CHANNEL_V,Mitsubishi,87,-1,146
+STOP,Mitsubishi,87,-1,148
+VCRB_STOP,Mitsubishi,87,-1,148
+SLOW-,Mitsubishi,87,-1,150
+INDEX_SRCH-,Mitsubishi,87,-1,150
+VCRB_<,Mitsubishi,87,-1,150
 4,Mitsubishi,87,-1,152
-VCRB 4,Mitsubishi,87,-1,152
-PAUSE ,,,Mitsubishi,87,-1,156
-VCRB PAUSE ,,,Mitsubishi,87,-1,156
+VCRB4,Mitsubishi,87,-1,152
+PAUSE,,,Mitsubishi,87,-1,156
+VCRB_PAUSE,,,Mitsubishi,87,-1,156
 5,Mitsubishi,87,-1,160
-VCRB 5,Mitsubishi,87,-1,160
-FF/SRCH >>,Mitsubishi,87,-1,164
-VCRB FF/FWD >>,Mitsubishi,87,-1,164
-FAST PLAY,Mitsubishi,87,-1,165
+VCRB5,Mitsubishi,87,-1,160
+FASTFORWARD/SRCH,Mitsubishi,87,-1,164
+VCRB_FF/FWD,Mitsubishi,87,-1,164
+FAST_PLAY,Mitsubishi,87,-1,165
 Q.V.,Mitsubishi,87,-1,165
-VCRB SQV/QV,Mitsubishi,87,-1,165
+VCRB_SQV/QV,Mitsubishi,87,-1,165
 DISPLAY,Mitsubishi,87,-1,167
-VCRB INFO,Mitsubishi,87,-1,167
+VCRB_INFO,Mitsubishi,87,-1,167
 6,Mitsubishi,87,-1,168
-VCRB 6,Mitsubishi,87,-1,168
-REW/SRCH <<,Mitsubishi,87,-1,172
-VCRB REW/REV <<,Mitsubishi,87,-1,172
-OFF-T OTR,Mitsubishi,87,-1,175
-VCRB SLEEP,Mitsubishi,87,-1,175
+VCRB6,Mitsubishi,87,-1,168
+REWIND/SRCH,Mitsubishi,87,-1,172
+VCRB_REW/REV_<<,Mitsubishi,87,-1,172
+OFF-T_OTR,Mitsubishi,87,-1,175
+VCRB_SLEEP,Mitsubishi,87,-1,175
 7,Mitsubishi,87,-1,176
-VCRB 7,Mitsubishi,87,-1,176
-SLOW ,>,Mitsubishi,87,-1,180
+VCRB7,Mitsubishi,87,-1,176
+SLOW,>,Mitsubishi,87,-1,180
 ENTER,Mitsubishi,87,-1,181
-VCRB ENTER,Mitsubishi,87,-1,181
+VCRB_ENTER,Mitsubishi,87,-1,181
 8,Mitsubishi,87,-1,184
-VCRB 8,Mitsubishi,87,-1,184
-INPUT SELECT,Mitsubishi,87,-1,186
-INPUT,Mitsubishi,87,-1,186
-VCRB INPUT,Mitsubishi,87,-1,186
+VCRB8,Mitsubishi,87,-1,184
+INPUT:SELECT,Mitsubishi,87,-1,186
+INPUT:,Mitsubishi,87,-1,186
+VCRB_INPUT,Mitsubishi,87,-1,186
 VIDEO,Mitsubishi,87,-1,192
-VCRB VIDEO,Mitsubishi,87,-1,192
-VCRB ADJUST ^,Mitsubishi,87,-1,193
-VCRB EXCH V,Mitsubishi,87,-1,201
+VCRB_VIDEO,Mitsubishi,87,-1,192
+VCRB_ADJUST_^,Mitsubishi,87,-1,193
+VCRB_EXCH_V,Mitsubishi,87,-1,201
 AUDIO,Mitsubishi,87,-1,208
-VCRB AUDIO,Mitsubishi,87,-1,208
+VCRB_AUDIO,Mitsubishi,87,-1,208
 MENU,Mitsubishi,87,-1,210
-VCRB MENU,Mitsubishi,87,-1,210
-ADJUST -,Mitsubishi,87,-1,243
-ADJUST +,Mitsubishi,87,-1,244
+VCRB_MENU,Mitsubishi,87,-1,210
+ADJUST-,Mitsubishi,87,-1,243
+ADJUST+,Mitsubishi,87,-1,244

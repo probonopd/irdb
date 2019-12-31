@@ -1,6 +1,6 @@
 functionname,protocol,device,subdevice,function
-CD TRACH >>,,NEC1,26,-1,0
-CD TRACK ,<<,NEC1,26,-1,1
-CD STOP [],NEC1,26,-1,4
-CD PLAY >,NEC1,26,-1,5
-CD PAUSE ,,,NEC1,26,-1,14
+CDTRACH+,,NEC1,26,-1,0
+CD_TRACK,<<,NEC1,26,-1,1
+CD_STOP,NEC1,26,-1,4
+CD_PLAY,NEC1,26,-1,5
+CD_PAUSE,,,NEC1,26,-1,14

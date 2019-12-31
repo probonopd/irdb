@@ -1,11 +1,11 @@
 functionname,protocol,device,subdevice,function
 PLAY,Dish_Network,1,2,3
-PG. DN.,Dish_Network,1,2,7
-PG. UP,Dish_Network,1,2,15
+PG._DN.,Dish_Network,1,2,7
+PG._UP,Dish_Network,1,2,15
 BACK,Dish_Network,1,2,49
-SEARCH BACK,Dish_Network,1,2,49
-FWD.,Dish_Network,1,2,50
-SEARCH FWD.,Dish_Network,1,2,50
+SEARCH_BACK,Dish_Network,1,2,49
+FORWARD.,Dish_Network,1,2,50
+SEARCH_FWD.,Dish_Network,1,2,50
 SKIP-,Dish_Network,1,2,54
 SKIP+,Dish_Network,1,2,55
 EVENT,Dish_Network,1,2,57

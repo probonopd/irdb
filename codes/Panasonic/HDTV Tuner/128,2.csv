@@ -9,17 +9,17 @@ functionname,protocol,device,subdevice,function
 8,Panasonic,128,2,167
 9,Panasonic,128,2,168
 0,Panasonic,128,2,169
-PAGE DOWN,Panasonic,128,2,182
-PAGE UP,Panasonic,128,2,183
+PAGE-,Panasonic,128,2,182
+PAGE+,Panasonic,128,2,183
 INFO,Panasonic,128,2,185
 POWER,Panasonic,128,2,189
 ENTER,Panasonic,128,2,195
 GUIDE,Panasonic,128,2,197
 EXIT,Panasonic,128,2,198
-CHANNEL +,Panasonic,128,2,202
-CURSOR UP,Panasonic,128,2,202
-CHANNEL -,Panasonic,128,2,203
-CURSOR DOWN,Panasonic,128,2,203
-CURSOR LEFT,Panasonic,128,2,205
-CURSOR RIGHT,Panasonic,128,2,206
+CHANNEL+,Panasonic,128,2,202
+UP,Panasonic,128,2,202
+CHANNEL-,Panasonic,128,2,203
+DOWN,Panasonic,128,2,203
+LEFT,Panasonic,128,2,205
+RIGHT,Panasonic,128,2,206
 LAST,Panasonic,128,2,209

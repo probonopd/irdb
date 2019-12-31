@@ -1,23 +1,23 @@
 functionname,protocol,device,subdevice,function
-MENU (RCA,Old),15,-1,115
-EXIT (RCA,Old),15,-1,116
-OFF (RCA,Old),15,-1,117
-SOURCE (RCA,Old),15,-1,118
-ON (RCA,Old),15,-1,119
-0 (RCA,Old),15,-1,124
-1 (RCA,Old),15,-1,125
-2 (RCA,Old),15,-1,126
-3 (RCA,Old),15,-1,127
-4 (RCA,Old),15,-1,128
-5 (RCA,Old),15,-1,129
-6 (RCA,Old),15,-1,130
-7 (RCA,Old),15,-1,131
-8 (RCA,Old),15,-1,132
-9 (RCA,Old),15,-1,133
-UP (RCA,Old),15,-1,135
-LEFT (RCA,Old),15,-1,138
-RIGHT (RCA,Old),15,-1,139
-ENTER (RCA,Old),15,-1,140
-DOWN (RCA,Old),15,-1,141
-INFO (RCA,Old),15,-1,142
-GUIDE (RCA,Old),15,-1,143
+MENU_(RCA,Old),15,-1,115
+EXIT_(RCA,Old),15,-1,116
+OFF_(RCA,Old),15,-1,117
+SOURCE_(RCA,Old),15,-1,118
+ON_(RCA,Old),15,-1,119
+0_(RCA,Old),15,-1,124
+1_(RCA,Old),15,-1,125
+2_(RCA,Old),15,-1,126
+3_(RCA,Old),15,-1,127
+4_(RCA,Old),15,-1,128
+5_(RCA,Old),15,-1,129
+6_(RCA,Old),15,-1,130
+7_(RCA,Old),15,-1,131
+8_(RCA,Old),15,-1,132
+9_(RCA,Old),15,-1,133
+UP_(RCA,Old),15,-1,135
+LEFT_(RCA,Old),15,-1,138
+RIGHT_(RCA,Old),15,-1,139
+ENTER_(RCA,Old),15,-1,140
+DOWN_(RCA,Old),15,-1,141
+INFO_(RCA,Old),15,-1,142
+GUIDE_(RCA,Old),15,-1,143

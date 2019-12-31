@@ -9,30 +9,30 @@ functionname,protocol,device,subdevice,function
 7,Pioneer,168,-1,7
 8,Pioneer,168,-1,8
 9,Pioneer,168,-1,9
-SCAN >>,Pioneer,168,-1,16
-SCAN <<,Pioneer,168,-1,17
+SCAN_NEXT,Pioneer,168,-1,16
+SCAN_PREVIOUS,Pioneer,168,-1,17
 CHP/TM,Pioneer,168,-1,19
-STOP [],Pioneer,168,-1,22
-PLAY >,Pioneer,168,-1,23
-PAUSE ,,,Pioneer,168,-1,24
-MEMORY REVIEW,Pioneer,168,-1,25
+STOP,Pioneer,168,-1,22
+PLAY,Pioneer,168,-1,23
+PAUSE,,,Pioneer,168,-1,24
+MEMORY_REVIEW,Pioneer,168,-1,25
 OPEN/CLOSE,Pioneer,168,-1,25
 POWER,Pioneer,168,-1,28
-AUDIO D/A,Pioneer,168,-1,30
+AUDIO_D/A,Pioneer,168,-1,30
 +10,Pioneer,168,-1,31
-SCAN REVERSE (F.S.),Pioneer,168,-1,43
+SCAN_REVERSE_(F.S.),Pioneer,168,-1,43
 DISPLAY,Pioneer,168,-1,67
-BLANK KEY,Pioneer,168,-1,68
-CLEAR (C),Pioneer,168,-1,69
-REPEAT A/B,Pioneer,168,-1,72
+BLANK_KEY,Pioneer,168,-1,68
+CLEAR_(C),Pioneer,168,-1,69
+REPEAT_A/B,Pioneer,168,-1,72
 PGM,Pioneer,168,-1,76
-DISC SIDE A,Pioneer,168,-1,77
-DISC SIDE B,Pioneer,168,-1,78
-STEP <,,,Pioneer,168,-1,80
-SKIP >>,,Pioneer,168,-1,82
-SKIP ,<<,Pioneer,168,-1,83
-STEP ,,>,Pioneer,168,-1,84
-MULTI-SPEED <,Pioneer,168,-1,85
-MULTI-SPEED >,Pioneer,168,-1,88
+DISC_SIDE_A,Pioneer,168,-1,77
+DISC_SIDE_B,Pioneer,168,-1,78
+STEP_<,,,Pioneer,168,-1,80
+SKIP_NEXT,,Pioneer,168,-1,82
+SKIP,<<,Pioneer,168,-1,83
+STEP,,>,Pioneer,168,-1,84
+MULTI-SPEED_<,Pioneer,168,-1,85
+MULTI-SPEED,Pioneer,168,-1,88
 HILITE/INTRO,Pioneer,168,-1,90
 RANDOM,Pioneer,168,-1,94

@@ -11,11 +11,11 @@ PLAY,Panasonic,160,28,10
 9,Panasonic,160,28,24
 0,Panasonic,160,28,25
 POWER,Panasonic,160,28,61
-SKIP <<,Panasonic,160,28,73
-SKIP ,<<,Panasonic,160,28,73
-SKIP >>,Panasonic,160,28,74
-SKIP >>,,Panasonic,160,28,74
+SKIP_PREVIOUS,Panasonic,160,28,73
+SKIP,<<,Panasonic,160,28,73
+SKIP_NEXT,Panasonic,160,28,74
+SKIP_NEXT,,Panasonic,160,28,74
 >10/-/--,Panasonic,160,28,132
 TIMER,Panasonic,160,28,150
-FL DISPLAY,Panasonic,160,28,151
-A/V EFFECT,Panasonic,160,28,224
+FL_DISPLAY,Panasonic,160,28,151
+A/V_EFFECT,Panasonic,160,28,224

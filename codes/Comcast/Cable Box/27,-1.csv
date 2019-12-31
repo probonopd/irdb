@@ -17,8 +17,8 @@ SELECT,Panasonic_Old,27,-1,12
 8,Panasonic_Old,27,-1,23
 9,Panasonic_Old,27,-1,24
 0,Panasonic_Old,27,-1,25
-CHANNEL +,Panasonic_Old,27,-1,29
-CHANNEL -,Panasonic_Old,27,-1,30
+CHANNEL+,Panasonic_Old,27,-1,29
+CHANNEL-,Panasonic_Old,27,-1,30
 A,Panasonic_Old,27,-1,47
 B,Panasonic_Old,27,-1,48
 C,Panasonic_Old,27,-1,49

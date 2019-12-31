@@ -1,5 +1,5 @@
 functionname,protocol,device,subdevice,function
-LIVE TV,Tivo unit=0,133,48,17
+LIVE_TV,Tivo unit=0,133,48,17
 INFO,Tivo unit=0,133,48,19
 GUIDE,Tivo unit=0,133,48,54
 WINDOW,Tivo unit=0,133,48,68

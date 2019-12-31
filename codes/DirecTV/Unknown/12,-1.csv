@@ -1,5 +1,5 @@
 functionname,protocol,device,subdevice,function
-DISCRETE ON,DirecTV,12,-1,128
-POWER ON,DirecTV,12,-1,128
-DISCRETE OFF,DirecTV,12,-1,129
-POWER OFF,DirecTV,12,-1,129
+DISCRETE_ON,DirecTV,12,-1,128
+POWER_ON,DirecTV,12,-1,128
+DISCRETE_OFF,DirecTV,12,-1,129
+POWER_OFF,DirecTV,12,-1,129

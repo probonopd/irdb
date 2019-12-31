@@ -1,34 +1,34 @@
 functionname,protocol,device,subdevice,function
 STOP,Panasonic,160,34,0
-SCAN <<,Panasonic,160,34,2
-SLOW SEARCH <<,Panasonic,160,34,2
-SCAN >>,Panasonic,160,34,3
-SLOW SEARCH >>,Panasonic,160,34,3
+SCAN_PREVIOUS,Panasonic,160,34,2
+SLOW_SEARCH_<<,Panasonic,160,34,2
+SCAN_NEXT,Panasonic,160,34,3
+SLOW_SEARCH,Panasonic,160,34,3
 PAUSE,Panasonic,160,34,6
 AUDIO,Panasonic,160,34,51
-CURSOR UP,Panasonic,160,34,52
+UP,Panasonic,160,34,52
 UP/ON,Panasonic,160,34,52
-CURSOR DOWN,Panasonic,160,34,53
+DOWN,Panasonic,160,34,53
 DOWN/OFF,Panasonic,160,34,53
-CURSOR RIGHT,Panasonic,160,34,54
 RIGHT,Panasonic,160,34,54
-CURSOR LEFT,Panasonic,160,34,55
+RIGHT,Panasonic,160,34,54
+LEFT,Panasonic,160,34,55
 LEFT,Panasonic,160,34,55
 REPEAT,Panasonic,160,34,71
-A-B REPEAT,Panasonic,160,34,72
+A-B_REPEAT,Panasonic,160,34,72
 DISPLAY,Panasonic,160,34,87
 CLEAR,Panasonic,160,34,128
-DISC MANAGER,Panasonic,160,34,161
+DISC_MANAGER,Panasonic,160,34,161
 DISC,Panasonic,160,34,164
 TITLE,Panasonic,160,34,171
 MARKER,Panasonic,160,34,172
 ANGLE,Panasonic,160,34,173
 SUBTITLE,Panasonic,160,34,174
 SETUP,Panasonic,160,34,181
-PLAY MODE,Panasonic,160,34,187
+PLAY_MODE,Panasonic,160,34,187
 MENU,Panasonic,160,34,192
 EXIT,Panasonic,160,34,196
 RETURN,Panasonic,160,34,196
 ENTER,Panasonic,160,34,198
 SELECT,Panasonic,160,34,198
-DISC SKIP,Panasonic,160,34,235
+DISC_SKIP,Panasonic,160,34,235

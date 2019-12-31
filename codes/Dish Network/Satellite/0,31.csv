@@ -1,3 +1,3 @@
 functionname,protocol,device,subdevice,function
-ALL ADRESSES ON,Dish_Network,0,31,1
-ALL ADRESSES OFF,Dish_Network,0,31,39
+ALL_ADRESSES_ON,Dish_Network,0,31,1
+ALL_ADRESSES_OFF,Dish_Network,0,31,39

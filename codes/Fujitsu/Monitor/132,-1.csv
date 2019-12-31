@@ -1,41 +1,41 @@
 functionname,protocol,device,subdevice,function
-POWER ON,Fujitsu,132,-1,1
-POWER OFF,Fujitsu,132,-1,2
-INPUT,Fujitsu,132,-1,3
+POWER_ON,Fujitsu,132,-1,1
+POWER_OFF,Fujitsu,132,-1,2
+INPUT:,Fujitsu,132,-1,3
 VIDEO,Fujitsu,132,-1,5
 VIDEO,Fujitsu,132,-1,6
 RGB,Fujitsu,132,-1,8
-RGB2: D-SUB15,Fujitsu,132,-1,9
-RGB3: 5 BNC,Fujitsu,132,-1,10
+RGB2:_D-SUB15,Fujitsu,132,-1,9
+RGB3:5_BNC,Fujitsu,132,-1,10
 S-VIDEO,Fujitsu,132,-1,11
 COMPONENT,Fujitsu,132,-1,12
-RGB1: DVI-D,Fujitsu,132,-1,14
-SHIFT 1,Fujitsu,132,-1,16
-VOLUME UP,Fujitsu,132,-1,32
-SHIFT 2,Fujitsu,132,-1,32
-VOL +,Fujitsu,132,-1,32
-VOLUME DOWN,Fujitsu,132,-1,33
-VOL -,Fujitsu,132,-1,33
-SHIFT 3,Fujitsu,132,-1,48
-ARROW LEFT,Fujitsu,132,-1,62
-ADJ LEFT,Fujitsu,132,-1,62
-ARROW RIGHT,Fujitsu,132,-1,63
-ADJ RIGHT,Fujitsu,132,-1,63
+RGB1:_DVI-D,Fujitsu,132,-1,14
+SHIFT1,Fujitsu,132,-1,16
+VOLUME+,Fujitsu,132,-1,32
+SHIFT2,Fujitsu,132,-1,32
+VOLUME+,Fujitsu,132,-1,32
+VOLUME-,Fujitsu,132,-1,33
+VOLUME-,Fujitsu,132,-1,33
+SHIFT3,Fujitsu,132,-1,48
+LEFT,Fujitsu,132,-1,62
+ADJ_LEFT,Fujitsu,132,-1,62
+RIGHT,Fujitsu,132,-1,63
+ADJ_RIGHT,Fujitsu,132,-1,63
 MENU,Fujitsu,132,-1,64
-SHIFT 4,Fujitsu,132,-1,64
-ARROW UP,Fujitsu,132,-1,65
-ADJ UP,Fujitsu,132,-1,65
-ARROW DOWN,Fujitsu,132,-1,66
-ADJ DOWN,Fujitsu,132,-1,66
+SHIFT4,Fujitsu,132,-1,64
+UP,Fujitsu,132,-1,65
+ADJ_UP,Fujitsu,132,-1,65
+DOWN,Fujitsu,132,-1,66
+ADJ_DOWN,Fujitsu,132,-1,66
 ENTER,Fujitsu,132,-1,91
 SET,Fujitsu,132,-1,91
 WIDE,Fujitsu,132,-1,128
-ASPECT TOGGLE,Fujitsu,132,-1,128
-ASPECT AUTO,Fujitsu,132,-1,129
-ASPECT NORMAL,Fujitsu,132,-1,130
-ASPECT WIDE1,Fujitsu,132,-1,131
-ASPECT WIDE2,Fujitsu,132,-1,132
-ASPECT ZOOM1,Fujitsu,132,-1,133
-ASPECT ZOOM2,Fujitsu,132,-1,134
-LOCK (HIDDEN),Fujitsu,132,-1,224
-MODE (HIDDEN),Fujitsu,132,-1,250
+ASPECT_TOGGLE,Fujitsu,132,-1,128
+ASPECT_AUTO,Fujitsu,132,-1,129
+ASPECT_NORMAL,Fujitsu,132,-1,130
+ASPECT_WIDE1,Fujitsu,132,-1,131
+ASPECT_WIDE2,Fujitsu,132,-1,132
+ASPECT_ZOOM1,Fujitsu,132,-1,133
+ASPECT_ZOOM2,Fujitsu,132,-1,134
+LOCK_(HIDDEN),Fujitsu,132,-1,224
+MODE_(HIDDEN),Fujitsu,132,-1,250

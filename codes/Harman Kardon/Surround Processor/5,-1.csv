@@ -9,4 +9,4 @@ functionname,protocol,device,subdevice,function
 7,RC5,5,-1,7
 8,RC5,5,-1,8
 9,RC5,5,-1,9
-VID 2,RC5,5,-1,63
+VID2,RC5,5,-1,63

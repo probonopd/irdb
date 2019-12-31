@@ -1,36 +1,36 @@
 functionname,protocol,device,subdevice,function
 STROBE,Denon,6,-1,65
-DIGITAL FNR,Denon,6,-1,66
-STILL & SOUND,Denon,6,-1,67
+DIGITAL_FNR,Denon,6,-1,66
+STILL_&_SOUND,Denon,6,-1,67
 ART,Denon,6,-1,87
-SIDE A,Denon,6,-1,118
-SIDE B,Denon,6,-1,119
-JOG REV,Denon,6,-1,121
+SIDE_A,Denon,6,-1,118
+SIDE_B,Denon,6,-1,119
+JOG_REV,Denon,6,-1,121
 POWER,Denon,6,-1,129
 OPEN/CLOSE,Denon,6,-1,130
-STOP [],Denon,6,-1,131
+STOP,Denon,6,-1,131
 PLAY>/PAUSE,,,Denon,6,-1,132
->>,,Denon,6,-1,134
+FASTFORWARD,,Denon,6,-1,134
 ,<<,Denon,6,-1,135
->>,Denon,6,-1,136
-<<,Denon,6,-1,137
+FASTFORWARD,Denon,6,-1,136
+REWIND,Denon,6,-1,137
 PROGRAM,Denon,6,-1,138
 CALL,Denon,6,-1,139
 REPEAT,Denon,6,-1,142
 A/B,Denon,6,-1,143
-SEARCH MODE,Denon,6,-1,144
+SEARCH_MODE,Denon,6,-1,144
 DIGITAL/ANALOG/CX,Denon,6,-1,145
-AUDIO MONITOR,Denon,6,-1,146
-ON SCREEN,Denon,6,-1,147
-INTRO SCAN,Denon,6,-1,148
-MULTI SPEED >,Denon,6,-1,152
-MULTI SPEED <,Denon,6,-1,153
-STROBE +,Denon,6,-1,154
-STROBE -,Denon,6,-1,155
+AUDIO_MONITOR,Denon,6,-1,146
+ON_SCREEN,Denon,6,-1,147
+INTRO_SCAN,Denon,6,-1,148
+MULTI_SPEED,Denon,6,-1,152
+MULTI_SPEED_<,Denon,6,-1,153
+STROBE+,Denon,6,-1,154
+STROBE-,Denon,6,-1,155
 ,,>,Denon,6,-1,156
-<,,,Denon,6,-1,157
+LEFT,,,Denon,6,-1,157
 RANDOM,Denon,6,-1,158
-AUTO SPACE,Denon,6,-1,159
+AUTO_SPACE,Denon,6,-1,159
 0,Denon,6,-1,160
 1,Denon,6,-1,161
 2,Denon,6,-1,162
@@ -41,4 +41,4 @@ AUTO SPACE,Denon,6,-1,159
 8,Denon,6,-1,168
 9,Denon,6,-1,169
 SINGLE,Denon,6,-1,177
-JOG FWD,Denon,6,-1,185
+JOG_FWD,Denon,6,-1,185

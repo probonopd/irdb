@@ -15,10 +15,10 @@ CANCEL,Dish_Network,0,14,18
 GUIDE,Dish_Network,0,14,20
 VIEW,Dish_Network,0,14,22
 TV/VIDEO,Dish_Network,0,14,23
-CURSOR RIGHT,Dish_Network,0,14,24
-CHANNEL +,Dish_Network,0,14,26
-CURSOR UP,Dish_Network,0,14,26
-RECALL,Dish_Network,0,14,27
-CURSOR LEFT,Dish_Network,0,14,28
-CHANNEL -,Dish_Network,0,14,30
-CURSOR DOWN,Dish_Network,0,14,30
+RIGHT,Dish_Network,0,14,24
+CHANNEL+,Dish_Network,0,14,26
+UP,Dish_Network,0,14,26
+RECORDALL,Dish_Network,0,14,27
+LEFT,Dish_Network,0,14,28
+CHANNEL-,Dish_Network,0,14,30
+DOWN,Dish_Network,0,14,30

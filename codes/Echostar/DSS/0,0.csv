@@ -15,9 +15,9 @@ SLCT,Dish_Network,0,0,16
 CNCL,Dish_Network,0,0,18
 GUIDE,Dish_Network,0,0,20
 VIEW,Dish_Network,0,0,22
-CURSOR RIGHT,Dish_Network,0,0,24
-CHANNEL +,Dish_Network,0,0,26
-CURSOR UP,Dish_Network,0,0,26
-CURSOR LEFT,Dish_Network,0,0,28
-CHANNEL -,Dish_Network,0,0,30
-CURSOR DOWN,Dish_Network,0,0,30
+RIGHT,Dish_Network,0,0,24
+CHANNEL+,Dish_Network,0,0,26
+UP,Dish_Network,0,0,26
+LEFT,Dish_Network,0,0,28
+CHANNEL-,Dish_Network,0,0,30
+DOWN,Dish_Network,0,0,30

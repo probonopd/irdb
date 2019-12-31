@@ -1,29 +1,29 @@
 functionname,protocol,device,subdevice,function
 PLAY,Dish_Network,1,0,3
-PAGE DOWN,Dish_Network,1,0,7
-PAGE --,Dish_Network,1,0,7
-PAGE -,Dish_Network,1,0,7
-PAGE UP,Dish_Network,1,0,15
-PAGE +,Dish_Network,1,0,15
+PAGE-,Dish_Network,1,0,7
+PAGE--,Dish_Network,1,0,7
+PAGE-,Dish_Network,1,0,7
+PAGE+,Dish_Network,1,0,15
+PAGE+,Dish_Network,1,0,15
 REWIND,Dish_Network,1,0,49
 BACK,Dish_Network,1,0,49
-FAST FORWARD,Dish_Network,1,0,50
-FWD,Dish_Network,1,0,50
+FAST_FORWARD,Dish_Network,1,0,50
+FORWARD,Dish_Network,1,0,50
 FORWARD,Dish_Network,1,0,50
 DISH,Dish_Network,1,0,52
-SKIP <<,Dish_Network,1,0,54
-SKIP BACK,Dish_Network,1,0,54
+SKIP_PREVIOUS,Dish_Network,1,0,54
+SKIP_BACK,Dish_Network,1,0,54
 REPLAY,Dish_Network,1,0,54
-SKIP >>,Dish_Network,1,0,55
-SKIP FORWARD,Dish_Network,1,0,55
+SKIP_NEXT,Dish_Network,1,0,55
+SKIP_FORWARD,Dish_Network,1,0,55
 DVR,Dish_Network,1,0,57
-RECORDED EVENTS,Dish_Network,1,0,57
-PIP ON/OFF,Dish_Network,1,0,58
+RECORDEDEVENTS,Dish_Network,1,0,57
+PIP_TOGGLE,Dish_Network,1,0,58
 ,Dish_Network,1,0,58
 PIP,Dish_Network,1,0,58
-PIP LOCATION,Dish_Network,1,0,59
+PIP_LOCATION,Dish_Network,1,0,59
 ,Dish_Network,1,0,59
 POSITION,Dish_Network,1,0,59
-PIP SWAP,Dish_Network,1,0,61
+PIP_SWAP,Dish_Network,1,0,61
 ,Dish_Network,1,0,61
 SWAP,Dish_Network,1,0,61

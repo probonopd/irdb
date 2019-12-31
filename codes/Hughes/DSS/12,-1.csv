@@ -8,21 +8,21 @@ functionname,protocol,device,subdevice,function
 7,DirecTV,12,-1,7
 8,DirecTV,12,-1,8
 9,DirecTV,12,-1,9
-CHANNEL +,DirecTV,12,-1,13
-PAGE UP,DirecTV,12,-1,13
-CHANNEL -,DirecTV,12,-1,14
-PAGE DOWN,DirecTV,12,-1,14
+CHANNEL+,DirecTV,12,-1,13
+PAGE+,DirecTV,12,-1,13
+CHANNEL-,DirecTV,12,-1,14
+PAGE-,DirecTV,12,-1,14
 PREV,DirecTV,12,-1,15
 POWER,DirecTV,12,-1,16
 0,DirecTV,12,-1,17
 DASH,DirecTV,12,-1,18
 ENTER,DirecTV,12,-1,19
 MENU,DirecTV,12,-1,32
-CURSOR UP,DirecTV,12,-1,33
-CURSOR DOWN,DirecTV,12,-1,34
-CURSOR LEFT,DirecTV,12,-1,35
-CURSOR RIGHT,DirecTV,12,-1,36
-CURSOR ENTER,DirecTV,12,-1,37
+UP,DirecTV,12,-1,33
+DOWN,DirecTV,12,-1,34
+LEFT,DirecTV,12,-1,35
+RIGHT,DirecTV,12,-1,36
+ENTER,DirecTV,12,-1,37
 SELECT,DirecTV,12,-1,37
 EXIT,DirecTV,12,-1,38
 BACK,DirecTV,12,-1,39

@@ -11,21 +11,21 @@ functionname,protocol,device,subdevice,function
 0,Denon-K,7,4,10
 MEMO,Denon-K,7,4,12
 SEARCH,Denon-K,7,4,18
-CHANNEL -,Denon-K,7,4,21
-CHANNEL +,Denon-K,7,4,22
+CHANNEL-,Denon-K,7,4,21
+CHANNEL+,Denon-K,7,4,22
 BAND,Denon-K,7,4,23
 MODE,Denon-K,7,4,24
-TUNER UP,Denon-K,7,4,25
-TUNER DOWN,Denon-K,7,4,26
-CURSOR ENTER,Denon-K,7,4,66
-CURSOR UP,Denon-K,7,4,69
-CURSOR DOWN,Denon-K,7,4,70
-CURSOR LEFT,Denon-K,7,4,71
-CURSOR RIGHT,Denon-K,7,4,72
-TUNER A,Denon-K,7,4,96
-TUNER B,Denon-K,7,4,97
-TUNER C,Denon-K,7,4,98
-TUNER D,Denon-K,7,4,99
-TUNER E,Denon-K,7,4,100
-TUNER F,Denon-K,7,4,101
-TUNER G,Denon-K,7,4,102
+TUNER+,Denon-K,7,4,25
+TUNER-,Denon-K,7,4,26
+ENTER,Denon-K,7,4,66
+UP,Denon-K,7,4,69
+DOWN,Denon-K,7,4,70
+LEFT,Denon-K,7,4,71
+RIGHT,Denon-K,7,4,72
+TUNER_A,Denon-K,7,4,96
+TUNER_B,Denon-K,7,4,97
+TUNER_C,Denon-K,7,4,98
+TUNER_D,Denon-K,7,4,99
+TUNER_E,Denon-K,7,4,100
+TUNER_F,Denon-K,7,4,101
+TUNER_G,Denon-K,7,4,102

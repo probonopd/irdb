@@ -14,13 +14,13 @@ SELECT,Dish_Network,0,12,16
 CANCEL,Dish_Network,0,12,18
 GUIDE,Dish_Network,0,12,20
 VIEW,Dish_Network,0,12,22
-CURSOR RIGHT,Dish_Network,0,12,24
-CHANNEL UP,Dish_Network,0,12,26
-CURSOR UP,Dish_Network,0,12,26
-RECALL,Dish_Network,0,12,27
-CURSOR LEFT,Dish_Network,0,12,28
-CHANNEL DOWN,Dish_Network,0,12,30
-CURSOR DOWN,Dish_Network,0,12,30
+RIGHT,Dish_Network,0,12,24
+CHANNEL+,Dish_Network,0,12,26
+UP,Dish_Network,0,12,26
+RECORDALL,Dish_Network,0,12,27
+LEFT,Dish_Network,0,12,28
+CHANNEL-,Dish_Network,0,12,30
+DOWN,Dish_Network,0,12,30
 RECORD,Dish_Network,0,12,31
 PAUSE,Dish_Network,0,12,32
 STOP,Dish_Network,0,12,33

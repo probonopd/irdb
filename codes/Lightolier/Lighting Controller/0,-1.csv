@@ -1,6 +1,6 @@
 functionname,protocol,device,subdevice,function
-SCENE A,Denon,0,-1,1
-SCENE B,Denon,0,-1,3
-SCENE C,Denon,0,-1,5
-SCENE D,Denon,0,-1,7
+SCENE_A,Denon,0,-1,1
+SCENE_B,Denon,0,-1,3
+SCENE_C,Denon,0,-1,5
+SCENE_D,Denon,0,-1,7
 OFF,Denon,0,-1,33

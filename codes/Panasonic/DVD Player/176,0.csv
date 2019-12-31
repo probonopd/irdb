@@ -1,15 +1,15 @@
 functionname,protocol,device,subdevice,function
 STOP,Panasonic,176,0,0
 OPEN/CLOSE,Panasonic,176,0,1
-SEARCH <<,Panasonic,176,0,4
-SLOW/SEARCH <<,Panasonic,176,0,4
-SEARCH >>,Panasonic,176,0,5
-SLOW/SEARCH >>,Panasonic,176,0,5
+SEARCH_BACK,Panasonic,176,0,4
+SLOW/SEARCH_<<,Panasonic,176,0,4
+SEARCH_FORWARD,Panasonic,176,0,5
+SLOW/SEARCH,Panasonic,176,0,5
 PAUSE,Panasonic,176,0,6
 STILL/PAUSE,Panasonic,176,0,6
-SLOW <,Panasonic,176,0,7
+SLOW_<,Panasonic,176,0,7
 PLAY,Panasonic,176,0,10
-SLOW >,Panasonic,176,0,15
+SLOW,Panasonic,176,0,15
 1,Panasonic,176,0,16
 2,Panasonic,176,0,17
 3,Panasonic,176,0,18
@@ -20,74 +20,74 @@ SLOW >,Panasonic,176,0,15
 8,Panasonic,176,0,23
 9,Panasonic,176,0,24
 0,Panasonic,176,0,25
-AUDIO MODE,Panasonic,176,0,51
+AUDIO_MODE,Panasonic,176,0,51
 AUDIO,Panasonic,176,0,51
 POWER,Panasonic,176,0,61
-POWER ON,Panasonic,176,0,62
-POWER OFF,Panasonic,176,0,63
+POWER_ON,Panasonic,176,0,62
+POWER_OFF,Panasonic,176,0,63
 HP-V.S.S.,Panasonic,176,0,69
-A-B REPEAT,Panasonic,176,0,72
-REPEAT A-B,Panasonic,176,0,72
-SIDE A/B,Panasonic,176,0,72
+A-B_REPEAT,Panasonic,176,0,72
+REPEAT_A-B,Panasonic,176,0,72
+SIDE_A/B,Panasonic,176,0,72
 A-B,Panasonic,176,0,72
-SKIP <<,Panasonic,176,0,73
-SKIP/SEARCH <<,Panasonic,176,0,73
-SKIP >>,Panasonic,176,0,74
-SKIP/SEARCH >>,Panasonic,176,0,74
+SKIP_PREVIOUS,Panasonic,176,0,73
+SKIP/SEARCH_PREVIOUS,Panasonic,176,0,73
+SKIP_NEXT,Panasonic,176,0,74
+SKIP/SEARCH_NEXT,Panasonic,176,0,74
 MENU,Panasonic,176,0,128
-MENU/PLAY LIST,Panasonic,176,0,128
+MENU/PLAY_LIST,Panasonic,176,0,128
 RETURN,Panasonic,176,0,129
 SELECT,Panasonic,176,0,130
 ENTER,Panasonic,176,0,130
-MENU ENTER,Panasonic,176,0,130
+MENU_ENTER,Panasonic,176,0,130
 CANCEL,Panasonic,176,0,131
 CLEAR,Panasonic,176,0,131
-CURSOR UP,Panasonic,176,0,133
-UP ARROW,Panasonic,176,0,133
-ARROW: UP,Panasonic,176,0,133
-MENU UP,Panasonic,176,0,133
-CURSOR DOWN,Panasonic,176,0,134
-DOWN ARROW,Panasonic,176,0,134
-ARROW: DOWN,Panasonic,176,0,134
-MENU DOWN,Panasonic,176,0,134
-CURSOR LEFT,Panasonic,176,0,135
-LEFT ARROW,Panasonic,176,0,135
-ARROW: LEFT,Panasonic,176,0,135
-MENU LEFT,Panasonic,176,0,135
-CURSOR RIGHT,Panasonic,176,0,136
-RIGHT ARROW,Panasonic,176,0,136
-ARROW: RIGHT,Panasonic,176,0,136
-MENU RIGHT,Panasonic,176,0,136
+UP,Panasonic,176,0,133
+UP,Panasonic,176,0,133
+:UP,Panasonic,176,0,133
+MENU_UP,Panasonic,176,0,133
+DOWN,Panasonic,176,0,134
+DOWN,Panasonic,176,0,134
+:DOWN,Panasonic,176,0,134
+MENU_DOWN,Panasonic,176,0,134
+LEFT,Panasonic,176,0,135
+LEFT,Panasonic,176,0,135
+:LEFT,Panasonic,176,0,135
+MENU_LEFT,Panasonic,176,0,135
+RIGHT,Panasonic,176,0,136
+RIGHT,Panasonic,176,0,136
+:RIGHT,Panasonic,176,0,136
+MENU_RIGHT,Panasonic,176,0,136
 +10,Panasonic,176,0,137
 >10,Panasonic,176,0,137
 >=10,Panasonic,176,0,137
-REPEAT MODE,Panasonic,176,0,140
+REPEAT_MODE,Panasonic,176,0,140
 MODE,Panasonic,176,0,140
-PLAY MODE,Panasonic,176,0,141
+PLAY_MODE,Panasonic,176,0,141
 MARKER,Panasonic,176,0,142
 ANGLE,Panasonic,176,0,144
 SUBTITLE,Panasonic,176,0,145
 TITLE,Panasonic,176,0,145
 DISPLAY,Panasonic,176,0,146
-SUBTITLE OFF/ON,Panasonic,176,0,147
+SUBTITLE_OFF/ON,Panasonic,176,0,147
 ON/OFF,Panasonic,176,0,147
 ACTION,Panasonic,176,0,148
 SETUP,Panasonic,176,0,148
 PAUSE,Panasonic,176,0,149
 STILL/PAUSE,Panasonic,176,0,149
-DOWN CURSOR,Panasonic,176,0,150
-FRAME <<,Panasonic,176,0,151
-SEARCH <<,Panasonic,176,0,151
-FRAME >>,Panasonic,176,0,152
-SEARCH >>,Panasonic,176,0,152
-FL. DISP,Panasonic,176,0,153
-FL DISP.,Panasonic,176,0,153
+DOWN_CURSOR,Panasonic,176,0,150
+FRAME-,Panasonic,176,0,151
+SEARCH_BACK,Panasonic,176,0,151
+FRAME+,Panasonic,176,0,152
+SEARCH_FORWARD,Panasonic,176,0,152
+FL._DISP,Panasonic,176,0,153
+FL_DISP.,Panasonic,176,0,153
 TITLE,Panasonic,176,0,155
-TOP MENU/DIRECT NAV,Panasonic,176,0,155
+TOP_MENU/DIRECT_NAV,Panasonic,176,0,155
 VSS,Panasonic,176,0,158
 V.S.S.,Panasonic,176,0,158
 SP-V.S.S.,Panasonic,176,0,158
 GROUP,Panasonic,176,0,224
-AUDIO ONLY,Panasonic,176,0,225
+AUDIO_ONLY,Panasonic,176,0,225
 PAGE,Panasonic,176,0,229
 TEXT,Panasonic,176,0,232

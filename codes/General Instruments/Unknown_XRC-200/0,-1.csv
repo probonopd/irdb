@@ -35,8 +35,8 @@ CBL_MUSIC,G.I. Cable{1},0,-1,16
 CBL_MUSIC,G.I. Cable{1},0,-1,16
 CBL_OK,G.I. Cable{1},0,-1,17
 CBL_OK,G.I. Cable{1},0,-1,17
-KEY_EXIT,G.I. Cable{1},0,-1,18
-KEY_EXIT,G.I. Cable{1},0,-1,18
+EXIT,G.I. Cable{1},0,-1,18
+EXIT,G.I. Cable{1},0,-1,18
 CBL_LAST,G.I. Cable{1},0,-1,19
 CBL_LAST,G.I. Cable{1},0,-1,19
 CBL_BYPASS,G.I. Cable{1},0,-1,20

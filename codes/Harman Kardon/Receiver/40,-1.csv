@@ -1,7 +1,7 @@
 functionname,protocol,device,subdevice,function
-VCR FF >>,Emerson,40,-1,4
-VCR PLAY >,Emerson,40,-1,10
-VCR PAUSE ,,,Emerson,40,-1,11
-VCR REW <<,Emerson,40,-1,12
-VCR STOP [],Emerson,40,-1,28
-VCR POWER,Emerson,40,-1,32
+VCR_FF,Emerson,40,-1,4
+VCR_PLAY,Emerson,40,-1,10
+VCR_PAUSE,,,Emerson,40,-1,11
+VCR_REWIND,Emerson,40,-1,12
+VCR_STOP,Emerson,40,-1,28
+VCR_POWER,Emerson,40,-1,32

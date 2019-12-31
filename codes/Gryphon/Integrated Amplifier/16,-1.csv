@@ -1,7 +1,7 @@
 functionname,protocol,device,subdevice,function
 ON/STAND-BY,RC5,16,-1,12
 MUTE,RC5,16,-1,13
-VOLUME +,RC5,16,-1,16
-VOLUME -,RC5,16,-1,17
-INPUT +,RC5,16,-1,32
-INPUT -,RC5,16,-1,33
+VOLUME+,RC5,16,-1,16
+VOLUME-,RC5,16,-1,17
+INPUT+,RC5,16,-1,32
+INPUT-,RC5,16,-1,33

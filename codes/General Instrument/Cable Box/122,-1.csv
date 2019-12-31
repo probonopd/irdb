@@ -1,4 +1,4 @@
 functionname,protocol,device,subdevice,function
-VOLUME +,NEC1,122,-1,26
-VOLUME -,NEC1,122,-1,27
+VOLUME+,NEC1,122,-1,26
+VOLUME-,NEC1,122,-1,27
 MUTE,NEC1,122,-1,28

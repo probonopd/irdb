@@ -9,26 +9,26 @@ DISPLAY,Mitsubishi,71,-1,27
 5,Mitsubishi,71,-1,32
 6,Mitsubishi,71,-1,40
 7,Mitsubishi,71,-1,48
-MENU 1,Mitsubishi,71,-1,51
+MENU1,Mitsubishi,71,-1,51
 8,Mitsubishi,71,-1,56
-POWER ON,Mitsubishi,71,-1,66
-POWER OFF,Mitsubishi,71,-1,74
+POWER_ON,Mitsubishi,71,-1,66
+POWER_OFF,Mitsubishi,71,-1,74
 ESC,Mitsubishi,71,-1,82
 TEST,Mitsubishi,71,-1,94
->,Mitsubishi,71,-1,100
-<,Mitsubishi,71,-1,108
-MENU 2,Mitsubishi,71,-1,115
-^,Mitsubishi,71,-1,116
+RIGHT,Mitsubishi,71,-1,100
+LEFT,Mitsubishi,71,-1,108
+MENU2,Mitsubishi,71,-1,115
+UP,Mitsubishi,71,-1,116
 V,Mitsubishi,71,-1,124
-PIC MUTE,Mitsubishi,71,-1,146
-MEM LIST,Mitsubishi,71,-1,157
+PIC_MUTE,Mitsubishi,71,-1,146
+MEM_LIST,Mitsubishi,71,-1,157
 NORMAL,Mitsubishi,71,-1,159
-CRT R,Mitsubishi,71,-1,161
-INPUT A,Mitsubishi,71,-1,164
-CRT G,Mitsubishi,71,-1,169
-INPUT B,Mitsubishi,71,-1,172
-CRT B,Mitsubishi,71,-1,177
+CRT_R,Mitsubishi,71,-1,161
+INPUT:A,Mitsubishi,71,-1,164
+CRT_G,Mitsubishi,71,-1,169
+INPUT:B,Mitsubishi,71,-1,172
+CRT_B,Mitsubishi,71,-1,177
 FUNC,Mitsubishi,71,-1,179
 ENTER,Mitsubishi,71,-1,187
-INPUT VIDEO,Mitsubishi,71,-1,245
-INPUT Y/C,Mitsubishi,71,-1,253
+INPUT:VIDEO,Mitsubishi,71,-1,245
+INPUT:Y/C,Mitsubishi,71,-1,253

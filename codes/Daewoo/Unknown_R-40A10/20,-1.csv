@@ -10,7 +10,7 @@ functionname,protocol,device,subdevice,function
 8,Proton,20,-1,8
 9,Proton,20,-1,9
 SLEEP,Proton,20,-1,13
-RECALL,Proton,20,-1,17
+RECORDALL,Proton,20,-1,17
 MUTE,Proton,20,-1,18
 GROMKO,Proton,20,-1,19
 TIHO,Proton,20,-1,20

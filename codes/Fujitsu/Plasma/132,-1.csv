@@ -1,106 +1,106 @@
 functionname,protocol,device,subdevice,function
 POWER,Fujitsu,132,-1,0
-POWER ON,Fujitsu,132,-1,1
+POWER_ON,Fujitsu,132,-1,1
 ON,Fujitsu,132,-1,1
-POWER - ON,Fujitsu,132,-1,1
-POWER OFF,Fujitsu,132,-1,2
+POWER-_ON,Fujitsu,132,-1,1
+POWER_OFF,Fujitsu,132,-1,2
 OFF,Fujitsu,132,-1,2
-POWER - OFF,Fujitsu,132,-1,2
+POWER-_OFF,Fujitsu,132,-1,2
 MODE,Fujitsu,132,-1,3
 VIDEO,Fujitsu,132,-1,5
-VIDEO 1 2 3,Fujitsu,132,-1,5
-INPUT - VIDEO,Fujitsu,132,-1,5
-VIDEO 1,Fujitsu,132,-1,5
-INPUT 1 - COMPOSITE,Fujitsu,132,-1,6
+VIDEO123,Fujitsu,132,-1,5
+INPUT-VIDEO,Fujitsu,132,-1,5
+VIDEO1,Fujitsu,132,-1,5
+INPUT:1-COMPOSITE,Fujitsu,132,-1,6
 COMPOSITE,Fujitsu,132,-1,6
 VIDEO,Fujitsu,132,-1,6
 RGB,Fujitsu,132,-1,8
-RGB 1 2,Fujitsu,132,-1,8
-INPUT - RGB,Fujitsu,132,-1,8
-INPUT RGB2 - (D-SUB),Fujitsu,132,-1,9
-RGB DSUB,Fujitsu,132,-1,9
-RGB2: D-SUB15,Fujitsu,132,-1,9
+RGB12,Fujitsu,132,-1,8
+INPUT-RGB,Fujitsu,132,-1,8
+INPUT:RGB2-(D-SUB),Fujitsu,132,-1,9
+RGB_DSUB,Fujitsu,132,-1,9
+RGB2:_D-SUB15,Fujitsu,132,-1,9
 RGB-BNC,Fujitsu,132,-1,10
-RGB3: 5 BNC,Fujitsu,132,-1,10
-INPUT 2 - S-VIDEO,Fujitsu,132,-1,11
+RGB3:5_BNC,Fujitsu,132,-1,10
+INPUT:2-S-VIDEO,Fujitsu,132,-1,11
 S-VIDEO,Fujitsu,132,-1,11
 COMPONET,Fujitsu,132,-1,12
 COMPONENT,Fujitsu,132,-1,12
-HIDDEN 1,Fujitsu,132,-1,13
-INPUT RGB1 - DVI,Fujitsu,132,-1,14
-RGB DVI,Fujitsu,132,-1,14
-RGB1: DVI-D,Fujitsu,132,-1,14
-SHIFT 1,Fujitsu,132,-1,16
-VOL +,Fujitsu,132,-1,32
-VOLUME - UP,Fujitsu,132,-1,32
-VOLUME +,Fujitsu,132,-1,32
-VOLUME UP,Fujitsu,132,-1,32
-SHIFT 2,Fujitsu,132,-1,32
-VOL UP,Fujitsu,132,-1,32
-VOL -,Fujitsu,132,-1,33
-VOLUME - DOWN,Fujitsu,132,-1,33
-VOLUME -,Fujitsu,132,-1,33
-VOLUME DOWN,Fujitsu,132,-1,33
-VOL DN,Fujitsu,132,-1,33
-SHIFT 3,Fujitsu,132,-1,48
-CUR LEFT,Fujitsu,132,-1,62
-CURSOR - LEFT,Fujitsu,132,-1,62
-CURSOR LEFT,Fujitsu,132,-1,62
-ARROW LEFT,Fujitsu,132,-1,62
+HIDDEN1,Fujitsu,132,-1,13
+INPUT:RGB1-DVI,Fujitsu,132,-1,14
+RGB_DVI,Fujitsu,132,-1,14
+RGB1:_DVI-D,Fujitsu,132,-1,14
+SHIFT1,Fujitsu,132,-1,16
+VOLUME+,Fujitsu,132,-1,32
+VOLUME+,Fujitsu,132,-1,32
+VOLUME+,Fujitsu,132,-1,32
+VOLUME+,Fujitsu,132,-1,32
+SHIFT2,Fujitsu,132,-1,32
+VOLUME+,Fujitsu,132,-1,32
+VOLUME-,Fujitsu,132,-1,33
+VOLUME-,Fujitsu,132,-1,33
+VOLUME-,Fujitsu,132,-1,33
+VOLUME-,Fujitsu,132,-1,33
+VOLUME-,Fujitsu,132,-1,33
+SHIFT3,Fujitsu,132,-1,48
 LEFT,Fujitsu,132,-1,62
-ADJ LEFT,Fujitsu,132,-1,62
-CURSOR LF,Fujitsu,132,-1,62
-CUR RIGHT,Fujitsu,132,-1,63
-CURSOR - RIGHT,Fujitsu,132,-1,63
-CURSOR RIGHT,Fujitsu,132,-1,63
-ARROW RIGHT,Fujitsu,132,-1,63
+LEFT,Fujitsu,132,-1,62
+LEFT,Fujitsu,132,-1,62
+LEFT,Fujitsu,132,-1,62
+LEFT,Fujitsu,132,-1,62
+ADJ_LEFT,Fujitsu,132,-1,62
+LEFT,Fujitsu,132,-1,62
 RIGHT,Fujitsu,132,-1,63
-ADJ RIGHT,Fujitsu,132,-1,63
-CURSOR RT,Fujitsu,132,-1,63
+RIGHT,Fujitsu,132,-1,63
+RIGHT,Fujitsu,132,-1,63
+RIGHT,Fujitsu,132,-1,63
+RIGHT,Fujitsu,132,-1,63
+ADJ_RIGHT,Fujitsu,132,-1,63
+RIGHT,Fujitsu,132,-1,63
 MENU,Fujitsu,132,-1,64
-SHIFT 4,Fujitsu,132,-1,64
-CUR UP,Fujitsu,132,-1,65
-CURSOR - UP,Fujitsu,132,-1,65
-CURSOR UP,Fujitsu,132,-1,65
-ADJUST >,Fujitsu,132,-1,65
-ARROW UP,Fujitsu,132,-1,65
+SHIFT4,Fujitsu,132,-1,64
 UP,Fujitsu,132,-1,65
-ADJ UP,Fujitsu,132,-1,65
-CUR DOWN,Fujitsu,132,-1,66
-CURSOR - DOWN,Fujitsu,132,-1,66
-ADJUST <,Fujitsu,132,-1,66
-ARROW DOWN,Fujitsu,132,-1,66
+UP,Fujitsu,132,-1,65
+UP,Fujitsu,132,-1,65
+ADJUST,Fujitsu,132,-1,65
+UP,Fujitsu,132,-1,65
+UP,Fujitsu,132,-1,65
+ADJ_UP,Fujitsu,132,-1,65
 DOWN,Fujitsu,132,-1,66
-ADJ DOWN,Fujitsu,132,-1,66
-CURSOR DN,Fujitsu,132,-1,66
-CURSOR - ENTER,Fujitsu,132,-1,91
-CURSOR DOWN,Fujitsu,132,-1,91
+DOWN,Fujitsu,132,-1,66
+ADJUST_<,Fujitsu,132,-1,66
+DOWN,Fujitsu,132,-1,66
+DOWN,Fujitsu,132,-1,66
+ADJ_DOWN,Fujitsu,132,-1,66
+DOWN,Fujitsu,132,-1,66
+ENTER,Fujitsu,132,-1,91
+DOWN,Fujitsu,132,-1,91
 ENTER,Fujitsu,132,-1,91
 SET,Fujitsu,132,-1,91
-HIDDEN 4,Fujitsu,132,-1,103
-HIDDEN 6,Fujitsu,132,-1,104
-HIDDEN 5,Fujitsu,132,-1,105
+HIDDEN4,Fujitsu,132,-1,103
+HIDDEN6,Fujitsu,132,-1,104
+HIDDEN5,Fujitsu,132,-1,105
 WIDE,Fujitsu,132,-1,128
 SCRN.MODE-WIDE,Fujitsu,132,-1,128
-ASPECT TOGGLE,Fujitsu,132,-1,128
-ASPECT AUTO,Fujitsu,132,-1,129
+ASPECT_TOGGLE,Fujitsu,132,-1,128
+ASPECT_AUTO,Fujitsu,132,-1,129
 SCRN.MODE-NORMAL,Fujitsu,132,-1,130
 NORMAL,Fujitsu,132,-1,130
-ASPECT NORMAL,Fujitsu,132,-1,130
+ASPECT_NORMAL,Fujitsu,132,-1,130
 SCRN.MODE-WIDE1,Fujitsu,132,-1,131
 SCRN.MODE-WIDE2,Fujitsu,132,-1,131
-WIDE 1,Fujitsu,132,-1,131
-WIDE 2,Fujitsu,132,-1,131
-ASPECT WIDE1,Fujitsu,132,-1,131
-ASPECT WIDE2,Fujitsu,132,-1,132
+WIDE1,Fujitsu,132,-1,131
+WIDE2,Fujitsu,132,-1,131
+ASPECT_WIDE1,Fujitsu,132,-1,131
+ASPECT_WIDE2,Fujitsu,132,-1,132
 SCRN.MODE-ZOOM1,Fujitsu,132,-1,133
 ZOOM1,Fujitsu,132,-1,133
-ASPECT ZOOM1,Fujitsu,132,-1,133
+ASPECT_ZOOM1,Fujitsu,132,-1,133
 SCRN.MODE-ZOOM2,Fujitsu,132,-1,134
-ZOOM 2,Fujitsu,132,-1,134
-ASPECT ZOOM2,Fujitsu,132,-1,134
-HIDDEN 8,Fujitsu,132,-1,138
-LOCK (HIDDEN),Fujitsu,132,-1,224
-HIDDEN 7,Fujitsu,132,-1,224
-MODE (HIDDEN),Fujitsu,132,-1,250
-HIDDEN 3,Fujitsu,132,-1,250
+ZOOM2,Fujitsu,132,-1,134
+ASPECT_ZOOM2,Fujitsu,132,-1,134
+HIDDEN8,Fujitsu,132,-1,138
+LOCK_(HIDDEN),Fujitsu,132,-1,224
+HIDDEN7,Fujitsu,132,-1,224
+MODE_(HIDDEN),Fujitsu,132,-1,250
+HIDDEN3,Fujitsu,132,-1,250

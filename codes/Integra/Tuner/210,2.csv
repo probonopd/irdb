@@ -9,4 +9,4 @@ functionname,protocol,device,subdevice,function
 8,NEC1,210,2,220
 9,NEC1,210,2,221
 0,NEC1,210,2,222
-DIRECT ACCESS,NEC1,210,2,223
+DIRECT_ACCESS,NEC1,210,2,223

@@ -1,2 +1,2 @@
 functionname,protocol,device,subdevice,function
-TV CANCEL(CRESET/CH),NEC1,80,-1,23
+TV_CANCEL(CRESET/CH),NEC1,80,-1,23

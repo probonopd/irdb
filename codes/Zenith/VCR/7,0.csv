@@ -1,16 +1,16 @@
 functionname,protocol,device,subdevice,function
-CHANNEL DOWN,Zenith,7,0,4
-VOLUME DOWN,Zenith,7,0,8
-<< REWIND,Zenith,7,0,12
+CHANNEL-,Zenith,7,0,4
+VOLUME-,Zenith,7,0,8
+REWINDREWIND,Zenith,7,0,12
 STOP,Zenith,7,0,16
 PLAY,Zenith,7,0,20
-RECORD MUTE,Zenith,7,0,24
-AUDIO OUT,Zenith,7,0,28
-CHANNEL UP,Zenith,7,0,36
+RECORDMUTE,Zenith,7,0,24
+AUDIO_OUT,Zenith,7,0,28
+CHANNEL+,Zenith,7,0,36
 ,Zenith,7,0,36
-VOLUME UP,Zenith,7,0,40
+VOLUME+,Zenith,7,0,40
 TV/TAPE,Zenith,7,0,44
->> FAST FORWARD,Zenith,7,0,48
+FASTFORWARDFASTFORWARD,Zenith,7,0,48
 SOURCE,Zenith,7,0,52
 POWER,Zenith,7,0,56
 0,Zenith,7,0,64
@@ -25,7 +25,7 @@ POWER,Zenith,7,0,56
 9,Zenith,7,0,100
 PAUSE,Zenith,7,0,108
 ENT/RCL,Zenith,7,0,112
-AUDIO MODE,Zenith,7,0,116
-POWER ON,Zenith,7,0,118
+AUDIO_MODE,Zenith,7,0,116
+POWER_ON,Zenith,7,0,118
 RECORD,Zenith,7,0,120
-POWER OFF,Zenith,7,0,122
+POWER_OFF,Zenith,7,0,122

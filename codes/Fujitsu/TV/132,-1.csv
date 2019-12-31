@@ -1,14 +1,14 @@
 functionname,protocol,device,subdevice,function
-POWER - ON,Fujitsu,132,-1,1
-POWER - OFF,Fujitsu,132,-1,2
-INPUT - VIDEO,Fujitsu,132,-1,5
-INPUT - RGB,Fujitsu,132,-1,8
-VOLUME - UP,Fujitsu,132,-1,32
-VOLUME - DOWN,Fujitsu,132,-1,33
-CURSOR - LEFT,Fujitsu,132,-1,62
-CURSOR - RIGHT,Fujitsu,132,-1,63
+POWER-_ON,Fujitsu,132,-1,1
+POWER-_OFF,Fujitsu,132,-1,2
+INPUT-VIDEO,Fujitsu,132,-1,5
+INPUT-RGB,Fujitsu,132,-1,8
+VOLUME+,Fujitsu,132,-1,32
+VOLUME-,Fujitsu,132,-1,33
+LEFT,Fujitsu,132,-1,62
+RIGHT,Fujitsu,132,-1,63
 MENU,Fujitsu,132,-1,64
-CURSOR - UP,Fujitsu,132,-1,65
-CURSOR - DOWN,Fujitsu,132,-1,66
-CURSOR - ENTER,Fujitsu,132,-1,91
+UP,Fujitsu,132,-1,65
+DOWN,Fujitsu,132,-1,66
+ENTER,Fujitsu,132,-1,91
 WIDE,Fujitsu,132,-1,128

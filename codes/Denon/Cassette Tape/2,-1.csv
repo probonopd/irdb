@@ -1,7 +1,7 @@
 functionname,protocol,device,subdevice,function
-VOLUME -,Denon,2,-1,76
-VOLUME +,Denon,2,-1,77
+VOLUME-,Denon,2,-1,76
+VOLUME+,Denon,2,-1,77
 POWER,Denon,2,-1,80
-TAPE MONITOR,Denon,2,-1,88
+TAPE_MONITOR,Denon,2,-1,88
 TAPE-1/1>2,Denon,2,-1,89
 TAPE-2/2>1,Denon,2,-1,90

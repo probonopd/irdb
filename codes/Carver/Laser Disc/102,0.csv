@@ -1,5 +1,5 @@
 functionname,protocol,device,subdevice,function
 PLAY,Aiwa,102,0,6
 STOP,Aiwa,102,0,7
-FF,Aiwa,102,0,28
-REW,Aiwa,102,0,29
+FASTFORWARD,Aiwa,102,0,28
+REWIND,Aiwa,102,0,29

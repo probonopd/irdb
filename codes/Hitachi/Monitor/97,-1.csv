@@ -1,4 +1,4 @@
 functionname,protocol,device,subdevice,function
-REC,NEC1,97,-1,20
-VTR RECORD,NEC1,97,-1,20
+RECORD,NEC1,97,-1,20
+VTR_RECORD,NEC1,97,-1,20
 PL,NEC1,97,-1,64

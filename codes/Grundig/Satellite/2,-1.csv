@@ -4,8 +4,8 @@ MODE,Proton,2,-1,9
 DISPLAY,Proton,2,-1,14
 8,Proton,2,-1,17
 9,Proton,2,-1,18
-CHANNEL -,Proton,2,-1,19
-CHANNEL +,Proton,2,-1,23
+CHANNEL-,Proton,2,-1,19
+CHANNEL+,Proton,2,-1,23
 ,Proton,2,-1,24
 ,Proton,2,-1,25
 POWER,Proton,2,-1,31

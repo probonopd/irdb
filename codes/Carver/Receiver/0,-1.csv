@@ -1,2 +1,2 @@
 functionname,protocol,device,subdevice,function
-TV MUTE,RC5,0,-1,13
+TV_MUTE,RC5,0,-1,13

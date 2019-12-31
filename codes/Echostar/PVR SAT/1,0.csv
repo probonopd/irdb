@@ -1,10 +1,10 @@
 functionname,protocol,device,subdevice,function
 PLAY,Dish_Network,1,0,3
-PAGE -,Dish_Network,1,0,7
-PAGE +,Dish_Network,1,0,15
+PAGE-,Dish_Network,1,0,7
+PAGE+,Dish_Network,1,0,15
 BACK,Dish_Network,1,0,49
 FORWARD,Dish_Network,1,0,50
 DISH,Dish_Network,1,0,52
 REPLAY,Dish_Network,1,0,54
-SKIP FORWARD,Dish_Network,1,0,55
-RECORDED EVENTS,Dish_Network,1,0,57
+SKIP_FORWARD,Dish_Network,1,0,55
+RECORDEDEVENTS,Dish_Network,1,0,57

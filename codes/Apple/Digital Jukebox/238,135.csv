@@ -2,12 +2,12 @@ functionname,protocol,device,subdevice,function
 MENU,Apple,238,135,1
 PLAY/PAUSE,Apple,238,135,2
 PLAY,Apple,238,135,2
->>,,Apple,238,135,3
+FASTFORWARD,,Apple,238,135,3
 FORWARD,Apple,238,135,3
-SKIP >>,Apple,238,135,3
+SKIP_NEXT,Apple,238,135,3
 ,<<,Apple,238,135,4
 BACK,Apple,238,135,4
-SKIP <<,Apple,238,135,4
+SKIP_PREVIOUS,Apple,238,135,4
 UP,Apple,238,135,5
 +,Apple,238,135,5
 DOWN,Apple,238,135,6

@@ -1,13 +1,13 @@
 functionname,protocol,device,subdevice,function
-down,NEC1,2,-1,1
-mute,NEC1,2,-1,2
-right,NEC1,2,-1,8
-up,NEC1,2,-1,9
-left,NEC1,2,-1,10
+DOWN,NEC1,2,-1,1
+MUTE,NEC1,2,-1,2
+RIGHT,NEC1,2,-1,8
+UP,NEC1,2,-1,9
+LEFT,NEC1,2,-1,10
 OK,NEC1,2,-1,11
-back,NEC1,2,-1,13
-vol up,NEC1,2,-1,17
-vol down,NEC1,2,-1,21
-power on off toggle,NEC1,2,-1,29
-Menu,NEC1,2,-1,30
-source,NEC1,2,-1,31
+BACK,NEC1,2,-1,13
+VOLUME+,NEC1,2,-1,17
+VOLUME-,NEC1,2,-1,21
+POWERONOFF_TOGGLE,NEC1,2,-1,29
+MENU,NEC1,2,-1,30
+SOURCE,NEC1,2,-1,31

@@ -14,11 +14,11 @@ EJECT,Grundig16-30,127,-1,13
 8,Grundig16-30,127,-1,28
 9,Grundig16-30,127,-1,29
 STOP,Grundig16-30,127,-1,42
-CHANNEL +,Grundig16-30,127,-1,71
+CHANNEL+,Grundig16-30,127,-1,71
 UP,Grundig16-30,127,-1,71
-CHANNEL -,Grundig16-30,127,-1,72
+CHANNEL-,Grundig16-30,127,-1,72
 DOWN,Grundig16-30,127,-1,72
 RIGHT,Grundig16-30,127,-1,74
 LEFT,Grundig16-30,127,-1,75
--/--,Grundig16-30,127,-1,83
+/--,Grundig16-30,127,-1,83
 RECORD,Grundig16-30,127,-1,85

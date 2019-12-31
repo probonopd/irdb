@@ -1,13 +1,13 @@
 functionname,protocol,device,subdevice,function
 VCR/TV,Emerson,40,-1,0
-FAST FORWARD >>,Emerson,40,-1,4
+FAST_FORWARD,Emerson,40,-1,4
 DISPLAY,Emerson,40,-1,6
 CHANNEL-,Emerson,40,-1,8
 PLAY,Emerson,40,-1,10
 PAUSE,Emerson,40,-1,11
-REWIND <<,Emerson,40,-1,12
+REWIND,Emerson,40,-1,12
 EXIT,Emerson,40,-1,15
-CHANNEL +,Emerson,40,-1,16
+CHANNEL+,Emerson,40,-1,16
 MENU,Emerson,40,-1,21
 RECORD,Emerson,40,-1,26
 STOP,Emerson,40,-1,28

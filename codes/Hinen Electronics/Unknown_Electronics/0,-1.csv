@@ -1,4 +1,4 @@
 functionname,protocol,device,subdevice,function
-KEY_1,NEC,0,-1,4
-KEY_2,NEC,0,-1,8
-KEY_3,NEC,0,-1,10
+1,NEC,0,-1,4
+2,NEC,0,-1,8
+3,NEC,0,-1,10

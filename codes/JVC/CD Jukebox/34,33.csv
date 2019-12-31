@@ -1,5 +1,5 @@
 functionname,protocol,device,subdevice,function
 CHARACTER,JVC-48,34,33,3
 ENTER,JVC-48,34,33,12
-TITLE INPUT,JVC-48,34,33,19
+TITLE_INPUT,JVC-48,34,33,19
 CANCEL,JVC-48,34,33,24

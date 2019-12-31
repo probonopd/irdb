@@ -1,3 +1,3 @@
 functionname,protocol,device,subdevice,function
-POWER OFF,MCE,4,15,12
-POWER ON,MCE,4,15,12
+POWER_OFF,MCE,4,15,12
+POWER_ON,MCE,4,15,12

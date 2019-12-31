@@ -1,8 +1,8 @@
 functionname,protocol,device,subdevice,function
 FM,Akai,0,-1,65
 AM,Akai,0,-1,66
-TUNING UP,Akai,0,-1,68
-TUNING DOWN,Akai,0,-1,69
+TUNING+,Akai,0,-1,68
+TUNING-,Akai,0,-1,69
 MEMO,Akai,0,-1,70
 1/9,Akai,0,-1,71
 2/10,Akai,0,-1,72

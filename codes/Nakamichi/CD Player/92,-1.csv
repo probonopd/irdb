@@ -1,5 +1,5 @@
 functionname,protocol,device,subdevice,function
 POWER,NEC1,92,-1,128
-VOLUME ^,NEC1,92,-1,130
-VOLUME V,NEC1,92,-1,131
+VOLUME+,NEC1,92,-1,130
+VOLUME-,NEC1,92,-1,131
 CD,NEC1,92,-1,197

@@ -1,5 +1,5 @@
 functionname,protocol,device,subdevice,function
 ON,??Kaseikyo-84.50,6,49,0
 4,??Kaseikyo-84.50,6,49,1
-TUNING -,??Kaseikyo-84.50,6,49,2
-CURSOR DOWN,??Kaseikyo-84.50,6,49,3
+TUNING-,??Kaseikyo-84.50,6,49,2
+DOWN,??Kaseikyo-84.50,6,49,3

@@ -1,3 +1,3 @@
 functionname,protocol,device,subdevice,function
-GEQ ON/OFF,Sony12,18,-1,44
-GEQ MODE,Sony12,18,-1,54
+GEQ_ON/OFF,Sony12,18,-1,44
+GEQ_MODE,Sony12,18,-1,54

@@ -1,41 +1,41 @@
 functionname,protocol,device,subdevice,function
-VIDEO2 VCR/TV (LVL,Emerson,40,-1,0
-VCR2 FUNCTION,Emerson,40,-1,0
-VIDEO2 >> (TUNING),Emerson,40,-1,4
-VCR2 FFWD >>,Emerson,40,-1,4
-VIDEO2 CH V (ANY V),Emerson,40,-1,8
-VCR2 ANY V,Emerson,40,-1,8
-VIDEO2 PLAY (P.CALL),Emerson,40,-1,10
-VCR2 PLAY >,Emerson,40,-1,10
-VIDEO2 PAUSE (AUTO),Emerson,40,-1,11
-VCR2 PAUSE ,,,Emerson,40,-1,11
-VIDEO2 << (TUNING),Emerson,40,-1,12
-VCR2 REW <<,Emerson,40,-1,12
-VIDEO2 CH ^ (ANY ^),Emerson,40,-1,16
-VCR2 ANY ^,Emerson,40,-1,16
-VIDEO2 REC,Emerson,40,-1,26
-VCR2 REC,Emerson,40,-1,26
-VIDEO2 STOP (BAND),Emerson,40,-1,28
-VCR2 STOP [],Emerson,40,-1,28
-VIDEO2 1,Emerson,40,-1,31
-VCR2 1,Emerson,40,-1,31
-VIDEO2 POWER,Emerson,40,-1,32
-VCR2 POWER,Emerson,40,-1,32
-VIDEO2 2,Emerson,40,-1,33
-VCR2 2,Emerson,40,-1,33
-VIDEO2 3,Emerson,40,-1,34
-VCR2 3,Emerson,40,-1,34
-VIDEO2 4,Emerson,40,-1,35
-VCR2 4,Emerson,40,-1,35
-VIDEO2 5,Emerson,40,-1,36
-VCR2 5,Emerson,40,-1,36
-VIDEO2 6,Emerson,40,-1,37
-VCR2 6,Emerson,40,-1,37
-VIDEO2 7,Emerson,40,-1,38
-VCR2 7,Emerson,40,-1,38
-VIDEO2 8,Emerson,40,-1,39
-VCR2 8,Emerson,40,-1,39
-VIDEO2 9,Emerson,40,-1,40
-VCR2 9,Emerson,40,-1,40
-VIDEO2 0,Emerson,40,-1,41
-VCR2 O,Emerson,40,-1,41
+VIDEO2_VCR/TV_(LVL,Emerson,40,-1,0
+VCR2_FUNCTION,Emerson,40,-1,0
+VIDEO2_>>_(TUNING),Emerson,40,-1,4
+VCR2_FFWD,Emerson,40,-1,4
+VIDEO2_CH_V_(ANY_V),Emerson,40,-1,8
+VCR2_ANY_V,Emerson,40,-1,8
+VIDEO2_PLAY_(P.CALL),Emerson,40,-1,10
+VCR2_PLAY,Emerson,40,-1,10
+VIDEO2_PAUSE_(AUTO),Emerson,40,-1,11
+VCR2_PAUSE,,,Emerson,40,-1,11
+VIDEO2_<<_(TUNING),Emerson,40,-1,12
+VCR2_REW_<<,Emerson,40,-1,12
+VIDEO2_CH_^_(ANY_^),Emerson,40,-1,16
+VCR2_ANY_^,Emerson,40,-1,16
+VIDEO2_REC,Emerson,40,-1,26
+VCR2_REC,Emerson,40,-1,26
+VIDEO2_STOP_(BAND),Emerson,40,-1,28
+VCR2_STOP,Emerson,40,-1,28
+VIDEO21,Emerson,40,-1,31
+VCR21,Emerson,40,-1,31
+VIDEO2_POWER,Emerson,40,-1,32
+VCR2_POWER,Emerson,40,-1,32
+VIDEO22,Emerson,40,-1,33
+VCR22,Emerson,40,-1,33
+VIDEO23,Emerson,40,-1,34
+VCR23,Emerson,40,-1,34
+VIDEO24,Emerson,40,-1,35
+VCR24,Emerson,40,-1,35
+VIDEO25,Emerson,40,-1,36
+VCR25,Emerson,40,-1,36
+VIDEO26,Emerson,40,-1,37
+VCR26,Emerson,40,-1,37
+VIDEO27,Emerson,40,-1,38
+VCR27,Emerson,40,-1,38
+VIDEO28,Emerson,40,-1,39
+VCR28,Emerson,40,-1,39
+VIDEO29,Emerson,40,-1,40
+VCR29,Emerson,40,-1,40
+VIDEO20,Emerson,40,-1,41
+VCR2_O,Emerson,40,-1,41

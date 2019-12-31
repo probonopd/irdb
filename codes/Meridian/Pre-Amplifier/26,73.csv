@@ -1,4 +1,4 @@
 functionname,protocol,device,subdevice,function
-CURSOR LF,Sony20,26,73,51
-CURSOR RT,Sony20,26,73,52
-CURSOR UP,Sony20,26,73,57
+LEFT,Sony20,26,73,51
+RIGHT,Sony20,26,73,52
+UP,Sony20,26,73,57

@@ -15,16 +15,16 @@ functionname,protocol,device,subdevice,function
 9,G.I. Cable,0,-1,9
 9,G.I. Cable{1},0,-1,9
 POWER,G.I. Cable,0,-1,10
-POWER ON/OFF,G.I. Cable,0,-1,10
+POWER_TOGGLE,G.I. Cable,0,-1,10
 CHANNEL+,G.I. Cable,0,-1,11
-CHANNEL UP,G.I. Cable{1},0,-1,11
-CHANNEL +,G.I. Cable,0,-1,11
+CHANNEL+,G.I. Cable{1},0,-1,11
+CHANNEL+,G.I. Cable,0,-1,11
 CHANNEL-,G.I. Cable,0,-1,12
-CHANNEL -,G.I. Cable,0,-1,12
+CHANNEL-,G.I. Cable,0,-1,12
 ,RC5,0,-1,12
-VOLUME +,G.I. Cable,0,-1,13
+VOLUME+,G.I. Cable,0,-1,13
 MUTE,RC5,0,-1,13
-VOLUME -,G.I. Cable,0,-1,14
+VOLUME-,G.I. Cable,0,-1,14
 MUSIC,G.I. Cable,0,-1,16
 MUSIC,G.I. Cable{1},0,-1,16
 ENTER,G.I. Cable,0,-1,16
@@ -34,7 +34,7 @@ SELECT,G.I. Cable,0,-1,17
 EXIT,G.I. Cable,0,-1,18
 EXIT,G.I. Cable{1},0,-1,18
 LAST,G.I. Cable,0,-1,19
-LAST CHANNEL,G.I. Cable{1},0,-1,19
+LAST_CHANNEL,G.I. Cable{1},0,-1,19
 FAV,G.I. Cable,0,-1,21
 LOCKOUT,G.I. Cable,0,-1,22
 MENU,G.I. Cable,0,-1,25
@@ -47,20 +47,20 @@ INFO,G.I. Cable,0,-1,51
 INFO,G.I. Cable{1},0,-1,51
 UP,G.I. Cable,0,-1,52
 UP,G.I. Cable{1},0,-1,52
-CURSOR UP,G.I. Cable,0,-1,52
+UP,G.I. Cable,0,-1,52
 DOWN,G.I. Cable,0,-1,53
 DOWN,G.I. Cable{1},0,-1,53
-CURSOR DOWN,G.I. Cable,0,-1,53
+DOWN,G.I. Cable,0,-1,53
 LEFT,G.I. Cable,0,-1,54
 LEFT,G.I. Cable{1},0,-1,54
-CURSOR LEFT,G.I. Cable,0,-1,54
+LEFT,G.I. Cable,0,-1,54
 RIGHT,G.I. Cable,0,-1,55
 RIGHT,G.I. Cable{1},0,-1,55
-CURSOR RIGHT,G.I. Cable,0,-1,55
-DAY >,G.I. Cable,0,-1,56
+RIGHT,G.I. Cable,0,-1,55
+DAY,G.I. Cable,0,-1,56
 DAY<,G.I. Cable,0,-1,57
-PAGE UP,G.I. Cable,0,-1,58
-PAGE UP,G.I. Cable{1},0,-1,58
-PAGE DOWN,G.I. Cable,0,-1,59
-PAGE DOWN,G.I. Cable{1},0,-1,59
-PAGE DN,G.I. Cable,0,-1,59
+PAGE+,G.I. Cable,0,-1,58
+PAGE+,G.I. Cable{1},0,-1,58
+PAGE-,G.I. Cable,0,-1,59
+PAGE-,G.I. Cable{1},0,-1,59
+PAGE-,G.I. Cable,0,-1,59

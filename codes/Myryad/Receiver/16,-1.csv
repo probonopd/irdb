@@ -1,5 +1,5 @@
 functionname,protocol,device,subdevice,function
 STANDBY,RC5,16,-1,12
 MUTE,RC5,16,-1,13
-VOLUME +,RC5,16,-1,16
-VOLUME -,RC5,16,-1,17
+VOLUME+,RC5,16,-1,16
+VOLUME-,RC5,16,-1,17

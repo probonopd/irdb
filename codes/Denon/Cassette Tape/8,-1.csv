@@ -1,7 +1,7 @@
 functionname,protocol,device,subdevice,function
-CD SKIP FWD >>,,Denon,8,-1,88
-CD SKIP REV ,<<,Denon,8,-1,89
-CD PLAY >,Denon,8,-1,92
-CD PAUSE ,,,Denon,8,-1,93
-CD PITCH +,Denon,8,-1,119
-CD PITCH -,Denon,8,-1,120
+CD_SKIPFWD,,Denon,8,-1,88
+CD_SKIPREV,<<,Denon,8,-1,89
+CD_PLAY,Denon,8,-1,92
+CD_PAUSE,,,Denon,8,-1,93
+CDPITCH+,Denon,8,-1,119
+CDPITCH-,Denon,8,-1,120

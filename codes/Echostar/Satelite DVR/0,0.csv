@@ -10,37 +10,37 @@ MENU,Dish_Network,0,0,11
 7,Dish_Network,0,0,12
 8,Dish_Network,0,0,13
 9,Dish_Network,0,0,14
-CURSOR ENTER,Dish_Network,0,0,16
+ENTER,Dish_Network,0,0,16
 ENTER,Dish_Network,0,0,16
 SELECT,Dish_Network,0,0,16
-CUR / SELECT,Dish_Network,0,0,16
+/SELECT,Dish_Network,0,0,16
 0,Dish_Network,0,0,17
 CANCEL,Dish_Network,0,0,18
-CANCEL - EXIT,Dish_Network,0,0,18
+CANCEL-EXIT,Dish_Network,0,0,18
 GUIDE,Dish_Network,0,0,20
-GUIDE *,Dish_Network,0,0,20
-VIEW TV,Dish_Network,0,0,22
+GUIDE_*,Dish_Network,0,0,20
+VIEW_TV,Dish_Network,0,0,22
 VIEW,Dish_Network,0,0,22
 SD/HD,Dish_Network,0,0,23
 TV/VIDEO,Dish_Network,0,0,23
-CURSOR RIGHT,Dish_Network,0,0,24
-ARROW RIGHT,Dish_Network,0,0,24
-CUR RIGHT,Dish_Network,0,0,24
-CURSOR UP,Dish_Network,0,0,26
-ARROW UP,Dish_Network,0,0,26
-CHANNEL +,Dish_Network,0,0,26
-CUR UP,Dish_Network,0,0,26
-RECALL,Dish_Network,0,0,27
-CURSOR LEFT,Dish_Network,0,0,28
-ARROW LEFT,Dish_Network,0,0,28
-CUR LEFT,Dish_Network,0,0,28
-CURSOR DOWN,Dish_Network,0,0,30
-ARROW DOWN,Dish_Network,0,0,30
-CHANNEL -,Dish_Network,0,0,30
-CUR DOWN,Dish_Network,0,0,30
+RIGHT,Dish_Network,0,0,24
+RIGHT,Dish_Network,0,0,24
+RIGHT,Dish_Network,0,0,24
+UP,Dish_Network,0,0,26
+UP,Dish_Network,0,0,26
+CHANNEL+,Dish_Network,0,0,26
+UP,Dish_Network,0,0,26
+RECORDALL,Dish_Network,0,0,27
+LEFT,Dish_Network,0,0,28
+LEFT,Dish_Network,0,0,28
+LEFT,Dish_Network,0,0,28
+DOWN,Dish_Network,0,0,30
+DOWN,Dish_Network,0,0,30
+CHANNEL-,Dish_Network,0,0,30
+DOWN,Dish_Network,0,0,30
 RECORD,Dish_Network,0,0,31
 PAUSE,Dish_Network,0,0,32
 STOP,Dish_Network,0,0,33
 *,Dish_Network,0,0,37
 #,Dish_Network,0,0,38
-DISCRETE POWER ON,Dish_Network,0,0,41
+DISCRETE_POWER_ON,Dish_Network,0,0,41

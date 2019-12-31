@@ -14,15 +14,15 @@ ENTER,Sharp,1,-1,11
 FAV,Sharp,1,-1,13
 INFO,Sharp,1,-1,14
 ALT,Sharp,1,-1,15
-CH ^,Sharp,1,-1,17
-CH +,Sharp,1,-1,17
-CH V,Sharp,1,-1,18
-CH -,Sharp,1,-1,18
+CHANNEL+,Sharp,1,-1,17
+CHANNEL+,Sharp,1,-1,17
+CHANNEL-,Sharp,1,-1,18
+CHANNEL-,Sharp,1,-1,18
 T/V,Sharp,1,-1,19
-VOL ^,Sharp,1,-1,20
-VOL +,Sharp,1,-1,20
-VOL V,Sharp,1,-1,21
-VOL -,Sharp,1,-1,21
+VOLUME+,Sharp,1,-1,20
+VOLUME+,Sharp,1,-1,20
+VOLUME-,Sharp,1,-1,21
+VOLUME-,Sharp,1,-1,21
 OFF/ON,Sharp,1,-1,22
 POWER,Sharp,1,-1,22
 MUTE,Sharp,1,-1,23
@@ -32,15 +32,15 @@ GUIDE,Sharp,1,-1,24
 NEXT,Sharp,1,-1,26
 TUNER,Sharp,1,-1,26
 MENU,Sharp,1,-1,27
-PREV CH,Sharp,1,-1,28
+PREV_CH,Sharp,1,-1,28
 SELECT,Sharp,1,-1,31
-SELECT V,Sharp,1,-1,32
-CURSOR DOWN,Sharp,1,-1,32
+SELECT_V,Sharp,1,-1,32
+DOWN,Sharp,1,-1,32
 FLASHBK,Sharp,1,-1,47
 EXIT,Sharp,1,-1,47
-SELECT ^,Sharp,1,-1,73
-CURSOR UP,Sharp,1,-1,73
-ADJ >,Sharp,1,-1,79
-CURSOR RIGHT,Sharp,1,-1,79
-ADJ <,Sharp,1,-1,80
-CURSOR LEFT,Sharp,1,-1,80
+SELECT_^,Sharp,1,-1,73
+UP,Sharp,1,-1,73
+ADJ,Sharp,1,-1,79
+RIGHT,Sharp,1,-1,79
+ADJ_<,Sharp,1,-1,80
+LEFT,Sharp,1,-1,80

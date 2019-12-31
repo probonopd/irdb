@@ -1,6 +1,6 @@
 functionname,protocol,device,subdevice,function
 INFO,Dish_Network,0,6,0
-POWER ON,Dish_Network,0,6,1
+POWER_ON,Dish_Network,0,6,1
 POWER,Dish_Network,0,6,2
 1,Dish_Network,0,6,4
 2,Dish_Network,0,6,5
@@ -12,30 +12,30 @@ MENU,Dish_Network,0,6,11
 7,Dish_Network,0,6,12
 8,Dish_Network,0,6,13
 9,Dish_Network,0,6,14
-CURSOR ENTER,Dish_Network,0,6,16
+ENTER,Dish_Network,0,6,16
 ENTER,Dish_Network,0,6,16
 SELECT,Dish_Network,0,6,16
 0,Dish_Network,0,6,17
 CANCEL,Dish_Network,0,6,18
 GUIDE,Dish_Network,0,6,20
 VIEW,Dish_Network,0,6,22
-VIEW LIVE TV,Dish_Network,0,6,22
+VIEW_LIVE_TV,Dish_Network,0,6,22
 TV/VIDEO,Dish_Network,0,6,23
-CURSOR RIGHT,Dish_Network,0,6,24
-CURSER RIGHT,Dish_Network,0,6,24
-CHANNEL +,Dish_Network,0,6,26
-CURSOR UP,Dish_Network,0,6,26
-CURSER UP,Dish_Network,0,6,26
-RECALL,Dish_Network,0,6,27
-CURSOR LEFT,Dish_Network,0,6,28
-CURSER LEFT,Dish_Network,0,6,28
-CHANNEL -,Dish_Network,0,6,30
-CURSOR DOWN,Dish_Network,0,6,30
-CURSER DOWN,Dish_Network,0,6,30
-REC,Dish_Network,0,6,31
+RIGHT,Dish_Network,0,6,24
+RIGHT,Dish_Network,0,6,24
+CHANNEL+,Dish_Network,0,6,26
+UP,Dish_Network,0,6,26
+UP,Dish_Network,0,6,26
+RECORDALL,Dish_Network,0,6,27
+LEFT,Dish_Network,0,6,28
+LEFT,Dish_Network,0,6,28
+CHANNEL-,Dish_Network,0,6,30
+DOWN,Dish_Network,0,6,30
+DOWN,Dish_Network,0,6,30
+RECORD,Dish_Network,0,6,31
 PAUSE,Dish_Network,0,6,32
 STOP,Dish_Network,0,6,33
-* FORMAT,Dish_Network,0,6,37
-# SEARCH,Dish_Network,0,6,38
+*_FORMAT,Dish_Network,0,6,37
+#_SEARCH,Dish_Network,0,6,38
 SEARCH,Dish_Network,0,6,38
-POWER OFF,Dish_Network,0,6,39
+POWER_OFF,Dish_Network,0,6,39

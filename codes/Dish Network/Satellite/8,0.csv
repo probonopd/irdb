@@ -1,3 +1,3 @@
 functionname,protocol,device,subdevice,function
-VIEW TV,Dish_Network,8,0,22
+VIEW_TV,Dish_Network,8,0,22
 VCR,Dish_Network,8,0,43

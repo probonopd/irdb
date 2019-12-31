@@ -1,3 +1,3 @@
 functionname,protocol,device,subdevice,function
-MINI-DISC STOP,Denon,6,-1,225
-MINI-DISC PLAY/PAUSE,Denon,6,-1,226
+MINI-DISC_STOP,Denon,6,-1,225
+MINI-DISC_PLAY/PAUSE,Denon,6,-1,226

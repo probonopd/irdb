@@ -9,8 +9,8 @@ functionname,protocol,device,subdevice,function
 8,Denon,6,-1,200
 9,Denon,6,-1,201
 10,Denon,6,-1,202
-MEMORY REC,Denon,6,-1,209
-SYNCHRO REC,Denon,6,-1,210
+MEMORY_REC,Denon,6,-1,209
+SYNCHRO_REC,Denon,6,-1,210
 CHARACTER,Denon,6,-1,221
 ENTER,Denon,6,-1,222
 CLEAR,Denon,6,-1,223
@@ -21,14 +21,14 @@ PAUSE,Denon,6,-1,227
 RECORD,Denon,6,-1,229
 EJECT,Denon,6,-1,230
 +10,Denon,6,-1,232
->>I,Denon,6,-1,233
+FASTFORWARDI,Denon,6,-1,233
 I<<,Denon,6,-1,234
->>,Denon,6,-1,235
-<<,Denon,6,-1,236
+FASTFORWARD,Denon,6,-1,235
+REWIND,Denon,6,-1,236
 EDIT,Denon,6,-1,239
 PROG/DIRECT,Denon,6,-1,240
-REPEAT 1/ALL,Denon,6,-1,241
-REPEAT A-B,Denon,6,-1,242
+REPEAT_1/ALL,Denon,6,-1,241
+REPEAT_A-B,Denon,6,-1,242
 RANDOM,Denon,6,-1,243
 TIME,Denon,6,-1,244
 TITLE,Denon,6,-1,245

@@ -1,52 +1,52 @@
 functionname,protocol,device,subdevice,function
-ON 0,Velleman,1,-1,0
-ON 1,Velleman,1,-1,1
-ON 2,Velleman,1,-1,2
-ON 3,Velleman,1,-1,3
-ON 4,Velleman,1,-1,4
-ON 5,Velleman,1,-1,5
-ON 6,Velleman,1,-1,6
-ON 7,Velleman,1,-1,7
-ON 8,Velleman,1,-1,8
-ON 9,Velleman,1,-1,9
-ON A,Velleman,1,-1,10
-ON B,Velleman,1,-1,11
-ON C,Velleman,1,-1,12
-ON D,Velleman,1,-1,13
-ON E,Velleman,1,-1,14
-ON F,Velleman,1,-1,15
-ON G,Velleman,1,-1,16
-WH ON,RECS80,1,-1,17
-ON H,Velleman,1,-1,17
-ON I,Velleman,1,-1,18
-ON J,Velleman,1,-1,19
-ON ELAN,Velleman,1,-1,24
-ON POWER,Velleman,1,-1,25
-ON MUTE,Velleman,1,-1,26
-ON DND,Velleman,1,-1,27
-OFF 0,Velleman,1,-1,32
-OFF 1,Velleman,1,-1,33
-OFF 2,Velleman,1,-1,34
-OFF 3,Velleman,1,-1,35
-OFF 4,Velleman,1,-1,36
-OFF 5,Velleman,1,-1,37
-OFF 6,Velleman,1,-1,38
-OFF 7,Velleman,1,-1,39
-OFF 8,Velleman,1,-1,40
-OFF 9,Velleman,1,-1,41
-OFF A,Velleman,1,-1,42
-OFF B,Velleman,1,-1,43
-OFF C,Velleman,1,-1,44
-OFF D,Velleman,1,-1,45
-OFF E,Velleman,1,-1,46
-OFF F,Velleman,1,-1,47
-OFF G,Velleman,1,-1,48
-WH OFF,RECS80,1,-1,49
+ON0,Velleman,1,-1,0
+ON1,Velleman,1,-1,1
+ON2,Velleman,1,-1,2
+ON3,Velleman,1,-1,3
+ON4,Velleman,1,-1,4
+ON5,Velleman,1,-1,5
+ON6,Velleman,1,-1,6
+ON7,Velleman,1,-1,7
+ON8,Velleman,1,-1,8
+ON9,Velleman,1,-1,9
+ON_A,Velleman,1,-1,10
+ON_B,Velleman,1,-1,11
+ON_C,Velleman,1,-1,12
+ON_D,Velleman,1,-1,13
+ON_E,Velleman,1,-1,14
+ON_F,Velleman,1,-1,15
+ON_G,Velleman,1,-1,16
+WH_ON,RECS80,1,-1,17
+ON_H,Velleman,1,-1,17
+ON_I,Velleman,1,-1,18
+ON_J,Velleman,1,-1,19
+ON_ELAN,Velleman,1,-1,24
+ON_POWER,Velleman,1,-1,25
+ON_MUTE,Velleman,1,-1,26
+ON_DND,Velleman,1,-1,27
+OFF0,Velleman,1,-1,32
+OFF1,Velleman,1,-1,33
+OFF2,Velleman,1,-1,34
+OFF3,Velleman,1,-1,35
+OFF4,Velleman,1,-1,36
+OFF5,Velleman,1,-1,37
+OFF6,Velleman,1,-1,38
+OFF7,Velleman,1,-1,39
+OFF8,Velleman,1,-1,40
+OFF9,Velleman,1,-1,41
+OFF_A,Velleman,1,-1,42
+OFF_B,Velleman,1,-1,43
+OFF_C,Velleman,1,-1,44
+OFF_D,Velleman,1,-1,45
+OFF_E,Velleman,1,-1,46
+OFF_F,Velleman,1,-1,47
+OFF_G,Velleman,1,-1,48
+WH_OFF,RECS80,1,-1,49
 ,RECS80,1,-1,49
-OFF H,Velleman,1,-1,49
-OFF I,Velleman,1,-1,50
-OFF J,Velleman,1,-1,51
-OFF ELAN,Velleman,1,-1,56
-OFF PWR,Velleman,1,-1,57
-OFF MUTE,Velleman,1,-1,58
-OFF DND,Velleman,1,-1,59
+OFF_H,Velleman,1,-1,49
+OFF_I,Velleman,1,-1,50
+OFF_J,Velleman,1,-1,51
+OFF_ELAN,Velleman,1,-1,56
+OFF_PWR,Velleman,1,-1,57
+OFF_MUTE,Velleman,1,-1,58
+OFF_DND,Velleman,1,-1,59

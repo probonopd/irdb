@@ -3,5 +3,5 @@ functionname,protocol,device,subdevice,function
 7,XMP-1,25,0,7
 9,XMP-1,25,0,9
 STANDBY,XMP-1,25,0,15
-STANDBY 2,XMP-1,25,0,15
+STANDBY2,XMP-1,25,0,15
 BLUE,XMP-1,25,0,68

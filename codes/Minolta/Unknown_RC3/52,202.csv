@@ -1,3 +1,3 @@
 functionname,protocol,device,subdevice,function
-two_sec,Gap-527-1410-32?,52,202,0
-KEY_POWER,Gap-527-1410-32?,52,202,1
+TWO_SEC,Gap-527-1410-32?,52,202,0
+POWER,Gap-527-1410-32?,52,202,1

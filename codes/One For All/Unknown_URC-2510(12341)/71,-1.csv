@@ -1,7 +1,7 @@
 functionname,protocol,device,subdevice,function
-KEY_POWER,Mitsubishi,71,-1,2
-KEY_CHANNELDOWN,Mitsubishi,71,-1,15
-KEY_CHANNELUP,Mitsubishi,71,-1,26
-KEY_VOLUMEUP,Mitsubishi,71,-1,45
-KEY_MUTE,Mitsubishi,71,-1,50
-KEY_VOLUMEDOWN,Mitsubishi,71,-1,53
+POWER,Mitsubishi,71,-1,2
+CHANNEL-,Mitsubishi,71,-1,15
+CHANNEL+,Mitsubishi,71,-1,26
+VOLUME+,Mitsubishi,71,-1,45
+MUTE,Mitsubishi,71,-1,50
+VOLUME-,Mitsubishi,71,-1,53

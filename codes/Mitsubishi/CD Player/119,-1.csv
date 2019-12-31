@@ -1,50 +1,50 @@
 functionname,protocol,device,subdevice,function
 1,Mitsubishi,119,-1,192
 9,Mitsubishi,119,-1,193
-DISC ^,Mitsubishi,119,-1,195
+DISC+,Mitsubishi,119,-1,195
 DISC,Mitsubishi,119,-1,195
 PLAY,Mitsubishi,119,-1,196
-PLAY >,Mitsubishi,119,-1,196
+PLAY,Mitsubishi,119,-1,196
 2,Mitsubishi,119,-1,200
 0,Mitsubishi,119,-1,201
-FAST FORWARD,Mitsubishi,119,-1,202
-SEARCH >>,Mitsubishi,119,-1,202
-FF >>,Mitsubishi,119,-1,202
+FAST_FORWARD,Mitsubishi,119,-1,202
+SEARCH_FORWARD,Mitsubishi,119,-1,202
+FASTFORWARD,Mitsubishi,119,-1,202
 CLEAR,Mitsubishi,119,-1,203
 CANCEL,Mitsubishi,119,-1,203
 +10,Mitsubishi,119,-1,206
 INDEX,Mitsubishi,119,-1,207
 3,Mitsubishi,119,-1,208
 REVERSE,Mitsubishi,119,-1,210
-SEARCH <<,Mitsubishi,119,-1,210
-REW <<,Mitsubishi,119,-1,210
-DISC 1,Mitsubishi,119,-1,211
+SEARCH_BACK,Mitsubishi,119,-1,210
+REWIND,Mitsubishi,119,-1,210
+DISC1,Mitsubishi,119,-1,211
 STOP,Mitsubishi,119,-1,212
-STOP [],Mitsubishi,119,-1,212
-DISC V,Mitsubishi,119,-1,214
+STOP,Mitsubishi,119,-1,212
+DISC-,Mitsubishi,119,-1,214
 REPEAT,Mitsubishi,119,-1,215
 4,Mitsubishi,119,-1,216
 DISPLAY,Mitsubishi,119,-1,219
 PAUSE,Mitsubishi,119,-1,220
-PAUSE ,,,Mitsubishi,119,-1,220
+PAUSE,,,Mitsubishi,119,-1,220
 RANDOM,Mitsubishi,119,-1,223
 5,Mitsubishi,119,-1,224
-DISC 2,Mitsubishi,119,-1,227
-SKIP >>,,Mitsubishi,119,-1,228
-FS (FWD SRCH) >>,,Mitsubishi,119,-1,228
+DISC2,Mitsubishi,119,-1,227
+SKIP_NEXT,,Mitsubishi,119,-1,228
+FS_(FWD_SRCH),,Mitsubishi,119,-1,228
 6,Mitsubishi,119,-1,232
-DISC 3,Mitsubishi,119,-1,235
-SKIP ,<<,Mitsubishi,119,-1,236
-RS (REV SRCH) ,<<,Mitsubishi,119,-1,236
-INTRO SCAN,Mitsubishi,119,-1,238
+DISC3,Mitsubishi,119,-1,235
+SKIP,<<,Mitsubishi,119,-1,236
+RS_(REV_SRCH),<<,Mitsubishi,119,-1,236
+INTRO_SCAN,Mitsubishi,119,-1,238
 INTRO,Mitsubishi,119,-1,238
 7,Mitsubishi,119,-1,240
-DISC 4,Mitsubishi,119,-1,243
-ADJUST ^,Mitsubishi,119,-1,244
+DISC4,Mitsubishi,119,-1,243
+ADJUST_^,Mitsubishi,119,-1,244
 ENTER,Mitsubishi,119,-1,245
 OPEN/CLOSE,Mitsubishi,119,-1,246
 8,Mitsubishi,119,-1,248
-DISC 5,Mitsubishi,119,-1,251
-ADJUST V,Mitsubishi,119,-1,252
+DISC5,Mitsubishi,119,-1,251
+ADJUST_V,Mitsubishi,119,-1,252
 MEMORY,Mitsubishi,119,-1,254
 MENU,Mitsubishi,119,-1,254

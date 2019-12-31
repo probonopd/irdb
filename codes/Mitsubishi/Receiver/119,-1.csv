@@ -1,148 +1,148 @@
 functionname,protocol,device,subdevice,function
-AUDIO 1,Mitsubishi,119,-1,0
-1 (CAM),Mitsubishi,119,-1,0
-AUDIO 9,Mitsubishi,119,-1,1
-9 (CD),Mitsubishi,119,-1,1
-AUDIO POWER,Mitsubishi,119,-1,2
+AUDIO1,Mitsubishi,119,-1,0
+1_(CAM),Mitsubishi,119,-1,0
+AUDIO9,Mitsubishi,119,-1,1
+9_(CD),Mitsubishi,119,-1,1
+AUDIO_POWER,Mitsubishi,119,-1,2
 POWER,Mitsubishi,119,-1,2
-AUDIO 2,Mitsubishi,119,-1,8
-2 (DVD),Mitsubishi,119,-1,8
-AUDIO 0,Mitsubishi,119,-1,9
+AUDIO2,Mitsubishi,119,-1,8
+2_(DVD),Mitsubishi,119,-1,8
+AUDIO0,Mitsubishi,119,-1,9
 0,Mitsubishi,119,-1,9
-AUDIO SCAN ^,Mitsubishi,119,-1,10
-VCRA CH ^ (SCAN ^),Mitsubishi,119,-1,10
-PRESET SCAN (INTRO),Mitsubishi,119,-1,10
-AUDIO CANCEL,Mitsubishi,119,-1,11
-AUDIO 3,Mitsubishi,119,-1,16
-3 (TV),Mitsubishi,119,-1,16
-AUDIO SCAN V,Mitsubishi,119,-1,18
-VCRA CH V (SCAN V),Mitsubishi,119,-1,18
-AUDIO 4,Mitsubishi,119,-1,24
-4 (VCR),Mitsubishi,119,-1,24
-AUDIO INPUT V,Mitsubishi,119,-1,26
-VCRA INPUT V,Mitsubishi,119,-1,26
-AUDIO 5,Mitsubishi,119,-1,32
-5 (TAPE1),Mitsubishi,119,-1,32
-VOLUME ^,Mitsubishi,119,-1,34
-VOL ^,Mitsubishi,119,-1,34
-AUDIO DISPLAY,Mitsubishi,119,-1,39
-AUDIO 6,Mitsubishi,119,-1,40
-6 (TAPE2),Mitsubishi,119,-1,40
-VOLUME V,Mitsubishi,119,-1,42
-VOL V,Mitsubishi,119,-1,42
-AUDIO SLOW,Mitsubishi,119,-1,43
-SUR (PAUSE),Mitsubishi,119,-1,43
-AUDIO 7,Mitsubishi,119,-1,48
-7 (TUNER),Mitsubishi,119,-1,48
+AUDIO_SCAN_^,Mitsubishi,119,-1,10
+VCRA_CH_^_(SCAN_^),Mitsubishi,119,-1,10
+PRESET_SCAN_(INTRO),Mitsubishi,119,-1,10
+AUDIO_CANCEL,Mitsubishi,119,-1,11
+AUDIO3,Mitsubishi,119,-1,16
+3_(TV),Mitsubishi,119,-1,16
+AUDIO_SCAN_V,Mitsubishi,119,-1,18
+VCRA_CH_V_(SCAN_V),Mitsubishi,119,-1,18
+AUDIO4,Mitsubishi,119,-1,24
+4_(VCR),Mitsubishi,119,-1,24
+AUDIO_INPUT_V,Mitsubishi,119,-1,26
+VCRA_INPUT_V,Mitsubishi,119,-1,26
+AUDIO5,Mitsubishi,119,-1,32
+5_(TAPE1),Mitsubishi,119,-1,32
+VOLUME+,Mitsubishi,119,-1,34
+VOLUME+,Mitsubishi,119,-1,34
+AUDIO_DISPLAY,Mitsubishi,119,-1,39
+AUDIO6,Mitsubishi,119,-1,40
+6_(TAPE2),Mitsubishi,119,-1,40
+VOLUME-,Mitsubishi,119,-1,42
+VOLUME-,Mitsubishi,119,-1,42
+AUDIO_SLOW,Mitsubishi,119,-1,43
+SUR_(PAUSE),Mitsubishi,119,-1,43
+AUDIO7,Mitsubishi,119,-1,48
+7_(TUNER),Mitsubishi,119,-1,48
 MUTE,Mitsubishi,119,-1,50
-AUDIO VOL ^,Mitsubishi,119,-1,51
-AUDIO FS/+,Mitsubishi,119,-1,51
-REAR + (PLAY),Mitsubishi,119,-1,51
-AUDIO ENTER,Mitsubishi,119,-1,53
-AUDIO 8,Mitsubishi,119,-1,56
-8 (AUX),Mitsubishi,119,-1,56
-AUDIO INPUT ^,Mitsubishi,119,-1,58
-VCRA INPUT ^,Mitsubishi,119,-1,58
-AUDIO VOL V,Mitsubishi,119,-1,59
-AUDIO RS/-,Mitsubishi,119,-1,59
-REAR - (STOP),Mitsubishi,119,-1,59
-AUDIO B,Mitsubishi,119,-1,63
-AUDIO ADJUST ^,Mitsubishi,119,-1,65
-CH ^,Mitsubishi,119,-1,65
-VCR B,Mitsubishi,119,-1,67
-VCR B INPUT,Mitsubishi,119,-1,67
-VCR A,Mitsubishi,119,-1,68
-VCR A INPUT,Mitsubishi,119,-1,68
+AUDIO_VOL_^,Mitsubishi,119,-1,51
+AUDIO_FS/+,Mitsubishi,119,-1,51
+REAR+(PLAY),Mitsubishi,119,-1,51
+AUDIO_ENTER,Mitsubishi,119,-1,53
+AUDIO8,Mitsubishi,119,-1,56
+8_(AUX),Mitsubishi,119,-1,56
+AUDIO_INPUT_^,Mitsubishi,119,-1,58
+VCRA_INPUT_^,Mitsubishi,119,-1,58
+AUDIO_VOL_V,Mitsubishi,119,-1,59
+AUDIO_RS/-,Mitsubishi,119,-1,59
+REAR-(STOP),Mitsubishi,119,-1,59
+AUDIO_B,Mitsubishi,119,-1,63
+AUDIO_ADJUST_^,Mitsubishi,119,-1,65
+CHANNEL+,Mitsubishi,119,-1,65
+VCR_B,Mitsubishi,119,-1,67
+VCR_B_INPUT,Mitsubishi,119,-1,67
+VCR_A,Mitsubishi,119,-1,68
+VCR_A_INPUT,Mitsubishi,119,-1,68
 TV,Mitsubishi,119,-1,69
-TV INPUT,Mitsubishi,119,-1,69
+TV_INPUT,Mitsubishi,119,-1,69
 CD,Mitsubishi,119,-1,70
-CD INPUT,Mitsubishi,119,-1,70
-AUDIO ADJUST V,Mitsubishi,119,-1,73
-CH V,Mitsubishi,119,-1,73
+CD_INPUT,Mitsubishi,119,-1,70
+AUDIO_ADJUST_V,Mitsubishi,119,-1,73
+CHANNEL-,Mitsubishi,119,-1,73
 PHONO,Mitsubishi,119,-1,75
-PHONO INPUT,Mitsubishi,119,-1,75
+PHONO_INPUT,Mitsubishi,119,-1,75
 FM/AM,Mitsubishi,119,-1,76
 TAPE1/2,Mitsubishi,119,-1,77
-TAPE 1/2 INPUT,Mitsubishi,119,-1,77
+TAPE_1/2_INPUT,Mitsubishi,119,-1,77
 AUX,Mitsubishi,119,-1,78
-AUX INPUT,Mitsubishi,119,-1,78
-AUDIO AUDIO ^,Mitsubishi,119,-1,80
-AUDIO MENU,Mitsubishi,119,-1,82
+AUX_INPUT,Mitsubishi,119,-1,78
+AUDIO_AUDIO_^,Mitsubishi,119,-1,80
+AUDIO_MENU,Mitsubishi,119,-1,82
 TEST,Mitsubishi,119,-1,86
-AUDIO AUDIO V,Mitsubishi,119,-1,88
+AUDIO_AUDIO_V,Mitsubishi,119,-1,88
 CENTER,Mitsubishi,119,-1,92
-CENTER + (FF),Mitsubishi,119,-1,117
-DELAY (REC),Mitsubishi,119,-1,123
-CENTER - (REW),Mitsubishi,119,-1,125
-TAPE1 1,Mitsubishi,119,-1,128
-TAPE1 9,Mitsubishi,119,-1,129
-TAPE1 MENU,Mitsubishi,119,-1,130
-TAPE1 PLAY >,Mitsubishi,119,-1,132
-TAPE2 PLAY >,Mitsubishi,119,-1,133
-TAPE1 VOL ^,Mitsubishi,119,-1,134
-TAPE1 FS/+,Mitsubishi,119,-1,134
-TAPE2 VOL ^,Mitsubishi,119,-1,135
-TAPE2 FS/+,Mitsubishi,119,-1,135
-TAPE1 2,Mitsubishi,119,-1,136
-TAPE1 0,Mitsubishi,119,-1,137
-TAPE1 ENTER,Mitsubishi,119,-1,138
-TAPE1 REC,Mitsubishi,119,-1,140
-TAPE1 VOL V,Mitsubishi,119,-1,142
-TAPE1 RS/-,Mitsubishi,119,-1,142
-TAPE2 VOL V,Mitsubishi,119,-1,143
-TAPE2 RS/-,Mitsubishi,119,-1,143
-TAPE1 3,Mitsubishi,119,-1,144
-TAPE1 CANCEL,Mitsubishi,119,-1,146
-TAPE1 STOP [],Mitsubishi,119,-1,148
-TAPE2 STOP [],Mitsubishi,119,-1,149
-TAPE1 REPEAT,Mitsubishi,119,-1,151
-TAPE1 4,Mitsubishi,119,-1,152
-TAPE1 PAUSE ,,,Mitsubishi,119,-1,156
-TAPE2 PAUSE ,,,Mitsubishi,119,-1,157
-TAPE1 5,Mitsubishi,119,-1,160
-TAPE1 AUDIO ^,Mitsubishi,119,-1,162
-TAPE1 FF >>,Mitsubishi,119,-1,164
-TAPE2 FF >>,Mitsubishi,119,-1,165
-TAPE1 DISPLAY,Mitsubishi,119,-1,167
-TAPE1 6,Mitsubishi,119,-1,168
-TAPE1 AUDIO V,Mitsubishi,119,-1,170
-TAPE1 REW <<,Mitsubishi,119,-1,172
-TAPE2 REW <<,Mitsubishi,119,-1,173
-TAPE1 INTRO,Mitsubishi,119,-1,174
-TAPE2 INTRO,Mitsubishi,119,-1,175
-TAPE1 7,Mitsubishi,119,-1,176
-TAPE1 ADJUST ^,Mitsubishi,119,-1,178
-TAPE1 R.PLAY <,Mitsubishi,119,-1,180
-TAPE1 PLAY R. <,Mitsubishi,119,-1,180
-TAPE2 R.PLAY <,Mitsubishi,119,-1,181
-TAPE2 PLAY R. <,Mitsubishi,119,-1,181
-TAPE1 8,Mitsubishi,119,-1,184
-TAPE1 ADJUST V,Mitsubishi,119,-1,186
-TAPE1 B,Mitsubishi,119,-1,191
-CD 1,Mitsubishi,119,-1,192
-CD 9,Mitsubishi,119,-1,193
-CD PLAY >,Mitsubishi,119,-1,196
-CD A,Mitsubishi,119,-1,199
-CD 2,Mitsubishi,119,-1,200
-CD 0,Mitsubishi,119,-1,201
-CD FF >>,Mitsubishi,119,-1,202
-CD CANCEL,Mitsubishi,119,-1,203
-CD 3,Mitsubishi,119,-1,208
-CD REW <<,Mitsubishi,119,-1,210
-CD STOP [],Mitsubishi,119,-1,212
-CD REPEAT,Mitsubishi,119,-1,215
-CD 4,Mitsubishi,119,-1,216
-CD DISPLAY,Mitsubishi,119,-1,219
-CD PAUSE ,,,Mitsubishi,119,-1,220
-CD 5,Mitsubishi,119,-1,224
-CD FS/+,Mitsubishi,119,-1,228
-CD B,Mitsubishi,119,-1,230
-CD 6,Mitsubishi,119,-1,232
-CD RS/-,Mitsubishi,119,-1,236
-CD INTRO,Mitsubishi,119,-1,238
-CD 7,Mitsubishi,119,-1,240
-CD ADJUST ^,Mitsubishi,119,-1,244
-CD ENTER,Mitsubishi,119,-1,245
-CD 8,Mitsubishi,119,-1,248
-CD ADJUST V,Mitsubishi,119,-1,252
-CD MENU,Mitsubishi,119,-1,254
+CENTER+(FF),Mitsubishi,119,-1,117
+DELAY_(REC),Mitsubishi,119,-1,123
+CENTER-(REW),Mitsubishi,119,-1,125
+TAPE11,Mitsubishi,119,-1,128
+TAPE19,Mitsubishi,119,-1,129
+TAPE1_MENU,Mitsubishi,119,-1,130
+TAPE1_PLAY,Mitsubishi,119,-1,132
+TAPE2_PLAY,Mitsubishi,119,-1,133
+TAPE1_VOL_^,Mitsubishi,119,-1,134
+TAPE1_FS/+,Mitsubishi,119,-1,134
+TAPE2_VOL_^,Mitsubishi,119,-1,135
+TAPE2_FS/+,Mitsubishi,119,-1,135
+TAPE12,Mitsubishi,119,-1,136
+TAPE10,Mitsubishi,119,-1,137
+TAPE1_ENTER,Mitsubishi,119,-1,138
+TAPE1_REC,Mitsubishi,119,-1,140
+TAPE1_VOL_V,Mitsubishi,119,-1,142
+TAPE1_RS/-,Mitsubishi,119,-1,142
+TAPE2_VOL_V,Mitsubishi,119,-1,143
+TAPE2_RS/-,Mitsubishi,119,-1,143
+TAPE13,Mitsubishi,119,-1,144
+TAPE1_CANCEL,Mitsubishi,119,-1,146
+TAPE1_STOP,Mitsubishi,119,-1,148
+TAPE2_STOP,Mitsubishi,119,-1,149
+TAPE1_REPEAT,Mitsubishi,119,-1,151
+TAPE14,Mitsubishi,119,-1,152
+TAPE1_PAUSE,,,Mitsubishi,119,-1,156
+TAPE2_PAUSE,,,Mitsubishi,119,-1,157
+TAPE15,Mitsubishi,119,-1,160
+TAPE1_AUDIO_^,Mitsubishi,119,-1,162
+TAPE1_FF,Mitsubishi,119,-1,164
+TAPE2_FF,Mitsubishi,119,-1,165
+TAPE1_DISPLAY,Mitsubishi,119,-1,167
+TAPE16,Mitsubishi,119,-1,168
+TAPE1_AUDIO_V,Mitsubishi,119,-1,170
+TAPE1_REW_<<,Mitsubishi,119,-1,172
+TAPE2_REW_<<,Mitsubishi,119,-1,173
+TAPE1_INTRO,Mitsubishi,119,-1,174
+TAPE2_INTRO,Mitsubishi,119,-1,175
+TAPE17,Mitsubishi,119,-1,176
+TAPE1_ADJUST_^,Mitsubishi,119,-1,178
+TAPE1_R.PLAY_<,Mitsubishi,119,-1,180
+TAPE1_PLAY_R._<,Mitsubishi,119,-1,180
+TAPE2_R.PLAY_<,Mitsubishi,119,-1,181
+TAPE2_PLAY_R._<,Mitsubishi,119,-1,181
+TAPE18,Mitsubishi,119,-1,184
+TAPE1_ADJUST_V,Mitsubishi,119,-1,186
+TAPE1_B,Mitsubishi,119,-1,191
+CD1,Mitsubishi,119,-1,192
+CD9,Mitsubishi,119,-1,193
+CD_PLAY,Mitsubishi,119,-1,196
+CD_A,Mitsubishi,119,-1,199
+CD2,Mitsubishi,119,-1,200
+CD0,Mitsubishi,119,-1,201
+CDFF+,Mitsubishi,119,-1,202
+CD_CANCEL,Mitsubishi,119,-1,203
+CD3,Mitsubishi,119,-1,208
+CDREW-,Mitsubishi,119,-1,210
+CD_STOP,Mitsubishi,119,-1,212
+CD_REPEAT,Mitsubishi,119,-1,215
+CD4,Mitsubishi,119,-1,216
+CD_DISPLAY,Mitsubishi,119,-1,219
+CD_PAUSE,,,Mitsubishi,119,-1,220
+CD5,Mitsubishi,119,-1,224
+CDFS/+,Mitsubishi,119,-1,228
+CD_B,Mitsubishi,119,-1,230
+CD6,Mitsubishi,119,-1,232
+CDRS/-,Mitsubishi,119,-1,236
+CD_INTRO,Mitsubishi,119,-1,238
+CD7,Mitsubishi,119,-1,240
+CDADJUST+,Mitsubishi,119,-1,244
+CD_ENTER,Mitsubishi,119,-1,245
+CD8,Mitsubishi,119,-1,248
+CDADJUST-,Mitsubishi,119,-1,252
+CD_MENU,Mitsubishi,119,-1,254

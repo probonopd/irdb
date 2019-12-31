@@ -1,3 +1,3 @@
 functionname,protocol,device,subdevice,function
-FM/AM 10/0,RC5,17,-1,0
+FM/AM_10/0,RC5,17,-1,0
 FM/AM,RC5,17,-1,63

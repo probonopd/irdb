@@ -5,18 +5,18 @@ MUTE,Barco,0,-1,6
 TEST,Barco,0,-1,9
 STEREO,Barco,0,-1,10
 HY-SON,Barco,0,-1,11
-VIDEO A,Barco,0,-1,16
-VIDEO B,Barco,0,-1,17
+VIDEO_A,Barco,0,-1,16
+VIDEO_B,Barco,0,-1,17
 RGB,Barco,0,-1,18
-ENHANCE +,Barco,0,-1,36
-ENHANCE -,Barco,0,-1,37
-TINT +,Barco,0,-1,40
-TINT -,Barco,0,-1,41
-BRIGHTNESS +,Barco,0,-1,42
-BRIGHTNESS -,Barco,0,-1,43
-COLOR +,Barco,0,-1,44
-COLOR -,Barco,0,-1,45
-VOL +,Barco,0,-1,46
-VOL -,Barco,0,-1,47
-CONTRAST +,Barco,0,-1,48
-CONTRAST -,Barco,0,-1,49
+ENHANCE+,Barco,0,-1,36
+ENHANCE-,Barco,0,-1,37
+TINT+,Barco,0,-1,40
+TINT-,Barco,0,-1,41
+BRIGHTNESS+,Barco,0,-1,42
+BRIGHTNESS-,Barco,0,-1,43
+COLOR+,Barco,0,-1,44
+COLOR-,Barco,0,-1,45
+VOLUME+,Barco,0,-1,46
+VOLUME-,Barco,0,-1,47
+CONTRAST+,Barco,0,-1,48
+CONTRAST-,Barco,0,-1,49

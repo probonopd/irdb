@@ -1,5 +1,5 @@
 functionname,protocol,device,subdevice,function
-ALL OFF,??Kaseikyo-84.50,6,33,0
+ALL_OFF,??Kaseikyo-84.50,6,33,0
 3,??Kaseikyo-84.50,6,33,1
-TUNING +,??Kaseikyo-84.50,6,33,2
-CURSOR RIGHT,??Kaseikyo-84.50,6,33,3
+TUNING+,??Kaseikyo-84.50,6,33,2
+RIGHT,??Kaseikyo-84.50,6,33,3

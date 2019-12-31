@@ -8,6 +8,6 @@ functionname,protocol,device,subdevice,function
 7,RC5,7,-1,7
 8,RC5,7,-1,8
 9,RC5,7,-1,9
-PLAY > (ENHANCE),RC5,7,-1,32
-STOP [] (PROCESSOR),RC5,7,-1,33
+PLAY_>_(ENHANCE),RC5,7,-1,32
+STOP_[]_(PROCESSOR),RC5,7,-1,33
 ON/OFF,RC5,7,-1,44

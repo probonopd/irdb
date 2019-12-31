@@ -11,5 +11,5 @@ VCR-2,Denon,2,-1,206
 TAPE-1,Denon,2,-1,210
 DAT/TAPE-2,Denon,2,-1,211
 MUTING,Denon,2,-1,240
-MASTER ^,Denon,2,-1,241
-MASTER V,Denon,2,-1,242
+MASTER_^,Denon,2,-1,241
+MASTER_V,Denon,2,-1,242

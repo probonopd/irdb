@@ -1,5 +1,5 @@
 functionname,protocol,device,subdevice,function
-VCR PLUS,Emerson,44,-1,17
-TAPE SPEED,Emerson,44,-1,59
+VCR_PLUS,Emerson,44,-1,17
+TAPE_SPEED,Emerson,44,-1,59
 100/ENT,Emerson,44,-1,61
-VCR 100/ENT,Emerson,44,-1,61
+VCR_100/ENT,Emerson,44,-1,61

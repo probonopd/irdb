@@ -1,3 +1,3 @@
 functionname,protocol,device,subdevice,function
-VOLUME ^,NECx1,7,7,7
-VOLUME V,NECx1,7,7,11
+VOLUME+,NECx1,7,7,7
+VOLUME-,NECx1,7,7,11

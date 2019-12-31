@@ -16,18 +16,18 @@ STOP,Proton,21,-1,13
 PAUSE,Proton,21,-1,14
 PLAY,Proton,21,-1,14
 MENU,Proton,21,-1,17
-REC,Proton,21,-1,18
-SEARCH >>,Proton,21,-1,19
-SKIP >>,Proton,21,-1,19
-SEARCH <<,Proton,21,-1,20
-SKIP <<,Proton,21,-1,20
+RECORD,Proton,21,-1,18
+SEARCH_FORWARD,Proton,21,-1,19
+SKIP_NEXT,Proton,21,-1,19
+SEARCH_BACK,Proton,21,-1,20
+SKIP_PREVIOUS,Proton,21,-1,20
 POWER,Proton,21,-1,21
 TV/VCR,Proton,21,-1,22
-CURSER UP,Proton,21,-1,23
-CURSER DOWN,Proton,21,-1,24
-CURSER RIGHT,Proton,21,-1,25
-CURSER LEFT,Proton,21,-1,26
-ANGLE/DIGEST SPEED,Proton,21,-1,27
+UP,Proton,21,-1,23
+DOWN,Proton,21,-1,24
+RIGHT,Proton,21,-1,25
+LEFT,Proton,21,-1,26
+ANGLE/DIGEST_SPEED,Proton,21,-1,27
 SEARCH,Proton,21,-1,29
 OPEN/CLOSE,Proton,21,-1,30
 DISPLAY,Proton,21,-1,31
@@ -39,6 +39,6 @@ VCR,Proton,21,-1,38
 DVD,Proton,21,-1,39
 REPEAT,Proton,21,-1,41
 PROGRAM,Proton,21,-1,44
-AUDIO MODE,Proton,21,-1,55
+AUDIO_MODE,Proton,21,-1,55
 A-B,Proton,21,-1,60
-SIDE A/B,Proton,21,-1,60
+SIDE_A/B,Proton,21,-1,60

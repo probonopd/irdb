@@ -1,40 +1,40 @@
 functionname,protocol,device,subdevice,function
-TV 1,Sony12,1,-1,0
-TV 2,Sony12,1,-1,1
-TV 3,Sony12,1,-1,2
-TV 4,Sony12,1,-1,3
-VCR1 STOP [],Akai,1,-1,3
-TV 5,Sony12,1,-1,4
-TV 6,Sony12,1,-1,5
-VCR1 POWER,Akai,1,-1,5
-TV 7,Sony12,1,-1,6
-VCR1 FFWD >>,Akai,1,-1,6
-TV 8,Sony12,1,-1,7
-VCR1 REW <<,Akai,1,-1,7
-TV 9,Sony12,1,-1,8
-TV 0,Sony12,1,-1,9
-TV +10,Sony12,1,-1,10
-TV ENTER,Sony12,1,-1,11
-VCR1 PLAY >,Akai,1,-1,12
-VCR1 PAUSE ,,,Akai,1,-1,13
-TV CH ^ (ANY ^),Sony12,1,-1,16
-TV CH V (ANY V),Sony12,1,-1,17
-TV VOL ^ (P.CALL >),Sony12,1,-1,18
-TV VOL V (P.CALL <),Sony12,1,-1,19
-VCR1 FUNCTION,Akai,1,-1,19
-TV MUTE (BAND),Sony12,1,-1,20
-TV POWER,Sony12,1,-1,21
-VCR1 ANY V,Akai,1,-1,24
-VCR1 ANY ^,Akai,1,-1,25
-TV VCR/TV (LVL AUD),Sony12,1,-1,37
-VCR1 0,Akai,1,-1,79
-VCR1 1,Akai,1,-1,80
-VCR1 2,Akai,1,-1,81
-VCR1 3,Akai,1,-1,82
-VCR1 4,Akai,1,-1,83
-VCR1 5,Akai,1,-1,84
-VCR1 6,Akai,1,-1,85
-VCR1 7,Akai,1,-1,86
-VCR1 8,Akai,1,-1,87
-VCR1 9,Akai,1,-1,88
-VCR1 REC,Akai,1,-1,108
+TV1,Sony12,1,-1,0
+TV2,Sony12,1,-1,1
+TV3,Sony12,1,-1,2
+TV4,Sony12,1,-1,3
+VCR1_STOP,Akai,1,-1,3
+TV5,Sony12,1,-1,4
+TV6,Sony12,1,-1,5
+VCR1_POWER,Akai,1,-1,5
+TV7,Sony12,1,-1,6
+VCR1_FFWD,Akai,1,-1,6
+TV8,Sony12,1,-1,7
+VCR1_REW_<<,Akai,1,-1,7
+TV9,Sony12,1,-1,8
+TV0,Sony12,1,-1,9
+TV_+10,Sony12,1,-1,10
+TV_ENTER,Sony12,1,-1,11
+VCR1_PLAY,Akai,1,-1,12
+VCR1_PAUSE,,,Akai,1,-1,13
+TV_CHANNEL^(ANY^),Sony12,1,-1,16
+TV_CHANNELV(ANYV),Sony12,1,-1,17
+TV_VOL_^_(P.CALL_>),Sony12,1,-1,18
+TV_VOL_V_(P.CALL_<),Sony12,1,-1,19
+VCR1_FUNCTION,Akai,1,-1,19
+TV_MUTE_(BAND),Sony12,1,-1,20
+TV_POWER,Sony12,1,-1,21
+VCR1_ANY_V,Akai,1,-1,24
+VCR1_ANY_^,Akai,1,-1,25
+TV_VCR/TV_(LVL_AUD),Sony12,1,-1,37
+VCR10,Akai,1,-1,79
+VCR11,Akai,1,-1,80
+VCR12,Akai,1,-1,81
+VCR13,Akai,1,-1,82
+VCR14,Akai,1,-1,83
+VCR15,Akai,1,-1,84
+VCR16,Akai,1,-1,85
+VCR17,Akai,1,-1,86
+VCR18,Akai,1,-1,87
+VCR19,Akai,1,-1,88
+VCR1_REC,Akai,1,-1,108

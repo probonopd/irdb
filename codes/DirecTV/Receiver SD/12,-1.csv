@@ -8,10 +8,10 @@ functionname,protocol,device,subdevice,function
 7,DirecTV,12,-1,7
 8,DirecTV,12,-1,8
 9,DirecTV,12,-1,9
-CH +,DirecTV,12,-1,13
-PAGE UP,DirecTV,12,-1,13
-CH -,DirecTV,12,-1,14
-PAGE DOWN,DirecTV,12,-1,14
+CHANNEL+,DirecTV,12,-1,13
+PAGE+,DirecTV,12,-1,13
+CHANNEL-,DirecTV,12,-1,14
+PAGE-,DirecTV,12,-1,14
 PREVIOUS,DirecTV,12,-1,15
 POWER,DirecTV,12,-1,16
 0,DirecTV,12,-1,17
@@ -32,11 +32,11 @@ INFO,DirecTV,12,-1,46
 PLAY,DirecTV,12,-1,48
 SQUARE,DirecTV,12,-1,49
 PAUSE,DirecTV,12,-1,50
-<<,DirecTV,12,-1,51
->>,DirecTV,12,-1,52
+REWIND,DirecTV,12,-1,51
+FASTFORWARD,DirecTV,12,-1,52
 R,DirecTV,12,-1,53
-ARROW AROUND TO RT,DirecTV,12,-1,54
-ARROW AROUND TO LEFT,DirecTV,12,-1,55
+AROUNDTORIGHT,DirecTV,12,-1,54
+AROUNDTOLEFT,DirecTV,12,-1,55
 RED,DirecTV,12,-1,65
 YELLOW,DirecTV,12,-1,66
 GREEN,DirecTV,12,-1,67

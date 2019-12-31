@@ -1,7 +1,7 @@
 functionname,protocol,device,subdevice,function
-ZONE 1,ScAtl-6,26,-1,8
-ZONE 2,ScAtl-6,26,-1,9
-ZONE 3,ScAtl-6,26,-1,10
+ZONE1,ScAtl-6,26,-1,8
+ZONE2,ScAtl-6,26,-1,9
+ZONE3,ScAtl-6,26,-1,10
 PRESET,ScAtl-6,26,-1,15
 1,ScAtl-6,26,-1,16
 2,ScAtl-6,26,-1,17
@@ -14,8 +14,8 @@ PRESET,ScAtl-6,26,-1,15
 9,ScAtl-6,26,-1,24
 0,ScAtl-6,26,-1,25
 POWER,ScAtl-6,26,-1,28
-CURSOR UP,ScAtl-6,26,-1,29
-CURSOR DOWN,ScAtl-6,26,-1,30
-CURSOR LEFT,ScAtl-6,26,-1,33
-CURSOR RIGHT,ScAtl-6,26,-1,34
-CURSOR SELECT,ScAtl-6,26,-1,35
+UP,ScAtl-6,26,-1,29
+DOWN,ScAtl-6,26,-1,30
+LEFT,ScAtl-6,26,-1,33
+RIGHT,ScAtl-6,26,-1,34
+SELECT,ScAtl-6,26,-1,35

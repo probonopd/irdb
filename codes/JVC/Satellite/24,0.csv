@@ -6,7 +6,7 @@ CANCEL,Dish_Network,24,0,18
 GUIDE,Dish_Network,24,0,20
 MUTE,Dish_Network,24,0,21
 RIGHT,Dish_Network,24,0,24
-RECALL,Dish_Network,24,0,27
+RECORDALL,Dish_Network,24,0,27
 LEFT,Dish_Network,24,0,28
 DOWN,Dish_Network,24,0,30
 RECORD,Dish_Network,24,0,31

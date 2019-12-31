@@ -9,28 +9,28 @@ functionname,protocol,device,subdevice,function
 7,Pioneer,168,-1,7
 8,Pioneer,168,-1,8
 9,Pioneer,168,-1,9
-AUDIO DIGITAL/ANALOG,Pioneer,168,-1,12
+AUDIO_DIGITAL/ANALOG,Pioneer,168,-1,12
 CX,Pioneer,168,-1,14
-SRCH FWD >> (FF),Pioneer,168,-1,16
-SRCH REV << (FR),Pioneer,168,-1,17
-CHPT/FT TRACK/TIME,Pioneer,168,-1,19
+SRCH_FWD_>>_(FF),Pioneer,168,-1,16
+SRCH_REV_<<_(FR),Pioneer,168,-1,17
+CHPT/FT_TRACK/TIME,Pioneer,168,-1,19
 STOP/OPEN,Pioneer,168,-1,22
-PLAY > (PGM CORRECT),Pioneer,168,-1,23
-PAUSE ,,,Pioneer,168,-1,24
+PLAY_>_(PGM_CORRECT),Pioneer,168,-1,23
+PAUSE,,,Pioneer,168,-1,24
 POWER,Pioneer,168,-1,28
-AUDIO MONITOR,Pioneer,168,-1,30
+AUDIO_MONITOR,Pioneer,168,-1,30
 10+,Pioneer,168,-1,31
 SEARCH,Pioneer,168,-1,66
 DISPLAY,Pioneer,168,-1,67
 CLEAR,Pioneer,168,-1,69
-MULTI SPEED -,Pioneer,168,-1,70
-MULTI SPEED +,Pioneer,168,-1,71
+MULTI_SPEED-,Pioneer,168,-1,70
+MULTI_SPEED+,Pioneer,168,-1,71
 PROGRAM,Pioneer,168,-1,76
-DISC A,Pioneer,168,-1,77
-DISC B,Pioneer,168,-1,78
-STILL STEP <,,,Pioneer,168,-1,80
-SKIP FWD>>, (UP),Pioneer,168,-1,82
-SKIP REV,<< (DOWN),Pioneer,168,-1,83
-STILL STEP ,,>,Pioneer,168,-1,84
-MULTI SPEED <,Pioneer,168,-1,85
-MULTI SPEED >,Pioneer,168,-1,88
+DISC_A,Pioneer,168,-1,77
+DISC_B,Pioneer,168,-1,78
+STILL_STEP_<,,,Pioneer,168,-1,80
+SKIPFWD_NEXT, (UP),Pioneer,168,-1,82
+SKIPRE-,<< (DOWN),Pioneer,168,-1,83
+STILL_STEP,,>,Pioneer,168,-1,84
+MULTI_SPEED_<,Pioneer,168,-1,85
+MULTI_SPEED,Pioneer,168,-1,88

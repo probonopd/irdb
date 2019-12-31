@@ -12,7 +12,7 @@ R2,Logitech,11,-1,56
 3,Logitech,11,-1,58
 1,Logitech,11,-1,82
 DISPLAY,Logitech,11,-1,83
-SCAN +,Logitech,11,-1,84
+SCAN+,Logitech,11,-1,84
 BLUE,Logitech,11,-1,87
 0,Logitech,11,-1,90
 GREEN,Logitech,11,-1,91
@@ -20,14 +20,14 @@ R1,Logitech,11,-1,92
 CIRCLE,Logitech,11,-1,108
 R3,Logitech,11,-1,113
 SUBTITLE,Logitech,11,-1,114
-POP UP MENU,Logitech,11,-1,115
+POP_UP_MENU,Logitech,11,-1,115
 7,Logitech,11,-1,116
 SELECT,Logitech,11,-1,117
 UP,Logitech,11,-1,118
 STOP,Logitech,11,-1,119
 L2,Logitech,11,-1,120
 L3,Logitech,11,-1,121
-SLOW +,Logitech,11,-1,122
+SLOW+,Logitech,11,-1,122
 PAUSE,Logitech,11,-1,123
 8,Logitech,11,-1,124
 PS,Logitech,11,-1,125
@@ -37,16 +37,16 @@ DOWN,Logitech,11,-1,148
 CLEAR,Logitech,11,-1,154
 SQUARE,Logitech,11,-1,171
 2,Logitech,11,-1,178
-TOP MENU,Logitech,11,-1,180
+TOP_MENU,Logitech,11,-1,180
 RETURN,Logitech,11,-1,186
 9,Logitech,11,-1,188
 TIME,Logitech,11,-1,194
 CROSS,Logitech,11,-1,199
-CHAPTER -,Logitech,11,-1,210
-SCAN -,Logitech,11,-1,212
-SLOW -,Logitech,11,-1,218
+CHAPTER-,Logitech,11,-1,210
+SCAN-,Logitech,11,-1,212
+SLOW-,Logitech,11,-1,218
 ANGLE,Logitech,11,-1,220
 6,Logitech,11,-1,226
-CHAPTER +,Logitech,11,-1,234
+CHAPTER+,Logitech,11,-1,234
 EJECT,Logitech,11,-1,244
 5,Logitech,11,-1,252

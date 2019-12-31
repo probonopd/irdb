@@ -1,2 +1,2 @@
 functionname,protocol,device,subdevice,function
-SCREEN 16:9,NEC1,80,143,111
+SCREEN_16:9,NEC1,80,143,111

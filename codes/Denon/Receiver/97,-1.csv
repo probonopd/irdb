@@ -1,2 +1,2 @@
 functionname,protocol,device,subdevice,function
-VCR REC (PANEL),NEC2,97,-1,20
+VCR_REC_(PANEL),NEC2,97,-1,20

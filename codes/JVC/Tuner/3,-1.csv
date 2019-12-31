@@ -1,4 +1,4 @@
 functionname,protocol,device,subdevice,function
-VIDEO 2,JVC,3,-1,18
-VIDEO 3,JVC,3,-1,20
-TV POWER,JVC,3,-1,23
+VIDEO2,JVC,3,-1,18
+VIDEO3,JVC,3,-1,20
+TV_POWER,JVC,3,-1,23

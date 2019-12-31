@@ -2,7 +2,7 @@ functionname,protocol,device,subdevice,function
 0,G.I. Cable,0,-1,0
 ,G.I. Cable,0,-1,0
 1,G.I. Cable,0,-1,1
-ON DEMAND,G.I. Cable,0,-1,1
+ON_DEMAND,G.I. Cable,0,-1,1
 PPV,G.I. Cable,0,-1,1
 2,G.I. Cable,0,-1,2
 PPV,G.I. Cable,0,-1,2
@@ -14,8 +14,8 @@ PPV,G.I. Cable,0,-1,2
 8,G.I. Cable,0,-1,8
 9,G.I. Cable,0,-1,9
 ,G.I. Cable,0,-1,9
-CH UP,G.I. Cable,0,-1,11
-CH DN,G.I. Cable,0,-1,12
+CHANNEL+,G.I. Cable,0,-1,11
+CHANNEL-,G.I. Cable,0,-1,12
 ENTER,G.I. Cable,0,-1,16
 OK/SELECT,G.I. Cable,0,-1,17
 ,G.I. Cable,0,-1,17
@@ -26,12 +26,12 @@ FAV,G.I. Cable,0,-1,21
 MENU,G.I. Cable,0,-1,25
 PLAY,G.I. Cable,0,-1,27
 STOP,G.I. Cable,0,-1,28
-FF,G.I. Cable,0,-1,29
+FASTFORWARD,G.I. Cable,0,-1,29
 RW,G.I. Cable,0,-1,30
 PAUSE,G.I. Cable,0,-1,31
 GUIDE,G.I. Cable,0,-1,48
 RECORD,G.I. Cable,0,-1,49
-HELP[,G.I. Cable,0,-1,50
+HELP,G.I. Cable,0,-1,50
 UP,G.I. Cable,0,-1,52
 DN,G.I. Cable,0,-1,53
 DOWN,G.I. Cable,0,-1,53
@@ -39,6 +39,6 @@ LEFT,G.I. Cable,0,-1,54
 RIGHT,G.I. Cable,0,-1,55
 PLAY,G.I. Cable,0,-1,56
 STOP,G.I. Cable,0,-1,57
-PAGE UP,G.I. Cable,0,-1,58
-PAGE DN,G.I. Cable,0,-1,59
-SKIP 30 SECONDS,G.I. Cable,0,-1,63
+PAGE+,G.I. Cable,0,-1,58
+PAGE-,G.I. Cable,0,-1,59
+SKIP30_SECONDS,G.I. Cable,0,-1,63

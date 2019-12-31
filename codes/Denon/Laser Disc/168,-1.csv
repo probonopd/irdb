@@ -10,36 +10,36 @@ functionname,protocol,device,subdevice,function
 8,Pioneer,168,-1,8
 9,Pioneer,168,-1,9
 D/A.CX,Pioneer,168,-1,12
-SCAN >>,Pioneer,168,-1,16
-SCAN <<,Pioneer,168,-1,17
-CHAPTER/FRAME TIME,Pioneer,168,-1,19
-STOP/EJECT [],Pioneer,168,-1,22
-PLAY >,Pioneer,168,-1,23
-PAUSE ,,,Pioneer,168,-1,24
+SCAN_NEXT,Pioneer,168,-1,16
+SCAN_PREVIOUS,Pioneer,168,-1,17
+CHAPTER/FRAME_TIME,Pioneer,168,-1,19
+STOP/EJECT,Pioneer,168,-1,22
+PLAY,Pioneer,168,-1,23
+PAUSE,,,Pioneer,168,-1,24
 POWER,Pioneer,168,-1,28
 EDIT,Pioneer,168,-1,29
-AUDIO MONITOR,Pioneer,168,-1,30
+AUDIO_MONITOR,Pioneer,168,-1,30
 +10,Pioneer,168,-1,31
-JOG FORWARD +,Pioneer,168,-1,32
-JOG REVERSE -,Pioneer,168,-1,36
-SHUT.FWD(FULL SP),Pioneer,168,-1,43
-SHUT.REV(FULL SP),Pioneer,168,-1,47
-D-LEVEL CONTROL,Pioneer,168,-1,55
-ON SCREEN,Pioneer,168,-1,67
-REPEAT B,Pioneer,168,-1,68
-C (CLEAR),Pioneer,168,-1,69
-MULTI SPEED -,Pioneer,168,-1,70
-MULTI SPEED +,Pioneer,168,-1,71
-REPEAT A,Pioneer,168,-1,72
+JOG_FORWARD+,Pioneer,168,-1,32
+JOG_REVERSE-,Pioneer,168,-1,36
+SHUT.FWD(FULL_SP),Pioneer,168,-1,43
+SHUT.REV(FULL_SP),Pioneer,168,-1,47
+D-LEVEL_CONTROL,Pioneer,168,-1,55
+ON_SCREEN,Pioneer,168,-1,67
+REPEAT_B,Pioneer,168,-1,68
+(CLEAR),Pioneer,168,-1,69
+MULTI_SPEED-,Pioneer,168,-1,70
+MULTI_SPEED+,Pioneer,168,-1,71
+REPEAT_A,Pioneer,168,-1,72
 PROGRAM,Pioneer,168,-1,76
-DISC SIDE A,Pioneer,168,-1,77
-DISC SIDE B,Pioneer,168,-1,78
-STILL/STEP <,,,Pioneer,168,-1,80
-SKIP >>,,Pioneer,168,-1,82
-SKIP ,<<,Pioneer,168,-1,83
-STILL/STEP ,,>,Pioneer,168,-1,84
-MULTI SPEED <,Pioneer,168,-1,85
-MULTI SPEED >,Pioneer,168,-1,88
+DISC_SIDE_A,Pioneer,168,-1,77
+DISC_SIDE_B,Pioneer,168,-1,78
+STILL/STEP_<,,,Pioneer,168,-1,80
+SKIP_NEXT,,Pioneer,168,-1,82
+SKIP,<<,Pioneer,168,-1,83
+STILL/STEP,,>,Pioneer,168,-1,84
+MULTI_SPEED_<,Pioneer,168,-1,85
+MULTI_SPEED,Pioneer,168,-1,88
 HILITE/INTRO,Pioneer,168,-1,90
 STROBE,Pioneer,168,-1,91
-ONE SHOT MEMORY,Pioneer,168,-1,93
+ONE_SHOT_MEMORY,Pioneer,168,-1,93

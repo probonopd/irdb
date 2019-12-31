@@ -1,7 +1,7 @@
 functionname,protocol,device,subdevice,function
-MUTE T0,RC5,25,-1,13
-MUTE T1,RC5,25,-1,13
-VOL+ T0,RC5,25,-1,16
-VOL+ T1,RC5,25,-1,16
-VOL- T0,RC5,25,-1,17
-VOL- T1,RC5,25,-1,17
+MUTE_T0,RC5,25,-1,13
+MUTE_T1,RC5,25,-1,13
+VOL+_T0,RC5,25,-1,16
+VOL+_T1,RC5,25,-1,16
+VOL-_T0,RC5,25,-1,17
+VOL-_T1,RC5,25,-1,17

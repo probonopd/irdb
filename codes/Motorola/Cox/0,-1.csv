@@ -10,22 +10,22 @@ functionname,protocol,device,subdevice,function
 8,G.I. Cable,0,-1,8
 9,G.I. Cable,0,-1,9
 POWER,G.I. Cable,0,-1,10
-CHANNEL +,G.I. Cable,0,-1,11
-CHANNEL -,G.I. Cable,0,-1,12
+CHANNEL+,G.I. Cable,0,-1,11
+CHANNEL-,G.I. Cable,0,-1,12
 #/ENTER,G.I. Cable,0,-1,16
 ENTER,G.I. Cable,0,-1,16
 ENTER,G.I. Cable,0,-1,17
 SELECT,G.I. Cable,0,-1,17
-CURSOR ENTER,G.I. Cable,0,-1,17
+ENTER,G.I. Cable,0,-1,17
 EXIT,G.I. Cable,0,-1,18
 LAST,G.I. Cable,0,-1,19
-LAST CH.,G.I. Cable,0,-1,19
+LAST_CH.,G.I. Cable,0,-1,19
 A,G.I. Cable,0,-1,23
 MENU,G.I. Cable,0,-1,25
 SETTINGS,G.I. Cable,0,-1,25
 PLAY,G.I. Cable,0,-1,27
 STOP,G.I. Cable,0,-1,28
-FAST FWD,G.I. Cable,0,-1,29
+FAST_FWD,G.I. Cable,0,-1,29
 FAST-FORWARD,G.I. Cable,0,-1,29
 REWIND,G.I. Cable,0,-1,30
 PAUSE,G.I. Cable,0,-1,31
@@ -34,24 +34,24 @@ C,G.I. Cable,0,-1,40
 GUIDE,G.I. Cable,0,-1,48
 RECORD,G.I. Cable,0,-1,49
 INFO,G.I. Cable,0,-1,51
-MENU UP,G.I. Cable,0,-1,52
-CURSOR UP,G.I. Cable,0,-1,52
-MENU DOWN,G.I. Cable,0,-1,53
-CURSOR DOWN,G.I. Cable,0,-1,53
-MENU LEFT,G.I. Cable,0,-1,54
-CURSOR LEFT,G.I. Cable,0,-1,54
-MENU RIGHT,G.I. Cable,0,-1,55
-CURSOR RIGHT,G.I. Cable,0,-1,55
+MENU_UP,G.I. Cable,0,-1,52
+UP,G.I. Cable,0,-1,52
+MENU_DOWN,G.I. Cable,0,-1,53
+DOWN,G.I. Cable,0,-1,53
+MENU_LEFT,G.I. Cable,0,-1,54
+LEFT,G.I. Cable,0,-1,54
+MENU_RIGHT,G.I. Cable,0,-1,55
+RIGHT,G.I. Cable,0,-1,55
 PLAY,G.I. Cable,0,-1,56
 DAY+,G.I. Cable,0,-1,56
 STOP,G.I. Cable,0,-1,57
 DAY-,G.I. Cable,0,-1,57
-PAGE +,G.I. Cable,0,-1,58
 PAGE+,G.I. Cable,0,-1,58
-PAGE -,G.I. Cable,0,-1,59
+PAGE+,G.I. Cable,0,-1,58
+PAGE-,G.I. Cable,0,-1,59
 PAGE-,G.I. Cable,0,-1,59
 REPLAY,G.I. Cable,0,-1,60
 RE-PLAY,G.I. Cable,0,-1,60
 LIST,G.I. Cable,0,-1,61
-LIVE TV,G.I. Cable,0,-1,62
+LIVE_TV,G.I. Cable,0,-1,62
 *,G.I. Cable,0,-1,64

@@ -1,6 +1,6 @@
 functionname,protocol,device,subdevice,function
-1 ON,RC5,29,-1,57
-1 OFF,RC5,29,-1,58
-2 ON,RC5,29,-1,61
-2 OFF,RC5,29,-1,62
+1_ON,RC5,29,-1,57
+1_OFF,RC5,29,-1,58
+2_ON,RC5,29,-1,61
+2_OFF,RC5,29,-1,62
 ,RC5,29,-1,62

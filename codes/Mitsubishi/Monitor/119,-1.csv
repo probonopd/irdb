@@ -1,5 +1,5 @@
 functionname,protocol,device,subdevice,function
-SKIP SEARCH,Mitsubishi,119,-1,3
-AUDIO TV/VCR,Mitsubishi,119,-1,5
-AUDIO VCR/TV,Mitsubishi,119,-1,5
+SKIP_SEARCH,Mitsubishi,119,-1,3
+AUDIO_TV/VCR,Mitsubishi,119,-1,5
+AUDIO_VCR/TV,Mitsubishi,119,-1,5
 REPEAT,Mitsubishi,119,-1,23

@@ -1,6 +1,6 @@
 functionname,protocol,device,subdevice,function
 ,Dish_Network,0,0,1
-POWER OFF,Dish_Network,0,0,2
+POWER_OFF,Dish_Network,0,0,2
 1,Dish_Network,0,0,4
 2,Dish_Network,0,0,5
 3,Dish_Network,0,0,6
@@ -17,21 +17,21 @@ SELECT,Dish_Network,0,0,16
 CLEAR,Dish_Network,0,0,18
 CANCEL,Dish_Network,0,0,18
 GUIDE,Dish_Network,0,0,20
-VEIW TV,Dish_Network,0,0,22
-VIEW TV,Dish_Network,0,0,22
-AROW RIGHT,Dish_Network,0,0,24
+VEIW_TV,Dish_Network,0,0,22
+VIEW_TV,Dish_Network,0,0,22
+AROW_RIGHT,Dish_Network,0,0,24
 RIGHT,Dish_Network,0,0,24
-ARROW UP,Dish_Network,0,0,26
 UP,Dish_Network,0,0,26
-RECALL,Dish_Network,0,0,27
-ARROW LEFT,Dish_Network,0,0,28
+UP,Dish_Network,0,0,26
+RECORDALL,Dish_Network,0,0,27
 LEFT,Dish_Network,0,0,28
-ARROW DOWN,Dish_Network,0,0,30
+LEFT,Dish_Network,0,0,28
+DOWN,Dish_Network,0,0,30
 DOWN,Dish_Network,0,0,30
 RECORD,Dish_Network,0,0,31
 PAUSE,Dish_Network,0,0,32
 STOP,Dish_Network,0,0,33
 STAR,Dish_Network,0,0,37
-FORMAT - *,Dish_Network,0,0,37
+FORMAT-*,Dish_Network,0,0,37
 #,Dish_Network,0,0,38
-SEARCH - #,Dish_Network,0,0,38
+SEARCH-#,Dish_Network,0,0,38

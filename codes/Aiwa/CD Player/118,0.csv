@@ -11,8 +11,8 @@ functionname,protocol,device,subdevice,function
 0,Aiwa,118,0,10
 +10,Aiwa,118,0,11
 REMAIN/ENTER,Aiwa,118,0,13
-PLAY/PAUSE >,,,Aiwa,118,0,21
+PLAY/PAUSE,,,Aiwa,118,0,21
 MODE,Aiwa,118,0,22
-SKIP/SEARCH >>,,Aiwa,118,0,24
-SKIP/SEARCH ,<<,Aiwa,118,0,25
-STOP [],Aiwa,118,0,26
+SKIP/SEARCH_NEXT,,Aiwa,118,0,24
+SKIP/SEARCH,<<,Aiwa,118,0,25
+STOP,Aiwa,118,0,26

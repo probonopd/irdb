@@ -1,14 +1,14 @@
 functionname,protocol,device,subdevice,function
 GUIDE,Sony12,1,-1,14
 VIDEO,Sony12,1,-1,37
-TV ANT,Sony12,1,-1,42
-POWER ON,Sony12,1,-1,46
-POWER OFF,Sony12,1,-1,47
+TV_ANT,Sony12,1,-1,42
+POWER_ON,Sony12,1,-1,46
+POWER_OFF,Sony12,1,-1,47
 DISPLAY,Sony12,1,-1,58
-VIDEO 1,Sony12,1,-1,64
-VIDEO 2,Sony12,1,-1,65
-VIDEO 3,Sony12,1,-1,66
-VIDEO 4,Sony12,1,-1,71
+VIDEO1,Sony12,1,-1,64
+VIDEO2,Sony12,1,-1,65
+VIDEO3,Sony12,1,-1,66
+VIDEO4,Sony12,1,-1,71
 VIDEO5,Sony12,1,-1,72
 QUARTER,Sony12,1,-1,91
 RETURN,Sony12,1,-1,101

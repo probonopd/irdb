@@ -9,18 +9,18 @@ functionname,protocol,device,subdevice,function
 7,Pioneer,168,-1,7
 8,Pioneer,168,-1,8
 9,Pioneer,168,-1,9
-SCAN >>,Pioneer,168,-1,16
-SCAN <<,Pioneer,168,-1,17
+SCAN_NEXT,Pioneer,168,-1,16
+SCAN_PREVIOUS,Pioneer,168,-1,17
 CHAPTER,Pioneer,168,-1,19
 STOP/EJECT,Pioneer,168,-1,22
 PLAY,Pioneer,168,-1,23
 PAUSE,Pioneer,168,-1,24
 POWER,Pioneer,168,-1,28
-AUDIO MODE,Pioneer,168,-1,30
-10 +,Pioneer,168,-1,31
-DISC SIDE A,Pioneer,168,-1,77
-DISC SIDE B,Pioneer,168,-1,78
-STEP -,Pioneer,168,-1,80
+AUDIO_MODE,Pioneer,168,-1,30
+10+,Pioneer,168,-1,31
+DISC_SIDE_A,Pioneer,168,-1,77
+DISC_SIDE_B,Pioneer,168,-1,78
+STEP-,Pioneer,168,-1,80
 NEXT,Pioneer,168,-1,82
 BACK,Pioneer,168,-1,83
-STEP +,Pioneer,168,-1,84
+STEP+,Pioneer,168,-1,84

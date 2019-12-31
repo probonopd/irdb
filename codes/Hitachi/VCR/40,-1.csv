@@ -1,79 +1,79 @@
 functionname,protocol,device,subdevice,function
 TV/VCR,Emerson,40,-1,0
 VCR/TV,Emerson,40,-1,0
-TV 1,NEC1,40,-1,0
-TV 2,NEC1,40,-1,1
-TV 3,NEC1,40,-1,2
-TV 4,NEC1,40,-1,3
-FFWD>>,Emerson,40,-1,4
-CURSOR - RIGHT,Emerson,40,-1,4
-FAST FORWARD >>,Emerson,40,-1,4
-TV 5,NEC1,40,-1,4
-VCR FFWD >>,Emerson,40,-1,4
-TV 6,NEC1,40,-1,5
+TV1,NEC1,40,-1,0
+TV2,NEC1,40,-1,1
+TV3,NEC1,40,-1,2
+TV4,NEC1,40,-1,3
+FASTFORWARD,Emerson,40,-1,4
+RIGHT,Emerson,40,-1,4
+FAST_FORWARD,Emerson,40,-1,4
+TV5,NEC1,40,-1,4
+VCR_FFWD,Emerson,40,-1,4
+TV6,NEC1,40,-1,5
 SELECT,Emerson,40,-1,6
 DISPLAY,Emerson,40,-1,6
-TV 7,NEC1,40,-1,6
-SEARCH MODE,Emerson,40,-1,7
-TV 8,NEC1,40,-1,7
-CH -,Emerson,40,-1,8
-CHANNEL -,Emerson,40,-1,8
-TV 9,NEC1,40,-1,8
-VCR CH V,Emerson,40,-1,8
-TV 0,NEC1,40,-1,9
+TV7,NEC1,40,-1,6
+SEARCH_MODE,Emerson,40,-1,7
+TV8,NEC1,40,-1,7
+CHANNEL-,Emerson,40,-1,8
+CHANNEL-,Emerson,40,-1,8
+TV9,NEC1,40,-1,8
+VCR_CHANNEL-,Emerson,40,-1,8
+TV0,NEC1,40,-1,9
 PLAY,Emerson,40,-1,10
-CURSOR - UP,Emerson,40,-1,10
-VCR PLAY >,Emerson,40,-1,10
+UP,Emerson,40,-1,10
+VCR_PLAY,Emerson,40,-1,10
 PAUSE,Emerson,40,-1,11
-SLOW +,Emerson,40,-1,11
-TV POWER,NEC1,40,-1,11
-VCR PAUSE ,,,Emerson,40,-1,11
-REWIND <<,Emerson,40,-1,12
-<<REWIND,Emerson,40,-1,12
-CURSOR - LEFT,Emerson,40,-1,12
-TV CH ^,NEC1,40,-1,12
-VCR REW <<,Emerson,40,-1,12
-SLOW >,Emerson,40,-1,13
-TV CH V,NEC1,40,-1,13
-VOL ^,NEC1,40,-1,14
+SLOW+,Emerson,40,-1,11
+TV_POWER,NEC1,40,-1,11
+VCR_PAUSE,,,Emerson,40,-1,11
+REWIND,Emerson,40,-1,12
+REWINDREWIND,Emerson,40,-1,12
+LEFT,Emerson,40,-1,12
+TV_CHANNEL+,NEC1,40,-1,12
+VCR_REWIND,Emerson,40,-1,12
+SLOW,Emerson,40,-1,13
+TV_CHANNEL-,NEC1,40,-1,13
+VOLUME+,NEC1,40,-1,14
 ADD/DELETE,Emerson,40,-1,15
-RESET COUNTER,Emerson,40,-1,15
+RESET_COUNTER,Emerson,40,-1,15
 EXIT/RESET,Emerson,40,-1,15
-VOL V,NEC1,40,-1,15
-ADD/DELETE (RESET),Emerson,40,-1,15
-CH +,Emerson,40,-1,16
-CHANNEL +,Emerson,40,-1,16
-TV MUTE,NEC1,40,-1,16
-VCR CH ^,Emerson,40,-1,16
-TV LAST CH,NEC1,40,-1,19
+VOLUME-,NEC1,40,-1,15
+ADD/DELETE_(RESET),Emerson,40,-1,15
+CHANNEL+,Emerson,40,-1,16
+CHANNEL+,Emerson,40,-1,16
+TV_MUTE,NEC1,40,-1,16
+VCR_CHANNEL+,Emerson,40,-1,16
+TV_LAST_CH,NEC1,40,-1,19
 MEMORY,Emerson,40,-1,20
 COUNTER/MEMORY,Emerson,40,-1,20
 MENU,Emerson,40,-1,21
 RECORD,Emerson,40,-1,26
-VCR REC,Emerson,40,-1,26
+VCR_REC,Emerson,40,-1,26
 STOP,Emerson,40,-1,28
-CURSOR - DOWN,Emerson,40,-1,28
+DOWN,Emerson,40,-1,28
 ,Emerson,40,-1,28
-VCR STOP [],Emerson,40,-1,28
+VCR_STOP,Emerson,40,-1,28
 1,Emerson,40,-1,31
-VCR 1,Emerson,40,-1,31
+VCR1,Emerson,40,-1,31
 POWER,Emerson,40,-1,32
-VCR POWER,Emerson,40,-1,32
+VCR_POWER,Emerson,40,-1,32
 2,Emerson,40,-1,33
-VCR 2,Emerson,40,-1,33
+VCR2,Emerson,40,-1,33
 3,Emerson,40,-1,34
-VCR 3,Emerson,40,-1,34
+VCR3,Emerson,40,-1,34
 4,Emerson,40,-1,35
-VCR 4,Emerson,40,-1,35
+VCR4,Emerson,40,-1,35
 5,Emerson,40,-1,36
-VCR 5,Emerson,40,-1,36
+VCR5,Emerson,40,-1,36
 6,Emerson,40,-1,37
-VCR 6,Emerson,40,-1,37
+VCR6,Emerson,40,-1,37
 7,Emerson,40,-1,38
-VCR 7,Emerson,40,-1,38
+VCR7,Emerson,40,-1,38
 8,Emerson,40,-1,39
-VCR 8,Emerson,40,-1,39
+VCR8,Emerson,40,-1,39
 9,Emerson,40,-1,40
-VCR 9,Emerson,40,-1,40
+VCR9,Emerson,40,-1,40
 0,Emerson,40,-1,41
-VCR 0,Emerson,40,-1,41
+VCR0,Emerson,40,-1,41

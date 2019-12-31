@@ -1,19 +1,19 @@
 functionname,protocol,device,subdevice,function
 PLAY,Dish_Network,1,6,3
-PAGE DOWN,Dish_Network,1,6,7
-PAGE UP,Dish_Network,1,6,15
+PAGE-,Dish_Network,1,6,7
+PAGE+,Dish_Network,1,6,15
 REWIND,Dish_Network,1,6,49
-REW,Dish_Network,1,6,49
-FAST FORWARD,Dish_Network,1,6,50
-FWD,Dish_Network,1,6,50
+REWIND,Dish_Network,1,6,49
+FAST_FORWARD,Dish_Network,1,6,50
+FORWARD,Dish_Network,1,6,50
 DISH,Dish_Network,1,6,52
 SKIP-,Dish_Network,1,6,54
-SKIP BACK,Dish_Network,1,6,54
+SKIP_BACK,Dish_Network,1,6,54
 SKIP+,Dish_Network,1,6,55
-SKIP FWD,Dish_Network,1,6,55
+SKIP_FWD,Dish_Network,1,6,55
 PVR,Dish_Network,1,6,57
 PIP,Dish_Network,1,6,58
-PIP POSTION,Dish_Network,1,6,59
+PIP_POSTION,Dish_Network,1,6,59
 POSITION,Dish_Network,1,6,59
-PIP SAWP,Dish_Network,1,6,61
+PIP_SAWP,Dish_Network,1,6,61
 SWAP,Dish_Network,1,6,61

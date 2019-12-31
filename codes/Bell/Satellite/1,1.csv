@@ -2,8 +2,8 @@ functionname,protocol,device,subdevice,function
 PLAY,Dish_Network,1,1,3
 PAGE-,Dish_Network,1,1,7
 PAGE+,Dish_Network,1,1,15
-SCAN <<,Dish_Network,1,1,49
-SCAN >>,Dish_Network,1,1,50
-SKIP <<,Dish_Network,1,1,54
-SKIP >>,Dish_Network,1,1,55
+SCAN_PREVIOUS,Dish_Network,1,1,49
+SCAN_NEXT,Dish_Network,1,1,50
+SKIP_PREVIOUS,Dish_Network,1,1,54
+SKIP_NEXT,Dish_Network,1,1,55
 PVR,Dish_Network,1,1,57

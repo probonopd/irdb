@@ -11,17 +11,17 @@ functionname,protocol,device,subdevice,function
 9,Denon-K,2,1,10
 PAUSE,Denon-K,2,1,22
 STOP,Denon-K,2,1,23
-SKIP >>,Denon-K,2,1,24
-SKIP <<,Denon-K,2,1,25
-FF,Denon-K,2,1,26
-REW,Denon-K,2,1,27
+SKIP_NEXT,Denon-K,2,1,24
+SKIP_PREVIOUS,Denon-K,2,1,25
+FASTFORWARD,Denon-K,2,1,26
+REWIND,Denon-K,2,1,27
 PLAY,Denon-K,2,1,28
 UP,Denon-K,2,1,32
 DOWN,Denon-K,2,1,33
 RIGHT,Denon-K,2,1,34
 LEFT,Denon-K,2,1,35
-POWER ON,Denon-K,2,1,40
-POWER OFF,Denon-K,2,1,41
+POWER_ON,Denon-K,2,1,40
+POWER_OFF,Denon-K,2,1,41
 ENTER,Denon-K,2,1,43
-SET UP,Denon-K,2,1,44
+SET_UP,Denon-K,2,1,44
 MENU,Denon-K,2,1,45

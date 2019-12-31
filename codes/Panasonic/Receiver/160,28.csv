@@ -1,2 +1,2 @@
 functionname,protocol,device,subdevice,function
-POWER OFF,Panasonic,160,28,61
+POWER_OFF,Panasonic,160,28,61

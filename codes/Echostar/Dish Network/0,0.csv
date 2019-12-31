@@ -15,10 +15,10 @@ SELECT,Dish_Network,0,0,16
 CANCEL,Dish_Network,0,0,18
 GUIDE,Dish_Network,0,0,20
 VIEW,Dish_Network,0,0,22
-ARROW RIGHT,Dish_Network,0,0,24
-ARROW UP,Dish_Network,0,0,26
-RECALL,Dish_Network,0,0,27
-ARROW LEFT,Dish_Network,0,0,28
-ARROW DOWN,Dish_Network,0,0,30
+RIGHT,Dish_Network,0,0,24
+UP,Dish_Network,0,0,26
+RECORDALL,Dish_Network,0,0,27
+LEFT,Dish_Network,0,0,28
+DOWN,Dish_Network,0,0,30
 *,Dish_Network,0,0,37
 #,Dish_Network,0,0,38

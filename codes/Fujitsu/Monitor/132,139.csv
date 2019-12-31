@@ -1,8 +1,8 @@
 functionname,protocol,device,subdevice,function
-POWER TOGGLE,Fujitsu,132,139,0
-VIDEO 1,Fujitsu,132,139,64
-VIDEO 2,Fujitsu,132,139,65
-VIDEO 3,Fujitsu,132,139,66
-VIDEO 4,Fujitsu,132,139,67
-RGB1: DVI-D,Fujitsu,132,139,104
-RGB2: D-SUB15,Fujitsu,132,139,105
+POWER_TOGGLE,Fujitsu,132,139,0
+VIDEO1,Fujitsu,132,139,64
+VIDEO2,Fujitsu,132,139,65
+VIDEO3,Fujitsu,132,139,66
+VIDEO4,Fujitsu,132,139,67
+RGB1:_DVI-D,Fujitsu,132,139,104
+RGB2:_D-SUB15,Fujitsu,132,139,105

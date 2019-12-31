@@ -1,37 +1,37 @@
 functionname,protocol,device,subdevice,function
-STOP [],Akai,1,-1,3
+STOP,Akai,1,-1,3
 STOP,Akai,1,-1,3
 EJECT,Akai,1,-1,4
 ON,Akai,1,-1,5
-FFWD/SHUT.SRCH >>,Akai,1,-1,6
-FF/SHUT.SRCH >>,Akai,1,-1,6
-FF >>/SHUTTLE >>,Akai,1,-1,6
-FFWD >>,Akai,1,-1,6
-REW/SHUT.SRCH <<,Akai,1,-1,7
-REW <</SHUTTLE <<,Akai,1,-1,7
-REW <<,Akai,1,-1,7
-SLOW ,>,Akai,1,-1,8
+FASTFORWARD/SHUT.SRCH,Akai,1,-1,6
+FASTFORWARD/SHUT.SRCH,Akai,1,-1,6
+FASTFORWARD>>/SHUTTLE,Akai,1,-1,6
+FASTFORWARD,Akai,1,-1,6
+REWIND/SHUT.SRCH,Akai,1,-1,7
+REWIND<</SHUTTLE,Akai,1,-1,7
+REWIND,Akai,1,-1,7
+SLOW,>,Akai,1,-1,8
 OFF,Akai,1,-1,10
 POWER,Akai,1,-1,11
-PLAY >,Akai,1,-1,12
-PAUSE/STILL ,,,Akai,1,-1,13
-TV CH/SET +,Sony12,1,-1,16
-TV CH/SET -,Sony12,1,-1,17
-VOLUME +,Sony12,1,-1,18
+PLAY,Akai,1,-1,12
+PAUSE/STILL,,,Akai,1,-1,13
+TV_CH/SET+,Sony12,1,-1,16
+TV_CH/SET-,Sony12,1,-1,17
+VOLUME+,Sony12,1,-1,18
 TV/VIDEO,Akai,1,-1,19
-VOLUME -,Sony12,1,-1,19
-VIDEO/TV,Akai,1,-1,19
-SEARCH FWD >>,,Akai,1,-1,20
-TV POWER,Sony12,1,-1,21
-TV MENU (RA EDIT),Sony12,1,-1,21
-TV MENU,Sony12,1,-1,21
-SEARCH REV ,<<,Akai,1,-1,21
-FR ADV,Akai,1,-1,22
-CHANNEL -,Akai,1,-1,24
-CHANNEL +,Akai,1,-1,25
+VOLUME-,Sony12,1,-1,19
+VIDEO/T-,Akai,1,-1,19
+SEARCHFWD_FORWARD,,Akai,1,-1,20
+TV_POWER,Sony12,1,-1,21
+TV_MENU_(RA_EDIT),Sony12,1,-1,21
+TV_MENU,Sony12,1,-1,21
+SEARCHRE-,<<,Akai,1,-1,21
+FR_ADV,Akai,1,-1,22
+CHANNEL-,Akai,1,-1,24
+CHANNEL+,Akai,1,-1,25
 CHANNEL,Akai,1,-1,25
-TV TV/VIDEO,Sony12,1,-1,37
-AUDIO DUB/PLAY,Akai,1,-1,44
+TV_TV/VIDEO,Sony12,1,-1,37
+AUDIO_DUB/PLAY,Akai,1,-1,44
 SP/EP,Akai,1,-1,65
 AM/PM,Akai,1,-1,66
 CANCEL,Akai,1,-1,70
@@ -52,8 +52,8 @@ ENTER,Akai,1,-1,78
 7,Akai,1,-1,86
 7/SAT,Akai,1,-1,86
 8,Akai,1,-1,87
-8/1 ST/2 ND,Akai,1,-1,87
+8/1_ST/2_ND,Akai,1,-1,87
 9,Akai,1,-1,88
 9/DAILY,Akai,1,-1,88
-REC,Akai,1,-1,108
-REC/PLAY,Akai,1,-1,108
+RECORD,Akai,1,-1,108
+RECORD/PLAY,Akai,1,-1,108

@@ -1,30 +1,30 @@
 functionname,protocol,device,subdevice,function
-XM MEMORY,Denon-K,7,5,12
-XM SHIFT,Denon-K,7,5,13
-XM SEARCH,Denon-K,7,5,18
-XM PRESET -,Denon-K,7,5,21
-XM PRESET +,Denon-K,7,5,22
-XM CH-,Denon-K,7,5,49
-XM CH+,Denon-K,7,5,50
-XM CURSOR UP,Denon-K,7,5,67
-XM CURSOR DOWN,Denon-K,7,5,68
-XM CURSOR LEFT,Denon-K,7,5,69
-XM CURSOR RIGHT,Denon-K,7,5,70
-XM ENTER,Denon-K,7,5,71
-XM SHIFT A,Denon-K,7,5,80
-XM SHIFT B,Denon-K,7,5,81
-XM SHIFT C,Denon-K,7,5,82
-XM SHIFT D,Denon-K,7,5,83
-XM SHIFT E,Denon-K,7,5,84
-XM SHIFT F,Denon-K,7,5,85
-XM SHIFT G,Denon-K,7,5,86
-XM 1,Denon-K,7,5,96
-XM 2,Denon-K,7,5,97
-XM 3,Denon-K,7,5,98
-XM 4,Denon-K,7,5,99
-XM 5,Denon-K,7,5,100
-XM 6,Denon-K,7,5,101
-XM 7,Denon-K,7,5,102
-XM 8,Denon-K,7,5,103
-XM 9,Denon-K,7,5,104
-XM 0,Denon-K,7,5,105
+XM_MEMORY,Denon-K,7,5,12
+XM_SHIFT,Denon-K,7,5,13
+XM_SEARCH,Denon-K,7,5,18
+XM_PRESET-,Denon-K,7,5,21
+XM_PRESET+,Denon-K,7,5,22
+XM_CH-,Denon-K,7,5,49
+XM_CH+,Denon-K,7,5,50
+XM_CURSOR_UP,Denon-K,7,5,67
+XM_CURSOR_DOWN,Denon-K,7,5,68
+XM_CURSOR_LEFT,Denon-K,7,5,69
+XM_CURSOR_RIGHT,Denon-K,7,5,70
+XM_ENTER,Denon-K,7,5,71
+XM_SHIFT_A,Denon-K,7,5,80
+XM_SHIFT_B,Denon-K,7,5,81
+XM_SHIFT_C,Denon-K,7,5,82
+XM_SHIFT_D,Denon-K,7,5,83
+XM_SHIFT_E,Denon-K,7,5,84
+XM_SHIFT_F,Denon-K,7,5,85
+XM_SHIFT_G,Denon-K,7,5,86
+XM1,Denon-K,7,5,96
+XM2,Denon-K,7,5,97
+XM3,Denon-K,7,5,98
+XM4,Denon-K,7,5,99
+XM5,Denon-K,7,5,100
+XM6,Denon-K,7,5,101
+XM7,Denon-K,7,5,102
+XM8,Denon-K,7,5,103
+XM9,Denon-K,7,5,104
+XM0,Denon-K,7,5,105

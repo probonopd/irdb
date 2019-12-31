@@ -1,5 +1,5 @@
 functionname,protocol,device,subdevice,function
-USER 2,Denon-K,4,1,293
-USER 3,Denon-K,4,1,294
-SURR DIRECT MAIN,Denon-K,4,1,305
-AUX MAIN,Denon-K,4,1,711
+USER2,Denon-K,4,1,293
+USER3,Denon-K,4,1,294
+SURR_DIRECT_MAIN,Denon-K,4,1,305
+AUX_MAIN,Denon-K,4,1,711

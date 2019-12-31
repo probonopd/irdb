@@ -1,12 +1,12 @@
 functionname,protocol,device,subdevice,function
-VOLUME +,Panasonic,160,0,32
-VOLUME -,Panasonic,160,0,33
+VOLUME+,Panasonic,160,0,32
+VOLUME-,Panasonic,160,0,33
 MUTE,Panasonic,160,0,50
 DVD/CD,Panasonic,160,0,148
 AUX,Panasonic,160,0,154
 TV,Panasonic,160,0,156
 VCR,Panasonic,160,0,158
 PROLOGIC,Panasonic,160,0,180
-CH SELECT,Panasonic,160,0,187
-SUBWOOFER LEVEL,Panasonic,160,0,188
+CHANNELSELECT,Panasonic,160,0,187
+SUBWOOFER_LEVEL,Panasonic,160,0,188
 TEST,Panasonic,160,0,246

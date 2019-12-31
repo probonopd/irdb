@@ -1,13 +1,13 @@
 functionname,protocol,device,subdevice,function
-VOLUME +,Aiwa,2,1,14
-VOLUME -,Aiwa,2,1,15
-STANDBY (ON/OFF),Aiwa,2,1,16
-LITE SHOW,Aiwa,2,1,17
-NEXT ^,Aiwa,2,1,18
+VOLUME+,Aiwa,2,1,14
+VOLUME-,Aiwa,2,1,15
+STANDBY_(ON/OFF),Aiwa,2,1,16
+LITE_SHOW,Aiwa,2,1,17
+NEXT_^,Aiwa,2,1,18
 PROG,Aiwa,2,1,23
-FREEZE ESC,Aiwa,2,1,24
-MENU EDIT,Aiwa,2,1,25
-MIC >,Aiwa,2,1,27
-MUTE <,Aiwa,2,1,29
-SELECT ENTER,Aiwa,2,1,30
-PREV V,Aiwa,2,1,31
+FREEZE_ESC,Aiwa,2,1,24
+MENU_EDIT,Aiwa,2,1,25
+MIC,Aiwa,2,1,27
+MUTE_<,Aiwa,2,1,29
+SELECT_ENTER,Aiwa,2,1,30
+PREV_V,Aiwa,2,1,31

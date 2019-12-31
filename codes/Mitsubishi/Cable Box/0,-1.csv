@@ -10,10 +10,10 @@ functionname,protocol,device,subdevice,function
 8,G.I. Cable,0,-1,8
 9,G.I. Cable,0,-1,9
 POWER,G.I. Cable,0,-1,10
-CHANNEL +,G.I. Cable,0,-1,11
-CHANNEL -,G.I. Cable,0,-1,12
-VOLUME +,G.I. Cable,0,-1,13
-VOLUME -,G.I. Cable,0,-1,14
+CHANNEL+,G.I. Cable,0,-1,11
+CHANNEL-,G.I. Cable,0,-1,12
+VOLUME+,G.I. Cable,0,-1,13
+VOLUME-,G.I. Cable,0,-1,14
 MUTE,G.I. Cable,0,-1,15
 MUSIC,G.I. Cable,0,-1,16
 ENTER,G.I. Cable,0,-1,17
@@ -28,9 +28,9 @@ B,G.I. Cable,0,-1,39
 C,G.I. Cable,0,-1,40
 GUIDE,G.I. Cable,0,-1,48
 INFO,G.I. Cable,0,-1,51
-CURSER UP,G.I. Cable,0,-1,52
-PAGE UP,G.I. Cable,0,-1,52
-CURSER DOWN,G.I. Cable,0,-1,53
-PAGE DOWN,G.I. Cable,0,-1,53
-CURSER LEFT,G.I. Cable,0,-1,54
-CURSER RIGHT,G.I. Cable,0,-1,55
+UP,G.I. Cable,0,-1,52
+PAGE+,G.I. Cable,0,-1,52
+DOWN,G.I. Cable,0,-1,53
+PAGE-,G.I. Cable,0,-1,53
+LEFT,G.I. Cable,0,-1,54
+RIGHT,G.I. Cable,0,-1,55

@@ -15,7 +15,7 @@ MUTE,Proton,20,-1,18
 VOL+,Proton,20,-1,19
 VOL-,Proton,20,-1,20
 POWER,Proton,20,-1,21
-INPUT,Proton,20,-1,22
+INPUT:,Proton,20,-1,22
 CH+,Proton,20,-1,23
 CH-,Proton,20,-1,24
 VIDEO,Proton,20,-1,26

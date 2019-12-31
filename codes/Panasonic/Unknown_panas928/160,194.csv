@@ -1,5 +1,5 @@
 functionname,protocol,device,subdevice,function
-+vol,Panasonic,160,194,176
--vol,Panasonic,160,194,177
++VOL,Panasonic,160,194,176
+VOL,Panasonic,160,194,177
 +P,Panasonic,160,194,231
--P,Panasonic,160,194,232
+P,Panasonic,160,194,232

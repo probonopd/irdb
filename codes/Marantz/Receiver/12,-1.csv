@@ -1,6 +1,6 @@
 functionname,protocol,device,subdevice,function
 LD,RC5,12,-1,63
-LASER DISC,RC5,12,-1,63
-INPUT: LD,RC5,12,-1,63
-LD DISC B/-,RC5,12,-1,114
-LD DISC +/A,RC5,12,-1,115
+LASER_DISC,RC5,12,-1,63
+INPUT:LD,RC5,12,-1,63
+LD_DISC_B/-,RC5,12,-1,114
+LD_DISC_+/A,RC5,12,-1,115

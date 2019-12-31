@@ -1,5 +1,5 @@
 functionname,protocol,device,subdevice,function
-ALL OFF,NEC1,64,-1,18
-ALL ON,NEC1,64,-1,18
-CHAN. +,NEC1,64,-1,27
+ALL_OFF,NEC1,64,-1,18
+ALL_ON,NEC1,64,-1,18
+CHAN.+,NEC1,64,-1,27
 CHAN.-,NEC1,64,-1,31

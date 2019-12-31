@@ -1,3 +1,3 @@
 functionname,protocol,device,subdevice,function
-POWER ON,NEC1,24,247,8
-POWER OFF,NEC1,24,247,20
+POWER_ON,NEC1,24,247,8
+POWER_OFF,NEC1,24,247,20

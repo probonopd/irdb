@@ -1,30 +1,30 @@
 functionname,protocol,device,subdevice,function
-D1 CASS PITCH+/-,Denon,4,-1,69
+D1_CASS_PITCH+/-,Denon,4,-1,69
 ,Denon,4,-1,70
-D2 CASS PITCH+/-,Denon,4,-1,74
-DECK SELECT A/B,Denon,4,-1,83
+D2_CASS_PITCH+/-,Denon,4,-1,74
+DECK_SELECT_A/B,Denon,4,-1,83
 A/B,Denon,4,-1,83
-DECK PLAY REV. <,Denon,4,-1,87
+DECK_PLAY_REV._<,Denon,4,-1,87
 PLAY(REV),Denon,4,-1,87
-D1 CASS FWD >> (>>,),Denon,4,-1,90
-F.F >>,Denon,4,-1,90
-DECK FF >>,Denon,4,-1,90
-FF >>,Denon,4,-1,90
-D1 CASS REW << (,<<),Denon,4,-1,91
-REW <<,Denon,4,-1,91
-DECK REW <<,Denon,4,-1,91
-D1 CASS PLAY >,Denon,4,-1,92
-PLAY >,Denon,4,-1,92
-DECK PLAY >,Denon,4,-1,92
-REC PAUSE/MUTE,Denon,4,-1,93
-DECK PAUSE ,,,Denon,4,-1,93
-PAUSE ,,,Denon,4,-1,93
-D1 CASS STOP[] (,,),Denon,4,-1,94
-STOP [],Denon,4,-1,94
-DECK STOP [],Denon,4,-1,94
+D1_CASS_FWD_>>_(,),Denon,4,-1,90
+F.F,Denon,4,-1,90
+DECK_FF,Denon,4,-1,90
+FASTFORWARD,Denon,4,-1,90
+D1_CASS_REW_<<_(,<<),Denon,4,-1,91
+REWIND,Denon,4,-1,91
+DECK_REW_<<,Denon,4,-1,91
+D1_CASS_PLAY,Denon,4,-1,92
+PLAY,Denon,4,-1,92
+DECK_PLAY,Denon,4,-1,92
+RECORDPAUSE/MUTE,Denon,4,-1,93
+DECK_PAUSE,,,Denon,4,-1,93
+PAUSE,,,Denon,4,-1,93
+D1_CASS_STOP[]_(,,),Denon,4,-1,94
+STOP,Denon,4,-1,94
+DECK_STOP,Denon,4,-1,94
 RECORD,Denon,4,-1,95
-DECK REC,Denon,4,-1,95
-D2 CASS FWD >> (>>,),Denon,4,-1,106
-D2 CASS REW << (,<<),Denon,4,-1,107
-D2 CASS PLAY >,Denon,4,-1,108
-D2 CASS STOP[] (,,),Denon,4,-1,110
+DECK_REC,Denon,4,-1,95
+D2_CASS_FWD_>>_(,),Denon,4,-1,106
+D2_CASS_REW_<<_(,<<),Denon,4,-1,107
+D2_CASS_PLAY,Denon,4,-1,108
+D2_CASS_STOP[]_(,,),Denon,4,-1,110

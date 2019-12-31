@@ -17,10 +17,10 @@ STBY,Lumagen,2,-1,11
 0,Lumagen,2,-1,21
 MEMA,Lumagen,2,-1,22
 MEMB,Lumagen,2,-1,23
-ARROWUP,Lumagen,2,-1,29
+UP,Lumagen,2,-1,29
 MENU,Lumagen,2,-1,31
-ARROWLEFT,Lumagen,2,-1,32
+LEFT,Lumagen,2,-1,32
 OK,Lumagen,2,-1,33
-ARROWRIGHT,Lumagen,2,-1,34
-ARROWDOWN,Lumagen,2,-1,37
+RIGHT,Lumagen,2,-1,34
+DOWN,Lumagen,2,-1,37
 EXIT,Lumagen,2,-1,39

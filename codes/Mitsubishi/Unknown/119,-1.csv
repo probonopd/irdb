@@ -1,36 +1,36 @@
 functionname,protocol,device,subdevice,function
-1 SU,Mitsubishi,119,-1,0
+1_SU,Mitsubishi,119,-1,0
 9,Mitsubishi,119,-1,1
 POWER,Mitsubishi,119,-1,2
 NEXT,Mitsubishi,119,-1,3
-PLAY >,Mitsubishi,119,-1,4
-AUDIO TV/VCR,Mitsubishi,119,-1,5
-2 M,Mitsubishi,119,-1,8
+PLAY,Mitsubishi,119,-1,4
+AUDIO_TV/VCR,Mitsubishi,119,-1,5
+2_M,Mitsubishi,119,-1,8
 0,Mitsubishi,119,-1,9
-SCAN ^ (CH ^),Mitsubishi,119,-1,10
-REC,Mitsubishi,119,-1,12
-3 TU,Mitsubishi,119,-1,16
-SCAN V (CH V),Mitsubishi,119,-1,18
-STOP [],Mitsubishi,119,-1,20
+SCAN_^_(CH_^),Mitsubishi,119,-1,10
+RECORD,Mitsubishi,119,-1,12
+3_TU,Mitsubishi,119,-1,16
+SCAN_V_(CH_V),Mitsubishi,119,-1,18
+STOP,Mitsubishi,119,-1,20
 REPEAT,Mitsubishi,119,-1,23
-4 W,Mitsubishi,119,-1,24
-INPUT V,Mitsubishi,119,-1,26
-DISP (DISPLAY),Mitsubishi,119,-1,27
-PAUSE ,,,Mitsubishi,119,-1,28
-5 TH,Mitsubishi,119,-1,32
-VOLUME ^,Mitsubishi,119,-1,34
-FF/FS >>,Mitsubishi,119,-1,36
-6 F,Mitsubishi,119,-1,40
-VOLUME V,Mitsubishi,119,-1,42
-REW/RS <<,Mitsubishi,119,-1,44
+4_W,Mitsubishi,119,-1,24
+INPUT:V,Mitsubishi,119,-1,26
+DISP_(DISPLAY),Mitsubishi,119,-1,27
+PAUSE,,,Mitsubishi,119,-1,28
+5_TH,Mitsubishi,119,-1,32
+VOLUME+,Mitsubishi,119,-1,34
+FASTFORWARD/FS,Mitsubishi,119,-1,36
+6_F,Mitsubishi,119,-1,40
+VOLUME-,Mitsubishi,119,-1,42
+REWIND/RS,Mitsubishi,119,-1,44
 REVERSE,Mitsubishi,119,-1,45
-7 SA,Mitsubishi,119,-1,48
+7_SA,Mitsubishi,119,-1,48
 MUTE,Mitsubishi,119,-1,50
 ENTER,Mitsubishi,119,-1,53
-8 M-F,Mitsubishi,119,-1,56
-INPUT ^,Mitsubishi,119,-1,58
-ADJUST ^,Mitsubishi,119,-1,65
-ADJUST V,Mitsubishi,119,-1,73
-AUDIO ^,Mitsubishi,119,-1,80
+8_M-F,Mitsubishi,119,-1,56
+INPUT:^,Mitsubishi,119,-1,58
+ADJUST_^,Mitsubishi,119,-1,65
+ADJUST_V,Mitsubishi,119,-1,73
+AUDIO_^,Mitsubishi,119,-1,80
 MENU,Mitsubishi,119,-1,82
-AUDIO V,Mitsubishi,119,-1,88
+AUDIO_V,Mitsubishi,119,-1,88

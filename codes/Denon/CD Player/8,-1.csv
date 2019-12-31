@@ -4,157 +4,157 @@ DOWN,Denon,8,-1,64
 ,Denon,8,-1,65
 0,Denon{1},8,-1,65
 1,Denon,8,-1,66
-1 TRACK NUMBER,Denon,8,-1,66
+1_TRACK_NUMBER,Denon,8,-1,66
 0/10,Denon,8,-1,66
 2,Denon,8,-1,67
-2 TRACK NUMBER,Denon,8,-1,67
+2_TRACK_NUMBER,Denon,8,-1,67
 1,Denon,8,-1,67
 3,Denon,8,-1,68
-3 TRACK NUMBER,Denon,8,-1,68
+3_TRACK_NUMBER,Denon,8,-1,68
 2,Denon,8,-1,68
 4,Denon,8,-1,69
-4 TRACK NUMBER,Denon,8,-1,69
+4_TRACK_NUMBER,Denon,8,-1,69
 5,Denon,8,-1,70
-5 TRACK NUMBER,Denon,8,-1,70
+5_TRACK_NUMBER,Denon,8,-1,70
 6,Denon,8,-1,71
-6 TRACK NUMBER,Denon,8,-1,71
+6_TRACK_NUMBER,Denon,8,-1,71
 7,Denon,8,-1,72
-7 TRACK NUMBER,Denon,8,-1,72
+7_TRACK_NUMBER,Denon,8,-1,72
 8,Denon,8,-1,73
-8 TRACK NUMBER,Denon,8,-1,73
+8_TRACK_NUMBER,Denon,8,-1,73
 9,Denon,8,-1,74
-9 TRACK NUMBER,Denon,8,-1,74
+9_TRACK_NUMBER,Denon,8,-1,74
 ,Denon,8,-1,74
 10,Denon,8,-1,75
 0,Denon,8,-1,75
-10 TRACK NUMBER,Denon,8,-1,75
+10_TRACK_NUMBER,Denon,8,-1,75
 +10,Denon,8,-1,76
 10+,Denon,8,-1,76
-+10 TRACK NUMBER,Denon,8,-1,76
++10_TRACK_NUMBER,Denon,8,-1,76
 PROG/DIRECT,Denon,8,-1,77
 PROGRAM,Denon,8,-1,77
 ,Denon,8,-1,77
 PROGRAM,Denon{1},8,-1,77
 PROG,Denon,8,-1,77
 PROGRAM/DIRECT,Denon,8,-1,77
-VOLUME +,Denon,8,-1,78
-VOLUME ^,Denon,8,-1,78
 VOLUME+,Denon,8,-1,78
-VOLUME -,Denon,8,-1,79
-VOLUME V,Denon,8,-1,79
+VOLUME+,Denon,8,-1,78
+VOLUME+,Denon,8,-1,78
+VOLUME-,Denon,8,-1,79
+VOLUME-,Denon,8,-1,79
 VOLUME-,Denon,8,-1,79
 OPEN/CLOSE,Denon,8,-1,80
 EJECT,Denon,8,-1,80
 CLEAR,Denon,8,-1,81
-FT FILE CLEAR,Denon,8,-1,81
+FT_FILE_CLEAR,Denon,8,-1,81
 CALL,Denon,8,-1,82
 ,Denon{1},8,-1,82
 CHECK,Denon,8,-1,82
 TIME,Denon,8,-1,83
-TIME MODE,Denon,8,-1,83
+TIME_MODE,Denon,8,-1,83
 TIME/TEXT,Denon,8,-1,83
 REPEAT,Denon,8,-1,84
-REPEAT ALL,Denon,8,-1,84
+REPEAT_ALL,Denon,8,-1,84
 ALL,Denon,8,-1,84
 A-B,Denon,8,-1,85
-A-B REPEAT,Denon,8,-1,85
+A-B_REPEAT,Denon,8,-1,85
 INDEX,Denon,8,-1,86
 DIRECT,Denon,8,-1,87
 CONTINUE,Denon,8,-1,87
-SKIP >>,Denon,8,-1,88
-TRACK >>,Denon,8,-1,88
+SKIP_NEXT,Denon,8,-1,88
+TRACK+,Denon,8,-1,88
 NEXT,Denon,8,-1,88
-SKIP >>,,Denon,8,-1,88
-SKIP FWD >>,,Denon,8,-1,88
->>I,Denon,8,-1,88
-AUTO SEARCH >>,Denon,8,-1,88
-TRACK +,Denon,8,-1,88
-SKIP <<,Denon,8,-1,89
-TRACK <<,Denon,8,-1,89
+SKIP_NEXT,,Denon,8,-1,88
+SKIPFWD_NEXT,,Denon,8,-1,88
+FASTFORWARDI,Denon,8,-1,88
+AUTO_SEARCH,Denon,8,-1,88
+TRACK+,Denon,8,-1,88
+SKIP_PREVIOUS,Denon,8,-1,89
+TRACK-,Denon,8,-1,89
 PREV.,Denon,8,-1,89
-SKIP ,<<,Denon,8,-1,89
-SKIP REW ,<<,Denon,8,-1,89
+SKIP,<<,Denon,8,-1,89
+SKIP_REW,<<,Denon,8,-1,89
 I<<,Denon,8,-1,89
-AUTO SEARCH <<,Denon,8,-1,89
-TRACK -,Denon,8,-1,89
-SEARCH >>,Denon,8,-1,90
-SCAN >>,Denon,8,-1,90
+AUTO_SEARCH_<<,Denon,8,-1,89
+TRACK-,Denon,8,-1,89
+SEARCH_FORWARD,Denon,8,-1,90
+SCAN_NEXT,Denon,8,-1,90
 ,Denon{1},8,-1,90
->>,Denon,8,-1,90
-SCAN +,Denon,8,-1,90
-FFWD >>,Denon,8,-1,90
-SEARCH <<,Denon,8,-1,91
-SCAN <<,Denon,8,-1,91
-<<,Denon,8,-1,91
-SCAN -,Denon,8,-1,91
-REW <<,Denon,8,-1,91
+FASTFORWARD,Denon,8,-1,90
+SCAN+,Denon,8,-1,90
+FASTFORWARD,Denon,8,-1,90
+SEARCH_BACK,Denon,8,-1,91
+SCAN_PREVIOUS,Denon,8,-1,91
+REWIND,Denon,8,-1,91
+SCAN-,Denon,8,-1,91
+REWIND,Denon,8,-1,91
 PLAY,Denon,8,-1,92
-PLAY >,Denon,8,-1,92
+PLAY,Denon,8,-1,92
 PAUSE,Denon,8,-1,93
-PAUSE ,,,Denon,8,-1,93
+PAUSE,,,Denon,8,-1,93
 STOP,Denon,8,-1,94
-STOP [],Denon,8,-1,94
-TIME SEARCH,Denon,8,-1,96
-AUTO SPACE,Denon,8,-1,97
+STOP,Denon,8,-1,94
+TIME_SEARCH,Denon,8,-1,96
+AUTO_SPACE,Denon,8,-1,97
 ,Denon,8,-1,97
-AUTO SPACE,Denon{2},8,-1,97
+AUTO_SPACE,Denon{2},8,-1,97
 ,Denon{2},8,-1,97
-A SPACE,Denon,8,-1,97
-REPEAT 1,Denon,8,-1,98
-DISC SELECT,Denon,8,-1,98
-AUTO EDIT,Denon,8,-1,99
-DISC 1,Denon,8,-1,100
-1 DISC NUMBER,Denon,8,-1,100
-1 DISC NO/STORE NO,Denon,8,-1,100
-DISC 2,Denon,8,-1,101
-2 DISC NUMBER,Denon,8,-1,101
-2 DISC NO/STORE NO,Denon,8,-1,101
-DISC 3,Denon,8,-1,102
-3 DISC NUMBER,Denon,8,-1,102
-3 DISC NO/STORE NO,Denon,8,-1,102
-DISC 4,Denon,8,-1,103
-4 DISC NUMBER,Denon,8,-1,103
-4 DISC NO/STORE NO,Denon,8,-1,103
-DISC 5,Denon,8,-1,104
-5 DISC NUMBER,Denon,8,-1,104
-5 DISC NO/STORE NO,Denon,8,-1,104
-DISC 6,Denon,8,-1,105
-6 DISC NUMBER,Denon,8,-1,105
-6 DISC NO/STORE NO,Denon,8,-1,105
+A_SPACE,Denon,8,-1,97
+REPEAT1,Denon,8,-1,98
+DISC_SELECT,Denon,8,-1,98
+AUTO_EDIT,Denon,8,-1,99
+DISC1,Denon,8,-1,100
+1_DISC_NUMBER,Denon,8,-1,100
+1_DISC_NO/STORE_NO,Denon,8,-1,100
+DISC2,Denon,8,-1,101
+2_DISC_NUMBER,Denon,8,-1,101
+2_DISC_NO/STORE_NO,Denon,8,-1,101
+DISC3,Denon,8,-1,102
+3_DISC_NUMBER,Denon,8,-1,102
+3_DISC_NO/STORE_NO,Denon,8,-1,102
+DISC4,Denon,8,-1,103
+4_DISC_NUMBER,Denon,8,-1,103
+4_DISC_NO/STORE_NO,Denon,8,-1,103
+DISC5,Denon,8,-1,104
+5_DISC_NUMBER,Denon,8,-1,104
+5_DISC_NO/STORE_NO,Denon,8,-1,104
+DISC6,Denon,8,-1,105
+6_DISC_NUMBER,Denon,8,-1,105
+6_DISC_NO/STORE_NO,Denon,8,-1,105
 RANDOM,Denon,8,-1,106
 SHUFFLE,Denon,8,-1,106
 RAMDOM,Denon,8,-1,106
-DISC SKIP +,Denon,8,-1,107
-DISC +,Denon,8,-1,107
-DISC -,Denon,8,-1,107
-DISC SKIP,Denon,8,-1,107
-DISC SKIP+,Denon,8,-1,107
-DISC SKIP UP,Denon,8,-1,107
-TRACK >>,Denon,8,-1,107
+DISCSKIP+,Denon,8,-1,107
+DISC+,Denon,8,-1,107
+DISC-,Denon,8,-1,107
+DISC_SKIP,Denon,8,-1,107
+DISCSKIP+,Denon,8,-1,107
+DISCSKIP+,Denon,8,-1,107
+TRACK+,Denon,8,-1,107
 FILE,Denon,8,-1,108
-FILE-FT FILE,Denon,8,-1,108
+FILE-FT_FILE,Denon,8,-1,108
 STORE,Denon,8,-1,108
-RECALL,Denon,8,-1,109
-DISC SKIP -,Denon,8,-1,110
-DISC -,Denon,8,-1,110
-DISC SKIP-,Denon,8,-1,110
-DISC SKIP DN,Denon,8,-1,110
-TRACK <<,Denon,8,-1,110
-POWER ON,Denon,8,-1,115
+RECORDALL,Denon,8,-1,109
+DISCSKIP-,Denon,8,-1,110
+DISC-,Denon,8,-1,110
+DISCSKIP-,Denon,8,-1,110
+DISCSKIP-,Denon,8,-1,110
+TRACK-,Denon,8,-1,110
+POWER_ON,Denon,8,-1,115
 DISPLAY,Denon,8,-1,117
-DISPLAY SELECT,Denon,8,-1,117
+DISPLAY_SELECT,Denon,8,-1,117
 FADER,Denon,8,-1,118
-PITCH +,Denon,8,-1,119
-PITCH -,Denon,8,-1,120
+PITCH+,Denon,8,-1,119
+PITCH-,Denon,8,-1,120
 ENTER,Denon,8,-1,122
-POWER OFF,Denon,8,-1,125
+POWER_OFF,Denon,8,-1,125
 GROUP,Denon,8,-1,126
 UP,Denon,8,-1,127
-POWER OFF,Denon,8,-1,248
+POWER_OFF,Denon,8,-1,248
 SINGLE,Denon,8,-1,249
 MULTI,Denon,8,-1,250
-ZONE 1,Denon,8,-1,251
-ZONE 2,Denon,8,-1,252
+ZONE1,Denon,8,-1,251
+ZONE2,Denon,8,-1,252
 LEFT,Denon,8,-1,253
 RIGHT,Denon,8,-1,254
 TRACK/CAPS,Denon,8,-1,255

@@ -11,17 +11,17 @@ functionname,protocol,device,subdevice,function
 9,Kathrein,0,-1,9
 I,Kathrein,0,-1,12
 R,Kathrein,0,-1,13
-CURSOR CENTER/OK,Kathrein,0,-1,14
+CENTER/OK,Kathrein,0,-1,14
 TV,Kathrein,0,-1,15
-UHR (SYMBOL),Kathrein,0,-1,16
+UHR_(SYMBOL),Kathrein,0,-1,16
 A/B,Kathrein,0,-1,17
-POWER (SYMBOL),Kathrein,0,-1,18
-MUTE (SYMBOL),Kathrein,0,-1,19
-CURSOR VOL +,Kathrein,0,-1,21
-CURSOR VOL -,Kathrein,0,-1,22
-CURSOR UP,Kathrein,0,-1,23
-CURSOR DOWN,Kathrein,0,-1,24
+POWER_(SYMBOL),Kathrein,0,-1,18
+MUTE_(SYMBOL),Kathrein,0,-1,19
+VOLUP,Kathrein,0,-1,21
+VOL,Kathrein,0,-1,22
+UP,Kathrein,0,-1,23
+DOWN,Kathrein,0,-1,24
 L,Kathrein,0,-1,43
-EIERUHR (SYMBOL),Kathrein,0,-1,44
-STEREO (SYMBOL),Kathrein,0,-1,66
+EIERUHR_(SYMBOL),Kathrein,0,-1,44
+STEREO_(SYMBOL),Kathrein,0,-1,66
 F,Kathrein,0,-1,77

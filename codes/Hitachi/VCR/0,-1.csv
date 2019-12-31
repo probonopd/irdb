@@ -1,38 +1,38 @@
 functionname,protocol,device,subdevice,function
 MUTE,Panasonic_Old,0,-1,0
-TV OPERATE,Barco,0,-1,1
-TV VOLUME ^,Panasonic_Old,0,-1,1
+TV_OPERATE,Barco,0,-1,1
+TV_VOLUME_^,Panasonic_Old,0,-1,1
 MUTE,Barco,0,-1,6
-TV CHANNEL ^,Barco,0,-1,7
-TV MENU,Barco,0,-1,8
-LAST CH,Panasonic_Old,0,-1,10
-TV MUTE,Panasonic_Old,0,-1,11
-TV VOLUME V,Panasonic_Old,0,-1,13
-TV 1,Barco,0,-1,16
-TV 1 (Q Z),Panasonic_Old,0,-1,16
-TV 2,Barco,0,-1,17
-TV 2 (A B C),Panasonic_Old,0,-1,17
-TV 3,Barco,0,-1,18
-TV 3 (D E F),Panasonic_Old,0,-1,18
-TV 4,Barco,0,-1,19
-TV 4 (G H I),Panasonic_Old,0,-1,19
-TV 5,Barco,0,-1,20
-TV 5 (J K L),Panasonic_Old,0,-1,20
-TV 6 (CL),Barco,0,-1,21
-TV 6 (M N O),Panasonic_Old,0,-1,21
-TV 7,Barco,0,-1,22
-TV 7 (P R S),Panasonic_Old,0,-1,22
-TV 8,Barco,0,-1,23
-TV 8 (T U V AM),Panasonic_Old,0,-1,23
-TV 9,Barco,0,-1,24
-TV 9 (W X Y PM),Panasonic_Old,0,-1,24
-TV 0,Barco,0,-1,25
-TV 0 (? !),Panasonic_Old,0,-1,25
-TV OPERATE,Panasonic_Old,0,-1,32
-TV CHANNEL V,Barco,0,-1,33
-TV PROGRAMME ^,Panasonic_Old,0,-1,34
-TV PROGRAMME V,Panasonic_Old,0,-1,35
-VOL ^,Panasonic_Old,0,-1,36
-VOL V,Panasonic_Old,0,-1,37
-VOLUME ^,Barco,0,-1,46
-VOLUME V,Barco,0,-1,47
+TV_CHANNEL+,Barco,0,-1,7
+TV_MENU,Barco,0,-1,8
+LAST_CH,Panasonic_Old,0,-1,10
+TV_MUTE,Panasonic_Old,0,-1,11
+TV_VOLUME_V,Panasonic_Old,0,-1,13
+TV1,Barco,0,-1,16
+TV1_(Q_Z),Panasonic_Old,0,-1,16
+TV2,Barco,0,-1,17
+TV2_(A_B_C),Panasonic_Old,0,-1,17
+TV3,Barco,0,-1,18
+TV3_(D_E_F),Panasonic_Old,0,-1,18
+TV4,Barco,0,-1,19
+TV4_(G_H_I),Panasonic_Old,0,-1,19
+TV5,Barco,0,-1,20
+TV5_(J_K_L),Panasonic_Old,0,-1,20
+TV6_(CL),Barco,0,-1,21
+TV6_(M_N_O),Panasonic_Old,0,-1,21
+TV7,Barco,0,-1,22
+TV7_(P_R_S),Panasonic_Old,0,-1,22
+TV8,Barco,0,-1,23
+TV8_(T_U_V_AM),Panasonic_Old,0,-1,23
+TV9,Barco,0,-1,24
+TV9_(W_X_Y_PM),Panasonic_Old,0,-1,24
+TV0,Barco,0,-1,25
+TV0_(?_!),Panasonic_Old,0,-1,25
+TV_OPERATE,Panasonic_Old,0,-1,32
+TV_CHANNEL-,Barco,0,-1,33
+TV_PROGRAMME_^,Panasonic_Old,0,-1,34
+TV_PROGRAMME_V,Panasonic_Old,0,-1,35
+VOLUME+,Panasonic_Old,0,-1,36
+VOLUME-,Panasonic_Old,0,-1,37
+VOLUME+,Barco,0,-1,46
+VOLUME-,Barco,0,-1,47

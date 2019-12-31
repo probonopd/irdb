@@ -1,2 +1,2 @@
 functionname,protocol,device,subdevice,function
-INPUT 3,NEC1,86,171,35
+INPUT:3,NEC1,86,171,35
