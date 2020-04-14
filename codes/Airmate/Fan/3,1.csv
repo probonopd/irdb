@@ -1,0 +1,8 @@
+functionname,protocol,device,subdevice,function
+Oscillation,F12,3,1,9
+Timer,F12,3,1,17
+Fan mode,F12,3,1,33
+Speed,F12,3,1,65
+Light,F12,3,1,99
+Shutdown,F12,3,1,129
+Presets,F12,3,1,195
