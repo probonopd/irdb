@@ -22,11 +22,11 @@ SEARCH <<,Pioneer,162,-1,15
 REW,Pioneer,162,-1,15
 SKIP >>,Pioneer,162,-1,16
 SONG UP,Pioneer,162,-1,16
-TRACK >>,,Pioneer,162,-1,16
+TRACK >>,Pioneer,162,-1,16
 TRACK UP,Pioneer,162,-1,16
 SKIP <<,Pioneer,162,-1,17
 SONG DOWN,Pioneer,162,-1,17
-TRACK ,<<,Pioneer,162,-1,17
+TRACK <<,Pioneer,162,-1,17
 TRACK DOWN,Pioneer,162,-1,17
 STOP,Pioneer,162,-1,22
 PLAY,Pioneer,162,-1,23

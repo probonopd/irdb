@@ -14,16 +14,16 @@ STOP [],Mitsubishi,103,-1,20
 REPEAT,Mitsubishi,103,-1,23
 4,Mitsubishi,103,-1,24
 DISPLAY,Mitsubishi,103,-1,27
-PAUSE ,,,Mitsubishi,103,-1,28
+PAUSE ,Mitsubishi,103,-1,28
 +10,Mitsubishi,103,-1,30
 5,Mitsubishi,103,-1,32
-SKIP >>,,Mitsubishi,103,-1,36
+SKIP >>,Mitsubishi,103,-1,36
 FWD >>,Mitsubishi,103,-1,37
 6,Mitsubishi,103,-1,40
-SKIP ,<<,Mitsubishi,103,-1,44
+SKIP <<,Mitsubishi,103,-1,44
 REV <<,Mitsubishi,103,-1,45
 7,Mitsubishi,103,-1,48
-SLOW ,>,Mitsubishi,103,-1,52
+SLOW >,Mitsubishi,103,-1,52
 ENTER,Mitsubishi,103,-1,53
 OPEN/CLOSE,Mitsubishi,103,-1,54
 8,Mitsubishi,103,-1,56

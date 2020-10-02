@@ -6,25 +6,25 @@ DECK SELECT A/B,Denon,4,-1,83
 A/B,Denon,4,-1,83
 DECK PLAY REV. <,Denon,4,-1,87
 PLAY(REV),Denon,4,-1,87
-D1 CASS FWD >> (>>,),Denon,4,-1,90
+D1 CASS FWD >> (>>),Denon,4,-1,90
 F.F >>,Denon,4,-1,90
 DECK FF >>,Denon,4,-1,90
 FF >>,Denon,4,-1,90
-D1 CASS REW << (,<<),Denon,4,-1,91
+D1 CASS REW << (<<),Denon,4,-1,91
 REW <<,Denon,4,-1,91
 DECK REW <<,Denon,4,-1,91
 D1 CASS PLAY >,Denon,4,-1,92
 PLAY >,Denon,4,-1,92
 DECK PLAY >,Denon,4,-1,92
 REC PAUSE/MUTE,Denon,4,-1,93
-DECK PAUSE ,,,Denon,4,-1,93
-PAUSE ,,,Denon,4,-1,93
-D1 CASS STOP[] (,,),Denon,4,-1,94
+DECK PAUSE ,Denon,4,-1,93
+PAUSE ,Denon,4,-1,93
+D1 CASS STOP[] ,Denon,4,-1,94
 STOP [],Denon,4,-1,94
 DECK STOP [],Denon,4,-1,94
 RECORD,Denon,4,-1,95
 DECK REC,Denon,4,-1,95
-D2 CASS FWD >> (>>,),Denon,4,-1,106
-D2 CASS REW << (,<<),Denon,4,-1,107
+D2 CASS FWD >> (>>),Denon,4,-1,106
+D2 CASS REW << (<<),Denon,4,-1,107
 D2 CASS PLAY >,Denon,4,-1,108
-D2 CASS STOP[] (,,),Denon,4,-1,110
+D2 CASS STOP[] ,Denon,4,-1,110

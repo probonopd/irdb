@@ -39,7 +39,7 @@ X,Denon,24,-1,28
 STOP [],Denon,24,-1,28
 Y,Denon,24,-1,29
 1,Denon,24,-1,30
-PAUSE ,,,Denon,24,-1,30
+PAUSE,Denon,24,-1,30
 2,Denon,24,-1,31
 3,Denon,24,-1,32
 NEXT,Denon,24,-1,32

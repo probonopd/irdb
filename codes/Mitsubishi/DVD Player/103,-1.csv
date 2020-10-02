@@ -17,12 +17,12 @@ REPEAT,Mitsubishi,103,-1,23
 4,Mitsubishi,103,-1,24
 DISPLAY,Mitsubishi,103,-1,27
 PAUSE,Mitsubishi,103,-1,28
-PAUSE ,,,Mitsubishi,103,-1,28
-PAUSE/STEP ,,/,,>,Mitsubishi,103,-1,28
+PAUSE ,Mitsubishi,103,-1,28
+PAUSE/STEP />,Mitsubishi,103,-1,28
 +10,Mitsubishi,103,-1,30
 5,Mitsubishi,103,-1,32
 SKIP >>,Mitsubishi,103,-1,36
-SKIP >>,,Mitsubishi,103,-1,36
+SKIP >>,Mitsubishi,103,-1,36
 SCAN >>,Mitsubishi,103,-1,37
 SEARCH >>,Mitsubishi,103,-1,37
 FWD >>,Mitsubishi,103,-1,37
@@ -30,7 +30,7 @@ FL DIMMER,Mitsubishi,103,-1,39
 6,Mitsubishi,103,-1,40
 3D-DNR,Mitsubishi,103,-1,43
 SKIP <<,Mitsubishi,103,-1,44
-SKIP ,<<,Mitsubishi,103,-1,44
+SKIP <<,Mitsubishi,103,-1,44
 SCAN <<,Mitsubishi,103,-1,45
 SEARCH <<,Mitsubishi,103,-1,45
 REV <<,Mitsubishi,103,-1,45
@@ -38,7 +38,7 @@ REV <<,Mitsubishi,103,-1,45
 SLOW MOTION -,Mitsubishi,103,-1,52
 SLOW MOTION +,Mitsubishi,103,-1,52
 SLOW MOTION >>,Mitsubishi,103,-1,52
-SLOW ,>,Mitsubishi,103,-1,52
+SLOW >,Mitsubishi,103,-1,52
 ENTER,Mitsubishi,103,-1,53
 CURSOR ENTER,Mitsubishi,103,-1,53
 OPEN/CLOSE,Mitsubishi,103,-1,54

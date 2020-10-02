@@ -1,9 +1,9 @@
 functionname,protocol,device,subdevice,function
 CD STOP [],JVC,179,-1,67
 CD PLAY >,JVC,179,-1,76
-CD PAUSE ,,,JVC,179,-1,77
-CD ,<<,JVC,179,-1,88
-CD >>,,JVC,179,-1,89
+CD PAUSE ,JVC,179,-1,77
+CD ,<<JVC,179,-1,88
+CD >>,JVC,179,-1,89
 TV 1,JVC,179,-1,97
 TV 2,JVC,179,-1,98
 TV 3,JVC,179,-1,99

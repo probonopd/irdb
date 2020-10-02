@@ -130,7 +130,7 @@ SHUTTLE REVERSE,G.I. Cable,0,-1,30
 BACK <<,G.I. Cable,0,-1,30
 REW,G.I. Cable{1},0,-1,30
 PAUSE,G.I. Cable,0,-1,31
-PAUSE ,,,G.I. Cable,0,-1,31
+PAUSE ,G.I. Cable,0,-1,31
 PIP ON/OFF,G.I. Cable,0,-1,34
 SWAP,G.I. Cable,0,-1,35
 PIP SWAP,G.I. Cable,0,-1,35

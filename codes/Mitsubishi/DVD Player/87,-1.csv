@@ -15,7 +15,7 @@ VCR CHANNEL V,Mitsubishi,87,-1,18
 VCR STOP[],Mitsubishi,87,-1,20
 VCR JOG/ADJ-(IND SRC,Mitsubishi,87,-1,22
 VCR 4,Mitsubishi,87,-1,24
-VCR PAUSE,,,Mitsubishi,87,-1,28
+VCR PAUSE,Mitsubishi,87,-1,28
 VCR 5,Mitsubishi,87,-1,32
 VCR FFWD>>,Mitsubishi,87,-1,36
 VCR DISPLAY,Mitsubishi,87,-1,39

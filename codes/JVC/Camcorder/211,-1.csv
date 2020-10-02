@@ -1,9 +1,9 @@
 functionname,protocol,device,subdevice,function
 STOP,JVC,211,-1,3
-SLOW <,,JVC,211,-1,5
+SLOW <,JVC,211,-1,5
 FAST FORWARD >>,JVC,211,-1,6
 REWIND <<,JVC,211,-1,7
-SLOW ,>,JVC,211,-1,8
+SLOW >,JVC,211,-1,8
 PLAY,JVC,211,-1,12
 PAUSE,JVC,211,-1,13
 AUDIO MONITOR,JVC,211,-1,23

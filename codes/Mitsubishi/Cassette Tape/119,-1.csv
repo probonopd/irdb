@@ -23,8 +23,8 @@ TAPE1 STOP [],Mitsubishi,119,-1,148
 TAPE2 STOP [],Mitsubishi,119,-1,149
 TAPE1 REPEAT,Mitsubishi,119,-1,151
 TAPE1 4,Mitsubishi,119,-1,152
-TAPE1 PAUSE ,,,Mitsubishi,119,-1,156
-TAPE2 PAUSE ,,,Mitsubishi,119,-1,157
+TAPE1 PAUSE ,Mitsubishi,119,-1,156
+TAPE2 PAUSE ,Mitsubishi,119,-1,157
 TAPE1 5,Mitsubishi,119,-1,160
 TAPE1 AUDIO ^,Mitsubishi,119,-1,162
 TAPE1 FF >>,Mitsubishi,119,-1,164

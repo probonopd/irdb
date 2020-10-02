@@ -14,7 +14,7 @@ SCAN <<,Pioneer,168,-1,17
 CHP/TM,Pioneer,168,-1,19
 STOP [],Pioneer,168,-1,22
 PLAY >,Pioneer,168,-1,23
-PAUSE ,,,Pioneer,168,-1,24
+PAUSE ,Pioneer,168,-1,24
 MEMORY REVIEW,Pioneer,168,-1,25
 OPEN/CLOSE,Pioneer,168,-1,25
 POWER,Pioneer,168,-1,28
@@ -28,10 +28,10 @@ REPEAT A/B,Pioneer,168,-1,72
 PGM,Pioneer,168,-1,76
 DISC SIDE A,Pioneer,168,-1,77
 DISC SIDE B,Pioneer,168,-1,78
-STEP <,,,Pioneer,168,-1,80
-SKIP >>,,Pioneer,168,-1,82
-SKIP ,<<,Pioneer,168,-1,83
-STEP ,,>,Pioneer,168,-1,84
+STEP <,Pioneer,168,-1,80
+SKIP >>,Pioneer,168,-1,82
+SKIP <<,Pioneer,168,-1,83
+STEP >,Pioneer,168,-1,84
 MULTI-SPEED <,Pioneer,168,-1,85
 MULTI-SPEED >,Pioneer,168,-1,88
 HILITE/INTRO,Pioneer,168,-1,90

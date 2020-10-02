@@ -25,8 +25,8 @@ STOP [],Pioneer,168,-1,22
 STOP/OPEN,Pioneer,168,-1,22
 PLAY >,Pioneer,168,-1,23
 PLAY>,Pioneer,168,-1,23
-PAUSE ,,,Pioneer,168,-1,24
-PAUSE,,,Pioneer,168,-1,24
+PAUSE,Pioneer,168,-1,24
+PAUSE,Pioneer,168,-1,24
 OPEN/CLOSE,Pioneer,168,-1,25
 LAST MEMORY,Pioneer,168,-1,25
 POWER,Pioneer,168,-1,28
@@ -80,16 +80,16 @@ SIDE A,Pioneer,168,-1,77
 DISC SIDE A,Pioneer,168,-1,77
 SIDE B,Pioneer,168,-1,78
 DISC SIDE B,Pioneer,168,-1,78
-FRAME <,,,Pioneer,168,-1,80
-STEP <,,,Pioneer,168,-1,80
-FS (FWD SRCH) >>,,Pioneer,168,-1,82
-FS >>,,Pioneer,168,-1,82
-SRCH FWD (FS)>>,,Pioneer,168,-1,82
-RS (REV SRCH) ,<<,Pioneer,168,-1,83
-RS ,<<,Pioneer,168,-1,83
-SRCH REV (RS),<<,Pioneer,168,-1,83
-FRAME ,,>,Pioneer,168,-1,84
-STEP ,,>,Pioneer,168,-1,84
+FRAME <,Pioneer,168,-1,80
+STEP <,Pioneer,168,-1,80
+FS (FWD SRCH) >>,Pioneer,168,-1,82
+FS >>,Pioneer,168,-1,82
+SRCH FWD (FS)>>,Pioneer,168,-1,82
+RS (REV SRCH) <<,Pioneer,168,-1,83
+RS <<,Pioneer,168,-1,83
+SRCH REV (RS)<<,Pioneer,168,-1,83
+FRAME >,Pioneer,168,-1,84
+STEP >,Pioneer,168,-1,84
 SEARCH <,Pioneer,168,-1,85
 SEARCH >,Pioneer,168,-1,88
 HILITE/INTRO SCAN,Pioneer,168,-1,90

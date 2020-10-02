@@ -42,8 +42,8 @@ VCR 4,Mitsubishi,87,-1,24
 VCRA 4,Mitsubishi,87,-1,24
 VCR INPUT V,Mitsubishi,87,-1,26
 VCR INPUT ^,Mitsubishi,87,-1,26
-VCR PAUSE ,,,Mitsubishi,87,-1,28
-VCRA PAUSE ,,,Mitsubishi,87,-1,28
+VCR PAUSE ,Mitsubishi,87,-1,28
+VCRA PAUSE ,Mitsubishi,87,-1,28
 VCR 5 (THU),Mitsubishi,87,-1,32
 VCR 5,Mitsubishi,87,-1,32
 VCRA 5,Mitsubishi,87,-1,32
@@ -135,8 +135,8 @@ INDEX SRCH -,Mitsubishi,87,-1,150
 VCRB <,Mitsubishi,87,-1,150
 4,Mitsubishi,87,-1,152
 VCRB 4,Mitsubishi,87,-1,152
-PAUSE ,,,Mitsubishi,87,-1,156
-VCRB PAUSE ,,,Mitsubishi,87,-1,156
+PAUSE ,Mitsubishi,87,-1,156
+VCRB PAUSE ,Mitsubishi,87,-1,156
 5,Mitsubishi,87,-1,160
 VCRB 5,Mitsubishi,87,-1,160
 FF/SRCH >>,Mitsubishi,87,-1,164
@@ -154,7 +154,7 @@ OFF-T OTR,Mitsubishi,87,-1,175
 VCRB SLEEP,Mitsubishi,87,-1,175
 7,Mitsubishi,87,-1,176
 VCRB 7,Mitsubishi,87,-1,176
-SLOW ,>,Mitsubishi,87,-1,180
+SLOW >,Mitsubishi,87,-1,180
 ENTER,Mitsubishi,87,-1,181
 VCRB ENTER,Mitsubishi,87,-1,181
 8,Mitsubishi,87,-1,184

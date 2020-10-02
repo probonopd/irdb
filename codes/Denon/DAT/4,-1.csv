@@ -11,12 +11,12 @@ functionname,protocol,device,subdevice,function
 9,Denon,4,-1,202
 OPEN/CLOSE,Denon,4,-1,208
 REPEAT,Denon,4,-1,212
-SRCH >>,,Denon,4,-1,216
-SRCH ,<<,Denon,4,-1,217
+SRCH >>,Denon,4,-1,216
+SRCH <<,Denon,4,-1,217
 FF >>,Denon,4,-1,218
 REW <<,Denon,4,-1,219
 PLAY >,Denon,4,-1,220
-PAUSE ,,,Denon,4,-1,221
+PAUSE ,Denon,4,-1,221
 STOP [],Denon,4,-1,222
 REC/MUTE,Denon,4,-1,223
 MODE COUNTER,Denon,4,-1,225

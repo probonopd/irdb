@@ -9,9 +9,9 @@ JOG REV,Denon,6,-1,121
 POWER,Denon,6,-1,129
 OPEN/CLOSE,Denon,6,-1,130
 STOP [],Denon,6,-1,131
-PLAY>/PAUSE,,,Denon,6,-1,132
->>,,Denon,6,-1,134
-,<<,Denon,6,-1,135
+PLAY>/PAUSE,Denon,6,-1,132
+>>,Denon,6,-1,134
+<<,Denon,6,-1,135
 >>,Denon,6,-1,136
 <<,Denon,6,-1,137
 PROGRAM,Denon,6,-1,138
@@ -27,8 +27,8 @@ MULTI SPEED >,Denon,6,-1,152
 MULTI SPEED <,Denon,6,-1,153
 STROBE +,Denon,6,-1,154
 STROBE -,Denon,6,-1,155
-,,>,Denon,6,-1,156
-<,,,Denon,6,-1,157
+>,Denon,6,-1,156
+<,Denon,6,-1,157
 RANDOM,Denon,6,-1,158
 AUTO SPACE,Denon,6,-1,159
 0,Denon,6,-1,160

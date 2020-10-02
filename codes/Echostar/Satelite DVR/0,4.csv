@@ -23,7 +23,7 @@ RECALL,Dish_Network,0,4,27
 CURSOR LEFT (THEME),Dish_Network,0,4,28
 CURSOR DOWN,Dish_Network,0,4,30
 RECORD,Dish_Network,0,4,31
-PAUSE ,,Dish_Network,0,4,32
+PAUSE ,Dish_Network,0,4,32
 STOP,Dish_Network,0,4,33
 *,Dish_Network,0,4,37
 # - SEARCH,Dish_Network,0,4,38
