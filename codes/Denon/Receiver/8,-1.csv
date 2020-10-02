@@ -1,16 +1,16 @@
 functionname,protocol,device,subdevice,function
 CD REPEAT,Denon,8,-1,84
 REPEAT,Denon,8,-1,84
-CD SKIP >>,,Denon,8,-1,88
+CD SKIP >>,Denon,8,-1,88
 SKIP +,Denon,8,-1,88
-CD ,>>,Denon,8,-1,88
+CD >>,Denon,8,-1,88
 CD-FF,Denon,8,-1,88
-CD SEARCH >>, (>>),Denon,8,-1,88
-CD SKIP ,<<,Denon,8,-1,89
+CD SEARCH >> (>>),Denon,8,-1,88
+CD SKIP <<,Denon,8,-1,89
 SKIP -,Denon,8,-1,89
-CD ,<<,Denon,8,-1,89
+CD <<,Denon,8,-1,89
 CD-RW,Denon,8,-1,89
-CD SEARCH ,<< (<<),Denon,8,-1,89
+CD SEARCH << (<<),Denon,8,-1,89
 CD SCAN >>,Denon,8,-1,90
 >>,Denon,8,-1,90
 FORWARD,Denon,8,-1,90
@@ -26,12 +26,12 @@ CD SCAN REV <<,Denon,8,-1,91
 CD PLAY >,Denon,8,-1,92
 PLAY,Denon,8,-1,92
 CD-PLAY,Denon,8,-1,92
-CD PAUSE ,,,Denon,8,-1,93
+CD PAUSE ,Denon,8,-1,93
 A/B,Denon,8,-1,93
 PAUSE,Denon,8,-1,93
 PAUSE A/B,Denon,8,-1,93
 CD-PAUSE,Denon,8,-1,93
-CD PAUSE ,, (A/B),Denon,8,-1,93
+CD PAUSE (A/B),Denon,8,-1,93
 CD STOP [],Denon,8,-1,94
 STOP,Denon,8,-1,94
 CD-STOP,Denon,8,-1,94

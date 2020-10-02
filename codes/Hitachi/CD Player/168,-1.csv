@@ -16,7 +16,7 @@ SEARCH <<,Pioneer,168,-1,17
 CHAP/FRAME-TIME,Pioneer,168,-1,19
 STOP/OPEN [],Pioneer,168,-1,22
 PLAY >,Pioneer,168,-1,23
-PAUSE ,,,Pioneer,168,-1,24
+PAUSE ,Pioneer,168,-1,24
 POWER,Pioneer,168,-1,28
 AUDIO MONITOR,Pioneer,168,-1,30
 +10,Pioneer,168,-1,31
@@ -28,9 +28,9 @@ MULTI SPEED -,Pioneer,168,-1,70
 MULTI SPEED +,Pioneer,168,-1,71
 REPEAT A,Pioneer,168,-1,72
 PROGRAM,Pioneer,168,-1,76
-STILL/STEP <,,,Pioneer,168,-1,80
-CHAPTER/TRACK >>,,Pioneer,168,-1,82
-CHAPTER/TRACK ,<<,Pioneer,168,-1,83
-STILL/STEP ,,>,Pioneer,168,-1,84
+STILL/STEP <,Pioneer,168,-1,80
+CHAPTER/TRACK >>,Pioneer,168,-1,82
+CHAPTER/TRACK <<,Pioneer,168,-1,83
+STILL/STEP >,Pioneer,168,-1,84
 MULTI SPEED <,Pioneer,168,-1,85
 MULTI SPEED >,Pioneer,168,-1,88

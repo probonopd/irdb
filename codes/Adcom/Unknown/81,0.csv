@@ -16,10 +16,10 @@ VIDEO/TAPE 2,Aiwa,81,0,14
 TAPE 1,Aiwa,81,0,16
 TUNER,Aiwa,81,0,17
 PLAY >,Aiwa,81,0,18
-PAUSE ,,,Aiwa,81,0,19
+PAUSE ,Aiwa,81,0,19
 STOP [],Aiwa,81,0,23
 FM/AM,Aiwa,81,0,25
-TRACK ,<<,Aiwa,81,0,26
-TRACK >>,,Aiwa,81,0,27
+TRACK <<,Aiwa,81,0,26
+TRACK >>,Aiwa,81,0,27
 VOLUME <,Aiwa,81,0,30
 VOLUME >,Aiwa,81,0,31

@@ -27,7 +27,7 @@ VCR PLAY >,Emerson,40,-1,10
 PAUSE,Emerson,40,-1,11
 SLOW +,Emerson,40,-1,11
 TV POWER,NEC1,40,-1,11
-VCR PAUSE ,,,Emerson,40,-1,11
+VCR PAUSE ,Emerson,40,-1,11
 REWIND <<,Emerson,40,-1,12
 <<REWIND,Emerson,40,-1,12
 CURSOR - LEFT,Emerson,40,-1,12

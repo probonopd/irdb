@@ -26,16 +26,16 @@ REPEAT,Mitsubishi,119,-1,215
 4,Mitsubishi,119,-1,216
 DISPLAY,Mitsubishi,119,-1,219
 PAUSE,Mitsubishi,119,-1,220
-PAUSE ,,,Mitsubishi,119,-1,220
+PAUSE ,Mitsubishi,119,-1,220
 RANDOM,Mitsubishi,119,-1,223
 5,Mitsubishi,119,-1,224
 DISC 2,Mitsubishi,119,-1,227
-SKIP >>,,Mitsubishi,119,-1,228
-FS (FWD SRCH) >>,,Mitsubishi,119,-1,228
+SKIP >>,Mitsubishi,119,-1,228
+FS (FWD SRCH) >>,Mitsubishi,119,-1,228
 6,Mitsubishi,119,-1,232
 DISC 3,Mitsubishi,119,-1,235
-SKIP ,<<,Mitsubishi,119,-1,236
-RS (REV SRCH) ,<<,Mitsubishi,119,-1,236
+SKIP <<,Mitsubishi,119,-1,236
+RS (REV SRCH) <<,Mitsubishi,119,-1,236
 INTRO SCAN,Mitsubishi,119,-1,238
 INTRO,Mitsubishi,119,-1,238
 7,Mitsubishi,119,-1,240

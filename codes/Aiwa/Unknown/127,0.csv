@@ -14,11 +14,11 @@ CH,Aiwa,127,0,12
 TV/VCR,Aiwa,127,0,13
 INPUT,Aiwa,127,0,14
 COUNTER DISPLAY,Aiwa,127,0,16
-F.FWD >> / >>,,Aiwa,127,0,17
-REW << / ,<<,Aiwa,127,0,18
+F.FWD >> / >>,Aiwa,127,0,17
+REW << / <<,Aiwa,127,0,18
 -REC/QTR-,Aiwa,127,0,20
 PLAY >,Aiwa,127,0,21
-PAUSE/STILL ,,,Aiwa,127,0,23
+PAUSE/STILL,Aiwa,127,0,23
 STOP [],Aiwa,127,0,26
 T-REC,Aiwa,127,0,30
 CANCEL,Aiwa,127,0,31

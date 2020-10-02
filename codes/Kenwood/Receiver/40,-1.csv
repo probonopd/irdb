@@ -8,7 +8,7 @@ VCR2 ANY V,Emerson,40,-1,8
 VIDEO2 PLAY (P.CALL),Emerson,40,-1,10
 VCR2 PLAY >,Emerson,40,-1,10
 VIDEO2 PAUSE (AUTO),Emerson,40,-1,11
-VCR2 PAUSE ,,,Emerson,40,-1,11
+VCR2 PAUSE ,Emerson,40,-1,11
 VIDEO2 << (TUNING),Emerson,40,-1,12
 VCR2 REW <<,Emerson,40,-1,12
 VIDEO2 CH ^ (ANY ^),Emerson,40,-1,16

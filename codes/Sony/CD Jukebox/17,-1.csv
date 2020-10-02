@@ -51,17 +51,17 @@ TRACK 20 (Y),Sony12,17,-1,41
 REPEAT,Sony12,17,-1,44
 POWER ON (CD-1),Sony12,17,-1,46
 POWER OFF (CD-1),Sony12,17,-1,47
-AMS ,<<,Sony12,17,-1,48
+AMS <<,Sony12,17,-1,48
 << SKIP,Sony12,17,-1,48
 SKIP <<,Sony12,17,-1,48
 TRACK -,Sony12,17,-1,48
-,<<AMS,Sony12,17,-1,48
+<<AMS,Sony12,17,-1,48
 Z - TRACK ( - ),Sony12,17,-1,48
-AMS >>,,Sony12,17,-1,49
+AMS >>,Sony12,17,-1,49
 >> SKIP,Sony12,17,-1,49
 SKIP >>,Sony12,17,-1,49
 TRACK +,Sony12,17,-1,49
-AMS>>,,Sony12,17,-1,49
+AMS>>,Sony12,17,-1,49
 Z - TRACK ( + ),Sony12,17,-1,49
 PLAY >,Sony12,17,-1,50
 PLAY,Sony12,17,-1,50
@@ -80,7 +80,7 @@ SHUFFLE,Sony12,17,-1,53
 STOP [],Sony12,17,-1,56
 STOP,Sony12,17,-1,56
 Z - STOP,Sony12,17,-1,56
-PAUSE ,,,Sony12,17,-1,57
+PAUSE ,Sony12,17,-1,57
 PAUSE,Sony12,17,-1,57
 Z - PAUSE,Sony12,17,-1,57
 MUSIC SCAN,Sony12,17,-1,60

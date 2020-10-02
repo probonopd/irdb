@@ -142,15 +142,15 @@ INPUT DOWN,Mitsubishi,87,-1,26
 PROG LIST ON/OFF,Mitsubishi,87,-1,27
 PROG.LIST ON/OFF,Mitsubishi,87,-1,27
 DATA ON SCREEN,Mitsubishi,87,-1,27
-PAUSE/STILL ,,,Mitsubishi,87,-1,28
-STILL/PAUSE ,,,Mitsubishi,87,-1,28
-PAUSE ,,,Mitsubishi,87,-1,28
-VCR PAUSE,,,Mitsubishi,87,-1,28
+PAUSE/STILL ,Mitsubishi,87,-1,28
+STILL/PAUSE ,Mitsubishi,87,-1,28
+PAUSE ,Mitsubishi,87,-1,28
+VCR PAUSE,Mitsubishi,87,-1,28
 PAUSE,Mitsubishi,87,-1,28
-VCR PAUSE ,,,Mitsubishi,87,-1,28
+VCR PAUSE ,Mitsubishi,87,-1,28
 PAUSE / STILL,Mitsubishi,87,-1,28
-VCRA PAUSE ,,,Mitsubishi,87,-1,28
-VCRA PAUSE/STILL ,,,Mitsubishi,87,-1,28
+VCRA PAUSE ,Mitsubishi,87,-1,28
+VCRA PAUSE/STILL ,Mitsubishi,87,-1,28
 SET,Mitsubishi,87,-1,29
 SET TIME COUNTER,Mitsubishi,87,-1,29
 PROG REC ON/OFF,Mitsubishi,87,-1,31
@@ -228,10 +228,10 @@ VCR Q.PROG/VCR PLUS+,Mitsubishi,87,-1,51
 VCRA QUICK PROGRAM,Mitsubishi,87,-1,51
 QUICK PROGRAM/VCR+,Mitsubishi,87,-1,51
 VCRA QUICKPRM/VCR+,Mitsubishi,87,-1,51
-SLOW ,>,Mitsubishi,87,-1,52
-INDEX SEARCH SLOW ,>,Mitsubishi,87,-1,52
-FR ADV SLOW ,>,Mitsubishi,87,-1,52
-SLOW/FR ADV ,>,Mitsubishi,87,-1,52
+SLOW >,Mitsubishi,87,-1,52
+INDEX SEARCH SLOW >,Mitsubishi,87,-1,52
+FR ADV SLOW >,Mitsubishi,87,-1,52
+SLOW/FR ADV >,Mitsubishi,87,-1,52
 SLOW,Mitsubishi,87,-1,52
 SLOW/FRAME ADV,Mitsubishi,87,-1,52
 SLOW / FRAME ADVANCE,Mitsubishi,87,-1,52
@@ -262,8 +262,8 @@ INPUT (X2),Mitsubishi,87,-1,58
 VCRA INPUT SELECT,Mitsubishi,87,-1,58
 SET -,Mitsubishi,87,-1,59
 COUNTER RESET,Mitsubishi,87,-1,59
-SLOW <,,Mitsubishi,87,-1,60
-SLOW/FR ADV <,,Mitsubishi,87,-1,60
+SLOW <,Mitsubishi,87,-1,60
+SLOW/FR ADV <,Mitsubishi,87,-1,60
 SKIP SEARCH,Mitsubishi,87,-1,61
 INTRO,Mitsubishi,87,-1,61
 VCRA SRCH SKIP,Mitsubishi,87,-1,61
@@ -407,8 +407,8 @@ VCRB 4,Mitsubishi,87,-1,152
 4,Mitsubishi,87,-1,152
 VCRB PAUSE,Mitsubishi,87,-1,156
 PAUSE,Mitsubishi,87,-1,156
-VCRB PAUSE ,,,Mitsubishi,87,-1,156
-VCRB PAUSE/STILL ,,,Mitsubishi,87,-1,156
+VCRB PAUSE ,Mitsubishi,87,-1,156
+VCRB PAUSE/STILL ,Mitsubishi,87,-1,156
 VCRB 5,Mitsubishi,87,-1,160
 5,Mitsubishi,87,-1,160
 VCRB FF >>,Mitsubishi,87,-1,164

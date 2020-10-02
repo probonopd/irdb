@@ -15,7 +15,7 @@ SCAN <<,Pioneer,168,-1,17
 CHAPTER/FRAME TIME,Pioneer,168,-1,19
 STOP/EJECT [],Pioneer,168,-1,22
 PLAY >,Pioneer,168,-1,23
-PAUSE ,,,Pioneer,168,-1,24
+PAUSE ,Pioneer,168,-1,24
 POWER,Pioneer,168,-1,28
 EDIT,Pioneer,168,-1,29
 AUDIO MONITOR,Pioneer,168,-1,30
@@ -34,10 +34,10 @@ REPEAT A,Pioneer,168,-1,72
 PROGRAM,Pioneer,168,-1,76
 DISC SIDE A,Pioneer,168,-1,77
 DISC SIDE B,Pioneer,168,-1,78
-STILL/STEP <,,,Pioneer,168,-1,80
-SKIP >>,,Pioneer,168,-1,82
-SKIP ,<<,Pioneer,168,-1,83
-STILL/STEP ,,>,Pioneer,168,-1,84
+STILL/STEP <,Pioneer,168,-1,80
+SKIP >>,Pioneer,168,-1,82
+SKIP <<,Pioneer,168,-1,83
+STILL/STEP >,Pioneer,168,-1,84
 MULTI SPEED <,Pioneer,168,-1,85
 MULTI SPEED >,Pioneer,168,-1,88
 HILITE/INTRO,Pioneer,168,-1,90

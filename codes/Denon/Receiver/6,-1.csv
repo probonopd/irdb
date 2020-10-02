@@ -3,11 +3,11 @@ VDP POWER,Denon,6,-1,129
 VDP POWER (DISC SKIP,Denon,6,-1,129
 VDP STOP [],Denon,6,-1,131
 VDP PLAY >,Denon,6,-1,132
-VDP PAUSE ,,,Denon,6,-1,133
-VDP SKIP >>,,Denon,6,-1,134
-VDP ,>>,Denon,6,-1,134
-VDP SKIP ,<<,Denon,6,-1,135
-VDP ,<<,Denon,6,-1,135
+VDP PAUSE ,Denon,6,-1,133
+VDP SKIP >>,Denon,6,-1,134
+VDP >>,Denon,6,-1,134
+VDP SKIP <<,Denon,6,-1,135
+VDP <<,Denon,6,-1,135
 VDP SCAN >>,Denon,6,-1,136
 ,Denon,6,-1,136
 VDP >>,Denon{2},6,-1,136

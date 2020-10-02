@@ -39,7 +39,7 @@ CHANNEL +,Dish_Network,0,4,30
 CURSOR DOWN,Dish_Network,0,4,30
 RECORD,Dish_Network,0,4,31
 PAUSE,Dish_Network,0,4,32
-PAUSE ,,Dish_Network,0,4,32
+PAUSE ,Dish_Network,0,4,32
 STOP,Dish_Network,0,4,33
 * FORMAT,Dish_Network,0,4,37
 *,Dish_Network,0,4,37

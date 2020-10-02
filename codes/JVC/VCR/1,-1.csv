@@ -10,22 +10,22 @@ FFWD >>,Akai,1,-1,6
 REW/SHUT.SRCH <<,Akai,1,-1,7
 REW <</SHUTTLE <<,Akai,1,-1,7
 REW <<,Akai,1,-1,7
-SLOW ,>,Akai,1,-1,8
+SLOW >,Akai,1,-1,8
 OFF,Akai,1,-1,10
 POWER,Akai,1,-1,11
 PLAY >,Akai,1,-1,12
-PAUSE/STILL ,,,Akai,1,-1,13
+PAUSE/STILL ,Akai,1,-1,13
 TV CH/SET +,Sony12,1,-1,16
 TV CH/SET -,Sony12,1,-1,17
 VOLUME +,Sony12,1,-1,18
 TV/VIDEO,Akai,1,-1,19
 VOLUME -,Sony12,1,-1,19
 VIDEO/TV,Akai,1,-1,19
-SEARCH FWD >>,,Akai,1,-1,20
+SEARCH FWD >>,Akai,1,-1,20
 TV POWER,Sony12,1,-1,21
 TV MENU (RA EDIT),Sony12,1,-1,21
 TV MENU,Sony12,1,-1,21
-SEARCH REV ,<<,Akai,1,-1,21
+SEARCH REV <<,Akai,1,-1,21
 FR ADV,Akai,1,-1,22
 CHANNEL -,Akai,1,-1,24
 CHANNEL +,Akai,1,-1,25

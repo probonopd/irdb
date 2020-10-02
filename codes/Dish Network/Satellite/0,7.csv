@@ -38,7 +38,7 @@ CURSOR LEFT,Dish_Network,0,7,28
 CURSOR DOWN,Dish_Network,0,7,30
 CHANNEL -,Dish_Network,0,7,30
 RECORD,Dish_Network,0,7,31
-PAUSE ,,Dish_Network,0,7,32
+PAUSE ,Dish_Network,0,7,32
 PAUSE,Dish_Network,0,7,32
 STOP,Dish_Network,0,7,33
 *,Dish_Network,0,7,37

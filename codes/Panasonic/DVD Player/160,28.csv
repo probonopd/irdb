@@ -12,9 +12,9 @@ PLAY,Panasonic,160,28,10
 0,Panasonic,160,28,25
 POWER,Panasonic,160,28,61
 SKIP <<,Panasonic,160,28,73
-SKIP ,<<,Panasonic,160,28,73
+SKIP <<,Panasonic,160,28,73
 SKIP >>,Panasonic,160,28,74
-SKIP >>,,Panasonic,160,28,74
+SKIP >>,Panasonic,160,28,74
 >10/-/--,Panasonic,160,28,132
 TIMER,Panasonic,160,28,150
 FL DISPLAY,Panasonic,160,28,151

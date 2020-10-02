@@ -16,7 +16,7 @@ TV 0,Sony12,1,-1,9
 TV +10,Sony12,1,-1,10
 TV ENTER,Sony12,1,-1,11
 VCR1 PLAY >,Akai,1,-1,12
-VCR1 PAUSE ,,,Akai,1,-1,13
+VCR1 PAUSE ,Akai,1,-1,13
 TV CH ^ (ANY ^),Sony12,1,-1,16
 TV CH V (ANY V),Sony12,1,-1,17
 TV VOL ^ (P.CALL >),Sony12,1,-1,18

@@ -11,7 +11,7 @@ functionname,protocol,device,subdevice,function
 [2] VCR/TV,NEC1,25,231,10
 [2] FF/SRCH >>,NEC1,25,231,12
 [2] REW/SRCH <<,NEC1,25,231,13
-[2] PAUSE/STILL ,,,NEC1,25,231,14
+[2] PAUSE/STILL ,NEC1,25,231,14
 [2] 1,NEC1,25,231,16
 [2] 2,NEC1,25,231,17
 [2] 3,NEC1,25,231,18

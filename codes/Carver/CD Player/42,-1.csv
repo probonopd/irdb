@@ -13,7 +13,7 @@ functionname,protocol,device,subdevice,function
 INTRO.,NEC1,42,-1,12
 RANDOM,NEC1,42,-1,13
 PLAY >,NEC1,42,-1,16
-,PAUSE ,,STOP,NEC1,42,-1,19
+PAUSE/STOP,NEC1,42,-1,19
 REPEAT,NEC1,42,-1,22
 DISPLAY,NEC1,42,-1,23
 FWD >>,NEC1,42,-1,24

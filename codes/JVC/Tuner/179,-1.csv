@@ -1,7 +1,7 @@
 functionname,protocol,device,subdevice,function
 CD STOP [],JVC,179,-1,67
-CD SKIP ,<<,JVC,179,-1,88
-CD SKIP >>,,JVC,179,-1,89
+CD SKIP <<,JVC,179,-1,88
+CD SKIP >>,JVC,179,-1,89
 CD 0,JVC,179,-1,96
 CD 1,JVC,179,-1,97
 CD 2,JVC,179,-1,98

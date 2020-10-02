@@ -64,16 +64,16 @@ CONTINUE,Denon,8,-1,87
 SKIP >>,Denon,8,-1,88
 TRACK >>,Denon,8,-1,88
 NEXT,Denon,8,-1,88
-SKIP >>,,Denon,8,-1,88
-SKIP FWD >>,,Denon,8,-1,88
+SKIP >>,Denon,8,-1,88
+SKIP FWD >>,Denon,8,-1,88
 >>I,Denon,8,-1,88
 AUTO SEARCH >>,Denon,8,-1,88
 TRACK +,Denon,8,-1,88
 SKIP <<,Denon,8,-1,89
 TRACK <<,Denon,8,-1,89
 PREV.,Denon,8,-1,89
-SKIP ,<<,Denon,8,-1,89
-SKIP REW ,<<,Denon,8,-1,89
+SKIP <<,Denon,8,-1,89
+SKIP REW <<,Denon,8,-1,89
 I<<,Denon,8,-1,89
 AUTO SEARCH <<,Denon,8,-1,89
 TRACK -,Denon,8,-1,89
@@ -91,7 +91,7 @@ REW <<,Denon,8,-1,91
 PLAY,Denon,8,-1,92
 PLAY >,Denon,8,-1,92
 PAUSE,Denon,8,-1,93
-PAUSE ,,,Denon,8,-1,93
+PAUSE ,Denon,8,-1,93
 STOP,Denon,8,-1,94
 STOP [],Denon,8,-1,94
 TIME SEARCH,Denon,8,-1,96

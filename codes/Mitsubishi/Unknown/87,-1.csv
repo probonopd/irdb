@@ -49,8 +49,8 @@ VCRA 4,Mitsubishi,87,-1,24
 VCR 4 (WED),Mitsubishi,87,-1,24
 VCR 4,Mitsubishi,87,-1,24
 VCRA INPUT V,Mitsubishi,87,-1,26
-VCRA PAUSE ,,,Mitsubishi,87,-1,28
-VCR PAUSE ,,,Mitsubishi,87,-1,28
+VCRA PAUSE ,Mitsubishi,87,-1,28
+VCR PAUSE ,Mitsubishi,87,-1,28
 VCRA 5,Mitsubishi,87,-1,32
 VCR 5 (THU),Mitsubishi,87,-1,32
 VCR 5,Mitsubishi,87,-1,32
@@ -168,8 +168,8 @@ VCRB 4,Mitsubishi,87,-1,152
 4,Mitsubishi,87,-1,152
 VCRB INPUT V,Mitsubishi,87,-1,154
 INPUT V,Mitsubishi,87,-1,154
-VCRB PAUSE ,,,Mitsubishi,87,-1,156
-PAUSE/STILL ,,,Mitsubishi,87,-1,156
+VCRB PAUSE ,Mitsubishi,87,-1,156
+PAUSE/STILL ,Mitsubishi,87,-1,156
 VCRB 5,Mitsubishi,87,-1,160
 5,Mitsubishi,87,-1,160
 VCRB VOL ^,Mitsubishi,87,-1,162

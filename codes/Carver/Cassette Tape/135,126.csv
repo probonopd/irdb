@@ -1,5 +1,5 @@
 functionname,protocol,device,subdevice,function
-PAUSE ,,,NEC1,135,126,25
+PAUSE,NEC1,135,126,25
 RECORD,NEC1,135,126,26
 PLAY >,NEC1,135,126,28
 FF >>,NEC1,135,126,29
