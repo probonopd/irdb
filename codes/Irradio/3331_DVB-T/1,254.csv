@@ -1,3 +1,4 @@
+functionname,protocol,device,subdevice,function
 1,nec,1,254,0
 POWER,nec,1,254,1
 4,nec,1,254,4
