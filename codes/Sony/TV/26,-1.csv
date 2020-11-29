@@ -1,0 +1,7 @@
+functionname,protocol,device,subdevice,function
+HDMI SCROLL,Sony12,26,-1,89
+INPUT HDMI 1,Sony15,26,-1,90
+INPUT HDMI 2,Sony15,26,-1,91
+INPUT HDMI 3,Sony15,26,-1,92
+INPUT HDMI 4,Sony15,26,-1,93
+INPUT HDMI 5,Sony15,26,-1,94
