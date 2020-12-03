@@ -242,7 +242,7 @@ Barco/Unknown_barcoRC5/0,-1.csv
 Barco/Video Projector/0,-1.csv
 Barco/Video Projector/18,-1.csv
 Barix/CD Jukebox/0,127.csv
-B.A.T./Pre-Amplifier/16,-1.csv
+B.A.T/Pre-Amplifier/16,-1.csv
 BBK/Unknown_Popcorn/4,203.csv
 BBK/Unknown_PV400s/80,-1.csv
 BBK/Unknown_RC022-03R/73,-1.csv
@@ -942,7 +942,7 @@ Dish Network/Satellite/4,0.csv
 Dish Network/Satellite/4,5.csv
 Dish Network/Satellite/48,-1.csv
 Dish Network/Satellite/8,0.csv
-DK digital/DVD Player/0,-1.csv
+DK Digital/DVD Player/0,-1.csv
 DK Digital/Unknown_Digital/0,-1.csv
 D-LINK/Media Center/8,230.csv
 D-LINK/Media Center/8,231.csv
@@ -3043,7 +3043,7 @@ starhub/Unknown_starhub/33,144.csv
 Starsat/Unknown_120/64,64.csv
 Starview/Unknown_Starview/0,249.csv
 Streamzap/Unknown_PC/35,-1.csv
-Strong/8821_DVB-T/2,2.csv
+STRONG/8821_DVB-T/2,2.csv
 STRONG/Unknown_STRONG/128,119.csv
 ST/Unknown_DTTRC-4/1,-1.csv
 ST/Unknown_HMP/8,-1.csv
