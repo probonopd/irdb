@@ -1,7 +1,7 @@
 functionname,protocol,device,subdevice,function
-PLAY/PAUSE > ,,,Akai,0,-1,1
-SKIP ,<<,Akai,0,-1,2
-SKIP >>,,Akai,0,-1,3
+PLAY/PAUSE >,Akai,0,-1,1
+SKIP <<,Akai,0,-1,2
+SKIP >>,Akai,0,-1,3
 STOP/CLEAR [],Akai,0,-1,5
 SEARCH >>,Akai,0,-1,6
 SEARCH <<,Akai,0,-1,7
