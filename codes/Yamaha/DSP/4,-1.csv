@@ -1,6 +1,6 @@
 functionname,protocol,device,subdevice,function
->>, DVD,RC6,4,-1,32
-,<< DVD,RC6,4,-1,33
+>> DVD,RC6,4,-1,32
+<< DVD,RC6,4,-1,33
 PLAY,RC6,4,-1,44
 PAUSE,RC6,4,-1,48
 STOP,RC6,4,-1,49

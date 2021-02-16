@@ -1,9 +1,9 @@
 functionname,protocol,device,subdevice,function
-TRACK >>,,NEC1,26,-1,0
-SEARCH FWD >>,,NEC1,26,-1,0
+TRACK >>,NEC1,26,-1,0
+SEARCH FWD >>,NEC1,26,-1,0
 SKIP >>,NEC1,26,-1,0
-TRACK ,<<,NEC1,26,-1,1
-SEARCH REV ,<<,NEC1,26,-1,1
+TRACK <<,NEC1,26,-1,1
+SEARCH REV <<,NEC1,26,-1,1
 SKIP <<,NEC1,26,-1,1
 STOP,NEC1,26,-1,4
 STOP [],NEC1,26,-1,4
