@@ -1,5 +1,5 @@
 functionname,protocol,device,subdevice,function
-TV/RADIO,XMP-1/2,42,17,0
+TV/RADIO,XMP-1,42,17,0
 2,XMP-1,42,17,1
 3,XMP-1,42,17,2
 4,XMP-1,42,17,3
