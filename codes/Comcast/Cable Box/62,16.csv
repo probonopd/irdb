@@ -1,6 +1,6 @@
 functionname,protocol,device,subdevice,function
-0,XMP-1/2,62,16,0
-4 - TEST 3 - ADJ 1ST,XMP-1/2,62,16,0
+0,XMP-1,62,16,0
+4 - TEST 3 - ADJ 1ST,XMP-1,62,16,0
 1,XMP-1,62,16,1
 2,XMP-1,62,16,2
 3,XMP-1,62,16,3

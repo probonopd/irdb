@@ -1,5 +1,5 @@
 functionname,protocol,device,subdevice,function
-0,XMP-1/2,10,0,0
+0,XMP-1,10,0,0
 5,XMP-1,10,0,4
 VIDEO,XMP-1,10,0,39
 ,XMP-1,10,0,68
