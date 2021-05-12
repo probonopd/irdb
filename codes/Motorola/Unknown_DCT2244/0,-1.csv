@@ -1,11 +1,11 @@
 functionname,protocol,device,subdevice,function
-KEY_0,G.I. Cable{1},0,-1,0
-KEY_1,G.I. Cable{1},0,-1,1
-KEY_2,G.I. Cable{1},0,-1,2
-KEY_3,G.I. Cable{1},0,-1,3
-KEY_4,G.I. Cable{1},0,-1,4
-KEY_5,G.I. Cable{1},0,-1,5
-KEY_6,G.I. Cable{1},0,-1,6
-KEY_7,G.I. Cable{1},0,-1,7
-KEY_8,G.I. Cable{1},0,-1,8
-KEY_9,G.I. Cable{1},0,-1,9
+KEY_0,G.I.Cable,0,-1,0
+KEY_1,G.I.Cable,0,-1,1
+KEY_2,G.I.Cable,0,-1,2
+KEY_3,G.I.Cable,0,-1,3
+KEY_4,G.I.Cable,0,-1,4
+KEY_5,G.I.Cable,0,-1,5
+KEY_6,G.I.Cable,0,-1,6
+KEY_7,G.I.Cable,0,-1,7
+KEY_8,G.I.Cable,0,-1,8
+KEY_9,G.I.Cable,0,-1,9

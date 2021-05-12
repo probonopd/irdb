@@ -1,85 +1,85 @@
 functionname,protocol,device,subdevice,function
-CBL_0,G.I. Cable{1},0,-1,0
-CBL_0,G.I. Cable{1},0,-1,0
-CBL_1,G.I. Cable{1},0,-1,1
-CBL_1,G.I. Cable{1},0,-1,1
-CBL_2,G.I. Cable{1},0,-1,2
-CBL_2,G.I. Cable{1},0,-1,2
-CBL_3,G.I. Cable{1},0,-1,3
-CBL_3,G.I. Cable{1},0,-1,3
-CBL_4,G.I. Cable{1},0,-1,4
-CBL_4,G.I. Cable{1},0,-1,4
-CBL_5,G.I. Cable{1},0,-1,5
-CBL_5,G.I. Cable{1},0,-1,5
-CBL_6,G.I. Cable{1},0,-1,6
-CBL_6,G.I. Cable{1},0,-1,6
-CBL_7,G.I. Cable{1},0,-1,7
-CBL_7,G.I. Cable{1},0,-1,7
-CBL_8,G.I. Cable{1},0,-1,8
-CBL_8,G.I. Cable{1},0,-1,8
-CBL_9,G.I. Cable{1},0,-1,9
-CBL_9,G.I. Cable{1},0,-1,9
-CBL_POWER,G.I. Cable{1},0,-1,10
-CBL_POWER,G.I. Cable{1},0,-1,10
-CBL_CHAN+,G.I. Cable{1},0,-1,11
-CBL_CHAN+,G.I. Cable{1},0,-1,11
-CBL_CHAN-,G.I. Cable{1},0,-1,12
-CBL_CHAN-,G.I. Cable{1},0,-1,12
-CBL_VOL+,G.I. Cable{1},0,-1,13
-CBL_VOL+,G.I. Cable{1},0,-1,13
-CBL_VOL-,G.I. Cable{1},0,-1,14
-CBL_VOL-,G.I. Cable{1},0,-1,14
-CBL_MUTE,G.I. Cable{1},0,-1,15
-CBL_MUTE,G.I. Cable{1},0,-1,15
-CBL_MUSIC,G.I. Cable{1},0,-1,16
-CBL_MUSIC,G.I. Cable{1},0,-1,16
-CBL_OK,G.I. Cable{1},0,-1,17
-CBL_OK,G.I. Cable{1},0,-1,17
-KEY_EXIT,G.I. Cable{1},0,-1,18
-KEY_EXIT,G.I. Cable{1},0,-1,18
-CBL_LAST,G.I. Cable{1},0,-1,19
-CBL_LAST,G.I. Cable{1},0,-1,19
-CBL_BYPASS,G.I. Cable{1},0,-1,20
-CBL_BYPASS,G.I. Cable{1},0,-1,20
-CBL_FAV,G.I. Cable{1},0,-1,21
-CBL_FAV,G.I. Cable{1},0,-1,21
-CBL_LOCK,G.I. Cable{1},0,-1,22
-CBL_LOCK,G.I. Cable{1},0,-1,22
-CBL_A,G.I. Cable{1},0,-1,23
-CBL_A,G.I. Cable{1},0,-1,23
-CBL_MENU,G.I. Cable{1},0,-1,25
-CBL_MENU,G.I. Cable{1},0,-1,25
-CBL_FF,G.I. Cable{1},0,-1,29
-CBL_FF,G.I. Cable{1},0,-1,29
-CBL_REW,G.I. Cable{1},0,-1,30
-CBL_REW,G.I. Cable{1},0,-1,30
-CBL_PAUSE,G.I. Cable{1},0,-1,31
-CBL_PAUSE,G.I. Cable{1},0,-1,31
-CBL_B,G.I. Cable{1},0,-1,39
-CBL_B,G.I. Cable{1},0,-1,39
-CBL_C,G.I. Cable{1},0,-1,40
-CBL_C,G.I. Cable{1},0,-1,40
-CBL_GUIDE,G.I. Cable{1},0,-1,48
-CBL_GUIDE,G.I. Cable{1},0,-1,48
-CBL_REC,G.I. Cable{1},0,-1,49
-CBL_REC,G.I. Cable{1},0,-1,49
-CBL_HELP,G.I. Cable{1},0,-1,50
-CBL_HELP,G.I. Cable{1},0,-1,50
-CBL_INFO,G.I. Cable{1},0,-1,51
-CBL_INFO,G.I. Cable{1},0,-1,51
-CBL_UP,G.I. Cable{1},0,-1,52
-CBL_UP,G.I. Cable{1},0,-1,52
-CBL_DOWN,G.I. Cable{1},0,-1,53
-CBL_DOWN,G.I. Cable{1},0,-1,53
-CBL_LEFT,G.I. Cable{1},0,-1,54
-CBL_LEFT,G.I. Cable{1},0,-1,54
-CBL_RIGHT,G.I. Cable{1},0,-1,55
-CBL_RIGHT,G.I. Cable{1},0,-1,55
-CBL_PLAY,G.I. Cable{1},0,-1,56
-CBL_PLAY,G.I. Cable{1},0,-1,56
-CBL_STOP,G.I. Cable{1},0,-1,57
-CBL_STOP,G.I. Cable{1},0,-1,57
-CBL_PAGE+,G.I. Cable{1},0,-1,58
-CBL_PAGE+,G.I. Cable{1},0,-1,58
-CBL_PAGE-,G.I. Cable{1},0,-1,59
-CBL_PAGE-,G.I. Cable{1},0,-1,59
+CBL_0,G.I.Cable,0,-1,0
+CBL_0,G.I.Cable,0,-1,0
+CBL_1,G.I.Cable,0,-1,1
+CBL_1,G.I.Cable,0,-1,1
+CBL_2,G.I.Cable,0,-1,2
+CBL_2,G.I.Cable,0,-1,2
+CBL_3,G.I.Cable,0,-1,3
+CBL_3,G.I.Cable,0,-1,3
+CBL_4,G.I.Cable,0,-1,4
+CBL_4,G.I.Cable,0,-1,4
+CBL_5,G.I.Cable,0,-1,5
+CBL_5,G.I.Cable,0,-1,5
+CBL_6,G.I.Cable,0,-1,6
+CBL_6,G.I.Cable,0,-1,6
+CBL_7,G.I.Cable,0,-1,7
+CBL_7,G.I.Cable,0,-1,7
+CBL_8,G.I.Cable,0,-1,8
+CBL_8,G.I.Cable,0,-1,8
+CBL_9,G.I.Cable,0,-1,9
+CBL_9,G.I.Cable,0,-1,9
+CBL_POWER,G.I.Cable,0,-1,10
+CBL_POWER,G.I.Cable,0,-1,10
+CBL_CHAN+,G.I.Cable,0,-1,11
+CBL_CHAN+,G.I.Cable,0,-1,11
+CBL_CHAN-,G.I.Cable,0,-1,12
+CBL_CHAN-,G.I.Cable,0,-1,12
+CBL_VOL+,G.I.Cable,0,-1,13
+CBL_VOL+,G.I.Cable,0,-1,13
+CBL_VOL-,G.I.Cable,0,-1,14
+CBL_VOL-,G.I.Cable,0,-1,14
+CBL_MUTE,G.I.Cable,0,-1,15
+CBL_MUTE,G.I.Cable,0,-1,15
+CBL_MUSIC,G.I.Cable,0,-1,16
+CBL_MUSIC,G.I.Cable,0,-1,16
+CBL_OK,G.I.Cable,0,-1,17
+CBL_OK,G.I.Cable,0,-1,17
+KEY_EXIT,G.I.Cable,0,-1,18
+KEY_EXIT,G.I.Cable,0,-1,18
+CBL_LAST,G.I.Cable,0,-1,19
+CBL_LAST,G.I.Cable,0,-1,19
+CBL_BYPASS,G.I.Cable,0,-1,20
+CBL_BYPASS,G.I.Cable,0,-1,20
+CBL_FAV,G.I.Cable,0,-1,21
+CBL_FAV,G.I.Cable,0,-1,21
+CBL_LOCK,G.I.Cable,0,-1,22
+CBL_LOCK,G.I.Cable,0,-1,22
+CBL_A,G.I.Cable,0,-1,23
+CBL_A,G.I.Cable,0,-1,23
+CBL_MENU,G.I.Cable,0,-1,25
+CBL_MENU,G.I.Cable,0,-1,25
+CBL_FF,G.I.Cable,0,-1,29
+CBL_FF,G.I.Cable,0,-1,29
+CBL_REW,G.I.Cable,0,-1,30
+CBL_REW,G.I.Cable,0,-1,30
+CBL_PAUSE,G.I.Cable,0,-1,31
+CBL_PAUSE,G.I.Cable,0,-1,31
+CBL_B,G.I.Cable,0,-1,39
+CBL_B,G.I.Cable,0,-1,39
+CBL_C,G.I.Cable,0,-1,40
+CBL_C,G.I.Cable,0,-1,40
+CBL_GUIDE,G.I.Cable,0,-1,48
+CBL_GUIDE,G.I.Cable,0,-1,48
+CBL_REC,G.I.Cable,0,-1,49
+CBL_REC,G.I.Cable,0,-1,49
+CBL_HELP,G.I.Cable,0,-1,50
+CBL_HELP,G.I.Cable,0,-1,50
+CBL_INFO,G.I.Cable,0,-1,51
+CBL_INFO,G.I.Cable,0,-1,51
+CBL_UP,G.I.Cable,0,-1,52
+CBL_UP,G.I.Cable,0,-1,52
+CBL_DOWN,G.I.Cable,0,-1,53
+CBL_DOWN,G.I.Cable,0,-1,53
+CBL_LEFT,G.I.Cable,0,-1,54
+CBL_LEFT,G.I.Cable,0,-1,54
+CBL_RIGHT,G.I.Cable,0,-1,55
+CBL_RIGHT,G.I.Cable,0,-1,55
+CBL_PLAY,G.I.Cable,0,-1,56
+CBL_PLAY,G.I.Cable,0,-1,56
+CBL_STOP,G.I.Cable,0,-1,57
+CBL_STOP,G.I.Cable,0,-1,57
+CBL_PAGE+,G.I.Cable,0,-1,58
+CBL_PAGE+,G.I.Cable,0,-1,58
+CBL_PAGE-,G.I.Cable,0,-1,59
+CBL_PAGE-,G.I.Cable,0,-1,59
