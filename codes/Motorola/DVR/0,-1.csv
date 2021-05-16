@@ -1,47 +1,47 @@
 functionname,protocol,device,subdevice,function
-0,G.I. Cable,0,-1,0
-1,G.I. Cable,0,-1,1
-2,G.I. Cable,0,-1,2
-3,G.I. Cable,0,-1,3
-4,G.I. Cable,0,-1,4
-5,G.I. Cable,0,-1,5
-6,G.I. Cable,0,-1,6
-7,G.I. Cable,0,-1,7
-8,G.I. Cable,0,-1,8
-9,G.I. Cable,0,-1,9
-POWER,G.I. Cable,0,-1,10
-CHANNEL +,G.I. Cable,0,-1,11
-,G.I. Cable,0,-1,12
-CHANNEL -,G.I. Cable,0,-1,12
-ENTER,G.I. Cable,0,-1,17
-SELECT,G.I. Cable,0,-1,17
-EXIT,G.I. Cable,0,-1,18
-LAST,G.I. Cable,0,-1,19
-FAV,G.I. Cable,0,-1,21
-A,G.I. Cable,0,-1,23
-ON DEMAND,G.I. Cable,0,-1,26
-FFW,G.I. Cable,0,-1,29
-REW,G.I. Cable,0,-1,30
-PAUSE,G.I. Cable,0,-1,31
-B,G.I. Cable,0,-1,39
-C,G.I. Cable,0,-1,40
-GUIDE,G.I. Cable,0,-1,48
-RECALL,G.I. Cable,0,-1,49
-RECORD,G.I. Cable,0,-1,49
-SETTING,G.I. Cable,0,-1,50
-SETTINGS,G.I. Cable,0,-1,50
-INFO,G.I. Cable,0,-1,51
-UP,G.I. Cable,0,-1,52
-DOWN,G.I. Cable,0,-1,53
-LEFT,G.I. Cable,0,-1,54
-RIGHT,G.I. Cable,0,-1,55
-PLAY,G.I. Cable,0,-1,56
-NEW CODE,G.I. Cable,0,-1,57
-STOP,G.I. Cable,0,-1,57
-PAGE +,G.I. Cable,0,-1,58
-PAGE -,G.I. Cable,0,-1,59
-QUICK REWIND,G.I. Cable,0,-1,60
-DVR LIST,G.I. Cable,0,-1,61
-LIST,G.I. Cable,0,-1,61
-LIVE,G.I. Cable,0,-1,62
-HD ZOOM,G.I. Cable,0,-1,64
+0,G.I.Cable,0,-1,0
+1,G.I.Cable,0,-1,1
+2,G.I.Cable,0,-1,2
+3,G.I.Cable,0,-1,3
+4,G.I.Cable,0,-1,4
+5,G.I.Cable,0,-1,5
+6,G.I.Cable,0,-1,6
+7,G.I.Cable,0,-1,7
+8,G.I.Cable,0,-1,8
+9,G.I.Cable,0,-1,9
+POWER,G.I.Cable,0,-1,10
+CHANNEL +,G.I.Cable,0,-1,11
+,G.I.Cable,0,-1,12
+CHANNEL -,G.I.Cable,0,-1,12
+ENTER,G.I.Cable,0,-1,17
+SELECT,G.I.Cable,0,-1,17
+EXIT,G.I.Cable,0,-1,18
+LAST,G.I.Cable,0,-1,19
+FAV,G.I.Cable,0,-1,21
+A,G.I.Cable,0,-1,23
+ON DEMAND,G.I.Cable,0,-1,26
+FFW,G.I.Cable,0,-1,29
+REW,G.I.Cable,0,-1,30
+PAUSE,G.I.Cable,0,-1,31
+B,G.I.Cable,0,-1,39
+C,G.I.Cable,0,-1,40
+GUIDE,G.I.Cable,0,-1,48
+RECALL,G.I.Cable,0,-1,49
+RECORD,G.I.Cable,0,-1,49
+SETTING,G.I.Cable,0,-1,50
+SETTINGS,G.I.Cable,0,-1,50
+INFO,G.I.Cable,0,-1,51
+UP,G.I.Cable,0,-1,52
+DOWN,G.I.Cable,0,-1,53
+LEFT,G.I.Cable,0,-1,54
+RIGHT,G.I.Cable,0,-1,55
+PLAY,G.I.Cable,0,-1,56
+NEW CODE,G.I.Cable,0,-1,57
+STOP,G.I.Cable,0,-1,57
+PAGE +,G.I.Cable,0,-1,58
+PAGE -,G.I.Cable,0,-1,59
+QUICK REWIND,G.I.Cable,0,-1,60
+DVR LIST,G.I.Cable,0,-1,61
+LIST,G.I.Cable,0,-1,61
+LIVE,G.I.Cable,0,-1,62
+HD ZOOM,G.I.Cable,0,-1,64

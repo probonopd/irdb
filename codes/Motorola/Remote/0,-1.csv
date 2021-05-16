@@ -1,54 +1,54 @@
 functionname,protocol,device,subdevice,function
-0,G.I. Cable,0,-1,0
-1,G.I. Cable,0,-1,1
-2,G.I. Cable,0,-1,2
-3,G.I. Cable,0,-1,3
-4,G.I. Cable,0,-1,4
-5,G.I. Cable,0,-1,5
-6,G.I. Cable,0,-1,6
-7,G.I. Cable,0,-1,7
-8,G.I. Cable,0,-1,8
-9,G.I. Cable,0,-1,9
-MUSIC,G.I. Cable,0,-1,10
-POWER,G.I. Cable{1},0,-1,10
-CHANNEL +,G.I. Cable,0,-1,11
-CHANNEL -,G.I. Cable,0,-1,12
-ENTER,G.I. Cable,0,-1,16
-OK,G.I. Cable,0,-1,17
-LAST,G.I. Cable,0,-1,19
-INPUT,G.I. Cable,0,-1,20
-FAV,G.I. Cable,0,-1,21
-A,G.I. Cable,0,-1,23
-PPV,G.I. Cable,0,-1,24
-MENU,G.I. Cable,0,-1,25
-VOD,G.I. Cable,0,-1,26
-PLAY,G.I. Cable,0,-1,27
-STOP,G.I. Cable,0,-1,28
-FAST FOWARD,G.I. Cable,0,-1,29
-REWIND,G.I. Cable,0,-1,30
-PAUSE,G.I. Cable,0,-1,31
-PIP ON/OFF,G.I. Cable,0,-1,34
-PIP SWAP,G.I. Cable,0,-1,35
-PIP MOVE,G.I. Cable,0,-1,36
-PIP +,G.I. Cable,0,-1,37
-PIP -,G.I. Cable,0,-1,38
-B,G.I. Cable,0,-1,39
-C,G.I. Cable,0,-1,40
-EXIT,G.I. Cable,0,-1,40
-GUIDE,G.I. Cable,0,-1,48
-TV GUIDE,G.I. Cable,0,-1,48
-RECORD,G.I. Cable,0,-1,49
-HELP,G.I. Cable,0,-1,50
-INFO,G.I. Cable,0,-1,51
-UP,G.I. Cable,0,-1,52
-DOWN,G.I. Cable,0,-1,53
-LEFT,G.I. Cable,0,-1,54
-RIGHT,G.I. Cable,0,-1,55
-DAY -,G.I. Cable,0,-1,56
-DAY +,G.I. Cable,0,-1,57
-PAGE +,G.I. Cable,0,-1,58
-PAGE -,G.I. Cable,0,-1,59
-REPLAY,G.I. Cable,0,-1,60
-DVR LIST,G.I. Cable,0,-1,61
-LIVE TV,G.I. Cable,0,-1,62
-ASPECT,G.I. Cable,0,-1,64
+0,G.I.Cable,0,-1,0
+1,G.I.Cable,0,-1,1
+2,G.I.Cable,0,-1,2
+3,G.I.Cable,0,-1,3
+4,G.I.Cable,0,-1,4
+5,G.I.Cable,0,-1,5
+6,G.I.Cable,0,-1,6
+7,G.I.Cable,0,-1,7
+8,G.I.Cable,0,-1,8
+9,G.I.Cable,0,-1,9
+MUSIC,G.I.Cable,0,-1,10
+POWER,G.I.Cable,0,-1,10
+CHANNEL +,G.I.Cable,0,-1,11
+CHANNEL -,G.I.Cable,0,-1,12
+ENTER,G.I.Cable,0,-1,16
+OK,G.I.Cable,0,-1,17
+LAST,G.I.Cable,0,-1,19
+INPUT,G.I.Cable,0,-1,20
+FAV,G.I.Cable,0,-1,21
+A,G.I.Cable,0,-1,23
+PPV,G.I.Cable,0,-1,24
+MENU,G.I.Cable,0,-1,25
+VOD,G.I.Cable,0,-1,26
+PLAY,G.I.Cable,0,-1,27
+STOP,G.I.Cable,0,-1,28
+FAST FOWARD,G.I.Cable,0,-1,29
+REWIND,G.I.Cable,0,-1,30
+PAUSE,G.I.Cable,0,-1,31
+PIP ON/OFF,G.I.Cable,0,-1,34
+PIP SWAP,G.I.Cable,0,-1,35
+PIP MOVE,G.I.Cable,0,-1,36
+PIP +,G.I.Cable,0,-1,37
+PIP -,G.I.Cable,0,-1,38
+B,G.I.Cable,0,-1,39
+C,G.I.Cable,0,-1,40
+EXIT,G.I.Cable,0,-1,40
+GUIDE,G.I.Cable,0,-1,48
+TV GUIDE,G.I.Cable,0,-1,48
+RECORD,G.I.Cable,0,-1,49
+HELP,G.I.Cable,0,-1,50
+INFO,G.I.Cable,0,-1,51
+UP,G.I.Cable,0,-1,52
+DOWN,G.I.Cable,0,-1,53
+LEFT,G.I.Cable,0,-1,54
+RIGHT,G.I.Cable,0,-1,55
+DAY -,G.I.Cable,0,-1,56
+DAY +,G.I.Cable,0,-1,57
+PAGE +,G.I.Cable,0,-1,58
+PAGE -,G.I.Cable,0,-1,59
+REPLAY,G.I.Cable,0,-1,60
+DVR LIST,G.I.Cable,0,-1,61
+LIVE TV,G.I.Cable,0,-1,62
+ASPECT,G.I.Cable,0,-1,64

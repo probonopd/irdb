@@ -1,7 +1,7 @@
 functionname,protocol,device,subdevice,function
-POWER ON/OFF,G.I. Cable,0,-1,10
-CHANNEL +,G.I. Cable,0,-1,11
-CHANNEL -,G.I. Cable,0,-1,12
+POWER ON/OFF,G.I.Cable,0,-1,10
+CHANNEL +,G.I.Cable,0,-1,11
+CHANNEL -,G.I.Cable,0,-1,12
 POWER OFF,RC5,0,-1,12
 ,RC5,0,-1,12
 VOLUME +,RC5,0,-1,16
