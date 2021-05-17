@@ -1,10 +1,10 @@
 functionname,protocol,device,subdevice,function
-VOLUME - (RCA-38,Old),15,-1,46
+VOLUME -,RCA-38(Old),15,-1,46
 VOLUME -,RCA-38,15,-1,46
-VOLUME - (RCA,Old),15,-1,46
-VOLUME + (RCA-38,Old),15,-1,47
+VOLUME -,(RCA,Old),15,-1,46
+VOLUME +,RCA-38(Old),15,-1,47
 VOLUME +,RCA-38,15,-1,47
-VOLUME+ (RCA,Old),15,-1,47
-MUTE (RCA-38,Old),15,-1,63
+VOLUME+,RCA(Old),15,-1,47
+MUTE,RCA-38(Old),15,-1,63
 MUTE,RCA-38,15,-1,63
-MUTE (RCA,Old),15,-1,63
+MUTE,(RCA,Old),15,-1,63
