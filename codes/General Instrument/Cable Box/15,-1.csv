@@ -1,3 +1,2 @@
 functionname,protocol,device,subdevice,function
-MUTE (RCA,Old),15,-1,63
-MUT (RCA,Old),15,-1,63
+MUTE,RCA(Old),15,-1,63
