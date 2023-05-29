@@ -31,7 +31,6 @@ https://cdn.jsdelivr.net/gh/probonopd/irdb@master/codes/Samsung/TV/7,7.csv
 
 In this section, projects and products will be listed which include or access irdb.
 * [IrScrutinizer](https://github.com/bengtmartensson/harctoolboxbundle) software that can import infrared remote signals from irdb, scrutinize them, and send them using various sending devices
-* [DIYRemote](https://github.com/shannah/DIYRemote) Android app that allows you to browse the [irdb.tk](http://irdb.tk) website and test the IR codes live on Android devices that have an IR emitter.  Also allows you to create your own custom universal remote controls using HTML.
 
 ## License
 
