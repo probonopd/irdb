@@ -1,0 +1,24 @@
+functionname	protocol	device	subdevice	function
+Vol -	nec	0	-1	8
+power	nec	18	52	32
+vol -	nec	18	52	33
+vol +	nec	18	52	34
+coax	nec	18	52	35
+opt	nec	18	52	36
+usb	nec	18	52	37
+1	nec	18	52	38
+2	nec	18	52	39
+3	nec	18	52	40
+4	nec	18	52	41
+	nec	18	52	42
+b/t	nec	18	52	43
+eq	nec	18	52	44
+ld	nec	18	52	45
+mute	nec	18	52	46
+bass +	nec	18	52	47
+bass -	nec	18	52	48
+trebble +	nec	18	52	49
+trebble -	nec	18	52	50
+left	nec	18	52	51
+right	nec	18	52	52
+sel	nec	18	52	53
