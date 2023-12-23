@@ -1,0 +1,9 @@
+functionname	protocol	device	subdevice	function
+play	nec1	128	255	7
+pause	nec1	128	255	11
+ffwd	nec1	128	255	14
+rwnd	nec1	128	255	29
+record	nec1	128	255	89
+page up	nec1	128	255	90
+stop	nec1	128	255	94
+	nec1	128	255	95
