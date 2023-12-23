@@ -1,0 +1,7 @@
+functionname	protocol	device	subdevice	function
+pause	nec	135	124	153
+	nec	135	124	154
+play	nec	135	124	156
+ffwd	nec	135	124	157
+rwd	nec	135	124	158
+stop	nec	135	124	159
