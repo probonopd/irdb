@@ -1,0 +1,30 @@
+functionname	protocol	device	subdevice	function
+left arrow	nec1	0	-1	0
+3	nec1	0	-1	1
+2	nec1	0	-1	3
+info	nec1	0	-1	4
+vol-	nec1	0	-1	5
+home	nec1	0	-1	6
+4	nec1	0	-1	9
+left	nec1	0	-1	10
+mode	nec1	0	-1	13
+up	nec1	0	-1	14
+mute	nec1	0	-1	15
+1	nec1	0	-1	16
+9	nec1	0	-1	17
+alarm	nec1	0	-1	21
+	nec1	0	-1	22
+0	nec1	0	-1	23
+sleep	nec1	0	-1	24
+7	nec1	0	-1	25
+down	nec1	0	-1	26
+8	nec1	0	-1	27
+right arrow	nec1	0	-1	28
+5	nec1	0	-1	29
+right	nec1	0	-1	30
+6	nec1	0	-1	31
+favorite -	nec1	0	-1	64
+vol+	nec1	0	-1	72
+local	nec1	0	-1	76
+power	nec1	0	-1	77
+enter	nec1	0	-1	84
