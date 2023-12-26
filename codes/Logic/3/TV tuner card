@@ -1,0 +1,19 @@
+functionname	protocol	device	subdevice	function
+left	NEC	134	107	1
+enter	NEC	134	107	2
+right	NEC	134	107	3
+screen	NEC	134	107	4
+down	NEC	134	107	5
+play	NEC	134	107	6
+previous	NEC	134	107	7
+stop	NEC	134	107	8
+next	NEC	134	107	9
+vol up	NEC	134	107	10
+fast back	NEC	134	107	12
+pause	NEC	134	107	13
+fast forward	NEC	134	107	14
+eject	NEC	134	107	18
+up	NEC	134	107	26
+mute	NEC	134	107	27
+power	NEC	134	107	30
+vol down	NEC	134	107	31
