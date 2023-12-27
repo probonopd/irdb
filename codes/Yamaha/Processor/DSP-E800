@@ -1,0 +1,31 @@
+functionname	protocol	device	subdevice	function
+dts surround	nec	125	-1	4
+theater 1	nec	125	-1	5
+theater 2	nec	125	-1	6
+mono movie	nec	125	-1	7
+sport	nec	125	-1	8
+disco	nec	125	-1	9
+rock	nec	125	-1	10
+hall	nec	125	-1	11
+down	nec	125	-1	20
+test	nec	125	-1	26
+time level	nec	125	-1	27
+effect	nec	125	-1	29
+right	nec	125	-1	30
+level down	nec	125	-1	30
+left	nec	125	-1	31
+level up	nec	125	-1	31
+input dvd	nec	125	-1	64
+input dtv	nec	125	-1	65
+input vcr	nec	125	-1	66
+input cd	nec	125	-1	69
+input tuner	nec	125	-1	70
+input tape	nec	125	-1	71
+power toggle	nec	125	-1	72
+input cbl sat	nec	125	-1	74
+input 6ch	nec	125	-1	80
+set menu	nec	125	-1	81
+up	nec	125	-1	84
+sleep	nec	125	-1	87
+vol up	nec	125	-1	94
+vol down	nec	125	-1	95
