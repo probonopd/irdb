@@ -1,0 +1,25 @@
+functionname	protocol	device	subdevice	function
+Brightness up	nec	0	239	0
+Brightness Down	nec	0	239	1
+Power off	nec	0	239	2
+Power On	nec	0	239	3
+Red	nec	0	239	4
+Green	nec	0	239	5
+Blue	nec	0	239	6
+White	nec	0	239	7
+Orange	nec	0	239	8
+Light Green	nec	0	239	9
+Light Blue	nec	0	239	10
+Brown	nec	0	239	12
+Dark Green	nec	0	239	13
+Purple	nec	0	239	14
+Light Orange	nec	0	239	16
+Cyan	nec	0	239	17
+Pink	nec	0	239	18
+Yellow	nec	0	239	20
+Medium Blue	nec	0	239	21
+Pinker	nec	0	239	22
+Flash	nec	0	239	11
+Strobe	nec	0	239	15
+Fade	nec	0	239	19
+Smooth	nec	0	239	23
