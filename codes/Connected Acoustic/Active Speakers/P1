@@ -2,4 +2,4 @@ functionname	protocol	device	subdevice	function
 power	nec	0	-1	5
 Vol -	nec	0	-1	8
 vol +	nec	0	-1	10
-	nec	0	-1	13
+Mute	nec	0	-1	13
