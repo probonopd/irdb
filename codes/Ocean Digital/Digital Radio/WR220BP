@@ -13,7 +13,7 @@ mute	nec1	0	-1	15
 1	nec1	0	-1	16
 9	nec1	0	-1	17
 alarm	nec1	0	-1	21
-	nec1	0	-1	22
+Favorite +	nec1	0	-1	22
 0	nec1	0	-1	23
 sleep	nec1	0	-1	24
 7	nec1	0	-1	25
