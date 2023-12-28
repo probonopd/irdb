@@ -1,6 +1,6 @@
 functionname	protocol	device	subdevice	function
 volume +	nec	16	237	0
-	nec	16	237	1
+Mute	nec	16	237	1
 1All	nec	16	237	2
 A-B	nec	16	237	3
 volume -	nec	16	237	4
