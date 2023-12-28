@@ -11,10 +11,10 @@ vol down	nec	0	-1	25
 coax	nec	0	-1	28
 vol up	nec	0	-1	64
 pc-usb	nec	0	-1	66
-	nec	0	-1	67
+Swap	nec	0	-1	67
 power	nec	0	-1	69
 settings	nec	0	-1	70
-?	nec	0	-1	72
+1 step back	nec	0	-1	72
 display	nec	0	-1	73
 usb	nec	0	-1	74
 aux	nec	0	-1	82
