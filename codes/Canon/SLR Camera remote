@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<!--This file is in the Girr (General IR Remote) format, see http://www.harctoolbox.org/Girr.html--><remotes xmlns="http://www.harctoolbox.org/Girr" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" girrVersion="1.2" title="IrScrutinizer raw export" xsi:schemaLocation="http://www.harctoolbox.org/Girr http://www.harctoolbox.org/schemas/girr_ns-1.2.xsd">
+    <adminData>
+        <creationData creatingUser="simon" creationDate="2023-12-28_19:05:33" tool="IrScrutinizer" tool2="IrpTransmogrifier" tool2Version="1.2.11" toolVersion="2.4.0"/>
+    </adminData>
+    <remote comment="Export from IrScrutinizer" name="Canon Remote">
+        <commandSet name="commandSet">
+            <command master="ccf" name="Shutter">
+                <ccf>0000 006D 0056 0000 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056 0000 0056</ccf>
+            </command>
+        </commandSet>
+    </remote>
+</remotes>
