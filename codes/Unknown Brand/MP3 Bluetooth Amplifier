@@ -1,0 +1,22 @@
+functionname	protocol	device	subdevice	function
+EQ	NEC	0	-1	7
+4	NEC	0	-1	8
+Vol +	NEC	0	-1	9
+1	NEC	0	-1	12
+U/SD	NEC	0	-1	13
+Vol -	NEC	0	-1	21
+0	NEC	0	-1	22
+2	NEC	0	-1	24
+Random	NEC	0	-1	25
+5	NEC	0	-1	28
+Skip Back	NEC	0	-1	64
+7	NEC	0	-1	66
+Skip Forward	NEC	0	-1	67
+Play / Pause	NEC	0	-1	68
+Power	NEC	0	-1	69
+Mode	NEC	0	-1	70
+Mute	NEC	0	-1	71
+9	NEC	0	-1	74
+8	NEC	0	-1	82
+6	NEC	0	-1	90
+3	NEC	0	-1	94
