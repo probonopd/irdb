@@ -1,0 +1,11 @@
+functionname	protocol	device	subdevice	function
+On	NEC	8	183	0
+Off	NEC	8	183	2
+Timer 2H	NEC	8	183	4
+Timer 4H	NEC	8	183	6
+Timer 6H	NEC	8	183	8
+Timer 8H	NEC	8	183	10
+Mode Candle	NEC	8	183	12
+Mode Light	NEC	8	183	14
+Dim -	NEC	8	183	16
+Dim +	NEC	8	183	18
