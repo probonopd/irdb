@@ -1,0 +1,52 @@
+functionname,protocol,device,subdevice,function
+power,NEC1,4,251,26
+0,NEC1,4,251,71
+1,NEC1,4,251,19
+2,NEC1,4,251,16
+3,NEC1,4,251,17
+4,NEC1,4,251,15
+5,NEC1,4,251,12
+6,NEC1,4,251,13
+7,NEC1,4,251,11
+8,NEC1,4,251,8
+9,NEC1,4,251,9
+vol up,NEC1,4,251,72
+vol down,NEC1,4,251,28
+mute,NEC1,4,251,14
+channel up,NEC1,4,251,68
+channel down,NEC1,4,251,29
+last (prev ch),NEC1,4,251,66
+exit,NEC1,4,251,83
+menu,NEC1,4,251,10
+program guide,NEC1,4,251,21
+display,NEC1,4,251,79
+up arrow,NEC1,4,251,68
+down arrow,NEC1,4,251,29
+left arrow,NEC1,4,251,28
+right arrow,NEC1,4,251,72
+select,NEC1,4,251,92
+play,NEC1,4,251,18
+pause,NEC1,4,251,84
+rewind,NEC1,4,251,93
+fast fwd,NEC1,4,251,76
+record,NEC1,4,251,31
+stop,NEC1,4,251,2
+PVR,NEC1,4,251,64
+slow,NEC1,4,251,67
+timer,NEC1,4,251,80
+TV/Radio,NEC1,4,251,82
+audio,NEC1,4,251,25
+red,NEC1,4,251,6
+green,NEC1,4,251,20
+yellow,NEC1,4,251,30
+blue,NEC1,4,251,7
+skip+,NEC1,4,251,73
+skip-,NEC1,4,251,81
+page+,NEC1,4,251,5
+page-,NEC1,4,251,89
+list,NEC1,4,251,88
+fav,NEC1,4,251,85
+aspect,NEC1,4,251,77
+language,NEC1,4,251,4
+subtitle,NEC1,4,251,27
+teletext,NEC1,4,251,69
