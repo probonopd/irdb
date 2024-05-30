@@ -1,0 +1,24 @@
+functionname	protocol	device	subdevice	function
+Power On	nec	50	-1	2
+Mode	nec	50	-1	5
+Menu	nec	50	-1	14
+Enter	nec	50	-1	15
+Left	nec	50	-1	16
+Volume Up	nec	50	-1	17
+Right	nec	50	-1	18
+Volume Down	nec	50	-1	20
+HDMI 1	nec	50	-1	22
+VGA 1	nec	50	-1	27
+VGA 2	nec	50	-1	30
+Video RCA	nec	50	-1	30
+Power Off	nec	50	-1	46
+HDMI 2	nec	50	-1	48
+Brightness	nec	50	-1	65
+Contrast	nec	50	-1	66
+Gamma	nec	50	-1	67
+Lamp Mode	nec	50	-1	69
+Ratio 16:9	nec	50	-1	70
+Ratio 4:3	nec	50	-1	71
+LBX	nec	50	-1	72
+Native	nec	50	-1	73
+3D Format	nec	50	-1	84
