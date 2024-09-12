@@ -1,0 +1,26 @@
+functionname	protocol	device	subdevice	function
+Volume +	Pioneer	165	-1	10
+Volume -	Pioneer	165	-1	11
+Tape Forward	Pioneer	161	-1	16
+Skip Forward	Pioneer	162	-1	16
+Station +	Pioneer	164	-1	16
+Tape reverse	Pioneer	161	-1	17
+Skip Back	Pioneer	162	-1	17
+Station -	Pioneer	164	-1	17
+Back arrow	Pioneer	161	-1	21
+Stop	Pioneer	161	-1	22
+CD Stop	Pioneer	162	-1	22
+Forward Arrow	Pioneer	161	-1	23
+CD Play	Pioneer	162	-1	23
+Amp power	Pioneer	165	-1	28
+CD power	Pioneer	162	-1	28
+Tuner power	Pioneer	164	-1	28
+Tape power	Pioneer	161	-1	28
+Disc Select	Pioneer	162	-1	29
+Tape 2 input	Pioneer	165	-1	29
+Tuner input	Pioneer	165	-1	71
+Tape Select	Pioneer	161	-1	76
+CD input	Pioneer	165	-1	76
+Phono input	Pioneer	165	-1	77
+Tape 1 input	Pioneer	165	-1	78
+Line input	Pioneer	165	-1	79
