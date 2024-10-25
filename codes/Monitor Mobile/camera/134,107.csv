@@ -1,0 +1,7 @@
+functionname	protocol,device,subdevice,function
+Left Arrow,NEC1,134,107,4
+Enter,NEC1,134,107,5
+Right Arrow,NEC1,134,107,6
+Power,NEC1,134,107,18
+Mode Select,NEC1,134,107,26
+Video select,NEC1,134,107,27

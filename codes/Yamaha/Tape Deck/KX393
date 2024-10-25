@@ -1,9 +1,0 @@
-functionname	protocol	device	subdevice	function
-play	nec1	122	-1	0
-skip back	nec1	122	-1	1
-rewind	nec1	122	-1	1
-skip forward	nec1	122	-1	2
-fast forward	nec1	122	-1	2
-stop	nec1	122	-1	3
-pause	nec1	122	-1	3
-record	nec1	122	-1	4

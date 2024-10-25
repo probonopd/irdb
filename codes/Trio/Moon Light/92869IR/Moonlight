@@ -1,8 +1,0 @@
-functionname	protocol	device	subdevice	function
-light up	nec1	4	172	21
-mode	nec1	4	172	30
-100%	nec1	4	172	31
-on off	nec1	4	172	74
-right	nec1	4	172	78
-light down	nec1	4	172	79
-left	nec1	4	172	85

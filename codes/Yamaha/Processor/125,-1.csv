@@ -1,0 +1,31 @@
+functionname,protocol,device,subdevice,function
+dts surround,nec1,125,-1,4
+theater 1,nec1,125,-1,5
+theater 2,nec1,125,-1,6
+mono movie,nec1,125,-1,7
+sport,nec1,125,-1,8
+disco,nec1,125,-1,9
+rock,nec1,125,-1,10
+hall,nec1,125,-1,11
+down,nec1,125,-1,20
+test,nec1,125,-1,26
+time level,nec1,125,-1,27
+effect,nec1,125,-1,29
+right,nec1,125,-1,30
+level down,nec1,125,-1,30
+left,nec1,125,-1,31
+level up,nec1,125,-1,31
+input dvd,nec1,125,-1,64
+input dtv,nec1,125,-1,65
+input vcr,nec1,125,-1,66
+input cd,nec1,125,-1,69
+input tuner,nec1,125,-1,70
+input tape,nec1,125,-1,71
+power toggle,nec1,125,-1,72
+input cbl sat,nec1,125,-1,74
+input 6ch,nec1,125,-1,80
+set menu,nec1,125,-1,81
+up,nec1,125,-1,84
+sleep,nec1,125,-1,87
+vol up,nec1,125,-1,94
+vol down,nec1,125,-1,95

@@ -1,7 +1,0 @@
-functionname	protocol	device	subdevice	function
-Left Arrow	NEC	134	107	4
-Enter	NEC	134	107	5
-Right Arrow	NEC	134	107	6
-Power	NEC	134	107	18
-Mode Select	NEC	134	107	26
-Video select	NEC	134	107	27
