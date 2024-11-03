@@ -1,0 +1,33 @@
+functionname,protocol,device,subdevice,function
+channel up,nec1,0,-1,7
+arc,nec1,0,-1,8
+channel down,nec1,0,-1,9
+hdmi 1,nec1,0,-1,12
+2.1 5.1,nec1,0,-1,13
+play/pause,nec1,0,-1,21
+1 back,nec1,0,-1,22
+hdmi 2,nec1,0,-1,24
+vol down,nec1,0,-1,25
+coax,nec1,0,-1,28
+vol up,nec1,0,-1,64
+pc-usb,nec1,0,-1,66
+Swap,nec1,0,-1,67
+power,nec1,0,-1,69
+settings,nec1,0,-1,70
+1 step back,nec1,0,-1,72
+display,nec1,0,-1,73
+usb,nec1,0,-1,74
+aux,nec1,0,-1,82
+bluetooth,nec1,0,-1,88
+opt,nec1,0,-1,90
+hdmi 3,nec1,0,-1,94
+surround +,nec1,0,-1,97
+surround -,nec1,0,-1,98
+front +,nec1,0,-1,99
+front-,nec1,0,-1,100
+ok,nec1,0,-1,240
+up arrow,nec1,0,-1,241
+left arrow,nec1,0,-1,242
+right arrow,nec1,0,-1,243
+down arrow,nec1,0,-1,244
+learn,nec1,0,-1,245

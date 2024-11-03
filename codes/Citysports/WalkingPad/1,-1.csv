@@ -1,0 +1,6 @@
+functionname,protocol,device,subdevice,function
+POWER_ON,NEC,1,-1,4
+POWER_OFF,NEC,1,-1,29
+PLUS,NEC,1,-1,14
+MINUS,NEC,1,-1,12
+TURN,NEC,1,-1,6

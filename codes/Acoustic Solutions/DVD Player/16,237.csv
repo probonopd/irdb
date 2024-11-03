@@ -1,0 +1,41 @@
+functionname,protocol,device,subdevice,function
+volume +,nec1,16,237,0
+Mute,nec1,16,237,1
+1All,nec1,16,237,2
+A-B,nec1,16,237,3
+volume -,nec1,16,237,4
+f fwd,nec1,16,237,5
+audio,nec1,16,237,6
+prev,nec1,16,237,7
+right,nec1,16,237,8
+stop,nec1,16,237,9
+left,nec1,16,237,11
+zoom,nec1,16,237,19
+0,nec1,16,237,24
+clear,nec1,16,237,25
+5,nec1,16,237,26
+7,nec1,16,237,27
+eject,nec1,16,237,28
+program,nec1,16,237,29
+2,nec1,16,237,30
+power,nec1,16,237,31
+pbc,nec1,16,237,64
+menu,nec1,16,237,65
+title,nec1,16,237,66
+goto,nec1,16,237,67
+subtitile,nec1,16,237,68
+next,nec1,16,237,69
+angle,nec1,16,237,70
+slow reverse,nec1,16,237,72
+select / play,nec1,16,237,73
+up,nec1,16,237,74
+down,nec1,16,237,75
+info,nec1,16,237,80
+4,nec1,16,237,88
+8,nec1,16,237,89
+9,nec1,16,237,90
+6,nec1,16,237,91
+1,nec1,16,237,92
+tv sys,nec1,16,237,93
+3,nec1,16,237,94
+setup,nec1,16,237,95
