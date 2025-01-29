@@ -1,0 +1,45 @@
+functionname,protocol,device,subdevice,function
+Brighter,NEC1,0,-1,92
+Darker,NEC1,0,-1,93
+Next,NEC1,0,-1,65
+On,NEC1,0,-1,64
+Red,NEC1,0,-1,88
+Green,NEC1,0,-1,89
+Blue,NEC1,0,-1,69
+White,NEC1,0,-1,68
+Orange,NEC1,0,-1,84
+Mint,NEC1,0,-1,85
+Saphire,NEC1,0,-1,73
+Light pink 1,NEC1,0,-1,72
+Mango,NEC1,0,-1,80
+Middle blue,NEC1,0,-1,81
+Violet,NEC1,0,-1,77
+Light pink 2,NEC1,0,-1,76
+Tangerine,NEC1,0,-1,28
+Picton blue,NEC1,0,-1,29
+Rose Quartz,NEC1,0,-1,30
+Light blue 1,NEC1,0,-1,31
+Yellow,NEC1,0,-1,24
+Cyan,NEC1,0,-1,25
+Pink,NEC1,0,-1,26
+Light blue 2,NEC1,0,-1,27
+Red up,NEC1,0,-1,20
+Green up,NEC1,0,-1,21
+Blue up,NEC1,0,-1,22
+Quick,NEC1,0,-1,23
+Red down,NEC1,0,-1,16
+Green down,NEC1,0,-1,17
+Blue down,NEC1,0,-1,18
+Slow,NEC1,0,-1,19
+DIY1,NEC1,0,-1,12
+DIY2,NEC1,0,-1,13
+DIY3,NEC1,0,-1,14
+AUTO,NEC1,0,-1,15
+DIY4,NEC1,0,-1,8
+DIY5,NEC1,0,-1,9
+DIY6,NEC1,0,-1,10
+Flash,NEC1,0,-1,11
+Jump 3,NEC1,0,-1,4
+Jump 7,NEC1,0,-1,5
+Fade 3,NEC1,0,-1,6
+Fade 7,NEC1,0,-1,7
