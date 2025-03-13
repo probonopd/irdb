@@ -1,6 +1,6 @@
 functionname,protocol,device,subdevice,function
-⏻,NEC1,0,191,0
-🔇,NEC1,0,191,1
+Power,NEC1,0,191,0
+Mute,NEC1,0,191,1
 1,NEC1,0,191,2
 2,NEC1,0,191,3
 3,NEC1,0,191,4
@@ -12,16 +12,16 @@ functionname,protocol,device,subdevice,function
 9,NEC1,0,191,10
 0,NEC1,0,191,12
 -/--,NEC1,0,191,11
-🔃,NEC1,0,191,13
+Repeat,NEC1,0,191,13
 Sleep,NEC1,0,191,67
 PC,NEC1,0,191,28
 HDMI,NEC1,0,191,31
 Auto,NEC1,0,191,71
 Disp,NEC1,0,191,64
-▴,NEC1,0,191,19
-◂,NEC1,0,191,17
-▸,NEC1,0,191,18
-▾,NEC1,0,191,20
+Up,NEC1,0,191,19
+Left,NEC1,0,191,17
+Right,NEC1,0,191,18
+Down,NEC1,0,191,20
 Enter,NEC1,0,191,16
 Menu,NEC1,0,191,22
 Exit,NEC1,0,191,21
@@ -35,11 +35,11 @@ Setup,NEC1,0,191,76
 Media,NEC1,0,191,77
 Title,NEC1,0,191,78
 L/R,NEC1,0,191,79
-⏪,NEC1,0,191,86
-⏩,NEC1,0,191,87
-⏮,NEC1,0,191,84
-⏭,NEC1,0,191,85
-⏯,NEC1,0,191,81
-⏹,NEC1,0,191,82
+Rewind,NEC1,0,191,86
+Forward,NEC1,0,191,87
+Skip back,NEC1,0,191,84
+Skip foreard,NEC1,0,191,85
+Play/pause,NEC1,0,191,81
+Stop,NEC1,0,191,82
 P Mode,NEC1,0,191,65
 S Mode,NEC1,0,191,66
