@@ -38,7 +38,7 @@ L/R,NEC1,0,191,79
 Rewind,NEC1,0,191,86
 Forward,NEC1,0,191,87
 Skip back,NEC1,0,191,84
-Skip foreard,NEC1,0,191,85
+Skip forward,NEC1,0,191,85
 Play/pause,NEC1,0,191,81
 Stop,NEC1,0,191,82
 P Mode,NEC1,0,191,65
