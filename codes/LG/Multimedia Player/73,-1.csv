@@ -1,0 +1,40 @@
+functionname,protocol,device,subdevice,function
+Eject,NEC1,73,-1,234
+Power,NEC1,73,-1,26
+Copy,NEC1,73,-1,227
+Info,NEC1,73,-1,226
+Power mode,NEC1,73,-1,228
+Net Test,NEC1,73,-1,70
+Net Cast,NEC1,73,-1,193
+Slow,NEC1,73,-1,15
+Rewind,NEC1,73,-1,209
+Play/Pause,NEC1,73,-1,210
+Forward,NEC1,73,-1,211
+Previous,NEC1,73,-1,212
+Stop,NEC1,73,-1,213
+Next,NEC1,73,-1,214
+Setup,NEC1,73,-1,224
+Home,NEC1,73,-1,235
+Repeat,NEC1,73,-1,192
+Volume Up,NEC1,73,-1,81
+Volume Down,NEC1,73,-1,79
+Mute,NEC1,73,-1,82
+Page Up,NEC1,73,-1,84
+Page Down,NEC1,73,-1,85
+Up,NEC1,73,-1,74
+Left,NEC1,73,-1,18
+Right,NEC1,73,-1,75
+Down,NEC1,73,-1,78
+OK,NEC1,73,-1,10
+Menu,NEC1,73,-1,73
+Return,NEC1,73,-1,67
+Red,NEC1,73,-1,241
+Green,NEC1,73,-1,242
+Yellow,NEC1,73,-1,243
+Blue,NEC1,73,-1,244
+Search,NEC1,73,-1,237
+Zoom,NEC1,73,-1,239
+Rotate,NEC1,73,-1,194
+BGM,NEC1,73,-1,225
+Subtitles,NEC1,73,-1,236
+Audio,NEC1,73,-1,69
