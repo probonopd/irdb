@@ -27,10 +27,10 @@ Menu,Sharp,17,-1,198
 8,Sharp,1,-1,8
 9,Sharp,1,-1,9
 0,Sharp,1,-1,10
-Red, Picture Menu,Sharp,1,-1,72
-Green, Sound Menu,Sharp,1,-1,73
+Red - Picture Menu,Sharp,1,-1,72
+Green - Sound Menu,Sharp,1,-1,73
 Yellow,Sharp,1,-1,74
-Blue, Status Display,Sharp,1,-1,75
+Blue - Status Display,Sharp,1,-1,75
 Flashback,Sharp,1,-1,39
 Subpage,Sharp,30,-1,205
 Teletext,Sharp,1,-1,52
