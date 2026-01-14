@@ -40,6 +40,7 @@ codes/Advanced Acoustics/Unknown_Acoustic/36,75.csv
 codes/Aesthetix/Pre-Amplifier/16,-1.csv
 codes/AIM/MCE_AIM-RC126/4,15.csv
 codes/AIM/RADIO/129,129.csv
+codes/Airmate/Fan/3,1.csv
 codes/Aiwa/Cassette Tape/115,0.csv
 codes/Aiwa/CD Player/118,0.csv
 codes/Aiwa/Mini System/110,0.csv
@@ -57,7 +58,6 @@ codes/Aiwa/Unknown_AWIA-RC-ZVR04/128,123.csv
 codes/Aiwa/Unknown_HIFI/112,0.csv
 codes/Aiwa/Unknown_hu/112,0.csv
 codes/Aiwa/Unknown_RC-6AS07/112,0.csv
-codes/Aiwa/Unknown_rc6as14/110,0.csv
 codes/Aiwa/Unknown_RC-7AS06/110,0.csv
 codes/Aiwa/Unknown_RC-8AS04/110,0.csv
 codes/Aiwa/Unknown_RC-8AT02/110,0.csv
@@ -84,6 +84,7 @@ codes/Aiwa/Unknown_RC-ZAS02/110,0.csv
 codes/Aiwa/Unknown_RC-ZAS10/110,0.csv
 codes/Aiwa/Unknown_RC-ZAT04/112,0.csv
 codes/Aiwa/Unknown_RC-ZVR02/127,0.csv
+codes/Aiwa/Unknown_rc6as14/110,0.csv
 codes/Aiwa/Unknown_S79/72,0.csv
 codes/Aiwa/VCR/127,0.csv
 codes/Aiwa/VCR/130,111.csv
@@ -93,7 +94,6 @@ codes/Akai/Unknown_akai/139,-1.csv
 codes/Akai/Unknown_Akai-RC-61A/11,11.csv
 codes/Akai/Unknown_AKAI-RC-AAV2100/160,160.csv
 codes/Akai/Unknown_Akai-RC-V23E/137,119.csv
-codes/Akai/Unknown_RC891/137,-1.csv
 codes/Akai/Unknown_rc-c37/141,-1.csv
 codes/Akai/Unknown_RC-C79/141,-1.csv
 codes/Akai/Unknown_RC-W152E/137,119.csv
@@ -101,6 +101,7 @@ codes/Akai/Unknown_RC-W201G/137,119.csv
 codes/Akai/Unknown_RC-W212F/137,119.csv
 codes/Akai/Unknown_RC-X121E/137,119.csv
 codes/Akai/Unknown_RC-Y121G/137,119.csv
+codes/Akai/Unknown_RC891/137,-1.csv
 codes/Akai/Unknown_TV/0,-1.csv
 codes/Akai/Unknown_V425A/137,-1.csv
 codes/Aki/Unknown_DVD-838W/0,-1.csv
@@ -144,12 +145,7 @@ codes/Apple/Digital Jukebox/238,135.csv
 codes/Apple/iPod/238,135.csv
 codes/Apple/MP3 Player/1,222.csv
 codes/Apple/MP3 Player/238,135.csv
-codes/Apple/Unknown_A1156/238,135.csv
-codes/Apple/Unknown_A1294/238,135.csv
-codes/Apple/Unknown_apple/None,None.csv
 codes/Apple/Unknown_CD/14,-1.csv
-codes/Apple/Unknown_Mac/238,135.csv
-codes/Apple/Unknown_MC377Z/238,135.csv
 codes/Aragon/Pre-Amplifier/25,-1.csv
 codes/Aragon/Pre-Amplifier/31,-1.csv
 codes/Arcam/CD Player/0,-1.csv
@@ -187,9 +183,7 @@ codes/Astro/Unknown_ASR340/0,253.csv
 codes/Asus/Unknown_Digital/0,239.csv
 codes/Asus/Unknown_RC1974502/4,15.csv
 codes/Asus/Unknown_TVBox/134,107.csv
-codes/Asus/Unknown_TV-Box/None,None.csv
 codes/Aten/Unknown_VS-431/0,-1.csv
-codes/Atiusb/Unknown_Ch16/None,None.csv
 codes/Atlanta DTH/Unknown_DTH/5,-1.csv
 codes/Atlantic Technology/Surround Processor/131,95.csv
 codes/Atlantic Technology/Surround Processor/64,64.csv
@@ -212,11 +206,11 @@ codes/Audio Control/Processor/16,-1.csv
 codes/Audio Control/Receiver/16,-1.csv
 codes/Audio Control/Receiver/17,-1.csv
 codes/Audio Control/Receiver/23,-1.csv
-codes/Audiola/DEC654_DVB-T/8,247.csv
 codes/Audio Refinement/Amplifier/20,-1.csv
 codes/Audio Refinement/CD Player/20,-1.csv
 codes/Audio Refinement/Tuner/20,-1.csv
 codes/Audio Research/Pre-Amplifier/7,-1.csv
+codes/Audiola/DEC654_DVB-T/8,247.csv
 codes/audiosonic/Unknown_TXCD-1240/129,129.csv
 codes/AudioSource/Unknown_SS-Three/6,1.csv
 codes/Audiovox/Monitor/128,126.csv
@@ -233,23 +227,32 @@ codes/Avex/Unknown_AVEX-RC501/5,-1.csv
 codes/Avtoolbox/Unknown_hdswitch/32,-1.csv
 codes/Axion/Unknown_AXN-6075/2,255.csv
 codes/Axonix/DVD Player/17,-1.csv
-codes/Axonix/MediaMax/17,20.csv
 codes/Axonix/Media Server/17,-1.csv
+codes/Axonix/MediaMax/17,20.csv
 codes/Ayre/Amplifier/16,-1.csv
 codes/AzBox/Unknown_S700/1,4.csv
+codes/B.A.T/Pre-Amplifier/16,-1.csv
 codes/Bang Olufsen/CD Player/26,73.csv
 codes/Barco/Unknown_barcoRC5/0,-1.csv
 codes/Barco/Video Projector/0,-1.csv
 codes/Barco/Video Projector/18,-1.csv
 codes/Barix/CD Jukebox/0,127.csv
-codes/B.A.T./Pre-Amplifier/16,-1.csv
 codes/BBK/Unknown_Popcorn/4,203.csv
 codes/BBK/Unknown_PV400s/80,-1.csv
 codes/BBK/Unknown_RC022-03R/73,-1.csv
 codes/Beko/Unknown_Beko/7,-1.csv
 codes/Beko/Unknown_TV/0,-1.csv
 codes/Belkin/Unknown_F5X019/27,-1.csv
-codes/Bellagio/Unknown_P807/32,-1.csv
+codes/Bell/Satellite/0,0.csv
+codes/Bell/Satellite/0,1.csv
+codes/Bell/Satellite/0,2.csv
+codes/Bell/Satellite/1,0.csv
+codes/Bell/Satellite/1,1.csv
+codes/Bell/Satellite/1,2.csv
+codes/Bell/Satellite/128,0.csv
+codes/Bell/Satellite/16,1.csv
+codes/Bell/Satellite/24,0.csv
+codes/Bell/Satellite/7,-1.csv
 codes/Bell ExpressVu/HD DVR/0,0.csv
 codes/Bell ExpressVu/HD DVR/1,0.csv
 codes/Bell ExpressVu/HD DVR/12,0.csv
@@ -257,16 +260,7 @@ codes/Bell ExpressVu/HD DVR/7,-1.csv
 codes/Bell ExpressVu/Satellite/0,0.csv
 codes/Bell ExpressVu/Satellite/1,0.csv
 codes/Bell ExpressVu/Satellite/16,0.csv
-codes/Bell/Satellite/0,0.csv
-codes/Bell/Satellite/0,1.csv
-codes/Bell/Satellite/0,2.csv
-codes/Bell/Satellite/1,0.csv
-codes/Bell/Satellite/1,1.csv
-codes/Bell/Satellite/128,0.csv
-codes/Bell/Satellite/1,2.csv
-codes/Bell/Satellite/16,1.csv
-codes/Bell/Satellite/24,0.csv
-codes/Bell/Satellite/7,-1.csv
+codes/Bellagio/Unknown_P807/32,-1.csv
 codes/Bench/Unknown_kh2800/48,-1.csv
 codes/BenQ/DLP Projector/48,-1.csv
 codes/BenQ/Projector/48,-1.csv
@@ -327,8 +321,8 @@ codes/BnK Components/Matrix Switcher/55,140.csv
 codes/BnK Components/Matrix Switcher/59,76.csv
 codes/BnK Components/Matrix Switcher/63,12.csv
 codes/BnK Components/Matrix Switcher/64,251.csv
-codes/BnK Components/Matrix Switcher/71,139.csv
 codes/BnK Components/Matrix Switcher/7,143.csv
+codes/BnK Components/Matrix Switcher/71,139.csv
 codes/BnK Components/Matrix Switcher/76,59.csv
 codes/BnK Components/Matrix Switcher/79,11.csv
 codes/BnK Components/Matrix Switcher/91,74.csv
@@ -338,16 +332,16 @@ codes/BnK Components/Multi-Zone Receiver/119,-1.csv
 codes/BnK Components/Multi-Zone Receiver/123,72.csv
 codes/BnK Components/Multi-Zone Receiver/135,135.csv
 codes/BnK Components/Multi-Zone Receiver/143,7.csv
-codes/BnK Components/Multi-Zone Receiver/151,134.csv
 codes/BnK Components/Multi-Zone Receiver/15,15.csv
+codes/BnK Components/Multi-Zone Receiver/151,134.csv
 codes/BnK Components/Multi-Zone Receiver/167,133.csv
 codes/BnK Components/Multi-Zone Receiver/183,132.csv
 codes/BnK Components/Multi-Zone Receiver/187,-1.csv
 codes/BnK Components/Multi-Zone Receiver/199,131.csv
 codes/BnK Components/Multi-Zone Receiver/215,130.csv
 codes/BnK Components/Multi-Zone Receiver/219,66.csv
-codes/BnK Components/Multi-Zone Receiver/231,129.csv
 codes/BnK Components/Multi-Zone Receiver/23,142.csv
+codes/BnK Components/Multi-Zone Receiver/231,129.csv
 codes/BnK Components/Multi-Zone Receiver/242,208.csv
 codes/BnK Components/Multi-Zone Receiver/243,192.csv
 codes/BnK Components/Multi-Zone Receiver/247,128.csv
@@ -356,8 +350,8 @@ codes/BnK Components/Multi-Zone Receiver/31,14.csv
 codes/BnK Components/Multi-Zone Receiver/39,141.csv
 codes/BnK Components/Multi-Zone Receiver/55,140.csv
 codes/BnK Components/Multi-Zone Receiver/59,76.csv
-codes/BnK Components/Multi-Zone Receiver/71,139.csv
 codes/BnK Components/Multi-Zone Receiver/7,143.csv
+codes/BnK Components/Multi-Zone Receiver/71,139.csv
 codes/BnK Components/Multi-Zone Receiver/79,11.csv
 codes/BnK Components/Multi-Zone Receiver/87,138.csv
 codes/BnK Components/Multi-Zone Receiver/91,74.csv
@@ -379,16 +373,14 @@ codes/BnK Components/Theater Preamplifier/27,78.csv
 codes/BnK Components/Theater-Zone 2/11,79.csv
 codes/BnK Components/Theater-Zone 2/43,77.csv
 codes/BnK Components/Theater-Zone 2/75,75.csv
-codes/BnK Components/Tuner_preamp/11,-1.csv
-codes/BnK Components/Tuner_preamp/11,79.csv
 codes/Bogen/Amplifier/1,-1.csv
 codes/BORK/Unknown_DV/8,-1.csv
 codes/Bose/3-2-1/186,75.csv
-codes/Bose/AV Switcher/186,71.csv
 codes/Bose/CCF Conversion/186,133.csv
 codes/Bose/CCF Conversion/186,213.csv
 codes/Bose/CCF Conversion/186,229.csv
 codes/Bose/CCF Conversion/186,85.csv
+codes/Bose/Lifestyle/186,1.csv
 codes/Bose/Lifestyle/186,136.csv
 codes/Bose/Lifestyle/186,160.csv
 codes/Bose/Lifestyle/186,161.csv
@@ -421,7 +413,6 @@ codes/Bose/Lifestyle/186,188.csv
 codes/Bose/Lifestyle/186,189.csv
 codes/Bose/Lifestyle/186,190.csv
 codes/Bose/Lifestyle/186,191.csv
-codes/Bose/Lifestyle/186,1.csv
 codes/Bose/Lifestyle/186,85.csv
 codes/Bose/Media Center/1,-1.csv
 codes/Bose/Media Center/186,136.csv
@@ -431,7 +422,6 @@ codes/Bose/Music Center/186,229.csv
 codes/Bose/Music Center/186,85.csv
 codes/Bose/Receiver/186,160.csv
 codes/Bose/Receiver/186,75.csv
-codes/Bose/Switcher_Amplifier/186,85.csv
 codes/Bose/System/186,85.csv
 codes/Bose/Tuner/186,85.csv
 codes/Bose/Unknown_Wave/-1,-1.csv
@@ -465,13 +455,12 @@ codes/Calypso/Amplifier/17,-1.csv
 codes/Calypso/Control System/1,-1.csv
 codes/Calypso/Control System/17,-1.csv
 codes/Calypso/Control System/7,-1.csv
-codes/Cambridge Audio/Amp_CD/160,160.csv
-codes/Cambridge Audio/Amp_CD/16,-1.csv
 codes/Cambridge Audio/DVD Player/12,-1.csv
 codes/Cambridge Audio/DVD Player/7,-1.csv
 codes/Cambridge Audio/Receiver/16,-1.csv
 codes/Cambridge Audio/Receiver/19,-1.csv
 codes/Cambridge Audio/Receiver/192,192.csv
+codes/Cambridge Audio/Receiver/192,63.csv
 codes/Cambridge Audio/Unknown_Audio/192,192.csv
 codes/Cambridge Audio/Unknown_X40A/16,-1.csv
 codes/Camera/Camera Multi Plex/133,115.csv
@@ -539,7 +528,6 @@ codes/Chaparral/Unknown_11-5315-1/128,103.csv
 codes/Chief Manufacturing/Motorized Lift/130,19.csv
 codes/Chief Manufacturing/Motorized Lift/48,-1.csv
 codes/CHINON/Unknown_CHINON/64,0.csv
-codes/Chronos/Unknown_Chronos/None,None.csv
 codes/Cinemateq/DVD Player/26,0.csv
 codes/Cinemateq/Video Scaler/27,1.csv
 codes/CIS BOX/CD Player/17,-1.csv
@@ -553,8 +541,8 @@ codes/CIS BOX/HDTV ALL/151,-1.csv
 codes/CIS BOX/HDTV ALL/164,-1.csv
 codes/CIS BOX/HDTV ALL/26,26.csv
 codes/CIS BOX/LCD Projector/84,-1.csv
-codes/CIS BOX/Plasma/119,-1.csv
 codes/CIS BOX/Plasma/1,-1.csv
+codes/CIS BOX/Plasma/119,-1.csv
 codes/CIS BOX/Plasma/164,-1.csv
 codes/CIS BOX/Receiver/121,-1.csv
 codes/CIS BOX/Receiver/144,-1.csv
@@ -574,17 +562,14 @@ codes/Citizen/Unknown_JX-2022C/0,-1.csv
 codes/Classe Audio/Amplifier/201,-1.csv
 codes/Classe Audio/Amplifier/3,-1.csv
 codes/Classe Audio/Amplifier/7,-1.csv
-codes/Classe Audio/CD_DVD/200,-1.csv
-codes/Classe Audio/CD_DVD/20,-1.csv
-codes/Classe Audio/CD_DVD/4,-1.csv
 codes/Classe Audio/CD Player/134,97.csv
 codes/Classe Audio/CD Player/20,-1.csv
 codes/Classe Audio/CRCD/16,-1.csv
 codes/Classe Audio/CRCD/17,-1.csv
 codes/Classe Audio/CRCD/20,-1.csv
 codes/Classe Audio/DVD Player/12,-1.csv
-codes/Classe Audio/DVD Player/200,-1.csv
 codes/Classe Audio/DVD Player/20,-1.csv
+codes/Classe Audio/DVD Player/200,-1.csv
 codes/Classe Audio/DVD Player/25,-1.csv
 codes/Classe Audio/DVD Player/4,-1.csv
 codes/Classe Audio/DVD Player/7,-1.csv
@@ -606,7 +591,6 @@ codes/Classe Audio/Tuner/7,-1.csv
 codes/Coby/DVD Player/0,-1.csv
 codes/Coby/TV/0,127.csv
 codes/Colorado Vnet/Music Server/110,146.csv
-codes/COMAG/Unknown_6222-N1/None,None.csv
 codes/Comcast/Cable Box/0,-1.csv
 codes/Comcast/Cable Box/1,-1.csv
 codes/Comcast/Cable Box/14,-1.csv
@@ -632,16 +616,14 @@ codes/COSMEL/Unknown_COSMEL/2,-1.csv
 codes/Cox/Digital Cable/0,-1.csv
 codes/Cox/Digital Cable/1,-1.csv
 codes/Cph03x/Unknown_AS-218/134,107.csv
-codes/Creative/Unknown_BreakOut-Box/None,None.csv
 codes/Creative/Unknown_DDTS-100/193,68.csv
 codes/Creative/Unknown_INFRA/33,172.csv
 codes/Creative/Unknown_JUKEBOX3/33,172.csv
-codes/Creative/Unknown_rm1000w/193,68.csv
 codes/Creative/Unknown_RM-1500/193,68.csv
 codes/Creative/Unknown_RM-1800/193,68.csv
 codes/Creative/Unknown_RM-850/193,68.csv
+codes/Creative/Unknown_rm1000w/193,68.csv
 codes/Creative/Unknown_RM900/193,68.csv
-codes/Creek/Line_Volume Control/16,-1.csv
 codes/Crestron/IR Receiver/0,-1.csv
 codes/Crestron/IR Receiver/1,-1.csv
 codes/Crestron/IR Receiver/2,-1.csv
@@ -663,6 +645,13 @@ codes/Cyberhome/Unknown_CH-DVD-302/114,205.csv
 codes/Cyberhome/Unknown_cyberhome/114,205.csv
 codes/Cypress/Unknown_CR-72/64,175.csv
 codes/Cyron/Lighting Controller/2,189.csv
+codes/D-LINK/Media Center/8,230.csv
+codes/D-LINK/Media Center/8,231.csv
+codes/D-LINK/MP3 Player/18,37.csv
+codes/D-LINK/MP3 Player/8,230.csv
+codes/D-LINK/Unknown_DSM320/8,230.csv
+codes/D-LINK/Unknown_i2eye/130,19.csv
+codes/Da Lite/Screen/0,-1.csv
 codes/Daeumling/Unknown_SR200/128,38.csv
 codes/Daewoo/DVD Player/21,-1.csv
 codes/Daewoo/TV/20,-1.csv
@@ -676,8 +665,8 @@ codes/Daewoo/Unknown_DAEWOO/0,-1.csv
 codes/Daewoo/Unknown_DAEWOO/21,-1.csv
 codes/Daewoo/Unknown_DS608P/17,-1.csv
 codes/Daewoo/Unknown_DV-800/21,-1.csv
-codes/Daewoo/Unknown_DVDS150/32,-1.csv
 codes/Daewoo/Unknown_DV-F24D/21,-1.csv
+codes/Daewoo/Unknown_DVDS150/32,-1.csv
 codes/Daewoo/Unknown_r-22/0,-1.csv
 codes/Daewoo/Unknown_R-40A06/20,-1.csv
 codes/Daewoo/Unknown_R-40A10/20,-1.csv
@@ -687,7 +676,6 @@ codes/Daewoo/Unknown_VCR/21,-1.csv
 codes/Daewoo/Unknown_VCR/49,-1.csv
 codes/Daewoo/Unknown_Visa/20,-1.csv
 codes/Daewoo/VCR/21,-1.csv
-codes/Da Lite/Screen/0,-1.csv
 codes/Dantax/DVD Player/0,-1.csv
 codes/Dantax/Unknown_RC/0,-1.csv
 codes/daytron/Unknown_daytron/4,-1.csv
@@ -753,108 +741,12 @@ codes/Denon/Receiver/7,5.csv
 codes/Denon/Receiver/7,6.csv
 codes/Denon/Receiver/7,7.csv
 codes/Denon/Receiver/7,8.csv
-codes/Denon/Receiver/80,-1.csv
 codes/Denon/Receiver/8,-1.csv
+codes/Denon/Receiver/80,-1.csv
 codes/Denon/Receiver/96,-1.csv
 codes/Denon/Receiver/97,-1.csv
 codes/Denon/Tuner/12,-1.csv
 codes/Denon/Tuner/2,-1.csv
-codes/Denon/Tuner/6,100.csv
-codes/Denon/Tuner/6,101.csv
-codes/Denon/Tuner/6,102.csv
-codes/Denon/Tuner/6,113.csv
-codes/Denon/Tuner/6,114.csv
-codes/Denon/Tuner/6,115.csv
-codes/Denon/Tuner/6,116.csv
-codes/Denon/Tuner/6,117.csv
-codes/Denon/Tuner/6,118.csv
-codes/Denon/Tuner/6,129.csv
-codes/Denon/Tuner/6,130.csv
-codes/Denon/Tuner/6,131.csv
-codes/Denon/Tuner/6,132.csv
-codes/Denon/Tuner/6,133.csv
-codes/Denon/Tuner/6,134.csv
-codes/Denon/Tuner/6,145.csv
-codes/Denon/Tuner/6,146.csv
-codes/Denon/Tuner/6,147.csv
-codes/Denon/Tuner/6,148.csv
-codes/Denon/Tuner/6,149.csv
-codes/Denon/Tuner/6,150.csv
-codes/Denon/Tuner/6,161.csv
-codes/Denon/Tuner/6,162.csv
-codes/Denon/Tuner/6,163.csv
-codes/Denon/Tuner/6,164.csv
-codes/Denon/Tuner/6,165.csv
-codes/Denon/Tuner/6,166.csv
-codes/Denon/Tuner/6,177.csv
-codes/Denon/Tuner/6,178.csv
-codes/Denon/Tuner/6,179.csv
-codes/Denon/Tuner/6,17.csv
-codes/Denon/Tuner/6,180.csv
-codes/Denon/Tuner/6,181.csv
-codes/Denon/Tuner/6,182.csv
-codes/Denon/Tuner/6,18.csv
-codes/Denon/Tuner/6,193.csv
-codes/Denon/Tuner/6,194.csv
-codes/Denon/Tuner/6,195.csv
-codes/Denon/Tuner/6,196.csv
-codes/Denon/Tuner/6,197.csv
-codes/Denon/Tuner/6,198.csv
-codes/Denon/Tuner/6,19.csv
-codes/Denon/Tuner/6,1.csv
-codes/Denon/Tuner/6,209.csv
-codes/Denon/Tuner/6,20.csv
-codes/Denon/Tuner/6,210.csv
-codes/Denon/Tuner/6,211.csv
-codes/Denon/Tuner/6,212.csv
-codes/Denon/Tuner/6,213.csv
-codes/Denon/Tuner/6,214.csv
-codes/Denon/Tuner/6,21.csv
-codes/Denon/Tuner/6,225.csv
-codes/Denon/Tuner/6,226.csv
-codes/Denon/Tuner/6,227.csv
-codes/Denon/Tuner/6,228.csv
-codes/Denon/Tuner/6,229.csv
-codes/Denon/Tuner/6,22.csv
-codes/Denon/Tuner/6,230.csv
-codes/Denon/Tuner/6,241.csv
-codes/Denon/Tuner/6,242.csv
-codes/Denon/Tuner/6,243.csv
-codes/Denon/Tuner/6,244.csv
-codes/Denon/Tuner/6,245.csv
-codes/Denon/Tuner/6,246.csv
-codes/Denon/Tuner/6,2.csv
-codes/Denon/Tuner/6,33.csv
-codes/Denon/Tuner/6,34.csv
-codes/Denon/Tuner/6,35.csv
-codes/Denon/Tuner/6,36.csv
-codes/Denon/Tuner/6,37.csv
-codes/Denon/Tuner/6,38.csv
-codes/Denon/Tuner/6,3.csv
-codes/Denon/Tuner/6,49.csv
-codes/Denon/Tuner/6,4.csv
-codes/Denon/Tuner/6,50.csv
-codes/Denon/Tuner/6,51.csv
-codes/Denon/Tuner/6,52.csv
-codes/Denon/Tuner/6,53.csv
-codes/Denon/Tuner/6,54.csv
-codes/Denon/Tuner/6,5.csv
-codes/Denon/Tuner/6,65.csv
-codes/Denon/Tuner/6,66.csv
-codes/Denon/Tuner/6,67.csv
-codes/Denon/Tuner/6,68.csv
-codes/Denon/Tuner/6,69.csv
-codes/Denon/Tuner/6,6.csv
-codes/Denon/Tuner/6,70.csv
-codes/Denon/Tuner/6,81.csv
-codes/Denon/Tuner/6,82.csv
-codes/Denon/Tuner/6,83.csv
-codes/Denon/Tuner/6,84.csv
-codes/Denon/Tuner/6,85.csv
-codes/Denon/Tuner/6,86.csv
-codes/Denon/Tuner/6,97.csv
-codes/Denon/Tuner/6,98.csv
-codes/Denon/Tuner/6,99.csv
 codes/Denon/Unknown/176,0.csv
 codes/Denon/Unknown_Denon/91,-1.csv
 codes/Denon/Unknown_denon-rc-251/8,-1.csv
@@ -862,11 +754,10 @@ codes/Denon/Unknown_denon-rc-266/8,-1.csv
 codes/Denon/Unknown_RC-220/8,-1.csv
 codes/Denon/Unknown_RC-224/8,-1.csv
 codes/Denon/Unknown_RC-241/8,-1.csv
-codes/Denon/Unknown_RC267/6,-1.csv
 codes/Denon/Unknown_RC-541/176,0.csv
 codes/Denon/Unknown_RC-861/2,2.csv
+codes/Denon/Unknown_RC267/6,-1.csv
 codes/Denver/Unknown_DVD-228/4,-1.csv
-codes/devinput/Unknown_devinput/None,None.csv
 codes/DIFRNCE/Unknown_DVD5010S/0,-1.csv
 codes/Digiquest/DGQ-3300_DVB-T/0,191.csv
 codes/Digiquest/DGQ-7600HD_DVB-T/0,191.csv
@@ -888,24 +779,19 @@ codes/DirecTV/Receiver HD/12,251.csv
 codes/DirecTV/Receiver HD/13,-1.csv
 codes/DirecTV/Receiver HDDVR/12,-1.csv
 codes/DirecTV/Receiver HDDVR/13,-1.csv
-codes/DirecTV/Receiver HDDVR/15,-1.csv
 codes/DirecTV/Receiver HDDVR/2,-1.csv
 codes/DirecTV/Receiver HDDVR/3,-1.csv
 codes/DirecTV/Receiver HDDVR/64,-1.csv
 codes/DirecTV/Receiver HDDVR/71,-1.csv
-codes/DirecTV/Receiver_HDR/133,48.csv
 codes/DirecTV/Receiver SD/12,-1.csv
 codes/DirecTV/Receiver SD/13,-1.csv
 codes/DirecTV/Receiver SDDVR/12,-1.csv
 codes/DirecTV/Receiver SDDVR/133,48.csv
-codes/DirecTV/Receiver SDDVR/15,-1.csv
 codes/DirecTV/Satellite/12,-1.csv
 codes/DirecTV/Satellite/133,48.csv
 codes/DirecTV/Satellite/4,-1.csv
-codes/DirecTV/Tivo_Sat Reciever/133,48.csv
 codes/DirecTV/Unknown/12,-1.csv
 codes/DirecTV/Unknown/12,251.csv
-codes/DirecTV/Unknown/15,-1.csv
 codes/DirecTV/Unknown_G051204/12,-1.csv
 codes/DirecTV/Unknown_H23/12,-1.csv
 codes/DirecTV/Unknown_HD20-100/12,-1.csv
@@ -916,54 +802,47 @@ codes/Dish Network/Satelite DVR/0,0.csv
 codes/Dish Network/Satelite DVR/1,0.csv
 codes/Dish Network/Satelite DVR/15,-1.csv
 codes/Dish Network/Satellite/0,0.csv
-codes/Dish Network/Satellite/0,12.csv
 codes/Dish Network/Satellite/0,1.csv
+codes/Dish Network/Satellite/0,12.csv
 codes/Dish Network/Satellite/0,2.csv
-codes/Dish Network/Satellite/0,31.csv
 codes/Dish Network/Satellite/0,3.csv
+codes/Dish Network/Satellite/0,31.csv
 codes/Dish Network/Satellite/0,4.csv
 codes/Dish Network/Satellite/0,5.csv
 codes/Dish Network/Satellite/0,6.csv
 codes/Dish Network/Satellite/0,7.csv
 codes/Dish Network/Satellite/1,0.csv
-codes/Dish Network/Satellite/1,12.csv
 codes/Dish Network/Satellite/1,1.csv
+codes/Dish Network/Satellite/1,12.csv
 codes/Dish Network/Satellite/1,2.csv
 codes/Dish Network/Satellite/1,3.csv
 codes/Dish Network/Satellite/1,4.csv
-codes/Dish Network/Satellite/15,-1.csv
 codes/Dish Network/Satellite/1,5.csv
-codes/Dish Network/Satellite/16,0.csv
 codes/Dish Network/Satellite/1,6.csv
 codes/Dish Network/Satellite/1,7.csv
+codes/Dish Network/Satellite/15,-1.csv
+codes/Dish Network/Satellite/16,0.csv
 codes/Dish Network/Satellite/24,0.csv
 codes/Dish Network/Satellite/28,-1.csv
 codes/Dish Network/Satellite/4,0.csv
 codes/Dish Network/Satellite/4,5.csv
 codes/Dish Network/Satellite/48,-1.csv
 codes/Dish Network/Satellite/8,0.csv
-codes/DK digital/DVD Player/0,-1.csv
+codes/DK Digital/DVD Player/0,-1.csv
 codes/DK Digital/Unknown_Digital/0,-1.csv
-codes/D-LINK/Media Center/8,230.csv
-codes/D-LINK/Media Center/8,231.csv
-codes/D-LINK/MP3 Player/18,37.csv
-codes/D-LINK/MP3 Player/8,230.csv
-codes/D-LINK/Unknown_DSM-10/8,230.csv
-codes/D-LINK/Unknown_DSM320/8,230.csv
-codes/D-LINK/Unknown_i2eye/130,19.csv
 codes/DLO/HomeDock/238,135.csv
 codes/Domland/Unknown_domland-MH10CA/131,101.csv
 codes/Draper/Dropdown Screen/0,-1.csv
 codes/Draper/Electric Screen/0,-1.csv
 codes/Draper/Screen/0,-1.csv
 codes/Draper/Screen/2,-1.csv
-codes/Dream Multimedia/Unknown_URC7562/0,-1.csv
 codes/Dream/Satellite/0,-1.csv
 codes/Dream/Satellite/10,0.csv
 codes/Dream/Satellite/11,0.csv
 codes/Dream/Satellite/25,0.csv
 codes/Dream/Satellite/26,0.csv
 codes/Dream/Satellite/41,0.csv
+codes/Dream Multimedia/Unknown_URC7562/0,-1.csv
 codes/Dream Vision/DLP Projector/135,78.csv
 codes/DSE/Unknown_G1605/5,-1.csv
 codes/DSE/Unknown_G1928/0,-1.csv
@@ -985,6 +864,8 @@ codes/Dwin/Video Projector/15,-1.csv
 codes/Dwin/Video Projector/7,0.csv
 codes/Dynaudio/Unknown_Sub/1,-1.csv
 codes/Dynex/Unknown_DX-CVS4/2,-1.csv
+codes/E Max/DVD Player/0,223.csv
+codes/E-tech/Unknown_FLY98/96,1.csv
 codes/Eagle Aspen/Unknown_Aspen/120,-1.csv
 codes/Echostar/Dish Network/0,0.csv
 codes/Echostar/DSS/0,0.csv
@@ -1001,12 +882,9 @@ codes/Echostar/Satellite/0,0.csv
 codes/Echostar/Satellite/1,0.csv
 codes/Echostar/Satellite/16,0.csv
 codes/Echostar/Satellite/4,-1.csv
-codes/Echostar/Sat_PVR Recorder Box/0,4.csv
-codes/Echostar/Sat_PVR Recorder Box/1,4.csv
 codes/Echostar/Unknown_AD3000IP/4,0.csv
 codes/Echostar/Unknown_DSB-616/5,-1.csv
 codes/Echostar/Unknown_DSB-636/4,0.csv
-codes/Elan/AV Distributor/0,-1.csv
 codes/Elan/Camera Switcher/0,-1.csv
 codes/Elan/DMX/100,-1.csv
 codes/Elan/DMX/14,-1.csv
@@ -1044,7 +922,6 @@ codes/Elmo/Video Projector/132,132.csv
 codes/Elmo/Video Projector/134,134.csv
 codes/ELTASAT/Unknown_SAT170/66,253.csv
 codes/eltax/Unknown_corniche/0,246.csv
-codes/E Max/DVD Player/0,223.csv
 codes/Emerson/TV/0,-1.csv
 codes/Emerson/TV/135,34.csv
 codes/Emerson/Unknown_emerson/134,5.csv
@@ -1052,8 +929,8 @@ codes/Emerson/Unknown_emerson-cd/3,1.csv
 codes/Emerson/Unknown_Emerson-NB050-DVD/135,34.csv
 codes/Emerson/Unknown_emersontv/22,22.csv
 codes/Emerson/VCR/21,-1.csv
-codes/Emerson/VCR/40,-1.csv
 codes/Emerson/VCR/4,-1.csv
+codes/Emerson/VCR/40,-1.csv
 codes/ENTONE/Unknown_URC-4021ABA1-006-R/230,4.csv
 codes/Epson/Projector/131,85.csv
 codes/Epson/Unknown_12807990/131,85.csv
@@ -1079,8 +956,8 @@ codes/Escient/DVD Player/4,22.csv
 codes/Escient/DVD Player/8,-1.csv
 codes/Escient/Hard Drive Recorder/15,0.csv
 codes/Escient/Media Manager/1,22.csv
-codes/Escient/Media Manager/15,0.csv
 codes/Escient/Media Manager/15,-1.csv
+codes/Escient/Media Manager/15,0.csv
 codes/Escient/Media Manager/2,22.csv
 codes/Escient/Media Manager/3,22.csv
 codes/Escient/Media Manager/33,184.csv
@@ -1094,7 +971,6 @@ codes/Escient/MP3 Player/14,-1.csv
 codes/Escient/MP3 Player/15,-1.csv
 codes/Escient/MP3 Player/4,22.csv
 codes/Esoteric Audio/DVD Player/133,32.csv
-codes/E-tech/Unknown_FLY98/96,1.csv
 codes/Euroconsumers/Unknown_LG-5988/136,-1.csv
 codes/Expressvu/Unknown_3100/0,0.csv
 codes/Extron/Switcher/0,-1.csv
@@ -1136,10 +1012,10 @@ codes/Fosgate/Surround Processor/132,66.csv
 codes/Foxtel/Set Top Box/33,160.csv
 codes/Foxtel/Unknown_Digital/0,0.csv
 codes/Foxtel/Unknown_foxtel/33,160.csv
-codes/Freecom/Unknown_MP35/128,-1.csv
-codes/Freecom/Unknown_usb/128,-1.csv
 codes/Free/Unknown_REMOTE/11,-1.csv
 codes/Free/Unknown_V5/36,12.csv
+codes/Freecom/Unknown_MP35/128,-1.csv
+codes/Freecom/Unknown_usb/128,-1.csv
 codes/Fresat/Unknown_SER-3000PL/8,64.csv
 codes/Friedrich/Air Conditioner/1,-1.csv
 codes/Friedrich/Air Conditioner/16,-1.csv
@@ -1147,10 +1023,11 @@ codes/FSC/DVD Player/4,15.csv
 codes/FTE Maximal/Unknown_FTE/73,-1.csv
 codes/FUBA/Unknown_ALPS/134,75.csv
 codes/FUBA/Unknown_FUBA/134,75.csv
+codes/Fujitsu/Monitor/132,-1.csv
 codes/Fujitsu/Monitor/132,138.csv
 codes/Fujitsu/Monitor/132,139.csv
 codes/Fujitsu/Monitor/132,140.csv
-codes/Fujitsu/Monitor/132,-1.csv
+codes/Fujitsu/Plasma/132,-1.csv
 codes/Fujitsu/Plasma/132,129.csv
 codes/Fujitsu/Plasma/132,130.csv
 codes/Fujitsu/Plasma/132,134.csv
@@ -1159,12 +1036,11 @@ codes/Fujitsu/Plasma/132,138.csv
 codes/Fujitsu/Plasma/132,139.csv
 codes/Fujitsu/Plasma/132,140.csv
 codes/Fujitsu/Plasma/132,141.csv
-codes/Fujitsu/Plasma/132,-1.csv
 codes/Fujitsu/Plasma/140,132.csv
-codes/Fujitsu Siemens/Unknown_RC1-1241-21/32,176.csv
-codes/Fujitsu Siemens/Unknown_RC811/4,15.csv
 codes/Fujitsu/TV/132,-1.csv
 codes/Fujitsu/Unknown_CP300375-01/4,15.csv
+codes/Fujitsu Siemens/Unknown_RC1-1241-21/32,176.csv
+codes/Fujitsu Siemens/Unknown_RC811/4,15.csv
 codes/Fujtech/Unknown_DVB-T/3,-1.csv
 codes/FUNAI/Unknown_NF021RD/132,224.csv
 codes/Fusion Research/DVD Server/17,-1.csv
@@ -1174,10 +1050,16 @@ codes/Galaxis/Unknown_Galaxis-RCMM/13,80.csv
 codes/Galaxis/Unknown_Galaxis.sat/81,175.csv
 codes/Galaxis/Unknown_rc1/7,-1.csv
 codes/GAMEFACTORY/Unknown_PS2DVD/0,246.csv
+codes/GE/TV/15,-1.csv
+codes/GE/VCR/11,-1.csv
+codes/GE/VCR/14,-1.csv
+codes/GE/VCR/26,73.csv
+codes/GE/VCR_VKFS0938/14,-1.csv
 codes/Gefen Systems/DVI Switcher/11,-1.csv
 codes/Gefen Systems/HDMI Switcher/11,-1.csv
 codes/Gefen Systems/Matrix Switcher/11,-1.csv
 codes/Gefen Systems/Unknown/24,-1.csv
+codes/General/Unknown_VCR/22,-1.csv
 codes/General Electric/TV/15,-1.csv
 codes/General Electric/VCR/11,-1.csv
 codes/General Electric/VCR/14,-1.csv
@@ -1193,29 +1075,17 @@ codes/General Instrument/Satellite/1,-1.csv
 codes/General Instrument/Satellite/130,110.csv
 codes/General Instruments/Unknown_550/-1,-1.csv
 codes/General Instruments/Unknown_XRC-200/0,-1.csv
-codes/General/Unknown_VCR/22,-1.csv
-codes/Generic/Unknown_DENON/None,None.csv
-codes/Generic/Unknown_MOTOROLA/-1,-1.csv
-codes/Generic/Unknown_NEC/None,None.csv
-codes/Generic/Unknown_RC-5/None,None.csv
-codes/Generic/Unknown_RC-6/None,None.csv
-codes/Generic/Unknown_RCMM-32/None,None.csv
-codes/Generic/Unknown_RECS80/None,None.csv
-codes/Generic/Unknown_Sanyo/None,None.csv
-codes/Generic/Unknown_SONY/None,None.csv
-codes/Generic/Unknown_XMP/None,None.csv
 codes/Genesis/Theater in Box/0,-1.csv
 codes/Geniatech/Unknown_Supera/0,-1.csv
 codes/Genius/Unknown_Genius-DVB-T32/5,-1.csv
 codes/Genus/Unknown_DU1/128,-1.csv
 codes/Gericom/Plasma/3,-1.csv
 codes/Get/Unknown_gethdpvr/72,36.csv
-codes/GE/TV/15,-1.csv
-codes/GE/VCR/11,-1.csv
-codes/GE/VCR/14,-1.csv
-codes/GE/VCR/26,73.csv
-codes/GE/VCR_VKFS0938/14,-1.csv
 codes/Gigabyte/Unknown_TV/134,107.csv
+codes/Go Video/DVD Recorder/10,247.csv
+codes/Go Video/VCR/132,98.csv
+codes/Go Video/VCR/5,5.csv
+codes/Go Video/VCR/7,7.csv
 codes/Golden Interstar/Sat/128,255.csv
 codes/Golden Interstar/Unknown_Interstar/4,16.csv
 codes/Goldmund/CD Player/20,-1.csv
@@ -1229,21 +1099,11 @@ codes/Goodmans/Unknown_GDB/8,-1.csv
 codes/Goodmans/Unknown_GDVD124/0,-1.csv
 codes/Goodmans/Unknown_md305/135,108.csv
 codes/Goodmans/Unknown_RC-BM/128,123.csv
-codes/Go Video/DVD Recorder/10,247.csv
 codes/Govideo/Unknown_GoVideoD2730/8,230.csv
-codes/Go Video/VCR/132,98.csv
-codes/Go Video/VCR/5,5.csv
-codes/Go Video/VCR/7,7.csv
-codes/Go Video/VCR_DVD Combo/110,-1.csv
-codes/Go Video/VCR_DVD Combo/21,-1.csv
-codes/Go Video/VCR_DVD Combo/33,-1.csv
-codes/Go Video/VCR_DVD Combo/45,45.csv
-codes/Go Video/VCR_DVD Combo/5,-1.csv
-codes/Go Video/VCR_DVD Combo/5,5.csv
 codes/Gradiente/Unknown_D-10/5,-1.csv
 codes/Gradiente/Unknown_GSD-100/132,60.csv
-codes/Grand Tech/Cable Box/2,-1.csv
 codes/Gran Prix/Unknown_prix/0,-1.csv
+codes/Grand Tech/Cable Box/2,-1.csv
 codes/Griffin/iPod/212,190.csv
 codes/Grundig/Satellite/1,-1.csv
 codes/Grundig/Satellite/2,-1.csv
@@ -1252,16 +1112,14 @@ codes/Grundig/TV/0,-1.csv
 codes/Grundig/Unknown_2500S/10,-1.csv
 codes/Grundig/Unknown_84D/128,-1.csv
 codes/Grundig/Unknown_CDM700.cfg/162,162.csv
-codes/Grundig/Unknown_Grundig/None,None.csv
 codes/Grundig/Unknown_Grundig-TP660/0,-1.csv
-codes/Grundig/Unknown_RC8400CD/20,-1.csv
 codes/Grundig/Unknown_RC-TP3/8,-1.csv
-codes/Grundig/Unknown_RP25/None,None.csv
+codes/Grundig/Unknown_RC8400CD/20,-1.csv
 codes/Grundig/Unknown_RP/5,-1.csv
 codes/Grundig/Unknown_rp700/5,-1.csv
 codes/Grundig/Unknown_TP/0,-1.csv
-codes/Grundig/Unknown_tp621/1,-1.csv
 codes/Grundig/Unknown_TP-750C/0,-1.csv
+codes/Grundig/Unknown_tp621/1,-1.csv
 codes/Grundig/Unknown_UMS9V/162,162.csv
 codes/Grundig/Video Recorder/127,-1.csv
 codes/Gryphon/Integrated Amplifier/16,-1.csv
@@ -1290,8 +1148,8 @@ codes/Harman Kardon/Receiver/132,66.csv
 codes/Harman Kardon/Receiver/134,118.csv
 codes/Harman Kardon/Receiver/161,-1.csv
 codes/Harman Kardon/Receiver/164,-1.csv
-codes/Harman Kardon/Receiver/40,-1.csv
 codes/Harman Kardon/Receiver/4,-1.csv
+codes/Harman Kardon/Receiver/40,-1.csv
 codes/Harman Kardon/Receiver/7,-1.csv
 codes/Harman Kardon/Surround Processor/0,-1.csv
 codes/Harman Kardon/Surround Processor/12,-1.csv
@@ -1330,7 +1188,6 @@ codes/Hauppauge/Unknown_WinTV-HVR/4,15.csv
 codes/Hauppauge/Unknown_WinTV-HVR-950Q/29,-1.csv
 codes/HB/Unknown_DIGITAL/0,-1.csv
 codes/Hello Kitty/Unknown_Kitty/0,-1.csv
-codes/HERCULES/Unknown_SMARTTV/None,None.csv
 codes/Herma/Dipper/5,-1.csv
 codes/Hermstedt/Unknown_Hifidelio/16,-1.csv
 codes/Hewlett Packard/Plasma/18,17.csv
@@ -1352,21 +1209,18 @@ codes/Hitachi/DSS/80,-1.csv
 codes/Hitachi/DSS/96,-1.csv
 codes/Hitachi/DSS/97,-1.csv
 codes/Hitachi/DVD Player/102,0.csv
-codes/Hitachi/DVD_VCR Combo/128,35.csv
-codes/Hitachi/DVD_VCR Combo/40,-1.csv
-codes/Hitachi/DVD_VCR Combo/44,-1.csv
 codes/Hitachi/LCD/86,171.csv
 codes/Hitachi/Monitor/144,0.csv
 codes/Hitachi/Monitor/80,-1.csv
-codes/Hitachi/Monitor/96,158.csv
 codes/Hitachi/Monitor/96,-1.csv
+codes/Hitachi/Monitor/96,158.csv
 codes/Hitachi/Monitor/97,-1.csv
-codes/Hitachi/Plasma/80,173.csv
 codes/Hitachi/Plasma/80,-1.csv
+codes/Hitachi/Plasma/80,173.csv
 codes/Hitachi/TV/12,251.csv
+codes/Hitachi/TV/80,-1.csv
 codes/Hitachi/TV/80,143.csv
 codes/Hitachi/TV/80,173.csv
-codes/Hitachi/TV/80,-1.csv
 codes/Hitachi/TV/96,-1.csv
 codes/Hitachi/Unknown_CLE-941/80,-1.csv
 codes/Hitachi/Unknown_CLE-947/80,-1.csv
@@ -1377,17 +1231,16 @@ codes/Hitachi/Unknown_HFTV/71,-1.csv
 codes/Hitachi/Unknown_Hitachi/1,-1.csv
 codes/Hitachi/Unknown_Hitachi/80,-1.csv
 codes/Hitachi/Unknown_hitachi.conf/91,-1.csv
-codes/Hitachi/Unknown_RM-613a/96,159.csv
 codes/Hitachi/VCR/0,-1.csv
 codes/Hitachi/VCR/40,-1.csv
 codes/Hitachi/VCR/44,-1.csv
 codes/Hitachi/VCR/5,1.csv
 codes/Hitachi/VCR/80,-1.csv
 codes/Hitachi/VCR/83,-1.csv
-codes/Hitachi/VCR/96,158.csv
 codes/Hitachi/VCR/96,-1.csv
-codes/Hitachi/VCR/97,159.csv
+codes/Hitachi/VCR/96,158.csv
 codes/Hitachi/VCR/97,-1.csv
+codes/Hitachi/VCR/97,159.csv
 codes/Hitachi/Video Projector/135,69.csv
 codes/Hitachi/Video Projector/80,-1.csv
 codes/Hiteker/DVD Player/0,-1.csv
@@ -1426,8 +1279,6 @@ codes/Hughes/Satellite/136,-1.csv
 codes/Hughes/Satellite/4,-1.csv
 codes/Hughes/Satellite/60,178.csv
 codes/Hughes/Satellite/71,-1.csv
-codes/Hughes/Sat_TiVo/133,48.csv
-codes/Hughes/Sat_TiVo/210,109.csv
 codes/Hughes/TiVo/133,48.csv
 codes/Hughes/Unknown_b2/12,251.csv
 codes/Hughes/Unknown_DSS/12,251.csv
@@ -1435,8 +1286,6 @@ codes/Hughes/Unknown_HRMC-8/12,251.csv
 codes/Hughes/VCR/96,-1.csv
 codes/Hughes/VCR/97,-1.csv
 codes/Humax/Com Hem Box/0,16.csv
-codes/Humax/DVD_VCR Combo/0,16.csv
-codes/Humax/DVD_VCR Combo/0,23.csv
 codes/Humax/HDTV Tuner/0,16.csv
 codes/Humax/HDTV Tuner/0,48.csv
 codes/Humax/HDTV Tuner/0,65.csv
@@ -1454,6 +1303,7 @@ codes/Humax/Unknown_RS-521/0,16.csv
 codes/huth/Unknown_prof/15,1.csv
 codes/Hyundai/Unknown_H-DVD5038N/0,251.csv
 codes/Hyundai/Unknown_l17t/170,3.csv
+codes/I-O Data/DVD Player/8,230.csv
 codes/I24/Unknown_I24/0,-1.csv
 codes/Illusion/Unknown_M3/22,-1.csv
 codes/Imerge/Digital Jukebox/14,-1.csv
@@ -1465,11 +1315,7 @@ codes/Imerge/Digital Jukebox/165,-1.csv
 codes/Imerge/Digital Jukebox/166,-1.csv
 codes/Imerge/Digital Jukebox/191,-1.csv
 codes/Imerge/Digital Jukebox/255,-1.csv
-codes/imon/Unknown_iMON-PAD/None,None.csv
-codes/imon/Unknown_lircd.conf.imon-2.4g-lt/None,None.csv
 codes/imon/Unknown_MultiMedian/6,-1.csv
-codes/imon/Unknown_ultrabay/None,None.csv
-codes/imon/Unknown_Veris/None,None.csv
 codes/InFocus/DLP Projector/15,-1.csv
 codes/InFocus/Plasma/7,-1.csv
 codes/InFocus/Projector/135,78.csv
@@ -1487,8 +1333,6 @@ codes/InFocus/Video Projector/80,79.csv
 codes/Insignia/Blu-Ray/133,237.csv
 codes/Insignia/Blu-Ray/135,34.csv
 codes/Insignia/DVD Player/135,34.csv
-codes/Insignia/DVD_VCR Combo/110,-1.csv
-codes/Insignia/DVD_VCR Combo/45,45.csv
 codes/Insignia/TV/134,5.csv
 codes/Insignia/Unknown_WIR147002-8301/67,71.csv
 codes/Instant Replay/VCR/2,-1.csv
@@ -1517,23 +1361,23 @@ codes/Integra/Media PC/4,15.csv
 codes/Integra/Pre-Amplifier/210,108.csv
 codes/Integra/Pre-Amplifier/210,109.csv
 codes/Integra/Pre-Amplifier/210,172.csv
-codes/Integra/Pre-Amplifier/210,25.csv
 codes/Integra/Pre-Amplifier/210,2.csv
+codes/Integra/Pre-Amplifier/210,25.csv
 codes/Integra/Pre-Amplifier/210,30.csv
+codes/Integra/Receiver/210,1.csv
 codes/Integra/Receiver/210,108.csv
 codes/Integra/Receiver/210,109.csv
-codes/Integra/Receiver/210,172.csv
 codes/Integra/Receiver/210,17.csv
+codes/Integra/Receiver/210,172.csv
 codes/Integra/Receiver/210,18.csv
 codes/Integra/Receiver/210,19.csv
-codes/Integra/Receiver/210,1.csv
+codes/Integra/Receiver/210,2.csv
 codes/Integra/Receiver/210,20.csv
 codes/Integra/Receiver/210,21.csv
 codes/Integra/Receiver/210,22.csv
 codes/Integra/Receiver/210,23.csv
 codes/Integra/Receiver/210,24.csv
 codes/Integra/Receiver/210,25.csv
-codes/Integra/Receiver/210,2.csv
 codes/Integra/Receiver/210,30.csv
 codes/Integra/Receiver/210,43.csv
 codes/Integra/Tuner/210,109.csv
@@ -1542,7 +1386,6 @@ codes/IntelliNet Controls/Distributed Audio/0,90.csv
 codes/Interact/Unknown_I-22121/0,-1.csv
 codes/Intervideo/VCR/49,-1.csv
 codes/Intervision/Unknown_Intervision/134,107.csv
-codes/I-O Data/DVD Player/8,230.csv
 codes/ione/Unknown_remote/0,-1.csv
 codes/iPort/iPod/1,222.csv
 codes/iPort/iPort/1,222.csv
@@ -1573,16 +1416,15 @@ codes/JVC/Cassette Tape/131,-1.csv
 codes/JVC/CD Jukebox/179,0.csv
 codes/JVC/CD Jukebox/34,33.csv
 codes/JVC/CD Jukebox/34,48.csv
-codes/JVC/CD Player/179,0.csv
 codes/JVC/CD Player/179,-1.csv
+codes/JVC/CD Player/179,0.csv
 codes/JVC/CD Player/34,33.csv
 codes/JVC/CD Player/34,48.csv
+codes/JVC/D-VHS/67,-1.csv
 codes/JVC/DVD Player/179,-1.csv
 codes/JVC/DVD Player/239,-1.csv
 codes/JVC/DVD Player/26,-1.csv
 codes/JVC/DVD Recorder/111,-1.csv
-codes/JVC/DVD_VCR Combo/67,-1.csv
-codes/JVC/D-VHS/67,-1.csv
 codes/JVC/HD-ILA Projection/115,-1.csv
 codes/JVC/HD-ILA Projection/15,-1.csv
 codes/JVC/HD-ILA Projection/3,-1.csv
@@ -1619,11 +1461,11 @@ codes/JVC/Receiver/3,-1.csv
 codes/JVC/Receiver/34,84.csv
 codes/JVC/Receiver/67,-1.csv
 codes/JVC/Receiver/83,-1.csv
+codes/JVC/S-VHS/67,-1.csv
 codes/JVC/Satellite/0,0.csv
 codes/JVC/Satellite/16,0.csv
 codes/JVC/Satellite/24,0.csv
 codes/JVC/Satellite/8,0.csv
-codes/JVC/S-VHS/67,-1.csv
 codes/JVC/Switcher/243,-1.csv
 codes/JVC/Tuner/131,-1.csv
 codes/JVC/Tuner/147,-1.csv
@@ -1632,14 +1474,14 @@ codes/JVC/Tuner/179,-1.csv
 codes/JVC/Tuner/3,-1.csv
 codes/JVC/Tuner/67,-1.csv
 codes/JVC/TV/15,-1.csv
-codes/JVC/TV/31,-1.csv
 codes/JVC/TV/3,-1.csv
+codes/JVC/TV/31,-1.csv
 codes/JVC/TV/67,-1.csv
 codes/JVC/Unknown_440/179,-1.csv
 codes/JVC/Unknown_JVC/159,-1.csv
-codes/JVC/Unknown_JvcDishPlayer500/3,0.csv
 codes/JVC/Unknown_jvc-lp20465-005-vcr/67,-1.csv
 codes/JVC/Unknown_JVC-RM-C475W/3,-1.csv
+codes/JVC/Unknown_JvcDishPlayer500/3,0.csv
 codes/JVC/Unknown_LP20106-002/67,-1.csv
 codes/JVC/Unknown_PQ10543/83,-1.csv
 codes/JVC/Unknown_remote/159,-1.csv
@@ -1667,8 +1509,8 @@ codes/JVC/Unknown_RM-V730U/223,-1.csv
 codes/JVC/Unknown_sw/243,-1.csv
 codes/JVC/Unknown_SXV037J/239,-1.csv
 codes/JVC/VCR/0,14.csv
-codes/JVC/VCR/1,14.csv
 codes/JVC/VCR/1,-1.csv
+codes/JVC/VCR/1,14.csv
 codes/JVC/VCR/131,-1.csv
 codes/JVC/VCR/163,-1.csv
 codes/JVC/VCR/179,-1.csv
@@ -1676,19 +1518,14 @@ codes/JVC/VCR/3,-1.csv
 codes/JVC/VCR/5,1.csv
 codes/JVC/VCR/64,-1.csv
 codes/JVC/VCR/67,-1.csv
-codes/JVC/VCR/80,-1.csv
 codes/JVC/VCR/8,14.csv
+codes/JVC/VCR/80,-1.csv
 codes/JVC/VCR/83,-1.csv
-codes/JVC/VCR DVD Combo/111,-1.csv
-codes/JVC/VCR DVD Combo/3,-1.csv
-codes/JVC/VCR DVD Combo/67,-1.csv
-codes/JVC/VCR_MiniDV/67,-1.csv
 codes/JVC/Video Projector/115,-1.csv
 codes/JVC/Video Projector/131,85.csv
 codes/JVC/Video Switcher/243,-1.csv
 codes/Kaleidescape/Distributed/69,-1.csv
 codes/Kaleidescape/DVD Player/69,-1.csv
-codes/Kanam Accent/Unknown_Accent/None,None.csv
 codes/Kaon/Unknown_KSC-i260MCO/32,8.csv
 codes/Kaon/Unknown_KTF-100CO/32,8.csv
 codes/Kaon/Unknown_KTF-I2001CO/32,8.csv
@@ -1696,7 +1533,6 @@ codes/Kathrein/DVBS-Receiver/34,144.csv
 codes/Kathrein/Satellite/0,-1.csv
 codes/Kathrein/Satellite/34,144.csv
 codes/Kathrein/Unknown_KathreinUFD400/0,-1.csv
-codes/Kawasaki/DVD_Amp/154,-1.csv
 codes/KAWA/Unknown_TV/11,11.csv
 codes/kendo/Unknown_RC-610/134,124.csv
 codes/KENMORE/Unknown_253-79081/8,245.csv
@@ -1711,9 +1547,8 @@ codes/Kenwood/Cassette Tape/184,-1.csv
 codes/Kenwood/CD Changer/182,-1.csv
 codes/Kenwood/CD Changer/182,72.csv
 codes/Kenwood/CD Changer/184,-1.csv
-codes/Kenwood/CD_DVD_MP-3/182,12.csv
-codes/Kenwood/CD Player/182,0.csv
 codes/Kenwood/CD Player/182,-1.csv
+codes/Kenwood/CD Player/182,0.csv
 codes/Kenwood/CD Player/184,-1.csv
 codes/Kenwood/DVD Changer/182,0.csv
 codes/Kenwood/DVD Changer/182,12.csv
@@ -1728,8 +1563,8 @@ codes/Kenwood/Pre-Amplifier/184,1.csv
 codes/Kenwood/Receiver/1,-1.csv
 codes/Kenwood/Receiver/12,-1.csv
 codes/Kenwood/Receiver/182,75.csv
-codes/Kenwood/Receiver/184,0.csv
 codes/Kenwood/Receiver/184,-1.csv
+codes/Kenwood/Receiver/184,0.csv
 codes/Kenwood/Receiver/184,1.csv
 codes/Kenwood/Receiver/184,2.csv
 codes/Kenwood/Receiver/184,3.csv
@@ -1738,8 +1573,8 @@ codes/Kenwood/Receiver/184,5.csv
 codes/Kenwood/Receiver/184,6.csv
 codes/Kenwood/Receiver/184,7.csv
 codes/Kenwood/Receiver/25,-1.csv
-codes/Kenwood/Receiver/40,-1.csv
 codes/Kenwood/Receiver/4,-1.csv
+codes/Kenwood/Receiver/40,-1.csv
 codes/Kenwood/Satellite Radio/2,255.csv
 codes/Kenwood/Sirius/2,255.csv
 codes/Kenwood/Tuner/182,75.csv
@@ -1775,6 +1610,7 @@ codes/Khl/Unknown_REC-R3000/65,-1.csv
 codes/Kinergetics Research/Pre-Amplifier/28,-1.csv
 codes/Kinergetics Research/Receiver/0,-1.csv
 codes/Kinergetics Research/Surround Processor/7,-1.csv
+codes/Kingbox/h265/1,254.csv
 codes/Kiss/Unknown_DP-1500s/25,-1.csv
 codes/Klipsch/Subwoofer/17,81.csv
 codes/Knoll/Video Projector/24,233.csv
@@ -1800,11 +1636,12 @@ codes/Kworld/Unknown_KWorld-DVBT-220/0,251.csv
 codes/Kworld/Unknown_KWorld-DVBT-PE310/0,251.csv
 codes/Kworld/Unknown_VS-PRV-TV/134,107.csv
 codes/Kyocera/CD Player/119,-1.csv
+codes/L+S/Unknown_30755/5,-1.csv
+codes/L+S/Unknown_LS/164,164.csv
 codes/Lacie/Unknown_Lacie/64,64.csv
 codes/Lacie/Unknown_PNE-N1SS/0,127.csv
 codes/Lasonic/Unknown_LasonicR2000/16,-1.csv
 codes/Leadership/Unknown_GOTEC/0,-1.csv
-codes/LeadTek/Unknown_PVR2000/None,None.csv
 codes/LeadTek/Unknown_RM-0007/3,-1.csv
 codes/LeadTek/Unknown_Y0400046/3,-1.csv
 codes/LeadTek/Unknown_Y0400052/3,-1.csv
@@ -1820,11 +1657,8 @@ codes/LG/Blu-Ray/45,45.csv
 codes/LG/DVD Player/16,16.csv
 codes/LG/DVD Player/44,44.csv
 codes/LG/DVD Player/45,45.csv
-codes/LG/DVD_VCR Combo/45,45.csv
 codes/LG/DVR/45,45.csv
 codes/LG/HDTV Tuner/247,-1.csv
-codes/LG/LCD_DVD/4,-1.csv
-codes/LG/LCD_DVD/45,45.csv
 codes/LG/Plasma/1,1.csv
 codes/LG/Plasma/4,-1.csv
 codes/LG/Satellite/247,-1.csv
@@ -1847,19 +1681,19 @@ codes/LG/Unknown_BC205P/110,-1.csv
 codes/LG/Unknown_BD300/45,45.csv
 codes/LG/Unknown_CC470TW/110,-1.csv
 codes/LG/Unknown_LG/110,-1.csv
-codes/LG/Unknown_LG.6710V00005G/110,-1.csv
-codes/LG/Unknown_LG.6710V00008K/4,-1.csv
 codes/LG/Unknown_LG-AKB69680403/4,-1.csv
 codes/LG/Unknown_LG-EV230/110,-1.csv
+codes/LG/Unknown_LG.6710V00005G/110,-1.csv
+codes/LG/Unknown_LG.6710V00008K/4,-1.csv
 codes/LG/Unknown_MKJ40653807/4,-1.csv
 codes/LG/Unknown_MKJ61842704/4,-1.csv
 codes/LG/Unknown_PBAFA0189A/110,-1.csv
+codes/Life-view/Unknown_3000/96,1.csv
+codes/Life-view/Unknown_flyvideo/96,1.csv
 codes/Lifesat/Unknown_28/128,38.csv
 codes/Lifetec/Unknown_LT9096/128,123.csv
 codes/Lifetec/Unknown_RC2000/5,-1.csv
 codes/Lifetec/Unknown_remote/164,164.csv
-codes/Life-view/Unknown_3000/96,1.csv
-codes/Life-view/Unknown_flyvideo/96,1.csv
 codes/Lightolier/Lighting Controller/0,-1.csv
 codes/Linksys/Media Adapter/134,107.csv
 codes/Linksys/Unknown_WMA11B-R/134,107.csv
@@ -1902,7 +1736,6 @@ codes/Loewe/TV/31,-1.csv
 codes/Loewe/TV/33,-1.csv
 codes/Loewe/TV/5,-1.csv
 codes/Loewe/TV/6,-1.csv
-codes/Loewe/Unknown_150/255,255.csv
 codes/Loewe/Unknown_8500H/110,-1.csv
 codes/Loewe/Unknown_control/0,-1.csv
 codes/Loewe/VCR/144,0.csv
@@ -1910,10 +1743,7 @@ codes/Loewe/VCR/144,1.csv
 codes/Loewe/VCR/5,-1.csv
 codes/Logitech/Unknown_HarmonyOne/30,-1.csv
 codes/Logitech/Unknown_z5500/8,-1.csv
-codes/Lpi/Unknown_PCremote/71,-1.csv
 codes/LP Morgan/Screen/0,-1.csv
-codes/L+S/Unknown_30755/5,-1.csv
-codes/L+S/Unknown_LS/164,164.csv
 codes/Lumagen/Scaler/2,-1.csv
 codes/Luxman/CD Player/204,-1.csv
 codes/Luxman/Receiver/204,-1.csv
@@ -1935,16 +1765,14 @@ codes/Magnavox/DVD Recorder/135,34.csv
 codes/Magnavox/TV/0,-1.csv
 codes/Magnavox/Unknown_UNIFIED6TRANS/0,-1.csv
 codes/Magnavox/VCR/5,-1.csv
-codes/Magnum Dynalab/Tuner/7,-1.csv
 codes/Magnum/Unknown_5520VT/1,-1.csv
+codes/Magnum Dynalab/Tuner/7,-1.csv
 codes/Majestic/Unknown_DVX377USB/0,-1.csv
 codes/Makita/Drapery Controller/2,-1.csv
 codes/Malata/DVD Player/1,-1.csv
 codes/Manhattan/Unknown_DVD/29,-1.csv
 codes/Manta/Unknown_DVD-002/0,-1.csv
 codes/Manta/Unknown_DVD-007/0,-1.csv
-codes/Marantz/AM-FM Tuner/16,-1.csv
-codes/Marantz/AM-FM Tuner/17,-1.csv
 codes/Marantz/Amplifier/16,-1.csv
 codes/Marantz/Amplifier/17,-1.csv
 codes/Marantz/Amplifier/18,-1.csv
@@ -1957,22 +1785,22 @@ codes/Marantz/Cassette Tape/23,-1.csv
 codes/Marantz/CD Changer/20,-1.csv
 codes/Marantz/CD Jukebox/20,-1.csv
 codes/Marantz/CD Player/20,-1.csv
+codes/Marantz/D-VHS/3,-1.csv
+codes/Marantz/D-VHS/67,-1.csv
 codes/Marantz/DVD/4,-1.csv
 codes/Marantz/DVD/69,-1.csv
 codes/Marantz/DVD Player/20,-1.csv
-codes/Marantz/DVD Player/41,-1.csv
 codes/Marantz/DVD Player/4,-1.csv
+codes/Marantz/DVD Player/41,-1.csv
 codes/Marantz/DVD Player/69,-1.csv
-codes/Marantz/D-VHS/3,-1.csv
-codes/Marantz/D-VHS/67,-1.csv
 codes/Marantz/iPod Dock/14,-1.csv
 codes/Marantz/iPod Dock/16,-1.csv
 codes/Marantz/MP3 Player/14,-1.csv
 codes/Marantz/MP3 Player/16,-1.csv
 codes/Marantz/Plasma/0,-1.csv
 codes/Marantz/Plasma/24,-1.csv
-codes/Marantz/Plasma/24,247.csv
 codes/Marantz/Plasma/24,24.csv
+codes/Marantz/Plasma/24,247.csv
 codes/Marantz/Plasma/80,-1.csv
 codes/Marantz/Plasma Displays/24,-1.csv
 codes/Marantz/Plasma Displays/24,24.csv
@@ -2004,29 +1832,28 @@ codes/Marantz/Tuner Section/17,-1.csv
 codes/Marantz/TV/0,-1.csv
 codes/Marantz/TV/144,0.csv
 codes/Marantz/TV/24,-1.csv
-codes/Marantz/TV/24,247.csv
 codes/Marantz/TV/24,24.csv
+codes/Marantz/TV/24,247.csv
 codes/Marantz/TV/80,-1.csv
 codes/Marantz/Unknown_Marantz-RC-63CD/20,-1.csv
-codes/Marantz/Unknown_RC-1400/4,-1.csv
-codes/Marantz/Unknown_RC1400-MD/255,255.csv
-codes/Marantz/Unknown_RC4000CD/20,-1.csv
 codes/Marantz/Unknown_rc/4,-1.csv
-codes/Marantz/Unknown_RC4300CC/20,-1.csv
+codes/Marantz/Unknown_RC-1400/4,-1.csv
 codes/Marantz/Unknown_RC-65CD/20,-1.csv
 codes/Marantz/Unknown_RC-72CD/20,-1.csv
+codes/Marantz/Unknown_RC4000CD/20,-1.csv
+codes/Marantz/Unknown_RC4300CC/20,-1.csv
 codes/Marantz/VCR/134,97.csv
 codes/Marantz/VCR/23,-1.csv
 codes/Marantz/VCR/5,-1.csv
 codes/Marantz/Video Projector/0,-1.csv
 codes/Marantz/Video Projector/13,-1.csv
+codes/Mark/Unknown_rc5/0,-1.csv
 codes/Mark Levinson/CD Player/1,-1.csv
 codes/Mark Levinson/CD Player/16,-1.csv
 codes/Mark Levinson/CD Player/2,-1.csv
 codes/Mark Levinson/CD Player/3,-1.csv
 codes/Mark Levinson/Pre-Amplifier/4,-1.csv
 codes/Mark Levinson/Pre-Amplifier/7,-1.csv
-codes/Mark/Unknown_rc5/0,-1.csv
 codes/Mas/Unknown_HSD-303/0,-1.csv
 codes/Mas/Unknown_HSD-400/0,-1.csv
 codes/Mas/Unknown_RC-0135/6,-1.csv
@@ -2046,11 +1873,10 @@ codes/Medion/Unknown_MD81035/23,105.csv
 codes/Medion/Unknown_MD81880/23,105.csv
 codes/Medion/Unknown_medion/128,123.csv
 codes/Medion/Unknown_rc2000/5,-1.csv
-codes/MEGATRON/Unknown_MEGATRON/255,255.csv
 codes/Melectronic/Unknown_PP3600/2,-1.csv
 codes/Meliconi/Unknown_Facile/0,-1.csv
-codes/Meliconi/Unknown_MeliconiSpeedy2/5,-1.csv
 codes/Meliconi/Unknown_MELICONI-U3/10,-1.csv
+codes/Meliconi/Unknown_MeliconiSpeedy2/5,-1.csv
 codes/Meliconi/Unknown_Speedy/7,7.csv
 codes/Memorex/DVD Player/0,-1.csv
 codes/Memorex/TV/4,-1.csv
@@ -2069,6 +1895,7 @@ codes/Meridian/System Remote/19,-1.csv
 codes/METRONIC/Unknown_060501/0,127.csv
 codes/METRONIC/Unknown_SAT/134,-1.csv
 codes/Metronome/CD Player/20,-1.csv
+codes/Metrox/Humidifier/128,-1.csv
 codes/MGA/VCR/87,-1.csv
 codes/Micromega/DVD Player/4,-1.csv
 codes/Microsoft/DVD Player/5,-1.csv
@@ -2079,10 +1906,8 @@ codes/Microsoft/Home Media PC/4,15.csv
 codes/Microsoft/Unknown_MCE/5,-1.csv
 codes/Microsoft/Unknown_xbox/10,-1.csv
 codes/Microsoft/Unknown_Xbox360/116,15.csv
-codes/Microsoft/Unknown_XboxDVDDongle/None,None.csv
 codes/Microsoft/Windows Media Center/4,15.csv
 codes/Midiland/Digital Decoder/81,175.csv
-codes/Minolta/Unknown_RC3/52,202.csv
 codes/Mintek/DVD Player/0,153.csv
 codes/MIRO/Unknown_MIRO/134,107.csv
 codes/MISSION/CD Player/20,-1.csv
@@ -2093,7 +1918,6 @@ codes/Mitsubishi/Cassette Tape/119,-1.csv
 codes/Mitsubishi/Cassette Tape/138,-1.csv
 codes/Mitsubishi/Cassette Tape/141,-1.csv
 codes/Mitsubishi/CD Player/119,-1.csv
-codes/Mitsubishi/CD Player Laser Disc/168,-1.csv
 codes/Mitsubishi/DSS/12,251.csv
 codes/Mitsubishi/DSS/64,-1.csv
 codes/Mitsubishi/DSS/71,-1.csv
@@ -2105,8 +1929,8 @@ codes/Mitsubishi/HDTV Receiver/12,251.csv
 codes/Mitsubishi/HDTV Receiver/71,-1.csv
 codes/Mitsubishi/Laser Disc/168,-1.csv
 codes/Mitsubishi/Laser Disc/175,-1.csv
-codes/Mitsubishi/Monitor/119,-1.csv
 codes/Mitsubishi/Monitor/1,-1.csv
+codes/Mitsubishi/Monitor/119,-1.csv
 codes/Mitsubishi/Monitor/130,100.csv
 codes/Mitsubishi/Monitor/2,-1.csv
 codes/Mitsubishi/Monitor/4,-1.csv
@@ -2117,14 +1941,14 @@ codes/Mitsubishi/Receiver/168,-1.csv
 codes/Mitsubishi/Receiver/71,-1.csv
 codes/Mitsubishi/Receiver/87,-1.csv
 codes/Mitsubishi/Satellite/12,251.csv
-codes/Mitsubishi/TV/119,-1.csv
 codes/Mitsubishi/TV/1,-1.csv
+codes/Mitsubishi/TV/119,-1.csv
 codes/Mitsubishi/TV/71,-1.csv
 codes/Mitsubishi/TV/87,-1.csv
 codes/Mitsubishi/Unknown/119,-1.csv
 codes/Mitsubishi/Unknown/71,-1.csv
-codes/Mitsubishi/Unknown_75501/87,-1.csv
 codes/Mitsubishi/Unknown/87,-1.csv
+codes/Mitsubishi/Unknown_75501/87,-1.csv
 codes/Mitsubishi/Unknown_HD1000/240,-1.csv
 codes/Mitsubishi/Unknown_HS-349/87,-1.csv
 codes/Mitsubishi/Unknown_mitsubishi/71,-1.csv
@@ -2132,8 +1956,8 @@ codes/Mitsubishi/Unknown_tv/71,-1.csv
 codes/Mitsubishi/VCR/119,-1.csv
 codes/Mitsubishi/VCR/23,-1.csv
 codes/Mitsubishi/VCR/3,-1.csv
-codes/Mitsubishi/VCR/71,-1.csv
 codes/Mitsubishi/VCR/7,-1.csv
+codes/Mitsubishi/VCR/71,-1.csv
 codes/Mitsubishi/VCR/87,-1.csv
 codes/Mitsubishi/Video Projector/71,-1.csv
 codes/mivar/Unknown_mivar/7,-1.csv
@@ -2173,13 +1997,13 @@ codes/Motorola/Unknown_MOTOROLA/0,-1.csv
 codes/Motorola/Unknown_QIP2500/0,-1.csv
 codes/Motorola/Unknown_RC1445302-00B-REV2/0,-1.csv
 codes/Motorola/Unknown_VIP/35,64.csv
+codes/MS-Tech/Unknown_HTPC/0,95.csv
+codes/MS-Tech/Unknown_MS-Tech/0,95.csv
 codes/MSI/Unknown_lircd.conf/134,107.csv
 codes/MSI/Unknown_MegaPC/134,107.csv
 codes/MSI/Unknown_PC/134,107.csv
 codes/MSI/Unknown_test/134,107.csv
 codes/mStation/Unknown_mStation/64,175.csv
-codes/MS-Tech/Unknown_HTPC/0,95.csv
-codes/MS-Tech/Unknown_MS-Tech/0,95.csv
 codes/Multi Canal/Unknown_Canal/133,123.csv
 codes/Multichoice/Unknown_DSD910/24,-1.csv
 codes/multiTEC/Unknown_multiTEC/7,-1.csv
@@ -2208,7 +2032,6 @@ codes/NAD/CD Player/135,124.csv
 codes/NAD/CD Player/42,-1.csv
 codes/NAD/Monitor/64,-1.csv
 codes/NAD/Receiver/135,124.csv
-codes/NAD/Receiver_CD/135,124.csv
 codes/NAD/Surround Processor/135,124.csv
 codes/NAD/Surround Processor/93,-1.csv
 codes/NAD/Tuner/135,124.csv
@@ -2226,8 +2049,8 @@ codes/Nakamichi/DVD Player/92,162.csv
 codes/Nakamichi/Receiver/103,-1.csv
 codes/Nakamichi/Receiver/130,93.csv
 codes/Nakamichi/Receiver/186,-1.csv
-codes/Nakamichi/Receiver/92,161.csv
 codes/Nakamichi/Receiver/92,-1.csv
+codes/Nakamichi/Receiver/92,161.csv
 codes/Nakamichi/Tuner/103,-1.csv
 codes/Nakamichi/Tuner/92,-1.csv
 codes/Nakamichi/Unknown_lirc.config/103,-1.csv
@@ -2236,8 +2059,8 @@ codes/Nebula Electronics/Unknown_DVB/0,-1.csv
 codes/NEC/Monitor/25,-1.csv
 codes/NEC/Monitor/4,-1.csv
 codes/NEC/Receiver/25,-1.csv
-codes/NEC/Receiver/26,197.csv
 codes/NEC/Receiver/26,-1.csv
+codes/NEC/Receiver/26,197.csv
 codes/NEC/Receiver/26,225.csv
 codes/NEC/Receiver/26,228.csv
 codes/NEC/Receiver/26,231.csv
@@ -2274,8 +2097,8 @@ codes/NEC/VCR/25,-1.csv
 codes/NEC/VCR/4,-1.csv
 codes/NEC/Video Projector/24,233.csv
 codes/NEC/Video Projector/24,247.csv
-codes/Netgem/Unknown_iPlayer/131,51.csv
 codes/NET TV/TV/2,-1.csv
+codes/Netgem/Unknown_iPlayer/131,51.csv
 codes/Nextwave/Unknown_EX300/4,16.csv
 codes/Nikko/Unknown_Nikko/5,-1.csv
 codes/Niles Audio/Unknown/128,93.csv
@@ -2319,12 +2142,12 @@ codes/One For All/Unknown_URC-7020/5,-1.csv
 codes/One For All/Unknown_URC-7240/5,-1.csv
 codes/One For All/Unknown_URC-7530/7,-1.csv
 codes/One For All/Unknown_URC-7555/0,-1.csv
-codes/One For All/Unknown_urc7562/0,-1.csv
 codes/One For All/Unknown_URC-7562/68,-1.csv
 codes/One For All/Unknown_URC-7710/0,-1.csv
-codes/One For All/Unknown_urc7730/0,-1.csv
 codes/One For All/Unknown_URC-8204.1300/32,8.csv
 codes/One For All/Unknown_URC-8910/7,-1.csv
+codes/One For All/Unknown_urc7562/0,-1.csv
+codes/One For All/Unknown_urc7730/0,-1.csv
 codes/One For All/Unknown_VCR/113,-1.csv
 codes/Onida/Unknown_DFX/0,-1.csv
 codes/Onida/Unknown_TVE/3,-1.csv
@@ -2338,9 +2161,6 @@ codes/Onkyo/CD Player/210,13.csv
 codes/Onkyo/CD Player/210,44.csv
 codes/Onkyo/DVD Player/210,43.csv
 codes/Onkyo/DVD Player/69,-1.csv
-codes/Onkyo Integra/DVD Changer/210,43.csv
-codes/Onkyo Integra/Receiver/210,108.csv
-codes/Onkyo Integra/Receiver/210,109.csv
 codes/Onkyo/Laser Disc/168,-1.csv
 codes/Onkyo/Receiver/210,108.csv
 codes/Onkyo/Receiver/210,109.csv
@@ -2349,7 +2169,6 @@ codes/Onkyo/Tuner/210,37.csv
 codes/Onkyo/Unknown/210,109.csv
 codes/Onkyo/Unknown/210,44.csv
 codes/Onkyo/Unknown_CR-70R/210,109.csv
-codes/Onkyo/Unknown_lircd.conf/210,31.csv
 codes/Onkyo/Unknown_Onkyo/160,10.csv
 codes/Onkyo/Unknown_Onkyo/210,109.csv
 codes/Onkyo/Unknown_Onkyo/210,44.csv
@@ -2361,6 +2180,9 @@ codes/Onkyo/Unknown_rc-252s/210,109.csv
 codes/Onkyo/Unknown_RC-425DV/210,43.csv
 codes/Onkyo/Unknown_RC-50/210,-1.csv
 codes/Onkyo/Unknown_RC-682M/210,43.csv
+codes/Onkyo Integra/DVD Changer/210,43.csv
+codes/Onkyo Integra/Receiver/210,108.csv
+codes/Onkyo Integra/Receiver/210,109.csv
 codes/Optex/Unknown_ORT/0,-1.csv
 codes/orion/Unknown_orion/128,123.csv
 codes/orion/Unknown_orion-RC57/128,126.csv
@@ -2373,9 +2195,8 @@ codes/Pace/Unknown_DI4010I/10,-1.csv
 codes/Pace/Unknown_Digital/0,0.csv
 codes/Pace/Unknown_DS420/16,80.csv
 codes/Pace/Unknown_DS620/132,60.csv
-codes/Pace/Unknown_pace900/8,-1.csv
-codes/Pace/Unknown_PaceMSS/1,-1.csv
 codes/Pace/Unknown_PACE-RC-10/132,60.csv
+codes/Pace/Unknown_PaceMSS/1,-1.csv
 codes/Pace/Unknown_pacetwin/34,-1.csv
 codes/Pace/Unknown_RC-17/132,60.csv
 codes/Pace/Unknown_RC-30/132,60.csv
@@ -2401,11 +2222,8 @@ codes/Panasonic/TV/128,0.csv
 codes/Panasonic/TV/128,1.csv
 codes/Panasonic/TV/128,4.csv
 codes/Panasonic/TV/128,9.csv
-codes/Panasonic/Unknown_AMP/2,32.csv
 codes/Panasonic/Unknown_CARC60EX/129,106.csv
 codes/Panasonic/Unknown_cd/160,194.csv
-codes/Panasonic/Unknown_DSS/2,32.csv
-codes/Panasonic/Unknown_DVD/2,32.csv
 codes/Panasonic/Unknown_EUR57510/144,0.csv
 codes/Panasonic/Unknown_EUR642162/160,194.csv
 codes/Panasonic/Unknown_EUR642195/160,194.csv
@@ -2422,22 +2240,20 @@ codes/Panasonic/Unknown_NV-F65/144,0.csv
 codes/Panasonic/Unknown_panas928/160,194.csv
 codes/Panasonic/Unknown_PANASONIC/0,-1.csv
 codes/Panasonic/Unknown_PANASONIC/176,0.csv
-codes/Panasonic/Unknown_panasonic.conf/144,0.csv
 codes/Panasonic/Unknown_Panasonic-EUR571100/144,0.csv
 codes/Panasonic/Unknown_Panasonic-RAK-RX314W/160,194.csv
 codes/Panasonic/Unknown_panasonic-RAX-RX318W/160,194.csv
+codes/Panasonic/Unknown_panasonic.conf/144,0.csv
 codes/Panasonic/Unknown_RAK-RX309W/160,194.csv
 codes/Panasonic/Unknown_RC4346-01B/0,-1.csv
 codes/Panasonic/Unknown_RX-ED70/160,194.csv
 codes/Panasonic/Unknown_TV/0,-1.csv
 codes/Panasonic/Unknown_VCR/144,1.csv
-codes/Panasonic/Unknown_VCR/2,32.csv
 codes/Panasonic/Unknown_VEQ0910/144,0.csv
 codes/Panasonic/Unknown_VEQ1309/144,0.csv
 codes/Panasonic/Unknown_VEQ1697/112,8.csv
 codes/Panasonic/Unknown_veq2249/176,0.csv
 codes/Panasonic/Unknown_VEQ2380/176,0.csv
-codes/Panasonic/Unknown_vi/2,32.csv
 codes/Panasonic/Unknown_VSQS0531/2,-1.csv
 codes/Panasonic/VCR/144,0.csv
 codes/Panasonic/VCR/144,1.csv
@@ -2485,9 +2301,9 @@ codes/Philips/Unknown_CD720/20,-1.csv
 codes/Philips/Unknown_CD723/20,-1.csv
 codes/Philips/Unknown_digital/0,-1.csv
 codes/Philips/Unknown_DSX-5500/39,-1.csv
+codes/Philips/Unknown_DVD-724/4,-1.csv
 codes/Philips/Unknown_DVD711/4,-1.csv
 codes/Philips/Unknown_dvd712/4,-1.csv
-codes/Philips/Unknown_DVD-724/4,-1.csv
 codes/Philips/Unknown_DVP-5982/4,-1.csv
 codes/Philips/Unknown_DVP-642/4,-1.csv
 codes/Philips/Unknown_FW2104/134,83.csv
@@ -2503,19 +2319,19 @@ codes/Philips/Unknown_philips-rc2592-MODE-v1/8,-1.csv
 codes/Philips/Unknown_PM725S/27,-1.csv
 codes/Philips/Unknown_R-48F01/20,-1.csv
 codes/Philips/Unknown_RC/0,-1.csv
+codes/Philips/Unknown_RC/20,-1.csv
+codes/Philips/Unknown_RC-2012/4,-1.csv
+codes/Philips/Unknown_RC-5/0,-1.csv
+codes/Philips/Unknown_RC-5/5,-1.csv
+codes/Philips/Unknown_RC-7843/0,-1.csv
 codes/Philips/Unknown_RC19042002/0,-1.csv
 codes/Philips/Unknown_RC19237006/4,-1.csv
 codes/Philips/Unknown_RC19335003-01P/0,-1.csv
-codes/Philips/Unknown_RC-2012/4,-1.csv
-codes/Philips/Unknown_RC/20,-1.csv
 codes/Philips/Unknown_RC2034302/0,-1.csv
 codes/Philips/Unknown_RC2070/0,-1.csv
 codes/Philips/Unknown_RC2582/39,-1.csv
-codes/Philips/Unknown_RC-5/0,-1.csv
-codes/Philips/Unknown_RC-5/5,-1.csv
 codes/Philips/Unknown_RC5-BP6/0,-1.csv
 codes/Philips/Unknown_RC7507/5,-1.csv
-codes/Philips/Unknown_RC-7843/0,-1.csv
 codes/Philips/Unknown_RC7843/0,-1.csv
 codes/Philips/Unknown_RC7925/26,-1.csv
 codes/Philips/Unknown_RC8244/10,-1.csv
@@ -2578,7 +2394,6 @@ codes/Pioneer/Unknown_CU-PD069/162,-1.csv
 codes/Pioneer/Unknown_CU-PD085/162,-1.csv
 codes/Pioneer/Unknown_CU-PD089/162,-1.csv
 codes/Pioneer/Unknown_cu-pd096/162,-1.csv
-codes/Pioneer/Unknown_CU-XC004/255,255.csv
 codes/Pioneer/Unknown_DEH-D8850/0,-1.csv
 codes/Pioneer/Unknown_PD-M650/162,-1.csv
 codes/Pioneer/Unknown_pioneer/162,-1.csv
@@ -2607,12 +2422,12 @@ codes/Provision/Unknown_PRDVD2166/0,153.csv
 codes/PS Audio/CD Player/20,-1.csv
 codes/QUADRAL/Unknown_RC-804/19,1.csv
 codes/Quasar/TV/128,0.csv
-codes/Radio Shack/Unknown_Radioshack2115/5,-1.csv
 codes/Radio Shack/Unknown_RadioShack/3,1.csv
+codes/Radio Shack/Unknown_Radioshack2115/5,-1.csv
 codes/Radio Shack/Unknown_RS2142/5,-1.csv
 codes/Radix/Unknown_Alpha/138,245.csv
-codes/Radix/Unknown_DTR-9000-Twin/0,127.csv
 codes/Radix/Unknown_DT-X1/0,127.csv
+codes/Radix/Unknown_DTR-9000-Twin/0,127.csv
 codes/Radix/Unknown_lircd.conf/0,127.csv
 codes/Radix/Unknown_radix/138,245.csv
 codes/Radix/Unknown_SAT/138,245.csv
@@ -2633,11 +2448,11 @@ codes/RCA/Unknown_RCZ/135,94.csv
 codes/RCA/Unknown_TV/15,-1.csv
 codes/RCA/VCR/14,-1.csv
 codes/RCA/VCR/15,-1.csv
+codes/Re.x/Unknown_SDVD/0,-1.csv
 codes/Recor/Unknown_IRC-1304/7,-1.csv
 codes/Rega/Receiver/110,-1.csv
 codes/Rega/Receiver/135,124.csv
 codes/Rega/Receiver/16,-1.csv
-codes/remotec/Unknown_MEDIAMASTER/None,None.csv
 codes/remotec/Unknown_remotec/0,-1.csv
 codes/remotec/Unknown_remotec1072/5,-1.csv
 codes/remotec/Unknown_rm200/1,-1.csv
@@ -2646,10 +2461,8 @@ codes/Replay Networks/Digital Recorder/1,0.csv
 codes/ReplayTV/Unknown_5000/1,0.csv
 codes/Revo/Unknown_Blik/0,-1.csv
 codes/Revoy/Unknown_Revoy2200/0,153.csv
-codes/Re.x/Unknown_SDVD/0,-1.csv
 codes/Rio/Unknown_Audio/130,19.csv
 codes/roadstar/Unknown_dvd/136,-1.csv
-codes/Roku/Unknown_N1000-04/190,239.csv
 codes/Roku/Unknown_Netflix/190,239.csv
 codes/Roku/Unknown_Soundbridge/111,-1.csv
 codes/Rolsen/Unknown_DK5A/1,-1.csv
@@ -2662,16 +2475,15 @@ codes/RSQ/Karaoke/179,-1.csv
 codes/RSQ/Karaoke/191,-1.csv
 codes/RSQ/Karaoke/3,-1.csv
 codes/rubin/Unknown_rubin/0,-1.csv
-codes/Runco/Controller_DLP/1,-1.csv
 codes/Runco/Line Doubler/4,-1.csv
 codes/Runco/Video Controller/1,-1.csv
 codes/Runco/Video Projector/1,-1.csv
 codes/Runco/Video Projector/24,247.csv
 codes/Runco/Video Projector/5,1.csv
 codes/Russound/Music Server/10,-1.csv
+codes/SAB/Unknown_Explorer/1,-1.csv
 codes/SABA/Unknown_SabaTC460/7,-1.csv
 codes/SABA/Unknown_TC3003/7,-1.csv
-codes/SAB/Unknown_Explorer/1,-1.csv
 codes/Sagem/Unknown_DVB-T-Receiver/135,94.csv
 codes/Sagem/Unknown_HD103-C/135,94.csv
 codes/Sagem/Unknown_Sagem/135,94.csv
@@ -2702,7 +2514,6 @@ codes/Samsung/Unknown_AA59-00382A/7,7.csv
 codes/Samsung/Unknown_AA59-00600A/7,7.csv
 codes/Samsung/Unknown_AA59-10026E/5,5.csv
 codes/Samsung/Unknown_AA64-50236A/7,7.csv
-codes/Samsung/Unknown_AH59-00043E/67,83.csv
 codes/Samsung/Unknown_AH59-01527F/67,83.csv
 codes/Samsung/Unknown_AH59-02345A/7,7.csv
 codes/Samsung/Unknown_ARH-700/1,8.csv
@@ -2722,15 +2533,15 @@ codes/Samsung/Unknown_BN59-00940A/7,7.csv
 codes/Samsung/Unknown_BRM-E1E/33,33.csv
 codes/Samsung/Unknown_hifi/0,1.csv
 codes/Samsung/Unknown_HLN507W/7,7.csv
+codes/Samsung/Unknown_MF59/0,-1.csv
 codes/Samsung/Unknown_MF59-00242B/9,9.csv
 codes/Samsung/Unknown_MF59-00291a/32,0.csv
-codes/Samsung/Unknown_MF59/0,-1.csv
 codes/Samsung/Unknown_PR3914/5,5.csv
 codes/Samsung/Unknown_RCD-M70/0,4.csv
-codes/Samsung/Unknown_samsung-10095T/7,7.csv
 codes/Samsung/Unknown_SAMSUNG/102,0.csv
 codes/Samsung/Unknown_SAMSUNG/5,5.csv
 codes/Samsung/Unknown_SAMSUNG/7,7.csv
+codes/Samsung/Unknown_samsung-10095T/7,7.csv
 codes/Samsung/Unknown_SAT/21,-1.csv
 codes/Samsung/Unknown_SFT-702E/64,-1.csv
 codes/Samsung/Unknown_SMT-1000T/64,64.csv
@@ -2761,9 +2572,9 @@ codes/Sanyo/Unknown_RC700/56,-1.csv
 codes/Sanyo/Unknown_Sanyo/49,-1.csv
 codes/Sanyo/Unknown_Sanyo/56,-1.csv
 codes/Sanyo/Unknown_Sanyo-B13509/49,-1.csv
-codes/Sanyo/Unknown_sanyoB13537/49,-1.csv
 codes/Sanyo/Unknown_Sanyo-JXZB/56,-1.csv
 codes/Sanyo/Unknown_sanyo-tv01/56,-1.csv
+codes/Sanyo/Unknown_sanyoB13537/49,-1.csv
 codes/Sanyo/Unknown_TV/56,-1.csv
 codes/Sanyo/Unknown_VCR/49,-1.csv
 codes/Sanyo/Video Projector/48,-1.csv
@@ -2788,16 +2599,14 @@ codes/SEG/Unknown_SEG-VCR4300/21,-1.csv
 codes/SEG/Unknown_SR-040/133,115.csv
 codes/SEG/Unknown_SR-201/66,253.csv
 codes/SEG/Unknown_SR800/4,-1.csv
-codes/SEG/Unknown_VCR2000/134,124.csv
 codes/SEG/Unknown_VCR/21,-1.csv
+codes/SEG/Unknown_VCR2000/134,124.csv
 codes/Seleco/TV/0,-1.csv
 codes/Seleco/TV/30,-1.csv
 codes/Sencor/Unknown_SFN9011SL/0,252.csv
 codes/Sgi/Unknown_SGIMON/26,9.csv
-codes/SHANNON/Unknown_SHANNON/None,None.csv
 codes/Sharp/DTV Decoder/1,-1.csv
 codes/Sharp/Monitor/1,-1.csv
-codes/Sharpsat/Unknown_T28/128,38.csv
 codes/Sharp/TV/1,-1.csv
 codes/Sharp/Unknown_CV-2131CK1/1,-1.csv
 codes/Sharp/Unknown_G0048TA/19,-1.csv
@@ -2811,10 +2620,9 @@ codes/Sharp/Unknown_SHARP/1,-1.csv
 codes/Sharp/Unknown_sharp1781/1,-1.csv
 codes/Sharp/VCR/3,-1.csv
 codes/Sharp/Video Projector/13,-1.csv
+codes/Sharpsat/Unknown_T28/128,38.csv
 codes/Sherwood/Receiver/131,69.csv
-codes/Sherwood/Unknown_CD/255,255.csv
 codes/Sherwood/Unknown_GC-1285/129,114.csv
-codes/Sherwood/Unknown_GC-1285/255,255.csv
 codes/Sherwood/Unknown_RM-101/69,131.csv
 codes/Sherwood/Unknown_RM-636/131,68.csv
 codes/Sherwood/Unknown_RM-RV-N25/131,68.csv
@@ -2824,8 +2632,8 @@ codes/Sherwood/Unknown_Sherwood-S2770R-CP-II/129,123.csv
 codes/Shinco/Unknown_RC-1730/0,153.csv
 codes/Shuttle/Unknown_mceusb/4,15.csv
 codes/Siemens/Unknown_fb405/134,84.csv
-codes/Siemens/Unknown_siemens1/49,-1.csv
 codes/Siemens/Unknown_siemens-fb400/131,89.csv
+codes/Siemens/Unknown_siemens1/49,-1.csv
 codes/Sigma Designs/DVD Player/128,-1.csv
 codes/Sigma Designs/Unknown_SIR/128,-1.csv
 codes/Sigmatek/Unknown_X100/8,-1.csv
@@ -2836,14 +2644,14 @@ codes/Sirius/Unknown_SBKB-3201KR/128,-1.csv
 codes/Sirius/Unknown_Sportster/1,-1.csv
 codes/Sirius/Unknown_ST2/0,-1.csv
 codes/Sitronics/Unknown_RC-D010E/0,251.csv
+codes/Sky/Unknown_DVB-S/0,12.csv
+codes/Sky/Unknown_rev.4/0,0.csv
 codes/Skymaster/Unknown_2421/2,-1.csv
 codes/Skymaster/Unknown_2424/37,250.csv
 codes/Skymaster/Unknown_DCI/5,-1.csv
 codes/Skymaster/Unknown_skymaster/19,1.csv
 codes/Skymaster/Unknown_SkymasterXLS99/19,1.csv
 codes/Skymaster/Unknown_XL10/6,-1.csv
-codes/Sky/Unknown_DVB-S/0,12.csv
-codes/Sky/Unknown_rev.4/0,0.csv
 codes/Slim Art/Unknown_SA-100/0,-1.csv
 codes/Slim Devices/Unknown_Devices/110,-1.csv
 codes/SnapStream/Unknown_Firefly-Mini/0,-1.csv
@@ -2874,8 +2682,8 @@ codes/Sony/Digital Recorder/26,154.csv
 codes/Sony/Digital Recorder/26,73.csv
 codes/Sony/Digital Recorder/26,98.csv
 codes/Sony/DSP/26,233.csv
-codes/Sony/DSS/11,-1.csv
 codes/Sony/DSS/1,-1.csv
+codes/Sony/DSS/11,-1.csv
 codes/Sony/DSS/183,-1.csv
 codes/Sony/DSS/23,133.csv
 codes/Sony/DSS/3,-1.csv
@@ -2902,18 +2710,18 @@ codes/Sony/Pre-Amplifier/16,-1.csv
 codes/Sony/Pre-Amplifier/17,-1.csv
 codes/Sony/Pre-Amplifier/18,-1.csv
 codes/Sony/Pre-Amplifier/183,-1.csv
-codes/Sony/Pre-Amplifier/20,-1.csv
 codes/Sony/Pre-Amplifier/2,-1.csv
+codes/Sony/Pre-Amplifier/20,-1.csv
 codes/Sony/Pre-Amplifier/23,-1.csv
 codes/Sony/Pre-Amplifier/26,66.csv
 codes/Sony/Pre-Amplifier/26,73.csv
 codes/Sony/Pre-Amplifier/36,-1.csv
 codes/Sony/Pre-Amplifier/6,-1.csv
 codes/Sony/Pre-Amplifier/7,-1.csv
-codes/Sony/Receiver/11,-1.csv
 codes/Sony/Receiver/1,-1.csv
-codes/Sony/Receiver/121,-1.csv
+codes/Sony/Receiver/11,-1.csv
 codes/Sony/Receiver/12,-1.csv
+codes/Sony/Receiver/121,-1.csv
 codes/Sony/Receiver/13,-1.csv
 codes/Sony/Receiver/144,-1.csv
 codes/Sony/Receiver/15,-1.csv
@@ -2921,8 +2729,8 @@ codes/Sony/Receiver/16,-1.csv
 codes/Sony/Receiver/17,-1.csv
 codes/Sony/Receiver/176,-1.csv
 codes/Sony/Receiver/18,-1.csv
-codes/Sony/Receiver/20,-1.csv
 codes/Sony/Receiver/2,-1.csv
+codes/Sony/Receiver/20,-1.csv
 codes/Sony/Receiver/23,-1.csv
 codes/Sony/Receiver/26,66.csv
 codes/Sony/Receiver/26,73.csv
@@ -2936,11 +2744,12 @@ codes/Sony/Surround Processor/26,233.csv
 codes/Sony/TiVo/183,-1.csv
 codes/Sony/TiVo/23,133.csv
 codes/Sony/TiVo/26,154.csv
-codes/Sony/TV/119,-1.csv
 codes/Sony/TV/1,-1.csv
+codes/Sony/TV/119,-1.csv
 codes/Sony/TV/151,-1.csv
 codes/Sony/TV/164,-1.csv
 codes/Sony/TV/183,-1.csv
+codes/Sony/TV/26,-1.csv
 codes/Sony/TV/26,42.csv
 codes/Sony/TV/3,-1.csv
 codes/Sony/TV/84,-1.csv
@@ -2985,22 +2794,6 @@ codes/Sony/Unknown_RM-PJP1/26,42.csv
 codes/Sony/Unknown_RM-SG20/131,0.csv
 codes/Sony/Unknown_RM-SG5/131,0.csv
 codes/Sony/Unknown_RM-SG7/131,0.csv
-codes/Sony/Unknown_RMT-136/2,-1.csv
-codes/Sony/Unknown_RMT-506/7,-1.csv
-codes/Sony/Unknown_RMT-B101A/26,226.csv
-codes/Sony/Unknown_RMT-CF1A/26,19.csv
-codes/Sony/Unknown_RMT-CS33R/255,255.csv
-codes/Sony/Unknown_RMT-D115P/26,73.csv
-codes/Sony/Unknown_RMT-D126A/26,73.csv
-codes/Sony/Unknown_RMT-D126E/26,73.csv
-codes/Sony/Unknown_RMT-D129A/26,73.csv
-codes/Sony/Unknown_RMT-DSC2/26,241.csv
-codes/Sony/Unknown_RMT-V107/11,-1.csv
-codes/Sony/Unknown_RMT-V108-VTR/255,255.csv
-codes/Sony/Unknown_RMT-V270/11,-1.csv
-codes/Sony/Unknown_RMT-V501A/26,83.csv
-codes/Sony/Unknown_RM-U302/255,255.csv
-codes/Sony/Unknown_rm-v10t/1,-1.csv
 codes/Sony/Unknown_RM-V211T/2,-1.csv
 codes/Sony/Unknown_RM-W101/1,-1.csv
 codes/Sony/Unknown_RM-X30/132,-1.csv
@@ -3013,8 +2806,18 @@ codes/Sony/Unknown_RM-Y173/1,-1.csv
 codes/Sony/Unknown_RM-Y180/1,-1.csv
 codes/Sony/Unknown_RM-Y800/183,-1.csv
 codes/Sony/Unknown_RM-Y812/183,-1.csv
-codes/Sony/Unknown_SCPH-10150.irman/255,255.csv
-codes/Sony/Unknown_SONY/1,-1.csv
+codes/Sony/Unknown_RMT-136/2,-1.csv
+codes/Sony/Unknown_RMT-506/7,-1.csv
+codes/Sony/Unknown_RMT-B101A/26,226.csv
+codes/Sony/Unknown_RMT-CF1A/26,19.csv
+codes/Sony/Unknown_RMT-D115P/26,73.csv
+codes/Sony/Unknown_RMT-D126A/26,73.csv
+codes/Sony/Unknown_RMT-D126E/26,73.csv
+codes/Sony/Unknown_RMT-D129A/26,73.csv
+codes/Sony/Unknown_RMT-DSC2/26,241.csv
+codes/Sony/Unknown_RMT-V107/11,-1.csv
+codes/Sony/Unknown_RMT-V270/11,-1.csv
+codes/Sony/Unknown_RMT-V501A/26,83.csv
 codes/Sony/Unknown_SONY/17,-1.csv
 codes/Sony/Unknown_sony-cd/17,-1.csv
 codes/Sony/Unknown_sonyRM-sep303/4,-1.csv
@@ -3025,8 +2828,8 @@ codes/Sony/Unknown_tv/2,-1.csv
 codes/Sony/Unknown_VaioRemote/4,15.csv
 codes/Sony/Unknown_VPL-W400/84,-1.csv
 codes/Sony/VCR/0,-1.csv
-codes/Sony/VCR/11,-1.csv
 codes/Sony/VCR/1,-1.csv
+codes/Sony/VCR/11,-1.csv
 codes/Sony/VCR/180,-1.csv
 codes/Sony/VCR/185,-1.csv
 codes/Sony/VCR/186,-1.csv
@@ -3039,20 +2842,21 @@ codes/Sony/VCR/9,-1.csv
 codes/Sony/Video Projector/26,42.csv
 codes/Sony/Video Projector/84,-1.csv
 codes/Speed-link/Unknown_SL-6399/0,-1.csv
+codes/ST/Unknown_DTTRC-4/1,-1.csv
+codes/ST/Unknown_HMP/8,-1.csv
 codes/starhub/Unknown_starhub/33,144.csv
 codes/Starsat/Unknown_120/64,64.csv
 codes/Starview/Unknown_Starview/0,249.csv
 codes/Streamzap/Unknown_PC/35,-1.csv
-codes/Strong/8821_DVB-T/2,2.csv
+codes/STRONG/8209_DVB-T2/1,254.csv
+codes/STRONG/8821_DVB-T/2,2.csv
 codes/STRONG/Unknown_STRONG/128,119.csv
-codes/ST/Unknown_DTTRC-4/1,-1.csv
-codes/ST/Unknown_HMP/8,-1.csv
 codes/Sumvision/Unknown_Sumvision/0,-1.csv
+codes/sun/Unknown_sun/26,9.csv
 codes/Sunfire/Surround Processor/184,0.csv
 codes/Sunfire/Surround Processor/184,1.csv
 codes/Sunfire/Surround Processor/184,3.csv
 codes/Sungale/Unknown_JX-2002/0,-1.csv
-codes/sun/Unknown_sun/26,9.csv
 codes/Supermax/Unknown_Supermax/128,38.csv
 codes/SUPERSQNY/Unknown_KM-168/0,-1.csv
 codes/Supportplus/Unknown_SP-URC-LCD-F15/10,-1.csv
@@ -3063,6 +2867,8 @@ codes/Symphonic/TV/41,-1.csv
 codes/Symphonic/VCR/40,-1.csv
 codes/Symphonic/VCR/44,-1.csv
 codes/Tab Electronics/Unknown_Kit/0,-1.csv
+codes/Tangent/Tangent-HiFi-II_Ampster-BT_CD_Tuner/6,248.csv
+codes/TCL/TV/15,-1.csv
 codes/TCM/Unknown_212845-CD/5,-1.csv
 codes/TCM/Unknown_218681/5,5.csv
 codes/TCM/Unknown_225925/24,233.csv
@@ -3073,7 +2879,6 @@ codes/TCUAG/Unknown_TVBOX/6,-1.csv
 codes/TEAC/DVD Player/163,-1.csv
 codes/TEAC/DVD Player/175,-1.csv
 codes/TEAC/Unknown_CD/134,97.csv
-codes/TEAC/Unknown_DMP/255,255.csv
 codes/TEAC/Unknown_RC-547/3,1.csv
 codes/TEAC/Unknown_RC-548/128,114.csv
 codes/TEAC/Unknown_RC-558/130,120.csv
@@ -3088,9 +2893,9 @@ codes/TECHNICS/Unknown_sl-ps670a/160,10.csv
 codes/TECHNISAT/Unknown_100TS035/10,-1.csv
 codes/TECHNISAT/Unknown_FBPNA35/10,-1.csv
 codes/TECHNISAT/Unknown_FBPVR335A/10,-1.csv
+codes/TECHNISAT/Unknown_st-6000e/131,121.csv
 codes/TECHNISAT/Unknown_ST3002S/1,-1.csv
 codes/TECHNISAT/Unknown_ST3004S/1,-1.csv
-codes/TECHNISAT/Unknown_st-6000e/131,121.csv
 codes/TECHNISAT/Unknown_TECHNISAT/1,-1.csv
 codes/TECHNISAT/Unknown_TTS35AI/10,-1.csv
 codes/TECHNISAT/Unknown_TTS35AI.conf/10,-1.csv
@@ -3100,7 +2905,6 @@ codes/Technotrend/Unknown_Micro/21,-1.csv
 codes/Technotrend/Unknown_remote/21,-1.csv
 codes/Technotrend/Unknown_S2400/21,-1.csv
 codes/Technotrend/Unknown_Technotrend/21,-1.csv
-codes/Tekram/Unknown_M230/None,None.csv
 codes/TELEFUNKEN/AUDIO_IR3000/0,1.csv
 codes/TELEFUNKEN/TV_1127/7,-1.csv
 codes/TELEFUNKEN/TV_RC-1345/5,-1.csv
@@ -3121,7 +2925,6 @@ codes/Terratec/Unknown_M3PO/10,-1.csv
 codes/Tesla/Unknown_32LCD70WDGHD/1,-1.csv
 codes/Tesla/Unknown_Tesla/11,11.csv
 codes/Tesla/Unknown_Tesla/5,-1.csv
-codes/TeVii/Unknown_S650/0,255.csv
 codes/Tevion/Unknown_3830/1,-1.csv
 codes/Tevion/Unknown_41666/131,69.csv
 codes/Tevion/Unknown_DFA/0,-1.csv
@@ -3136,9 +2939,9 @@ codes/Tevion/Unknown_TDR-250HD/0,159.csv
 codes/Tevion/Unknown_TDR51DV/0,159.csv
 codes/Tevion/Unknown_TE-0603/64,63.csv
 codes/Tevion/Unknown_TEV1020/0,-1.csv
-codes/Tevion/Unknown_TevionMd3607/7,-1.csv
 codes/Tevion/Unknown_Tevion-MD80383/5,5.csv
 codes/Tevion/Unknown_Tevion-MD81035-ASAT-Code-0905/23,105.csv
+codes/Tevion/Unknown_TevionMd3607/7,-1.csv
 codes/Theta Digital/DVD Player/163,-1.csv
 codes/Theta Digital/DVD Player/175,-1.csv
 codes/Theta Digital/Surround Processor/16,-1.csv
@@ -3148,10 +2951,10 @@ codes/Thomson/Unknown_230/0,-1.csv
 codes/Thomson/Unknown_RCS615TCLM1/5,-1.csv
 codes/Thomson/Unknown_TM9258/128,255.csv
 codes/Thomson/Unknown_TV/7,-1.csv
-codes/Tivoli/Unknown_Sirius/0,-1.csv
 codes/TiVo/PVR/26,154.csv
 codes/TiVo/TiVo/133,48.csv
 codes/TiVo/Unknown_Series1/133,48.csv
+codes/Tivoli/Unknown_Sirius/0,-1.csv
 codes/Tokai/Unknown_DVD-715/32,-1.csv
 codes/Topfield/Unknown_PVR/32,-1.csv
 codes/Topfield/Unknown_TF4000Fi/4,255.csv
@@ -3177,13 +2980,11 @@ codes/Toshiba/Unknown_SE-R0031/69,-1.csv
 codes/Toshiba/Unknown_SE-R0049/69,-1.csv
 codes/Toshiba/Unknown_SE-R0058/69,-1.csv
 codes/Toshiba/Unknown_SE-R0127/69,-1.csv
-codes/Toshiba/Unknown_SE-R0313/69,186.csv
 codes/Toshiba/Unknown_TOSHIBA/64,-1.csv
 codes/Toshiba/Unknown_TOSHIBA/68,-1.csv
 codes/Toshiba/Unknown_toshiba-RM-A210/42,-1.csv
 codes/Toshiba/Unknown_Toshiba-SE-R0047/69,-1.csv
 codes/Toshiba/Unknown_Toshiba-SE-R0090/69,-1.csv
-codes/Toshiba/Unknown_toshiba-tv/255,255.csv
 codes/Toshiba/Unknown_TOSHTV/64,-1.csv
 codes/Toshiba/Unknown_TSR-101R/66,187.csv
 codes/Toshiba/Unknown_VC-642T/68,-1.csv
@@ -3197,7 +2998,6 @@ codes/Total Control/Unknown_Control/7,-1.csv
 codes/Total Media In Hand/Unknown_Media/2,189.csv
 codes/Traxis/Unknown_3500/4,-1.csv
 codes/TRIAX/Unknown_DVB/10,-1.csv
-codes/Trice/Unknown_TR-302/1,254.csv
 codes/trio/Unknown_xms007/8,-1.csv
 codes/Trust/Unknown_RC-2400/52,15.csv
 codes/Trutech/Unknown_TV/0,1.csv
@@ -3206,7 +3006,6 @@ codes/Turtle Beach/MP3 Player/1,249.csv
 codes/Turtlebeach/Unknown_Audiotron/1,249.csv
 codes/Twinhan/Unknown_AD-SP200/0,-1.csv
 codes/Twinhan/Unknown_DTV/0,-1.csv
-codes/Twinhan/Unknown_MagicBox/None,None.csv
 codes/Typhoon/Unknown_DTV/0,-1.csv
 codes/Typhoon/Unknown_RC-0718-3/96,1.csv
 codes/UEC/Unknown_DVB/24,-1.csv
@@ -3270,7 +3069,6 @@ codes/WD/Unknown_TV/132,121.csv
 codes/Westinghouse/Unknown_LVM-47W1/1,-1.csv
 codes/Westinghouse/Unknown_RMT/1,-1.csv
 codes/Wilfa/Unknown_RVC-17/64,175.csv
-codes/X10/Unknown_MD1/None,None.csv
 codes/Xantech/Programmer/6,-1.csv
 codes/Xantech/Relay Module/6,-1.csv
 codes/Xlogic/Unknown_XLOGIC-KF8000D/64,63.csv
@@ -3285,10 +3083,6 @@ codes/Yamada/Unknown_PVD-500/0,-1.csv
 codes/Yamaha/Amplifier/120,-1.csv
 codes/Yamaha/Amplifier/122,-1.csv
 codes/Yamaha/Amplifier/125,-1.csv
-codes/Yamaha/AV Receiver/122,-1.csv
-codes/Yamaha/AV Receiver/126,-1.csv
-codes/Yamaha/AV Receiver/127,-1.csv
-codes/Yamaha/AV Receiver/127,1.csv
 codes/Yamaha/Blu-Ray/124,-1.csv
 codes/Yamaha/Cassette Tape/122,-1.csv
 codes/Yamaha/Cassette Tape/127,-1.csv
@@ -3327,8 +3121,8 @@ codes/Yamaha/Music Server/128,55.csv
 codes/Yamaha/Plasma/80,-1.csv
 codes/Yamaha/Projector/209,-1.csv
 codes/Yamaha/Projector/240,-1.csv
-codes/Yamaha/Receiver/0,0.csv
 codes/Yamaha/Receiver/0,-1.csv
+codes/Yamaha/Receiver/0,0.csv
 codes/Yamaha/Receiver/120,-1.csv
 codes/Yamaha/Receiver/121,-1.csv
 codes/Yamaha/Receiver/122,-1.csv
@@ -3358,9 +3152,9 @@ codes/Yamaha/Unknown_RAV16/122,-1.csv
 codes/Yamaha/Unknown_RAV207/122,-1.csv
 codes/Yamaha/Unknown_rax9/122,-1.csv
 codes/Yamaha/Unknown_RCX/122,-1.csv
+codes/Yamaha/Unknown_RCX-750/122,-1.csv
 codes/Yamaha/Unknown_RCX2/122,-1.csv
 codes/Yamaha/Unknown_RCX660/122,-1.csv
-codes/Yamaha/Unknown_RCX-750/122,-1.csv
 codes/Yamaha/Unknown_receiver/122,-1.csv
 codes/Yamaha/Unknown_RS-CD5/121,-1.csv
 codes/Yamaha/Unknown_RS-CX600/122,-1.csv
@@ -3382,10 +3176,10 @@ codes/Yamaha/Unknown_VQ95010/121,-1.csv
 codes/Yamaha/Unknown_VR81350/123,-1.csv
 codes/Yamaha/Unknown_vu50620/120,-1.csv
 codes/Yamaha/Unknown_VU71330/121,-1.csv
+codes/Yamaha/Unknown_Y-TV-1004/4,-1.csv
 codes/Yamaha/Unknown_YAMAHA/122,-1.csv
 codes/Yamaha/Unknown_yamaha-amp/122,-1.csv
 codes/Yamaha/Unknown_yamaha-rax7/122,-1.csv
-codes/Yamaha/Unknown_Y-TV-1004/4,-1.csv
 codes/Yamaha/Video Projector/209,-1.csv
 codes/Yamakawa/DVD Player/32,-1.csv
 codes/Yamakawa/Unknown_dvd285vga/32,-1.csv
@@ -3404,6 +3198,7 @@ codes/Zenith/Unknown_ZN5015/26,154.csv
 codes/Zenith/VCR/7,0.csv
 codes/Zenith/Video Projector/5,1.csv
 codes/Zenith/Video Projector/6,0.csv
+codes/Zephir/ZDEBT2/0,191.csv
 codes/Zinwell/Satellite Receiver/64,223.csv
 codes/Zolid/Unknown_ZOL100/0,239.csv
 codes/Zoltrix/Unknown_Zoltrix/0,252.csv

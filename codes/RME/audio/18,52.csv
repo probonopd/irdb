@@ -1,0 +1,23 @@
+functionname,protocol,device,subdevice,function
+Vol -,nec1,0,-1,8
+power,nec1,18,52,32
+vol -,nec1,18,52,33
+vol +,nec1,18,52,34
+coax,nec1,18,52,35
+opt,nec1,18,52,36
+usb,nec1,18,52,37
+1,nec1,18,52,38
+2,nec1,18,52,39
+3,nec1,18,52,40
+4,nec1,18,52,41
+b/t,nec1,18,52,43
+eq,nec1,18,52,44
+ld,nec1,18,52,45
+mute,nec1,18,52,46
+bass +,nec1,18,52,47
+bass -,nec1,18,52,48
+trebble +,nec1,18,52,49
+trebble -,nec1,18,52,50
+left,nec1,18,52,51
+right,nec1,18,52,52
+sel,nec1,18,52,53

@@ -1,0 +1,7 @@
+functionname,protocol,device,subdevice,function
+pause,nec1,135,124,153
+Record,nec1,135,124,154
+play,nec1,135,124,156
+ffwd,nec1,135,124,157
+rwd,nec1,135,124,158
+stop,nec1,135,124,159

@@ -1,0 +1,22 @@
+functionname,protocol,device,subdevice,function
+Capture,NEC1,0,-1,69
+Menu,NEC1,0,-1,70
+Freeze,NEC1,0,-1,7
+Mode,NEC1,0,-1,71
+Zoom in,NEC1,0,-1,9
+Brightness down,NEC1,0,-1,64
+Brightness up,NEC1,0,-1,67
+Ok,NEC1,0,-1,68
+Zoom out,NEC1,0,-1,21
+50/60Hz,NEC1,0,-1,25
+Crosshair,NEC1,0,-1,13
+Sharpness Down,NEC1,0,-1,12
+Contrast Down,NEC1,0,-1,8
+Inverse,NEC1,0,-1,66
+Sharpness Up,NEC1,0,-1,24
+Contrast Up,NEC1,0,-1,28
+Black and White,NEC1,0,-1,82
+(Un)Lock File,NEC1,0,-1,94
+NTL/PAL,NEC1,0,-1,90
+Defaults,NEC1,0,-1,74
+Rotate Image,NEC1,0,-1,22

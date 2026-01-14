@@ -1,0 +1,20 @@
+functionname,protocol,device,subdevice,function
+MUTE TOGGLE,NEC,192,63,0
+Preset 1/5,NEC,192,63,3
+Mode (Tuner),NEC,192,63,24
+Stereo/Mono (Tuner),NEC,192,63,25
+Speaker A/B,NEC,192,63,26
+CD,NEC,192,63,27
+Skip/Scan up (Tuner),NEC,192,63,28
+VOLUME +,NEC,192,63,29
+Skip/Scan down (Tuner),NEC,192,63,30
+BD/DVD,NEC,192,63,31
+Preset 2/6,NEC,192,63,64
+Preset 4/8,NEC,192,63,65
+Preset 3/7,NEC,192,63,66
+SOURCE,NEC,192,63,82
+FM,NEC,192,63,88
+AM/TUNER,NEC,192,63,89
+MP3/AUX,NEC,192,63,92
+PHONO,NEC,192,63,93
+VOLUME -,NEC,192,63,94

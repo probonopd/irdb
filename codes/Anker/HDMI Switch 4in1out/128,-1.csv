@@ -1,0 +1,7 @@
+functionname,protocol,device,subdevice,function
+LEFT,NEC,128,-1,5
+1,NEC,128,-1,7
+3,NEC,128,-1,8
+RIGHT,NEC,128,-1,9
+2,NEC,128,-1,27
+4,NEC,128,-1,31

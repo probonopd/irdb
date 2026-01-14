@@ -1,0 +1,12 @@
+function,protocol,device,subdevice,function
+   OUT1_IN1,nec1,128,-1,1
+   OUT1_IN2,nec1,128,-1,4
+   OUT1_IN3,nec1,128,-1,2
+   OUT1_IN4,nec1,128,-1,13
+   OUT1_CYCLE,nec1,128,-1,26
+   OUT2_IN1,nec1,128,-1,10
+   OUT2_IN2,nec1,128,-1,0
+   OUT2_IN3,nec1,128,-1,27
+   OUT2_IN4,nec1,128,-1,5
+   OUT2_CYCLE,nec1,128,-1,31
+   POWER_TOGGLE,nec1,128,-1,3

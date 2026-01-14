@@ -1,0 +1,10 @@
+functionname,protocol,device,subdevice,function
+2,NEC1,128,-1,4
+3,NEC1,128,-1,6
+pip,NEC1,128,-1,10
+2,NEC1,128,-1,12
+5.1,NEC1,128,-1,13
+,NEC1,128,-1,14
+1,NEC1,128,-1,26
+sel,NEC1,128,-1,27
+enter,NEC1,128,-1,31
