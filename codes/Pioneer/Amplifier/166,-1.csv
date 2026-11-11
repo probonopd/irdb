@@ -1,0 +1,4 @@
+functionname,protocol,device,subdevice,function
+VOLUME +,Pioneer,166,-1,10
+VOLUME -,Pioneer,166,-1,11
+POWER,Pioneer,166,-1,28
