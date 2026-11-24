@@ -12,7 +12,7 @@ This database contains infrared remote control codes in a very space-efficient w
 
 If you would like to access this database from your product (e.g., app) it is suggested that you do not bundle the database as a whole but access it dynamically at runtime. By doing so, your product will benefit from updates of the database automatically.
 
-To access the database with any amount of traffic, it is recommended to use a content delivery network (CDN). For example, instead of accessing files from GitHub locally, you chould access them over a service like [jsdelivr.net](https://www.jsdelivr.com/) like this:
+To access the database with any amount of traffic, it is recommended to use a content delivery network (CDN). For example, instead of accessing files from GitHub locally, you could access them over a service like [jsdelivr.net](https://www.jsdelivr.com/) like this:
 
 ```
 https://cdn.jsdelivr.net/gh/probonopd/irdb@master/codes/index
