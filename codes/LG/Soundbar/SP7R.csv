@@ -1,0 +1,16 @@
+functionname,protocol,device,subdevice,function
+Power,NEC1,44,-1,30
+Mute,NEC1,44,-1,31
+Input,NEC1,44,-1,138
+Volume Up,NEC1,44,-1,23
+Volume Down,NEC1,44,-1,22
+EQ Setting,NEC1,44,-1,47
+Bluetooth,NEC1,44,-1,76
+Menu,NEC1,44,-1,163
+Speaker Level,NEC1,44,-1,152
+Settings,NEC1,44,-1,165
+Up,NEC1,44,-1,167
+Down,NEC1,44,-1,166
+Left,NEC1,44,-1,168
+Right,NEC1,44,-1,169
+Enter,NEC1,44,-1,170
